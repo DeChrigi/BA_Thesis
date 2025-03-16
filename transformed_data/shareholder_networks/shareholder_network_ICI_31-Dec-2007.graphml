@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="weight" for="edge" attr.name="weight" attr.type="double" />
+  <key id="type" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="ICI">
+      <data key="type">Cartel</data>
+    </node>
+    <node id="Russell Investments Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Parametric Portfolio Associates LLC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Nordea Investment Management (Denmark)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Mediolanum Gestione Fondi SGR p.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Legal &amp; General Investment Management Ltd. (UK)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Genesis Investment Management, LLP">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Första AP-Fonden">
+      <data key="type">Investor</data>
+    </node>
+    <node id="ARISAIG Partners (Asia) Pte. Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <edge source="ICI" target="Russell Investments Limited">
+      <data key="weight">0.19</data>
+    </edge>
+    <edge source="ICI" target="Parametric Portfolio Associates LLC">
+      <data key="weight">0.04</data>
+    </edge>
+    <edge source="ICI" target="Nordea Investment Management (Denmark)">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="ICI" target="Mediolanum Gestione Fondi SGR p.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="ICI" target="Legal &amp; General Investment Management Ltd. (UK)">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="ICI" target="Genesis Investment Management, LLP">
+      <data key="weight">0.4</data>
+    </edge>
+    <edge source="ICI" target="Första AP-Fonden">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="ICI" target="ARISAIG Partners (Asia) Pte. Ltd.">
+      <data key="weight">2.46</data>
+    </edge>
+  </graph>
+</graphml>

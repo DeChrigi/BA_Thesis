@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="weight" for="edge" attr.name="weight" attr.type="double" />
+  <key id="type" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="ABB">
+      <data key="type">Cartel</data>
+    </node>
+    <node id="SG Asset Management (Singapore) Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Banca Cívica Gestión de Activos SGIIC, SA.">
+      <data key="type">Investor</data>
+    </node>
+    <edge source="ABB" target="SG Asset Management (Singapore) Ltd.">
+      <data key="weight">0.2</data>
+    </edge>
+    <edge source="ABB" target="Banca Cívica Gestión de Activos SGIIC, SA.">
+      <data key="weight">0.33</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="weight" for="edge" attr.name="weight" attr.type="double" />
+  <key id="type" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="ICI">
+      <data key="type">Cartel</data>
+    </node>
+    <node id="State Street Global Advisors Asia Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="State Street Global Advisors (France) S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Pictet Asset Management Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Morgan Stanley Investment Management (Singapore)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Morgan Stanley Investment Management (Japan) Co., Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Hartford Investment Management Company">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Caisse de Depot et Placement du Quebec">
+      <data key="type">Investor</data>
+    </node>
+    <edge source="ICI" target="State Street Global Advisors Asia Ltd.">
+      <data key="weight">0.16</data>
+    </edge>
+    <edge source="ICI" target="State Street Global Advisors (France) S.A.">
+      <data key="weight">0.05</data>
+    </edge>
+    <edge source="ICI" target="Pictet Asset Management Ltd.">
+      <data key="weight">3.43</data>
+    </edge>
+    <edge source="ICI" target="Morgan Stanley Investment Management (Singapore)">
+      <data key="weight">0.61</data>
+    </edge>
+    <edge source="ICI" target="Morgan Stanley Investment Management (Japan) Co., Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="ICI" target="Hartford Investment Management Company">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="ICI" target="Caisse de Depot et Placement du Quebec">
+      <data key="weight">0.0</data>
+    </edge>
+  </graph>
+</graphml>

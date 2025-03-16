@@ -1,0 +1,274 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="weight" for="edge" attr.name="weight" attr.type="double" />
+  <key id="type" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="SAS AB">
+      <data key="type">Cartel</data>
+    </node>
+    <node id="Ålandsbanken Sverige AB">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Vanguard Group, Inc.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Valeco Finance SA">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Unionen">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Tredje AP Fonden">
+      <data key="type">Investor</data>
+    </node>
+    <node id="TIAA-CREF">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Swedish Government">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Swedbank Robur AB">
+      <data key="type">Investor</data>
+    </node>
+    <node id="State Street Global Advisors (US)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="State Street Global Advisors (France) S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="SEB Asset Management (Stockholm)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Pro-Financial Asset Management, Inc.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Ponderus Invest AB">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Norges Bank Investment Management (NBIM)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Nordea Investment Management AB (Sweden)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Nomura Asset Management Deutschland KAG mbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Lyxor Asset Management">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Lindberg (Per)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Knut och Alice Wallenbergs Stiftelse">
+      <data key="type">Investor</data>
+    </node>
+    <node id="KLP Forsikring">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Invesco PowerShares Capital Management LLC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Handelsbanken Asset Management">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Guggenheim Investments">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Guggenheim Funds Investment Advisors, LLC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Government of Norway">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Global Index Advisors, Inc.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Fondsfinans Kapitalforvaltning ASA">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Folksam Group">
+      <data key="type">Investor</data>
+    </node>
+    <node id="E.Öhman J:or Fonder AB">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Dimensional Fund Advisors, LP">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Dexia Bank Denmark A/S">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Danmarks Nationalbank">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Danish Government">
+      <data key="type">Investor</data>
+    </node>
+    <node id="DNB Asset Management AS">
+      <data key="type">Investor</data>
+    </node>
+    <node id="DNB Asset Management AB">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Charles Schwab Investment Management, Inc.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Catella Fondförvaltning AB">
+      <data key="type">Investor</data>
+    </node>
+    <node id="BlackRock Investments Canada Inc.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="BlackRock Institutional Trust Company, N.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Avanza Bank Holding AB">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Andra AP-Fonden">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Anders Hedin Invest AB">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Allianz Global Investors Kapitalanlagegesellschaft mbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="AMF Pensionsförsäkring AB">
+      <data key="type">Investor</data>
+    </node>
+    <edge source="SAS AB" target="Ålandsbanken Sverige AB">
+      <data key="weight">0.12</data>
+    </edge>
+    <edge source="SAS AB" target="Vanguard Group, Inc.">
+      <data key="weight">0.18</data>
+    </edge>
+    <edge source="SAS AB" target="Valeco Finance SA">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="SAS AB" target="Unionen">
+      <data key="weight">1.4</data>
+    </edge>
+    <edge source="SAS AB" target="Tredje AP Fonden">
+      <data key="weight">0.5</data>
+    </edge>
+    <edge source="SAS AB" target="TIAA-CREF">
+      <data key="weight">0.07</data>
+    </edge>
+    <edge source="SAS AB" target="Swedish Government">
+      <data key="weight">21.4</data>
+    </edge>
+    <edge source="SAS AB" target="Swedbank Robur AB">
+      <data key="weight">2.1</data>
+    </edge>
+    <edge source="SAS AB" target="State Street Global Advisors (US)">
+      <data key="weight">0.06</data>
+    </edge>
+    <edge source="SAS AB" target="State Street Global Advisors (France) S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="SAS AB" target="SEB Asset Management (Stockholm)">
+      <data key="weight">0.26</data>
+    </edge>
+    <edge source="SAS AB" target="Pro-Financial Asset Management, Inc.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="SAS AB" target="Ponderus Invest AB">
+      <data key="weight">0.4</data>
+    </edge>
+    <edge source="SAS AB" target="Norges Bank Investment Management (NBIM)">
+      <data key="weight">1.65</data>
+    </edge>
+    <edge source="SAS AB" target="Nordea Investment Management AB (Sweden)">
+      <data key="weight">0.13</data>
+    </edge>
+    <edge source="SAS AB" target="Nomura Asset Management Deutschland KAG mbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="SAS AB" target="Lyxor Asset Management">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="SAS AB" target="Lindberg (Per)">
+      <data key="weight">0.81</data>
+    </edge>
+    <edge source="SAS AB" target="Knut och Alice Wallenbergs Stiftelse">
+      <data key="weight">7.6</data>
+    </edge>
+    <edge source="SAS AB" target="KLP Forsikring">
+      <data key="weight">0.1</data>
+    </edge>
+    <edge source="SAS AB" target="Invesco PowerShares Capital Management LLC">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="SAS AB" target="Handelsbanken Asset Management">
+      <data key="weight">0.65</data>
+    </edge>
+    <edge source="SAS AB" target="Guggenheim Investments">
+      <data key="weight">0.06</data>
+    </edge>
+    <edge source="SAS AB" target="Guggenheim Funds Investment Advisors, LLC">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="SAS AB" target="Government of Norway">
+      <data key="weight">14.3</data>
+    </edge>
+    <edge source="SAS AB" target="Global Index Advisors, Inc.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="SAS AB" target="Fondsfinans Kapitalforvaltning ASA">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="SAS AB" target="Folksam Group">
+      <data key="weight">0.3</data>
+    </edge>
+    <edge source="SAS AB" target="E.Öhman J:or Fonder AB">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="SAS AB" target="Dimensional Fund Advisors, LP">
+      <data key="weight">0.73</data>
+    </edge>
+    <edge source="SAS AB" target="Dexia Bank Denmark A/S">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="SAS AB" target="Danmarks Nationalbank">
+      <data key="weight">1.4</data>
+    </edge>
+    <edge source="SAS AB" target="Danish Government">
+      <data key="weight">14.3</data>
+    </edge>
+    <edge source="SAS AB" target="DNB Asset Management AS">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="SAS AB" target="DNB Asset Management AB">
+      <data key="weight">0.29</data>
+    </edge>
+    <edge source="SAS AB" target="Charles Schwab Investment Management, Inc.">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="SAS AB" target="Catella Fondförvaltning AB">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="SAS AB" target="BlackRock Investments Canada Inc.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="SAS AB" target="BlackRock Institutional Trust Company, N.A.">
+      <data key="weight">0.04</data>
+    </edge>
+    <edge source="SAS AB" target="Avanza Bank Holding AB">
+      <data key="weight">1.3</data>
+    </edge>
+    <edge source="SAS AB" target="Andra AP-Fonden">
+      <data key="weight">0.5</data>
+    </edge>
+    <edge source="SAS AB" target="Anders Hedin Invest AB">
+      <data key="weight">1.4</data>
+    </edge>
+    <edge source="SAS AB" target="Allianz Global Investors Kapitalanlagegesellschaft mbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="SAS AB" target="AMF Pensionsförsäkring AB">
+      <data key="weight">0.3</data>
+    </edge>
+  </graph>
+</graphml>

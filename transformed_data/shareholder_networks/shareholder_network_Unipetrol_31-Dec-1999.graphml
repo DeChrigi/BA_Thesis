@@ -1,0 +1,256 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="weight" for="edge" attr.name="weight" attr.type="double" />
+  <key id="type" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Unipetrol">
+      <data key="type">Cartel</data>
+    </node>
+    <node id="ZB Asset Management">
+      <data key="type">Investor</data>
+    </node>
+    <node id="UBS Global Asset Management (Switzerland)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Templeton Asset Management Ltd. (Emerging Markets)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="State Street Global Advisors (UK) Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="State Street Global Advisors (France) S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Sparkasse Oberösterreich Kapitalanlagegesellschaft mbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Sella Gestioni SGR SpA">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Security Kapitalanlage AG">
+      <data key="type">Investor</data>
+    </node>
+    <node id="SIS Cesky Otevreny Podilovy Fond">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Raiffeisen Kapitalanlage-Gesellschaft mbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="První Investicní Spolecnost a.s.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Pioneer Investments Austria GmbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Pioneer Investment Management Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="PineBridge Investments Europe Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Pictet Asset Management Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Pictet &amp; Cie">
+      <data key="type">Investor</data>
+    </node>
+    <node id="PMG Fonds Management AG">
+      <data key="type">Investor</data>
+    </node>
+    <node id="National Property Fund of the Czech Republic">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Mediolanum Gestione Fondi SGR p.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="LBB-Invest">
+      <data key="type">Investor</data>
+    </node>
+    <node id="KBC Asset Management N.V.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Jyske Invest Fund Management A/S">
+      <data key="type">Investor</data>
+    </node>
+    <node id="JPMorgan Asset Management U.K. Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="IPB">
+      <data key="type">Investor</data>
+    </node>
+    <node id="ING Investment Management (Belgium) (Inactive)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="ING Bank N.V.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Handelsbanken Asset Management">
+      <data key="type">Investor</data>
+    </node>
+    <node id="HSBC Global Asset Management Deutschland GmbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Fortis Investments France">
+      <data key="type">Investor</data>
+    </node>
+    <node id="ERSTE-SPARINVEST Kapitalanlagegesellschaft mbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Dexia Asset Management Luxembourg S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Dexia Asset Management Belgium S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="DWS Investment GmbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Credit Suisse Asset Management">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Bank Vontobel Österreich AG">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Bank Vontobel AG (Private Banking)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="BNP Paribas Investment Partners Belgium S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="BGL BNP Paribas">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Aviva Investors Global Services Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Amundi Asset Management">
+      <data key="type">Investor</data>
+    </node>
+    <node id="AXA Investment Managers Deutschland GmbH">
+      <data key="type">Investor</data>
+    </node>
+    <edge source="Unipetrol" target="ZB Asset Management">
+      <data key="weight">0.1</data>
+    </edge>
+    <edge source="Unipetrol" target="UBS Global Asset Management (Switzerland)">
+      <data key="weight">0.3</data>
+    </edge>
+    <edge source="Unipetrol" target="Templeton Asset Management Ltd. (Emerging Markets)">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unipetrol" target="State Street Global Advisors (UK) Ltd.">
+      <data key="weight">0.07</data>
+    </edge>
+    <edge source="Unipetrol" target="State Street Global Advisors (France) S.A.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Unipetrol" target="Sparkasse Oberösterreich Kapitalanlagegesellschaft mbH">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Unipetrol" target="Sella Gestioni SGR SpA">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unipetrol" target="Security Kapitalanlage AG">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Unipetrol" target="SIS Cesky Otevreny Podilovy Fond">
+      <data key="weight">2.22</data>
+    </edge>
+    <edge source="Unipetrol" target="Raiffeisen Kapitalanlage-Gesellschaft mbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unipetrol" target="První Investicní Spolecnost a.s.">
+      <data key="weight">3.27</data>
+    </edge>
+    <edge source="Unipetrol" target="Pioneer Investments Austria GmbH">
+      <data key="weight">0.03</data>
+    </edge>
+    <edge source="Unipetrol" target="Pioneer Investment Management Ltd.">
+      <data key="weight">0.21</data>
+    </edge>
+    <edge source="Unipetrol" target="PineBridge Investments Europe Limited">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unipetrol" target="Pictet Asset Management Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unipetrol" target="Pictet &amp; Cie">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Unipetrol" target="PMG Fonds Management AG">
+      <data key="weight">0.06</data>
+    </edge>
+    <edge source="Unipetrol" target="National Property Fund of the Czech Republic">
+      <data key="weight">62.99</data>
+    </edge>
+    <edge source="Unipetrol" target="Mediolanum Gestione Fondi SGR p.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unipetrol" target="LBB-Invest">
+      <data key="weight">0.37</data>
+    </edge>
+    <edge source="Unipetrol" target="KBC Asset Management N.V.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Unipetrol" target="Jyske Invest Fund Management A/S">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Unipetrol" target="JPMorgan Asset Management U.K. Limited">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Unipetrol" target="IPB">
+      <data key="weight">5.0</data>
+    </edge>
+    <edge source="Unipetrol" target="ING Investment Management (Belgium) (Inactive)">
+      <data key="weight">0.05</data>
+    </edge>
+    <edge source="Unipetrol" target="ING Bank N.V.">
+      <data key="weight">0.03</data>
+    </edge>
+    <edge source="Unipetrol" target="Handelsbanken Asset Management">
+      <data key="weight">0.11</data>
+    </edge>
+    <edge source="Unipetrol" target="HSBC Global Asset Management Deutschland GmbH">
+      <data key="weight">0.03</data>
+    </edge>
+    <edge source="Unipetrol" target="Fortis Investments France">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Unipetrol" target="ERSTE-SPARINVEST Kapitalanlagegesellschaft mbH">
+      <data key="weight">0.04</data>
+    </edge>
+    <edge source="Unipetrol" target="Dexia Asset Management Luxembourg S.A.">
+      <data key="weight">0.04</data>
+    </edge>
+    <edge source="Unipetrol" target="Dexia Asset Management Belgium S.A.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Unipetrol" target="DWS Investment GmbH">
+      <data key="weight">0.17</data>
+    </edge>
+    <edge source="Unipetrol" target="Credit Suisse Asset Management">
+      <data key="weight">0.27</data>
+    </edge>
+    <edge source="Unipetrol" target="Bank Vontobel Österreich AG">
+      <data key="weight">0.17</data>
+    </edge>
+    <edge source="Unipetrol" target="Bank Vontobel AG (Private Banking)">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unipetrol" target="BNP Paribas Investment Partners Belgium S.A.">
+      <data key="weight">0.09</data>
+    </edge>
+    <edge source="Unipetrol" target="BGL BNP Paribas">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Unipetrol" target="Aviva Investors Global Services Limited">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Unipetrol" target="Amundi Asset Management">
+      <data key="weight">0.09</data>
+    </edge>
+    <edge source="Unipetrol" target="AXA Investment Managers Deutschland GmbH">
+      <data key="weight">0.06</data>
+    </edge>
+  </graph>
+</graphml>

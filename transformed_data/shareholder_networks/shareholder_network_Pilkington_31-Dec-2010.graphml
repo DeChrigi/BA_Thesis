@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="weight" for="edge" attr.name="weight" attr.type="double" />
+  <key id="type" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Pilkington">
+      <data key="type">Cartel</data>
+    </node>
+    <node id="PEH Wertpapier AG">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Knoesel &amp; Ronge Vermögensverwaltung GmbH &amp; Co. KG">
+      <data key="type">Investor</data>
+    </node>
+    <edge source="Pilkington" target="PEH Wertpapier AG">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Pilkington" target="Knoesel &amp; Ronge Vermögensverwaltung GmbH &amp; Co. KG">
+      <data key="weight">0.01</data>
+    </edge>
+  </graph>
+</graphml>

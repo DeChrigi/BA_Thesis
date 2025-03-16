@@ -1,0 +1,172 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="weight" for="edge" attr.name="weight" attr.type="double" />
+  <key id="type" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Fuji Electric">
+      <data key="type">Cartel</data>
+    </node>
+    <node id="Étoile Gestion">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Warburg Invest Kapitalanlagegesellschaft mbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Volksbank Invest Kapitalanlagegesellschaft mbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Sumitomo Mitsui Trust Bank, Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Siemens Kapitalanlagegesellschaft mbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Scotia Investment Management Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Schoellerbank Invest AG">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Pioneer Investments Austria GmbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Mizuho Corporate Bank, Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Mizuho Bank, Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Mitsubishi UFJ Trust and Banking Corporation">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Jyske Invest Fund Management A/S">
+      <data key="type">Investor</data>
+    </node>
+    <node id="JPMorgan Asset Management U.K. Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="JPMorgan Asset Management (Europe)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="J.P. Morgan Asset Management (Hong Kong) Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Generali Investments France S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Furukawa Electric Co Ltd">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Fujitsu Ltd">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Frankfurt-Trust Investment-Gesellschaft mbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Fideuram Investimenti SGR S.p.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Farrell-SL Investment Mgmt., Inc.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Deutsche Bank Private Wealth Management Limited (Inactive)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Daiwa SB Investments Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Credit Suisse Asset Management">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Chuo Mitsui Asset Trust and Banking Company, Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Asahi Mutual Life Insurance Co.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Alecta pensionsförsäkring, ömsesidigt">
+      <data key="type">Investor</data>
+    </node>
+    <edge source="Fuji Electric" target="Étoile Gestion">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Fuji Electric" target="Warburg Invest Kapitalanlagegesellschaft mbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Fuji Electric" target="Volksbank Invest Kapitalanlagegesellschaft mbH">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Fuji Electric" target="Sumitomo Mitsui Trust Bank, Limited">
+      <data key="weight">2.8</data>
+    </edge>
+    <edge source="Fuji Electric" target="Siemens Kapitalanlagegesellschaft mbH">
+      <data key="weight">6.7</data>
+    </edge>
+    <edge source="Fuji Electric" target="Scotia Investment Management Ltd.">
+      <data key="weight">0.03</data>
+    </edge>
+    <edge source="Fuji Electric" target="Schoellerbank Invest AG">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Fuji Electric" target="Pioneer Investments Austria GmbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Fuji Electric" target="Mizuho Corporate Bank, Ltd.">
+      <data key="weight">2.6</data>
+    </edge>
+    <edge source="Fuji Electric" target="Mizuho Bank, Ltd.">
+      <data key="weight">4.2</data>
+    </edge>
+    <edge source="Fuji Electric" target="Mitsubishi UFJ Trust and Banking Corporation">
+      <data key="weight">3.7</data>
+    </edge>
+    <edge source="Fuji Electric" target="Jyske Invest Fund Management A/S">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Fuji Electric" target="JPMorgan Asset Management U.K. Limited">
+      <data key="weight">0.22</data>
+    </edge>
+    <edge source="Fuji Electric" target="JPMorgan Asset Management (Europe)">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Fuji Electric" target="J.P. Morgan Asset Management (Hong Kong) Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Fuji Electric" target="Generali Investments France S.A.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Fuji Electric" target="Furukawa Electric Co Ltd">
+      <data key="weight">3.7</data>
+    </edge>
+    <edge source="Fuji Electric" target="Fujitsu Ltd">
+      <data key="weight">6.9</data>
+    </edge>
+    <edge source="Fuji Electric" target="Frankfurt-Trust Investment-Gesellschaft mbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Fuji Electric" target="Fideuram Investimenti SGR S.p.A.">
+      <data key="weight">0.05</data>
+    </edge>
+    <edge source="Fuji Electric" target="Farrell-SL Investment Mgmt., Inc.">
+      <data key="weight">0.08</data>
+    </edge>
+    <edge source="Fuji Electric" target="Deutsche Bank Private Wealth Management Limited (Inactive)">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Fuji Electric" target="Daiwa SB Investments Ltd.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Fuji Electric" target="Credit Suisse Asset Management">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Fuji Electric" target="Chuo Mitsui Asset Trust and Banking Company, Limited">
+      <data key="weight">2.5</data>
+    </edge>
+    <edge source="Fuji Electric" target="Asahi Mutual Life Insurance Co.">
+      <data key="weight">6.4</data>
+    </edge>
+    <edge source="Fuji Electric" target="Alecta pensionsförsäkring, ömsesidigt">
+      <data key="weight">0.07</data>
+    </edge>
+  </graph>
+</graphml>

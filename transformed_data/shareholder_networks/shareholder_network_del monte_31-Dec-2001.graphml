@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="weight" for="edge" attr.name="weight" attr.type="double" />
+  <key id="type" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="del monte">
+      <data key="type">Cartel</data>
+    </node>
+    <node id="Del Monte Group Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="IONA Investments Pte Ltd">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Chew (Leong Chee Tony)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="New Star Institutional Managers Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Clemente Capital, Inc.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="UOB Asset Management Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Sloane Robinson LLP">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Aberdeen Asset Management (Asia) Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Lion Global Investors Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Phillip Capital Management (S) Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Carret Asset Management, LLC">
+      <data key="type">Investor</data>
+    </node>
+    <edge source="del monte" target="Del Monte Group Ltd.">
+      <data key="weight">39.99</data>
+    </edge>
+    <edge source="del monte" target="IONA Investments Pte Ltd">
+      <data key="weight">6.47</data>
+    </edge>
+    <edge source="del monte" target="Chew (Leong Chee Tony)">
+      <data key="weight">2.15</data>
+    </edge>
+    <edge source="del monte" target="New Star Institutional Managers Limited">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="del monte" target="Clemente Capital, Inc.">
+      <data key="weight">0.22</data>
+    </edge>
+    <edge source="del monte" target="UOB Asset Management Ltd.">
+      <data key="weight">0.21</data>
+    </edge>
+    <edge source="del monte" target="Sloane Robinson LLP">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="del monte" target="Aberdeen Asset Management (Asia) Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="del monte" target="Lion Global Investors Limited">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="del monte" target="Phillip Capital Management (S) Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="del monte" target="Carret Asset Management, LLC">
+      <data key="weight">0.22</data>
+    </edge>
+  </graph>
+</graphml>

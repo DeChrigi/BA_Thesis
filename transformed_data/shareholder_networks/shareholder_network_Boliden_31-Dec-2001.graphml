@@ -1,0 +1,172 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="weight" for="edge" attr.name="weight" attr.type="double" />
+  <key id="type" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Boliden">
+      <data key="type">Cartel</data>
+    </node>
+    <node id="UBS Global Asset Management (Switzerland)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Trellborg AB">
+      <data key="type">Investor</data>
+    </node>
+    <node id="TD Asset Management TSE 300">
+      <data key="type">Investor</data>
+    </node>
+    <node id="TD Asset Management TSE 200">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Swiss &amp; Global Asset Management Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="State Street Global Advisors Ltd. (Canada)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Seligson &amp; Co Rahastoyhtiö Oyj">
+      <data key="type">Investor</data>
+    </node>
+    <node id="SEI Investments Canada">
+      <data key="type">Investor</data>
+    </node>
+    <node id="SEB Asset Management (Stockholm)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="RBC Global Asset Management Inc.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Ontario Municipal Employees Retirement System">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Ontario Municipal Employees Retirement Sys.(Index)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="ODIN Forvaltning AS">
+      <data key="type">Investor</data>
+    </node>
+    <node id="New Brunswick Investment Management Corp.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Matrix Funds Management">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Lincluden Management Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Letko Brosseau Investment Management Inc.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Lannebo Fonder AB">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Great-West Life Index Funds">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Futuris Asset Management AB">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Catella Fondförvaltning AB">
+      <data key="type">Investor</data>
+    </node>
+    <node id="British Columbia Investment Management Corp.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="BlackRock Asset Management Canada Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Banco Fonder AB">
+      <data key="type">Investor</data>
+    </node>
+    <node id="BMO Asset Management Inc.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="B.C. Treasury Indexed 300">
+      <data key="type">Investor</data>
+    </node>
+    <node id="AmpegaGerling Investment GmbH">
+      <data key="type">Investor</data>
+    </node>
+    <edge source="Boliden" target="UBS Global Asset Management (Switzerland)">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Boliden" target="Trellborg AB">
+      <data key="weight">3.11</data>
+    </edge>
+    <edge source="Boliden" target="TD Asset Management TSE 300">
+      <data key="weight">0.2</data>
+    </edge>
+    <edge source="Boliden" target="TD Asset Management TSE 200">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Boliden" target="Swiss &amp; Global Asset Management Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Boliden" target="State Street Global Advisors Ltd. (Canada)">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Boliden" target="Seligson &amp; Co Rahastoyhtiö Oyj">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Boliden" target="SEI Investments Canada">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Boliden" target="SEB Asset Management (Stockholm)">
+      <data key="weight">5.1</data>
+    </edge>
+    <edge source="Boliden" target="RBC Global Asset Management Inc.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Boliden" target="Ontario Municipal Employees Retirement System">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Boliden" target="Ontario Municipal Employees Retirement Sys.(Index)">
+      <data key="weight">0.04</data>
+    </edge>
+    <edge source="Boliden" target="ODIN Forvaltning AS">
+      <data key="weight">0.1</data>
+    </edge>
+    <edge source="Boliden" target="New Brunswick Investment Management Corp.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Boliden" target="Matrix Funds Management">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Boliden" target="Lincluden Management Ltd.">
+      <data key="weight">0.17</data>
+    </edge>
+    <edge source="Boliden" target="Letko Brosseau Investment Management Inc.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Boliden" target="Lannebo Fonder AB">
+      <data key="weight">0.31</data>
+    </edge>
+    <edge source="Boliden" target="Great-West Life Index Funds">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Boliden" target="Futuris Asset Management AB">
+      <data key="weight">0.15</data>
+    </edge>
+    <edge source="Boliden" target="Catella Fondförvaltning AB">
+      <data key="weight">0.95</data>
+    </edge>
+    <edge source="Boliden" target="British Columbia Investment Management Corp.">
+      <data key="weight">0.14</data>
+    </edge>
+    <edge source="Boliden" target="BlackRock Asset Management Canada Limited">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Boliden" target="Banco Fonder AB">
+      <data key="weight">1.33</data>
+    </edge>
+    <edge source="Boliden" target="BMO Asset Management Inc.">
+      <data key="weight">1.2</data>
+    </edge>
+    <edge source="Boliden" target="B.C. Treasury Indexed 300">
+      <data key="weight">0.17</data>
+    </edge>
+    <edge source="Boliden" target="AmpegaGerling Investment GmbH">
+      <data key="weight">0.0</data>
+    </edge>
+  </graph>
+</graphml>

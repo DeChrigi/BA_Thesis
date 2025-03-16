@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="weight" for="edge" attr.name="weight" attr.type="double" />
+  <key id="type" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Boliden">
+      <data key="type">Cartel</data>
+    </node>
+    <node id="Swedbank Robur AB">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Skagen AS">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Seligson &amp; Co Rahastoyhtiö Oyj">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Santander Asset Management">
+      <data key="type">Investor</data>
+    </node>
+    <node id="SEB Asset Management (Stockholm)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="SCOR Global Investments">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Outokumpu Oyj">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Odey Asset Management LLP">
+      <data key="type">Investor</data>
+    </node>
+    <node id="ODIN Forvaltning AS">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Liechtensteinische Landesbank AG">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Handelsbanken Asset Management">
+      <data key="type">Investor</data>
+    </node>
+    <node id="H. Lundén Kapitalförvaltning AB">
+      <data key="type">Investor</data>
+    </node>
+    <node id="FIM Asset Management Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Catella Fondförvaltning AB">
+      <data key="type">Investor</data>
+    </node>
+    <node id="COVASYS Wyttenbach &amp; Zenger">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Barclays Wealth Managers">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Banco Fonder AB">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Andra AP-Fonden">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Alfred Berg Kapitalförvaltning AB">
+      <data key="type">Investor</data>
+    </node>
+    <node id="ABN AMRO Asset Management Ltd. (Fortis)">
+      <data key="type">Investor</data>
+    </node>
+    <edge source="Boliden" target="Swedbank Robur AB">
+      <data key="weight">0.99</data>
+    </edge>
+    <edge source="Boliden" target="Skagen AS">
+      <data key="weight">1.4</data>
+    </edge>
+    <edge source="Boliden" target="Seligson &amp; Co Rahastoyhtiö Oyj">
+      <data key="weight">0.23</data>
+    </edge>
+    <edge source="Boliden" target="Santander Asset Management">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Boliden" target="SEB Asset Management (Stockholm)">
+      <data key="weight">4.67</data>
+    </edge>
+    <edge source="Boliden" target="SCOR Global Investments">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Boliden" target="Outokumpu Oyj">
+      <data key="weight">96.08</data>
+    </edge>
+    <edge source="Boliden" target="Odey Asset Management LLP">
+      <data key="weight">0.37</data>
+    </edge>
+    <edge source="Boliden" target="ODIN Forvaltning AS">
+      <data key="weight">1.44</data>
+    </edge>
+    <edge source="Boliden" target="Liechtensteinische Landesbank AG">
+      <data key="weight">0.08</data>
+    </edge>
+    <edge source="Boliden" target="Handelsbanken Asset Management">
+      <data key="weight">0.04</data>
+    </edge>
+    <edge source="Boliden" target="H. Lundén Kapitalförvaltning AB">
+      <data key="weight">1.63</data>
+    </edge>
+    <edge source="Boliden" target="FIM Asset Management Ltd.">
+      <data key="weight">0.37</data>
+    </edge>
+    <edge source="Boliden" target="Catella Fondförvaltning AB">
+      <data key="weight">6.15</data>
+    </edge>
+    <edge source="Boliden" target="COVASYS Wyttenbach &amp; Zenger">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Boliden" target="Barclays Wealth Managers">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Boliden" target="Banco Fonder AB">
+      <data key="weight">0.6</data>
+    </edge>
+    <edge source="Boliden" target="Andra AP-Fonden">
+      <data key="weight">1.17</data>
+    </edge>
+    <edge source="Boliden" target="Alfred Berg Kapitalförvaltning AB">
+      <data key="weight">0.53</data>
+    </edge>
+    <edge source="Boliden" target="ABN AMRO Asset Management Ltd. (Fortis)">
+      <data key="weight">0.0</data>
+    </edge>
+  </graph>
+</graphml>

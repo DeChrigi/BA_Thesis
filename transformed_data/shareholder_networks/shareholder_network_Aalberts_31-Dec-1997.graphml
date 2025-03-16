@@ -1,130 +1,130 @@
 <?xml version='1.0' encoding='utf-8'?>
 <graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
-  <key id="d1" for="edge" attr.name="weight" attr.type="double" />
-  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <key id="weight" for="edge" attr.name="weight" attr.type="double" />
+  <key id="type" for="node" attr.name="type" attr.type="string" />
   <graph edgedefault="undirected">
     <node id="Aalberts">
-      <data key="d0">Cartel</data>
+      <data key="type">Cartel</data>
     </node>
     <node id="WestLB Mellon Asset Management Kapitalanlagegesellschaft mbH">
-      <data key="d0">Investor</data>
+      <data key="type">Investor</data>
     </node>
     <node id="UBS Global Asset Management (Switzerland)">
-      <data key="d0">Investor</data>
+      <data key="type">Investor</data>
     </node>
     <node id="Tolsteeg NV">
-      <data key="d0">Investor</data>
+      <data key="type">Investor</data>
     </node>
     <node id="Oppenheim Investment Managers">
-      <data key="d0">Investor</data>
+      <data key="type">Investor</data>
     </node>
     <node id="Kempen Capital Management N.V.">
-      <data key="d0">Investor</data>
+      <data key="type">Investor</data>
     </node>
     <node id="Jupiter Asset Management Ltd.">
-      <data key="d0">Investor</data>
+      <data key="type">Investor</data>
     </node>
     <node id="JPMorgan Asset Management U.K. Limited">
-      <data key="d0">Investor</data>
+      <data key="type">Investor</data>
     </node>
     <node id="Insinger de Beaufort Asset Management N.V.">
-      <data key="d0">Investor</data>
+      <data key="type">Investor</data>
     </node>
     <node id="Hoge Noot BV">
-      <data key="d0">Investor</data>
+      <data key="type">Investor</data>
     </node>
     <node id="Gutmann Kapitalanlage Aktiengesellschaft">
-      <data key="d0">Investor</data>
+      <data key="type">Investor</data>
     </node>
     <node id="GIM Algemeen Vermogensbeheer">
-      <data key="d0">Investor</data>
+      <data key="type">Investor</data>
     </node>
     <node id="Deutsche Bank Private Wealth Management Limited (Inactive)">
-      <data key="d0">Investor</data>
+      <data key="type">Investor</data>
     </node>
     <node id="Daiwa SB Investments (UK) Ltd.">
-      <data key="d0">Investor</data>
+      <data key="type">Investor</data>
     </node>
     <node id="Credit Suisse Asset Management">
-      <data key="d0">Investor</data>
+      <data key="type">Investor</data>
     </node>
     <node id="Clariden Leu">
-      <data key="d0">Investor</data>
+      <data key="type">Investor</data>
     </node>
     <node id="Capitalgest SGR S.p.A.">
-      <data key="d0">Investor</data>
+      <data key="type">Investor</data>
     </node>
     <node id="BNP Paribas Investment Partners Netherlands N.V.">
-      <data key="d0">Investor</data>
+      <data key="type">Investor</data>
     </node>
     <node id="Allianz Dresdner Asset Management (ex Pimco)">
-      <data key="d0">Investor</data>
+      <data key="type">Investor</data>
     </node>
     <node id="Aalberts Family">
-      <data key="d0">Investor</data>
+      <data key="type">Investor</data>
     </node>
     <node id="ABN AMRO Asset Management (Netherlands) B.V.">
-      <data key="d0">Investor</data>
+      <data key="type">Investor</data>
     </node>
     <edge source="Aalberts" target="WestLB Mellon Asset Management Kapitalanlagegesellschaft mbH">
-      <data key="d1">0.11</data>
+      <data key="weight">0.11</data>
     </edge>
     <edge source="Aalberts" target="UBS Global Asset Management (Switzerland)">
-      <data key="d1">0.07</data>
+      <data key="weight">0.07</data>
     </edge>
     <edge source="Aalberts" target="Tolsteeg NV">
-      <data key="d1">5.94</data>
+      <data key="weight">5.94</data>
     </edge>
     <edge source="Aalberts" target="Oppenheim Investment Managers">
-      <data key="d1">0.13</data>
+      <data key="weight">0.13</data>
     </edge>
     <edge source="Aalberts" target="Kempen Capital Management N.V.">
-      <data key="d1">0.0</data>
+      <data key="weight">0.0</data>
     </edge>
     <edge source="Aalberts" target="Jupiter Asset Management Ltd.">
-      <data key="d1">0.45</data>
+      <data key="weight">0.45</data>
     </edge>
     <edge source="Aalberts" target="JPMorgan Asset Management U.K. Limited">
-      <data key="d1">0.72</data>
+      <data key="weight">0.72</data>
     </edge>
     <edge source="Aalberts" target="Insinger de Beaufort Asset Management N.V.">
-      <data key="d1">0.15</data>
+      <data key="weight">0.15</data>
     </edge>
     <edge source="Aalberts" target="Hoge Noot BV">
-      <data key="d1">5.93</data>
+      <data key="weight">5.93</data>
     </edge>
     <edge source="Aalberts" target="Gutmann Kapitalanlage Aktiengesellschaft">
-      <data key="d1">0.06</data>
+      <data key="weight">0.06</data>
     </edge>
     <edge source="Aalberts" target="GIM Algemeen Vermogensbeheer">
-      <data key="d1">0.03</data>
+      <data key="weight">0.03</data>
     </edge>
     <edge source="Aalberts" target="Deutsche Bank Private Wealth Management Limited (Inactive)">
-      <data key="d1">0.92</data>
+      <data key="weight">0.92</data>
     </edge>
     <edge source="Aalberts" target="Daiwa SB Investments (UK) Ltd.">
-      <data key="d1">0.02</data>
+      <data key="weight">0.02</data>
     </edge>
     <edge source="Aalberts" target="Credit Suisse Asset Management">
-      <data key="d1">0.31</data>
+      <data key="weight">0.31</data>
     </edge>
     <edge source="Aalberts" target="Clariden Leu">
-      <data key="d1">0.03</data>
+      <data key="weight">0.03</data>
     </edge>
     <edge source="Aalberts" target="Capitalgest SGR S.p.A.">
-      <data key="d1">0.25</data>
+      <data key="weight">0.25</data>
     </edge>
     <edge source="Aalberts" target="BNP Paribas Investment Partners Netherlands N.V.">
-      <data key="d1">1.93</data>
+      <data key="weight">1.93</data>
     </edge>
     <edge source="Aalberts" target="Allianz Dresdner Asset Management (ex Pimco)">
-      <data key="d1">0.03</data>
+      <data key="weight">0.03</data>
     </edge>
     <edge source="Aalberts" target="Aalberts Family">
-      <data key="d1">16.3</data>
+      <data key="weight">16.3</data>
     </edge>
     <edge source="Aalberts" target="ABN AMRO Asset Management (Netherlands) B.V.">
-      <data key="d1">9.44</data>
+      <data key="weight">9.44</data>
     </edge>
   </graph>
 </graphml>

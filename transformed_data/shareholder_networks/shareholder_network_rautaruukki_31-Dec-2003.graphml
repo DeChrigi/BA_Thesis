@@ -1,0 +1,550 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="weight" for="edge" attr.name="weight" attr.type="double" />
+  <key id="type" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="rautaruukki">
+      <data key="type">Cartel</data>
+    </node>
+    <node id="Étoile Gestion">
+      <data key="type">Investor</data>
+    </node>
+    <node id="WIP Asset Management Oy">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Veikko Laine Oy">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Universal-Investment-Gesellschaft mbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Teknologiateollisuus ry">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Tapiola Varainhoito Oy">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Swiss &amp; Global Asset Management Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Swedbank Robur AB">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Suomi Mutual Life Assurance Company">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Storebrand Kapitalforvaltning AS">
+      <data key="type">Investor</data>
+    </node>
+    <node id="State Street Global Advisors AG">
+      <data key="type">Investor</data>
+    </node>
+    <node id="State Street Global Advisors (UK) Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="State Street Global Advisors (Japan) Co., Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="State Street Global Advisors (France) S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Skagen AS">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Siemens Kapitalanlagegesellschaft mbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Seligson &amp; Co Rahastoyhtiö Oyj">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Santander Asset Management">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Sampo Rahastoyhtiö Oy">
+      <data key="type">Investor</data>
+    </node>
+    <node id="SEB Gyllenberg Rahastoyhtiö Oy">
+      <data key="type">Investor</data>
+    </node>
+    <node id="SCOR Global Investments">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Rautaruukki Pension Fund">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Rannila (Esa)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Quoniam Asset Management GmbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Pohjola Rahastoyhtiö Oy">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Pohjola Asset Management Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Pioneer Investments Kapitalanlagegesellschaft mbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Pictet &amp; Cie">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Oppenheim Kapitalanlagegesellschaft mbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Odey Asset Management LLP">
+      <data key="type">Investor</data>
+    </node>
+    <node id="ODIN Forvaltning AS">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Norges Bank Investment Management (NBIM)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Nordea Investment Management AB (Sweden)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Nordea Investment Management AB (Finland)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Nordea Invest Fund Management A/S">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Nikko Asset Management Co., Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Morgan Stanley Investment Management (Japan) Co., Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Mitsubishi UFJ Asset Management Co., Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Metzler Asset Management GmbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Mandatum Omaisuudenhoito Oy">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Mandatum Henkivakuutusosakeyhtiö">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Liechtensteinische Landesbank AG">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Kuntien Eläkevakuutus">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Kleinwort Benson Investors Dublin Ltd">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Keskinäinen eläkevakuutusyhtiö Varma">
+      <data key="type">Investor</data>
+    </node>
+    <node id="KBC Asset Management N.V.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="JPMorgan Asset Management U.K. Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="ING Investment Management (Netherlands)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="ING Investment Management (Belgium) (Inactive)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Handelsbanken Asset Management">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Government of Finland">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Geode Capital Management, L.L.C.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Första AP-Fonden">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Fortum Pension Foundation">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Fortis Investments France">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Finter Bank Zürich Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Falcon Private Bank Ltd">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Evli Pankki Oyj">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Evli Fund Management Company Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Eurizon Capital S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Etera Keskinäinen Eläkevakuutusyhtiö">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Employees Retirement System of Texas">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Dexia Asset Management Belgium S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Degroof Fund Management Company">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Danske Capital (Norway)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="DZ Capital Management GmbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="DNB Asset Management AS">
+      <data key="type">Investor</data>
+    </node>
+    <node id="DNB Asset Management AB">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Chuo Mitsui Asset Management Co., Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Catella Fondförvaltning AB">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Carnegie Rahastoyhtiö Oyj">
+      <data key="type">Investor</data>
+    </node>
+    <node id="CPP Investment Board">
+      <data key="type">Investor</data>
+    </node>
+    <node id="COVASYS Wyttenbach &amp; Zenger">
+      <data key="type">Investor</data>
+    </node>
+    <node id="CAAM SGR S.p.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="BlackRock Asset Management Canada Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Barclays Global Investors Japan Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Banque Degroof S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Bank Julius Bär Europe AG">
+      <data key="type">Investor</data>
+    </node>
+    <node id="BNP Paribas Investment Partners Belgium S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Avenir Rahastoyhtiö Oy">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Avanse Forvaltning A/S">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Argenta Fund">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Andra AP-Fonden">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Amundi Asset Management">
+      <data key="type">Investor</data>
+    </node>
+    <node id="American Beacon Advisors, Inc.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Alfred Berg Rahastoyhtiö Oy">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Aktia Asset Management Oy Ab">
+      <data key="type">Investor</data>
+    </node>
+    <node id="AXA Rosenberg Investment Management Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="AXA Investment Managers Deutschland GmbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="3C Asset Management Ab">
+      <data key="type">Investor</data>
+    </node>
+    <edge source="rautaruukki" target="Étoile Gestion">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="rautaruukki" target="WIP Asset Management Oy">
+      <data key="weight">0.07</data>
+    </edge>
+    <edge source="rautaruukki" target="Veikko Laine Oy">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="rautaruukki" target="Universal-Investment-Gesellschaft mbH">
+      <data key="weight">0.11</data>
+    </edge>
+    <edge source="rautaruukki" target="Teknologiateollisuus ry">
+      <data key="weight">0.88</data>
+    </edge>
+    <edge source="rautaruukki" target="Tapiola Varainhoito Oy">
+      <data key="weight">0.54</data>
+    </edge>
+    <edge source="rautaruukki" target="Swiss &amp; Global Asset Management Ltd.">
+      <data key="weight">0.22</data>
+    </edge>
+    <edge source="rautaruukki" target="Swedbank Robur AB">
+      <data key="weight">0.69</data>
+    </edge>
+    <edge source="rautaruukki" target="Suomi Mutual Life Assurance Company">
+      <data key="weight">0.8</data>
+    </edge>
+    <edge source="rautaruukki" target="Storebrand Kapitalforvaltning AS">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="rautaruukki" target="State Street Global Advisors AG">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="rautaruukki" target="State Street Global Advisors (UK) Ltd.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="rautaruukki" target="State Street Global Advisors (Japan) Co., Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="rautaruukki" target="State Street Global Advisors (France) S.A.">
+      <data key="weight">0.11</data>
+    </edge>
+    <edge source="rautaruukki" target="Skagen AS">
+      <data key="weight">0.9</data>
+    </edge>
+    <edge source="rautaruukki" target="Siemens Kapitalanlagegesellschaft mbH">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="rautaruukki" target="Seligson &amp; Co Rahastoyhtiö Oyj">
+      <data key="weight">0.13</data>
+    </edge>
+    <edge source="rautaruukki" target="Santander Asset Management">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="rautaruukki" target="Sampo Rahastoyhtiö Oy">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="rautaruukki" target="SEB Gyllenberg Rahastoyhtiö Oy">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="rautaruukki" target="SCOR Global Investments">
+      <data key="weight">0.04</data>
+    </edge>
+    <edge source="rautaruukki" target="Rautaruukki Pension Fund">
+      <data key="weight">1.14</data>
+    </edge>
+    <edge source="rautaruukki" target="Rannila (Esa)">
+      <data key="weight">0.84</data>
+    </edge>
+    <edge source="rautaruukki" target="Quoniam Asset Management GmbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="rautaruukki" target="Pohjola Rahastoyhtiö Oy">
+      <data key="weight">0.67</data>
+    </edge>
+    <edge source="rautaruukki" target="Pohjola Asset Management Limited">
+      <data key="weight">1.33</data>
+    </edge>
+    <edge source="rautaruukki" target="Pioneer Investments Kapitalanlagegesellschaft mbH">
+      <data key="weight">0.09</data>
+    </edge>
+    <edge source="rautaruukki" target="Pictet &amp; Cie">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="rautaruukki" target="Oppenheim Kapitalanlagegesellschaft mbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="rautaruukki" target="Odey Asset Management LLP">
+      <data key="weight">0.14</data>
+    </edge>
+    <edge source="rautaruukki" target="ODIN Forvaltning AS">
+      <data key="weight">3.02</data>
+    </edge>
+    <edge source="rautaruukki" target="Norges Bank Investment Management (NBIM)">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="rautaruukki" target="Nordea Investment Management AB (Sweden)">
+      <data key="weight">0.15</data>
+    </edge>
+    <edge source="rautaruukki" target="Nordea Investment Management AB (Finland)">
+      <data key="weight">0.82</data>
+    </edge>
+    <edge source="rautaruukki" target="Nordea Invest Fund Management A/S">
+      <data key="weight">0.03</data>
+    </edge>
+    <edge source="rautaruukki" target="Nikko Asset Management Co., Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="rautaruukki" target="Morgan Stanley Investment Management (Japan) Co., Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="rautaruukki" target="Mitsubishi UFJ Asset Management Co., Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="rautaruukki" target="Metzler Asset Management GmbH">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="rautaruukki" target="Mandatum Omaisuudenhoito Oy">
+      <data key="weight">0.93</data>
+    </edge>
+    <edge source="rautaruukki" target="Mandatum Henkivakuutusosakeyhtiö">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="rautaruukki" target="Liechtensteinische Landesbank AG">
+      <data key="weight">0.04</data>
+    </edge>
+    <edge source="rautaruukki" target="Kuntien Eläkevakuutus">
+      <data key="weight">1.37</data>
+    </edge>
+    <edge source="rautaruukki" target="Kleinwort Benson Investors Dublin Ltd">
+      <data key="weight">0.16</data>
+    </edge>
+    <edge source="rautaruukki" target="Keskinäinen eläkevakuutusyhtiö Varma">
+      <data key="weight">3.93</data>
+    </edge>
+    <edge source="rautaruukki" target="KBC Asset Management N.V.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="rautaruukki" target="JPMorgan Asset Management U.K. Limited">
+      <data key="weight">0.23</data>
+    </edge>
+    <edge source="rautaruukki" target="ING Investment Management (Netherlands)">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="rautaruukki" target="ING Investment Management (Belgium) (Inactive)">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="rautaruukki" target="Handelsbanken Asset Management">
+      <data key="weight">0.55</data>
+    </edge>
+    <edge source="rautaruukki" target="Government of Finland">
+      <data key="weight">40.07</data>
+    </edge>
+    <edge source="rautaruukki" target="Geode Capital Management, L.L.C.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="rautaruukki" target="Första AP-Fonden">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="rautaruukki" target="Fortum Pension Foundation">
+      <data key="weight">0.51</data>
+    </edge>
+    <edge source="rautaruukki" target="Fortis Investments France">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="rautaruukki" target="Finter Bank Zürich Ltd.">
+      <data key="weight">0.03</data>
+    </edge>
+    <edge source="rautaruukki" target="Falcon Private Bank Ltd">
+      <data key="weight">0.04</data>
+    </edge>
+    <edge source="rautaruukki" target="Evli Pankki Oyj">
+      <data key="weight">0.06</data>
+    </edge>
+    <edge source="rautaruukki" target="Evli Fund Management Company Ltd.">
+      <data key="weight">0.12</data>
+    </edge>
+    <edge source="rautaruukki" target="Eurizon Capital S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="rautaruukki" target="Etera Keskinäinen Eläkevakuutusyhtiö">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="rautaruukki" target="Employees Retirement System of Texas">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="rautaruukki" target="Dexia Asset Management Belgium S.A.">
+      <data key="weight">0.05</data>
+    </edge>
+    <edge source="rautaruukki" target="Degroof Fund Management Company">
+      <data key="weight">0.03</data>
+    </edge>
+    <edge source="rautaruukki" target="Danske Capital (Norway)">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="rautaruukki" target="DZ Capital Management GmbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="rautaruukki" target="DNB Asset Management AS">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="rautaruukki" target="DNB Asset Management AB">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="rautaruukki" target="Chuo Mitsui Asset Management Co., Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="rautaruukki" target="Catella Fondförvaltning AB">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="rautaruukki" target="Carnegie Rahastoyhtiö Oyj">
+      <data key="weight">0.18</data>
+    </edge>
+    <edge source="rautaruukki" target="CPP Investment Board">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="rautaruukki" target="COVASYS Wyttenbach &amp; Zenger">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="rautaruukki" target="CAAM SGR S.p.A.">
+      <data key="weight">0.22</data>
+    </edge>
+    <edge source="rautaruukki" target="BlackRock Asset Management Canada Limited">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="rautaruukki" target="Barclays Global Investors Japan Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="rautaruukki" target="Banque Degroof S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="rautaruukki" target="Bank Julius Bär Europe AG">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="rautaruukki" target="BNP Paribas Investment Partners Belgium S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="rautaruukki" target="Avenir Rahastoyhtiö Oy">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="rautaruukki" target="Avanse Forvaltning A/S">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="rautaruukki" target="Argenta Fund">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="rautaruukki" target="Andra AP-Fonden">
+      <data key="weight">0.03</data>
+    </edge>
+    <edge source="rautaruukki" target="Amundi Asset Management">
+      <data key="weight">0.41</data>
+    </edge>
+    <edge source="rautaruukki" target="American Beacon Advisors, Inc.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="rautaruukki" target="Alfred Berg Rahastoyhtiö Oy">
+      <data key="weight">0.41</data>
+    </edge>
+    <edge source="rautaruukki" target="Aktia Asset Management Oy Ab">
+      <data key="weight">0.43</data>
+    </edge>
+    <edge source="rautaruukki" target="AXA Rosenberg Investment Management Ltd.">
+      <data key="weight">0.04</data>
+    </edge>
+    <edge source="rautaruukki" target="AXA Investment Managers Deutschland GmbH">
+      <data key="weight">0.09</data>
+    </edge>
+    <edge source="rautaruukki" target="3C Asset Management Ab">
+      <data key="weight">0.02</data>
+    </edge>
+  </graph>
+</graphml>

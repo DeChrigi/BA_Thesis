@@ -1,0 +1,862 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="weight" for="edge" attr.name="weight" attr.type="double" />
+  <key id="type" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Chimei">
+      <data key="type">Cartel</data>
+    </node>
+    <node id="Yuanta Securities Investment Trust Co., Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Xian Jin International Investment Corporation">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Wilmington Trust Investment Management LLC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Wellington Management Company, LLP">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Vanguard Group, Inc.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Value Partners Concord Asset Management Co., Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Union Securities Investment Trust Co., Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Union Investment Group">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Uni-President Assets Management Corp.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="UBS Global Asset Management (Singapore) Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Truswell Securities Investment Trust Co., Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Tokio Marine Asset Management International Pte. Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Taishin Securities Investment Trust Co. Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="TIAA-CREF">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Swedbank Robur AB">
+      <data key="type">Investor</data>
+    </node>
+    <node id="State Street Global Advisors (US)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="State Street Global Advisors (France) S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="SinoPac Securities Investment Trust Co., Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Simplicity AB">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Siemens Kapitalanlagegesellschaft mbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Shin Kong Investment Trust Co., Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Scottish Widows Investment Partnership Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="SINOPIA Asset Management">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Reliance Securities Investment Trust Co., Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="RBC Investment Management (Asia) Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Prudential Financial Securities Invt.Trust Enterprise Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Pro-Financial Asset Management, Inc.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Polunin Capital Partners Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Polaris Int'l Sec. Inv. Trust Co.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Pioneer Investments Austria GmbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="PineBridge Investments Singapore Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Pictet Asset Management S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Pictet Asset Management Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Parametric Portfolio Associates LLC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Paradigm Asset Management Co., Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Pan-International Industrial Corp">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Old Mutual Asset Managers (UK) Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Northern Trust Global Investments">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Norges Bank Investment Management (NBIM)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Nordea Investment Management (Denmark)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Nomura Asset Management Deutschland KAG mbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Nomura Asset Management Co., Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Nikko Asset Management Co., Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Nien Chi Development Company Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Newton Investment Management Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Nanking Road Capital Management LLC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="NORD/LB Capital Management GmbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Morgan Stanley Investment Management (India) Pvt. Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Mirae Asset Global Investments (Taiwan)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Mega International Investment Trust Co., Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Martin Currie Investment Management Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Manulife Asset Management (Asia)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Lyxor Asset Management">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Lombard Odier Darier Hentsch &amp; Cie">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Leuthold Weeden Capital Management">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Legal &amp; General Investment Management Ltd. (UK)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Kuo (Tai Ming)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Keppler Asset Management, Inc.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="KBC Fund Management Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="KBC Asset Management N.V.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Jih Sun Securities Investment Trust Co., Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="JPMorgan Asset Management (Taiwan) Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="JP Morgan Asset Management">
+      <data key="type">Investor</data>
+    </node>
+    <node id="J.P. Morgan Asset Management (Singapore) Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="J.P. Morgan Asset Management (Hong Kong) Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Invesco PowerShares Capital Management LLC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Invesco Hong Kong Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Insight Investment Management (Global) Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="INVESCO Taiwan Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="INVESCO Asset Management Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="ING Securities Investment &amp; Trust Co., Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="ING Investment Management Korea Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="ING Investment Management Asia Pacific (Hong Kong) Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="IBT Asset Management Co., Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Hung Han Investment">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Hua Zhun Investment Company Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Hua Nan Investment Trust Corp.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Hu Yueh International Investment">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Hon Hai Precision Industry Co Ltd">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Henderson Global Investors Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Havenport Asset Management Pte. Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Handelsbanken Asset Management">
+      <data key="type">Investor</data>
+    </node>
+    <node id="HSBC Global Asset Management (Taiwan) Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="HSBC Global Asset Management (Hong Kong) Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="HSBC Global Asset Management (France)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Groupama Asset Management">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Global Index Advisors, Inc.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Geode Capital Management, L.L.C.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="GAM (Hong Kong) Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Första AP-Fonden">
+      <data key="type">Investor</data>
+    </node>
+    <node id="FundQuest France">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Fullerton Fund Management Company Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Fuh Hwa Securities Investment Trust Co., Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Fubon Asset Management Company Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Fred Alger Management, Inc.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Foxconn Technology Co Ltd">
+      <data key="type">Investor</data>
+    </node>
+    <node id="First Securities Investment Trust Co., Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Fiduka Depotverwaltung GmbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Fideuram Asset Management (Ireland) Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Fidelity Worldwide Investment (UK) Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Fidelity Management &amp; Research Company">
+      <data key="type">Investor</data>
+    </node>
+    <node id="FIL Securities Investment Trust Co. (Taiwan) Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="FIL Investment Management (Singapore) Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="FIL Investment Management (Hong Kong) Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="F&amp;C Asset Management plc">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Eurizon Capital S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Eastspring Securities Investment Trust Co. Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Eastspring Investments Berhad">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Eastspring Investments (Singapore) Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="EFG Bank AS">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Dimensional Fund Advisors, LP">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Dexia Asset Management Belgium S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Deutsche Far Eastern Asset Management Co. Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Deutsche Asset Management (Asia) Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Deka Investment GmbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Daiwa Asset Management (HK) Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Credit Suisse Asset Management Funds S.p.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Credit Suisse Asset Management">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Compal Electronics Inc">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Columbia Management Investment Advisers, LLC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Clariden Leu">
+      <data key="type">Investor</data>
+    </node>
+    <node id="China Asset Management Co., Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Chi Mei Corporation">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Charles Schwab Investment Management, Inc.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Cathay Securities Investment Trust Co., Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Capital Investment Trust Corporation">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Caisse de Depot et Placement du Quebec">
+      <data key="type">Investor</data>
+    </node>
+    <node id="CPP Investment Board">
+      <data key="type">Investor</data>
+    </node>
+    <node id="COMMERZBANK AG">
+      <data key="type">Investor</data>
+    </node>
+    <node id="CIBC Global Asset Management Inc.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="British Columbia Investment Management Corp.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Boyer Allan Investment Management LLP">
+      <data key="type">Investor</data>
+    </node>
+    <node id="BlackRock Institutional Trust Company, N.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="BlackRock Advisors (UK) Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Baring Asset Management (Asia) Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="BNP Paribas Investment Partners Belgium S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="BNP Paribas Investment Partners (France)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="BEA Union Investment Management Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Aviva Investors Global Services Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Amundi Hong Kong Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Allianz Global Investors Taiwan Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="AllianceBernstein Ltd. (Growth)">
+      <data key="type">Investor</data>
+    </node>
+    <edge source="Chimei" target="Yuanta Securities Investment Trust Co., Ltd.">
+      <data key="weight">0.1</data>
+    </edge>
+    <edge source="Chimei" target="Xian Jin International Investment Corporation">
+      <data key="weight">1.26</data>
+    </edge>
+    <edge source="Chimei" target="Wilmington Trust Investment Management LLC">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Chimei" target="Wellington Management Company, LLP">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Chimei" target="Vanguard Group, Inc.">
+      <data key="weight">1.36</data>
+    </edge>
+    <edge source="Chimei" target="Value Partners Concord Asset Management Co., Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Chimei" target="Union Securities Investment Trust Co., Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Chimei" target="Union Investment Group">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Chimei" target="Uni-President Assets Management Corp.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Chimei" target="UBS Global Asset Management (Singapore) Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Chimei" target="Truswell Securities Investment Trust Co., Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Chimei" target="Tokio Marine Asset Management International Pte. Ltd.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Chimei" target="Taishin Securities Investment Trust Co. Ltd.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Chimei" target="TIAA-CREF">
+      <data key="weight">0.09</data>
+    </edge>
+    <edge source="Chimei" target="Swedbank Robur AB">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Chimei" target="State Street Global Advisors (US)">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Chimei" target="State Street Global Advisors (France) S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Chimei" target="SinoPac Securities Investment Trust Co., Ltd.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Chimei" target="Simplicity AB">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Chimei" target="Siemens Kapitalanlagegesellschaft mbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Chimei" target="Shin Kong Investment Trust Co., Ltd.">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Chimei" target="Scottish Widows Investment Partnership Ltd.">
+      <data key="weight">0.04</data>
+    </edge>
+    <edge source="Chimei" target="SINOPIA Asset Management">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Chimei" target="Reliance Securities Investment Trust Co., Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Chimei" target="RBC Investment Management (Asia) Ltd.">
+      <data key="weight">0.11</data>
+    </edge>
+    <edge source="Chimei" target="Prudential Financial Securities Invt.Trust Enterprise Ltd.">
+      <data key="weight">0.04</data>
+    </edge>
+    <edge source="Chimei" target="Pro-Financial Asset Management, Inc.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Chimei" target="Polunin Capital Partners Limited">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Chimei" target="Polaris Int'l Sec. Inv. Trust Co.">
+      <data key="weight">0.55</data>
+    </edge>
+    <edge source="Chimei" target="Pioneer Investments Austria GmbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Chimei" target="PineBridge Investments Singapore Limited">
+      <data key="weight">0.1</data>
+    </edge>
+    <edge source="Chimei" target="Pictet Asset Management S.A.">
+      <data key="weight">0.06</data>
+    </edge>
+    <edge source="Chimei" target="Pictet Asset Management Ltd.">
+      <data key="weight">0.06</data>
+    </edge>
+    <edge source="Chimei" target="Parametric Portfolio Associates LLC">
+      <data key="weight">0.04</data>
+    </edge>
+    <edge source="Chimei" target="Paradigm Asset Management Co., Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Chimei" target="Pan-International Industrial Corp">
+      <data key="weight">1.27</data>
+    </edge>
+    <edge source="Chimei" target="Old Mutual Asset Managers (UK) Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Chimei" target="Northern Trust Global Investments">
+      <data key="weight">0.03</data>
+    </edge>
+    <edge source="Chimei" target="Norges Bank Investment Management (NBIM)">
+      <data key="weight">0.42</data>
+    </edge>
+    <edge source="Chimei" target="Nordea Investment Management (Denmark)">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Chimei" target="Nomura Asset Management Deutschland KAG mbH">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Chimei" target="Nomura Asset Management Co., Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Chimei" target="Nikko Asset Management Co., Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Chimei" target="Nien Chi Development Company Limited">
+      <data key="weight">3.57</data>
+    </edge>
+    <edge source="Chimei" target="Newton Investment Management Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Chimei" target="Nanking Road Capital Management LLC">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Chimei" target="NORD/LB Capital Management GmbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Chimei" target="Morgan Stanley Investment Management (India) Pvt. Ltd.">
+      <data key="weight">0.04</data>
+    </edge>
+    <edge source="Chimei" target="Mirae Asset Global Investments (Taiwan)">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Chimei" target="Mega International Investment Trust Co., Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Chimei" target="Martin Currie Investment Management Ltd.">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Chimei" target="Manulife Asset Management (Asia)">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Chimei" target="Lyxor Asset Management">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Chimei" target="Lombard Odier Darier Hentsch &amp; Cie">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Chimei" target="Leuthold Weeden Capital Management">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Chimei" target="Legal &amp; General Investment Management Ltd. (UK)">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Chimei" target="Kuo (Tai Ming)">
+      <data key="weight">2.91</data>
+    </edge>
+    <edge source="Chimei" target="Keppler Asset Management, Inc.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Chimei" target="KBC Fund Management Limited">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Chimei" target="KBC Asset Management N.V.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Chimei" target="Jih Sun Securities Investment Trust Co., Ltd.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Chimei" target="JPMorgan Asset Management (Taiwan) Limited">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Chimei" target="JP Morgan Asset Management">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Chimei" target="J.P. Morgan Asset Management (Singapore) Limited">
+      <data key="weight">0.05</data>
+    </edge>
+    <edge source="Chimei" target="J.P. Morgan Asset Management (Hong Kong) Ltd.">
+      <data key="weight">0.27</data>
+    </edge>
+    <edge source="Chimei" target="Invesco PowerShares Capital Management LLC">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Chimei" target="Invesco Hong Kong Limited">
+      <data key="weight">0.08</data>
+    </edge>
+    <edge source="Chimei" target="Insight Investment Management (Global) Limited">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Chimei" target="INVESCO Taiwan Ltd.">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Chimei" target="INVESCO Asset Management Limited">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Chimei" target="ING Securities Investment &amp; Trust Co., Ltd.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Chimei" target="ING Investment Management Korea Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Chimei" target="ING Investment Management Asia Pacific (Hong Kong) Ltd.">
+      <data key="weight">0.03</data>
+    </edge>
+    <edge source="Chimei" target="IBT Asset Management Co., Ltd.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Chimei" target="Hung Han Investment">
+      <data key="weight">1.32</data>
+    </edge>
+    <edge source="Chimei" target="Hua Zhun Investment Company Limited">
+      <data key="weight">1.44</data>
+    </edge>
+    <edge source="Chimei" target="Hua Nan Investment Trust Corp.">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Chimei" target="Hu Yueh International Investment">
+      <data key="weight">0.99</data>
+    </edge>
+    <edge source="Chimei" target="Hon Hai Precision Industry Co Ltd">
+      <data key="weight">1.77</data>
+    </edge>
+    <edge source="Chimei" target="Henderson Global Investors Ltd.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Chimei" target="Havenport Asset Management Pte. Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Chimei" target="Handelsbanken Asset Management">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Chimei" target="HSBC Global Asset Management (Taiwan) Limited">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Chimei" target="HSBC Global Asset Management (Hong Kong) Limited">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Chimei" target="HSBC Global Asset Management (France)">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Chimei" target="Groupama Asset Management">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Chimei" target="Global Index Advisors, Inc.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Chimei" target="Geode Capital Management, L.L.C.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Chimei" target="GAM (Hong Kong) Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Chimei" target="Första AP-Fonden">
+      <data key="weight">0.04</data>
+    </edge>
+    <edge source="Chimei" target="FundQuest France">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Chimei" target="Fullerton Fund Management Company Ltd.">
+      <data key="weight">0.03</data>
+    </edge>
+    <edge source="Chimei" target="Fuh Hwa Securities Investment Trust Co., Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Chimei" target="Fubon Asset Management Company Ltd.">
+      <data key="weight">0.1</data>
+    </edge>
+    <edge source="Chimei" target="Fred Alger Management, Inc.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Chimei" target="Foxconn Technology Co Ltd">
+      <data key="weight">1.52</data>
+    </edge>
+    <edge source="Chimei" target="First Securities Investment Trust Co., Ltd.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Chimei" target="Fiduka Depotverwaltung GmbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Chimei" target="Fideuram Asset Management (Ireland) Limited">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Chimei" target="Fidelity Worldwide Investment (UK) Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Chimei" target="Fidelity Management &amp; Research Company">
+      <data key="weight">0.12</data>
+    </edge>
+    <edge source="Chimei" target="FIL Securities Investment Trust Co. (Taiwan) Limited">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Chimei" target="FIL Investment Management (Singapore) Limited">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Chimei" target="FIL Investment Management (Hong Kong) Limited">
+      <data key="weight">0.05</data>
+    </edge>
+    <edge source="Chimei" target="F&amp;C Asset Management plc">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Chimei" target="Eurizon Capital S.A.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Chimei" target="Eastspring Securities Investment Trust Co. Ltd.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Chimei" target="Eastspring Investments Berhad">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Chimei" target="Eastspring Investments (Singapore) Limited">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Chimei" target="EFG Bank AS">
+      <data key="weight">1.28</data>
+    </edge>
+    <edge source="Chimei" target="Dimensional Fund Advisors, LP">
+      <data key="weight">1.07</data>
+    </edge>
+    <edge source="Chimei" target="Dexia Asset Management Belgium S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Chimei" target="Deutsche Far Eastern Asset Management Co. Ltd.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Chimei" target="Deutsche Asset Management (Asia) Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Chimei" target="Deka Investment GmbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Chimei" target="Daiwa Asset Management (HK) Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Chimei" target="Credit Suisse Asset Management Funds S.p.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Chimei" target="Credit Suisse Asset Management">
+      <data key="weight">0.03</data>
+    </edge>
+    <edge source="Chimei" target="Compal Electronics Inc">
+      <data key="weight">1.84</data>
+    </edge>
+    <edge source="Chimei" target="Columbia Management Investment Advisers, LLC">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Chimei" target="Clariden Leu">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Chimei" target="China Asset Management Co., Ltd.">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Chimei" target="Chi Mei Corporation">
+      <data key="weight">13.57</data>
+    </edge>
+    <edge source="Chimei" target="Charles Schwab Investment Management, Inc.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Chimei" target="Cathay Securities Investment Trust Co., Ltd.">
+      <data key="weight">0.08</data>
+    </edge>
+    <edge source="Chimei" target="Capital Investment Trust Corporation">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Chimei" target="Caisse de Depot et Placement du Quebec">
+      <data key="weight">0.07</data>
+    </edge>
+    <edge source="Chimei" target="CPP Investment Board">
+      <data key="weight">0.1</data>
+    </edge>
+    <edge source="Chimei" target="COMMERZBANK AG">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Chimei" target="CIBC Global Asset Management Inc.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Chimei" target="British Columbia Investment Management Corp.">
+      <data key="weight">0.1</data>
+    </edge>
+    <edge source="Chimei" target="Boyer Allan Investment Management LLP">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Chimei" target="BlackRock Institutional Trust Company, N.A.">
+      <data key="weight">1.06</data>
+    </edge>
+    <edge source="Chimei" target="BlackRock Advisors (UK) Limited">
+      <data key="weight">0.21</data>
+    </edge>
+    <edge source="Chimei" target="Baring Asset Management (Asia) Limited">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Chimei" target="BNP Paribas Investment Partners Belgium S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Chimei" target="BNP Paribas Investment Partners (France)">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Chimei" target="BEA Union Investment Management Limited">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Chimei" target="Aviva Investors Global Services Limited">
+      <data key="weight">0.08</data>
+    </edge>
+    <edge source="Chimei" target="Amundi Hong Kong Limited">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Chimei" target="Allianz Global Investors Taiwan Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Chimei" target="AllianceBernstein Ltd. (Growth)">
+      <data key="weight">0.01</data>
+    </edge>
+  </graph>
+</graphml>

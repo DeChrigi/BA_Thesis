@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="weight" for="edge" attr.name="weight" attr.type="double" />
+  <key id="type" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Uralita">
+      <data key="type">Cartel</data>
+    </node>
+    <node id="Urquijo Gestión, S.A., S.G.I.I.C., Sociedad Unipersonal">
+      <data key="type">Investor</data>
+    </node>
+    <node id="UBS Gestión, S.G.I.I.C., S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Nefinsa, S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Gesduero S.G.I.I.C., S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Dimensional Fund Advisors, LP">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Cycladic Capital, L.L.P.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Crédit Suisse Gestión S.G.I.I.C., S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Caja España de Inv, Salamanca y Soria, Caja de Ahorros y Mo">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Barclays Wealth Managers España, S.A., S.G.I.I.C.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Bankia Banca Privada Gestion SGIIC S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="BBVA Patrimonios Gestora S.G.I.I.C., S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Atalaya Inversiones, S.R.L.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Alarcon Alejandre (Jorge)">
+      <data key="type">Investor</data>
+    </node>
+    <edge source="Uralita" target="Urquijo Gestión, S.A., S.G.I.I.C., Sociedad Unipersonal">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Uralita" target="UBS Gestión, S.G.I.I.C., S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Uralita" target="Nefinsa, S.A.">
+      <data key="weight">79.06</data>
+    </edge>
+    <edge source="Uralita" target="Gesduero S.G.I.I.C., S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Uralita" target="Dimensional Fund Advisors, LP">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Uralita" target="Cycladic Capital, L.L.P.">
+      <data key="weight">1.04</data>
+    </edge>
+    <edge source="Uralita" target="Crédit Suisse Gestión S.G.I.I.C., S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Uralita" target="Caja España de Inv, Salamanca y Soria, Caja de Ahorros y Mo">
+      <data key="weight">5.24</data>
+    </edge>
+    <edge source="Uralita" target="Barclays Wealth Managers España, S.A., S.G.I.I.C.">
+      <data key="weight">0.19</data>
+    </edge>
+    <edge source="Uralita" target="Bankia Banca Privada Gestion SGIIC S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Uralita" target="BBVA Patrimonios Gestora S.G.I.I.C., S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Uralita" target="Atalaya Inversiones, S.R.L.">
+      <data key="weight">5.0</data>
+    </edge>
+    <edge source="Uralita" target="Alarcon Alejandre (Jorge)">
+      <data key="weight">0.01</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,154 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="weight" for="edge" attr.name="weight" attr.type="double" />
+  <key id="type" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="BAM">
+      <data key="type">Cartel</data>
+    </node>
+    <node id="van Herk (Adrianus)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Wessels (D)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Triodos Bank N.V.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Société Générale Asset Management (France)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Smoorenburg BV">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Premium Select Lux S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Petercam S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Odey Asset Management LLP">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Lupus alpha Asset Management AG">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Lazard Asset Management (Deutschland) GmbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Koopman &amp; Witteveen NV">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Koninklijke BAM Groep NV Employees">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Kempen Capital Management N.V.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Kempen Capital Management (UK) Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="ING Investment Management Co. LLC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="ING Groep NV">
+      <data key="type">Investor</data>
+    </node>
+    <node id="HANSAINVEST Hanseatische Investment GmbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Generali Holding Vienna AG">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Generali Capital Management GmbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="GMO LLC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Friesland Bank N.V.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="BPI Gestão de Activos - S.G.F.I.M., S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="BNP Paribas Investment Partners Netherlands N.V.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Allianz Nederland Asset Management B.V.">
+      <data key="type">Investor</data>
+    </node>
+    <edge source="BAM" target="van Herk (Adrianus)">
+      <data key="weight">1.15</data>
+    </edge>
+    <edge source="BAM" target="Wessels (D)">
+      <data key="weight">0.27</data>
+    </edge>
+    <edge source="BAM" target="Triodos Bank N.V.">
+      <data key="weight">0.11</data>
+    </edge>
+    <edge source="BAM" target="Société Générale Asset Management (France)">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="BAM" target="Smoorenburg BV">
+      <data key="weight">1.09</data>
+    </edge>
+    <edge source="BAM" target="Premium Select Lux S.A.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="BAM" target="Petercam S.A.">
+      <data key="weight">0.04</data>
+    </edge>
+    <edge source="BAM" target="Odey Asset Management LLP">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="BAM" target="Lupus alpha Asset Management AG">
+      <data key="weight">0.11</data>
+    </edge>
+    <edge source="BAM" target="Lazard Asset Management (Deutschland) GmbH">
+      <data key="weight">0.04</data>
+    </edge>
+    <edge source="BAM" target="Koopman &amp; Witteveen NV">
+      <data key="weight">2.64</data>
+    </edge>
+    <edge source="BAM" target="Koninklijke BAM Groep NV Employees">
+      <data key="weight">0.53</data>
+    </edge>
+    <edge source="BAM" target="Kempen Capital Management N.V.">
+      <data key="weight">2.27</data>
+    </edge>
+    <edge source="BAM" target="Kempen Capital Management (UK) Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="BAM" target="ING Investment Management Co. LLC">
+      <data key="weight">0.52</data>
+    </edge>
+    <edge source="BAM" target="ING Groep NV">
+      <data key="weight">2.2</data>
+    </edge>
+    <edge source="BAM" target="HANSAINVEST Hanseatische Investment GmbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="BAM" target="Generali Holding Vienna AG">
+      <data key="weight">0.27</data>
+    </edge>
+    <edge source="BAM" target="Generali Capital Management GmbH">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="BAM" target="GMO LLC">
+      <data key="weight">0.43</data>
+    </edge>
+    <edge source="BAM" target="Friesland Bank N.V.">
+      <data key="weight">0.26</data>
+    </edge>
+    <edge source="BAM" target="BPI Gestão de Activos - S.G.F.I.M., S.A.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="BAM" target="BNP Paribas Investment Partners Netherlands N.V.">
+      <data key="weight">0.38</data>
+    </edge>
+    <edge source="BAM" target="Allianz Nederland Asset Management B.V.">
+      <data key="weight">0.79</data>
+    </edge>
+  </graph>
+</graphml>

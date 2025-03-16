@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="weight" for="edge" attr.name="weight" attr.type="double" />
+  <key id="type" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Hannstar Display">
+      <data key="type">Cartel</data>
+    </node>
+    <node id="Shin Kong Investment Trust Co., Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Sheng Hua Securities Investment Trust Co., Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Prudential Financial Securities Invt.Trust Enterprise Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Polaris Int'l Sec. Inv. Trust Co.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Nordea Investment Funds S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Mega International Investment Trust Co., Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Manulife Asset Management (Taiwan) Co., Ltd">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Jih Sun Securities Investment Trust Co., Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="JPMorgan Asset Management U.K. Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="JPMorgan Asset Management (Taiwan) Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="INVESCO Taiwan Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="IBT Asset Management Co., Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Hua Nan Investment Trust Corp.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="HSBC Global Asset Management (Taiwan) Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Fuh Hwa Securities Investment Trust Co., Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Fubon Asset Management Company Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Eastspring Securities Investment Trust Co. Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Capital Investment Trust Corporation">
+      <data key="type">Investor</data>
+    </node>
+    <node id="BlackRock Investment Management (Taiwan) Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Amundi Hong Kong Limited">
+      <data key="type">Investor</data>
+    </node>
+    <edge source="Hannstar Display" target="Shin Kong Investment Trust Co., Ltd.">
+      <data key="weight">0.36</data>
+    </edge>
+    <edge source="Hannstar Display" target="Sheng Hua Securities Investment Trust Co., Ltd.">
+      <data key="weight">0.09</data>
+    </edge>
+    <edge source="Hannstar Display" target="Prudential Financial Securities Invt.Trust Enterprise Ltd.">
+      <data key="weight">0.24</data>
+    </edge>
+    <edge source="Hannstar Display" target="Polaris Int'l Sec. Inv. Trust Co.">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Hannstar Display" target="Nordea Investment Funds S.A.">
+      <data key="weight">0.13</data>
+    </edge>
+    <edge source="Hannstar Display" target="Mega International Investment Trust Co., Ltd.">
+      <data key="weight">1.13</data>
+    </edge>
+    <edge source="Hannstar Display" target="Manulife Asset Management (Taiwan) Co., Ltd">
+      <data key="weight">0.03</data>
+    </edge>
+    <edge source="Hannstar Display" target="Jih Sun Securities Investment Trust Co., Ltd.">
+      <data key="weight">0.1</data>
+    </edge>
+    <edge source="Hannstar Display" target="JPMorgan Asset Management U.K. Limited">
+      <data key="weight">0.05</data>
+    </edge>
+    <edge source="Hannstar Display" target="JPMorgan Asset Management (Taiwan) Limited">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Hannstar Display" target="INVESCO Taiwan Ltd.">
+      <data key="weight">0.04</data>
+    </edge>
+    <edge source="Hannstar Display" target="IBT Asset Management Co., Ltd.">
+      <data key="weight">0.07</data>
+    </edge>
+    <edge source="Hannstar Display" target="Hua Nan Investment Trust Corp.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Hannstar Display" target="HSBC Global Asset Management (Taiwan) Limited">
+      <data key="weight">0.09</data>
+    </edge>
+    <edge source="Hannstar Display" target="Fuh Hwa Securities Investment Trust Co., Ltd.">
+      <data key="weight">0.06</data>
+    </edge>
+    <edge source="Hannstar Display" target="Fubon Asset Management Company Ltd.">
+      <data key="weight">0.88</data>
+    </edge>
+    <edge source="Hannstar Display" target="Eastspring Securities Investment Trust Co. Ltd.">
+      <data key="weight">0.14</data>
+    </edge>
+    <edge source="Hannstar Display" target="Capital Investment Trust Corporation">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Hannstar Display" target="BlackRock Investment Management (Taiwan) Ltd.">
+      <data key="weight">0.04</data>
+    </edge>
+    <edge source="Hannstar Display" target="Amundi Hong Kong Limited">
+      <data key="weight">0.0</data>
+    </edge>
+  </graph>
+</graphml>

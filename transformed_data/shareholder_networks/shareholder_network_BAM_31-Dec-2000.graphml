@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="weight" for="edge" attr.name="weight" attr.type="double" />
+  <key id="type" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="BAM">
+      <data key="type">Cartel</data>
+    </node>
+    <node id="Wessels (D)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Threadneedle Asset Management Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Smoorenburg BV">
+      <data key="type">Investor</data>
+    </node>
+    <node id="SEI Investments Canada">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Raggeborgh Participaties BV">
+      <data key="type">Investor</data>
+    </node>
+    <node id="M &amp; G Investment Management Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Koninklijke BAM Groep NV Employees">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Kempen Capital Management N.V.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="ING Investment Management Co. LLC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Generali Holding Vienna AG">
+      <data key="type">Investor</data>
+    </node>
+    <node id="GMO LLC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Friesland Bank N.V.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Dexia Asset Management Luxembourg S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="BNP Paribas Investment Partners Netherlands N.V.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="ABN AMRO Asset Management (Netherlands) B.V.">
+      <data key="type">Investor</data>
+    </node>
+    <edge source="BAM" target="Wessels (D)">
+      <data key="weight">0.26</data>
+    </edge>
+    <edge source="BAM" target="Threadneedle Asset Management Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="BAM" target="Smoorenburg BV">
+      <data key="weight">0.26</data>
+    </edge>
+    <edge source="BAM" target="SEI Investments Canada">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="BAM" target="Raggeborgh Participaties BV">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="BAM" target="M &amp; G Investment Management Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="BAM" target="Koninklijke BAM Groep NV Employees">
+      <data key="weight">0.53</data>
+    </edge>
+    <edge source="BAM" target="Kempen Capital Management N.V.">
+      <data key="weight">0.54</data>
+    </edge>
+    <edge source="BAM" target="ING Investment Management Co. LLC">
+      <data key="weight">0.54</data>
+    </edge>
+    <edge source="BAM" target="Generali Holding Vienna AG">
+      <data key="weight">0.27</data>
+    </edge>
+    <edge source="BAM" target="GMO LLC">
+      <data key="weight">0.43</data>
+    </edge>
+    <edge source="BAM" target="Friesland Bank N.V.">
+      <data key="weight">0.26</data>
+    </edge>
+    <edge source="BAM" target="Dexia Asset Management Luxembourg S.A.">
+      <data key="weight">0.07</data>
+    </edge>
+    <edge source="BAM" target="BNP Paribas Investment Partners Netherlands N.V.">
+      <data key="weight">0.38</data>
+    </edge>
+    <edge source="BAM" target="ABN AMRO Asset Management (Netherlands) B.V.">
+      <data key="weight">0.21</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,238 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="weight" for="edge" attr.name="weight" attr.type="double" />
+  <key id="type" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Qantas">
+      <data key="type">Cartel</data>
+    </node>
+    <node id="Universal-Investment-Gesellschaft mbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="United Assurance, Plc.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="UBS Global Asset Management (Switzerland)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="State Street Global Advisors (France) S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Scottish Widows Investment Partnership Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Santander Asset Management">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Raiffeisen Kapitalanlage-Gesellschaft mbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="QIC Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Prima sgr S.p.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Pioneer Investment Management Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Nordinvest Norddeutsche Investment-Gesellschaft mbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Nordea Investment Management AB (Finland)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="MLC Investment Management Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="M &amp; G Investment Management Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="LBB-Invest">
+      <data key="type">Investor</data>
+    </node>
+    <node id="KBC Asset Management N.V.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="J.P. Morgan Asset Management (Hong Kong) Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Invesco Hong Kong Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="INVESCO G.T. Asset Management Plc.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Hartford Investment Management Company">
+      <data key="type">Investor</data>
+    </node>
+    <node id="HSBC Asset Management Australia Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Goldman Sachs Asset Management (Australia) Pty Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Franklin Templeton Investment Management Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Eastspring Investments (Hong Kong) Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Deutsche Postbank Financial Services GmbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="DWS Investment GmbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Capital Research &amp; Management Company">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Canada Life Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="CIBC Global Asset Management Asia Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="British Airways PLC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="BT Investment Management Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="BI Asset Management Fondsmæglerselskab A/S">
+      <data key="type">Investor</data>
+    </node>
+    <node id="AllianceBernstein Ltd. (Growth)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="AllianceBernstein Hong Kong Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Aberdeen Asset Management (Australia) Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Aberdeen Asset Management (Asia) Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="AXA Rosenberg Investment Management Asia Pacific Ltd. (Hong">
+      <data key="type">Investor</data>
+    </node>
+    <node id="AXA Investment Managers Paris">
+      <data key="type">Investor</data>
+    </node>
+    <edge source="Qantas" target="Universal-Investment-Gesellschaft mbH">
+      <data key="weight">0.19</data>
+    </edge>
+    <edge source="Qantas" target="United Assurance, Plc.">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Qantas" target="UBS Global Asset Management (Switzerland)">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Qantas" target="State Street Global Advisors (France) S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Qantas" target="Scottish Widows Investment Partnership Ltd.">
+      <data key="weight">0.06</data>
+    </edge>
+    <edge source="Qantas" target="Santander Asset Management">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Qantas" target="Raiffeisen Kapitalanlage-Gesellschaft mbH">
+      <data key="weight">0.08</data>
+    </edge>
+    <edge source="Qantas" target="QIC Limited">
+      <data key="weight">2.15</data>
+    </edge>
+    <edge source="Qantas" target="Prima sgr S.p.A.">
+      <data key="weight">0.03</data>
+    </edge>
+    <edge source="Qantas" target="Pioneer Investment Management Ltd.">
+      <data key="weight">0.15</data>
+    </edge>
+    <edge source="Qantas" target="Nordinvest Norddeutsche Investment-Gesellschaft mbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Qantas" target="Nordea Investment Management AB (Finland)">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Qantas" target="MLC Investment Management Ltd.">
+      <data key="weight">2.27</data>
+    </edge>
+    <edge source="Qantas" target="M &amp; G Investment Management Ltd.">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Qantas" target="LBB-Invest">
+      <data key="weight">0.04</data>
+    </edge>
+    <edge source="Qantas" target="KBC Asset Management N.V.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Qantas" target="J.P. Morgan Asset Management (Hong Kong) Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Qantas" target="Invesco Hong Kong Limited">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Qantas" target="INVESCO G.T. Asset Management Plc.">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Qantas" target="Hartford Investment Management Company">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Qantas" target="HSBC Asset Management Australia Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Qantas" target="Goldman Sachs Asset Management (Australia) Pty Ltd.">
+      <data key="weight">0.06</data>
+    </edge>
+    <edge source="Qantas" target="Franklin Templeton Investment Management Ltd.">
+      <data key="weight">0.06</data>
+    </edge>
+    <edge source="Qantas" target="Eastspring Investments (Hong Kong) Limited">
+      <data key="weight">0.11</data>
+    </edge>
+    <edge source="Qantas" target="Deutsche Postbank Financial Services GmbH">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Qantas" target="DWS Investment GmbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Qantas" target="Capital Research &amp; Management Company">
+      <data key="weight">8.72</data>
+    </edge>
+    <edge source="Qantas" target="Canada Life Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Qantas" target="CIBC Global Asset Management Asia Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Qantas" target="British Airways PLC">
+      <data key="weight">27.03</data>
+    </edge>
+    <edge source="Qantas" target="BT Investment Management Limited">
+      <data key="weight">8.66</data>
+    </edge>
+    <edge source="Qantas" target="BI Asset Management Fondsmæglerselskab A/S">
+      <data key="weight">0.07</data>
+    </edge>
+    <edge source="Qantas" target="AllianceBernstein Ltd. (Growth)">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Qantas" target="AllianceBernstein Hong Kong Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Qantas" target="Aberdeen Asset Management (Australia) Ltd.">
+      <data key="weight">0.08</data>
+    </edge>
+    <edge source="Qantas" target="Aberdeen Asset Management (Asia) Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Qantas" target="AXA Rosenberg Investment Management Asia Pacific Ltd. (Hong">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Qantas" target="AXA Investment Managers Paris">
+      <data key="weight">0.04</data>
+    </edge>
+  </graph>
+</graphml>

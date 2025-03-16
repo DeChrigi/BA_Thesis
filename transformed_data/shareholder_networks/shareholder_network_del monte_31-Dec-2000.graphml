@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="weight" for="edge" attr.name="weight" attr.type="double" />
+  <key id="type" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="del monte">
+      <data key="type">Cartel</data>
+    </node>
+    <node id="Del Monte Group Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="IONA Investments Pte Ltd">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Chew (Leong Chee Tony)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="New Star Institutional Managers Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Clemente Capital, Inc.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="UOB Asset Management Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Sloane Robinson LLP">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Aberdeen Asset Management (Asia) Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="INVESCO Asset Management (Singapore) Pte. Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="AEGON Investment Management B.V.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="ING Investment Management (Belgium) (Inactive)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="DWS Investment GmbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Union Investment Group">
+      <data key="type">Investor</data>
+    </node>
+    <node id="RCM Asia Pacific Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Ignis Asset Management Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="J.P. Morgan Asset Management (Hong Kong) Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Lion Global Investors Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Amundi Hong Kong Limited">
+      <data key="type">Investor</data>
+    </node>
+    <edge source="del monte" target="Del Monte Group Ltd.">
+      <data key="weight">37.63</data>
+    </edge>
+    <edge source="del monte" target="IONA Investments Pte Ltd">
+      <data key="weight">5.73</data>
+    </edge>
+    <edge source="del monte" target="Chew (Leong Chee Tony)">
+      <data key="weight">0.3</data>
+    </edge>
+    <edge source="del monte" target="New Star Institutional Managers Limited">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="del monte" target="Clemente Capital, Inc.">
+      <data key="weight">0.21</data>
+    </edge>
+    <edge source="del monte" target="UOB Asset Management Ltd.">
+      <data key="weight">0.21</data>
+    </edge>
+    <edge source="del monte" target="Sloane Robinson LLP">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="del monte" target="Aberdeen Asset Management (Asia) Ltd.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="del monte" target="INVESCO Asset Management (Singapore) Pte. Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="del monte" target="AEGON Investment Management B.V.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="del monte" target="ING Investment Management (Belgium) (Inactive)">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="del monte" target="DWS Investment GmbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="del monte" target="Union Investment Group">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="del monte" target="RCM Asia Pacific Limited">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="del monte" target="Ignis Asset Management Limited">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="del monte" target="J.P. Morgan Asset Management (Hong Kong) Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="del monte" target="Lion Global Investors Limited">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="del monte" target="Amundi Hong Kong Limited">
+      <data key="weight">0.0</data>
+    </edge>
+  </graph>
+</graphml>

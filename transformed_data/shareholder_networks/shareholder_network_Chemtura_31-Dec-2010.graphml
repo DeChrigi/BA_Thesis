@@ -1,0 +1,994 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="weight" for="edge" attr.name="weight" attr.type="double" />
+  <key id="type" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Chemtura">
+      <data key="type">Cartel</data>
+    </node>
+    <node id="Zweig-DiMenna Associates, Inc.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="York Capital Management">
+      <data key="type">Investor</data>
+    </node>
+    <node id="World Asset Management, Inc.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Whitebox Advisors, L.L.C.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Wexford Capital LP">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Westfield Capital Management Company, L.P.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Wesson (Bruce F)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Wells Fargo Bank, N.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Wells Fargo Advisors">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Wedinger (Robert S)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Watershed Asset Management, L.L.C.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Visium Asset Management, LP">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Vanguard Group, Inc.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Valinor Management, LLC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="UBS Securities LLC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="U.S. Bancorp Asset Management, Inc. (FAF)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="U Capital Group, LP">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Turner Investment Partners, Inc.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Tricadia Capital Management, LLC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Tiger Veda Management L.L.C.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="The Royal Bank of Scotland">
+      <data key="type">Investor</data>
+    </node>
+    <node id="The Private Trust Company, N.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="The Philadelphia Trust Company">
+      <data key="type">Investor</data>
+    </node>
+    <node id="The Northern Trust Company of Connecticut">
+      <data key="type">Investor</data>
+    </node>
+    <node id="TIG Advisors, L.L.C.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Susquehanna Financial Group, LLLP">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Strategic Value Partners, L.L.C.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Stevens Capital Management LP">
+      <data key="type">Investor</data>
+    </node>
+    <node id="State Street Global Advisors (US)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Stark Investments">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Springbok Capital Management, L.L.C.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Soundpost Partners, LP">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Soros Fund Management, L.L.C.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Silver Lake Partners">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Sigma Capital Management, L.L.C.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Sheffield Asset Management, L.L.C.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Seneca Capital Advisors, L.L.C.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Senator Investment Group LP">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Selz Capital, LLC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Segall, Bryant &amp; Hamill Investment Counsel">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Scopia Capital, LLC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Scoggin Capital Management, L.L.C.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Saturna Capital Corporation">
+      <data key="type">Investor</data>
+    </node>
+    <node id="S.A.C. Capital Advisors, LP">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Royce &amp; Associates, LLC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Rhumbline Advisers Ltd. Partnership">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Redwood Capital Management, L.L.C.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="RBF Capital, LLC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="RBC Global Asset Management Inc.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="RBC Capital Markets Wealth Management">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Pyramis Global Advisors, LLC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Perennial Investors, LLC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Paulson &amp; Co. Inc.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Passport Capital LLC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Park West Asset Management LLC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Park National Bank">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Parametric Portfolio Associates LLC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Paradigm Capital Management, Inc.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Para Advisors LLC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Paloma Partners Management Company">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Pacific Heights Asset Management, LLC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="PNC Wealth Management">
+      <data key="type">Investor</data>
+    </node>
+    <node id="PENN Capital Management Company, Inc.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Ohio Public Employees Retirement System">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Northern Trust Investments, N.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Northern Trust Global Investments">
+      <data key="type">Investor</data>
+    </node>
+    <node id="North Star Investment Management Corporation">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Norman Fields, Gottscho Capital Management, LLC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Norges Bank Investment Management (NBIM)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Nomura Securities Co., Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Nicholas Investment Partners, L.P.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="New Jersey Division of Investment">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Neuberger Berman, LLC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Morgan Stanley Wealth Management">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Morgan Stanley &amp; Co. LLC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Mesirow Advanced Strategies, Inc.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Meru Capital Group, LP">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Mellon Capital Management Corporation">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Mariner Investment Group LLC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Maplelane Capital, LLC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Manulife Asset Management Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Managed Account Advisors LLC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Los Angeles Capital Management And Equity Research, Inc.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Loomis, Sayles &amp; Company, L.P.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Lonestar Capital Management LLC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Levin Capital Strategies, L.P.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Lakewood Capital Management, LP">
+      <data key="type">Investor</data>
+    </node>
+    <node id="LSV Asset Management">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Knightsbridge Asset Management, L.L.C.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Knighthead Capital Management, LLC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Kingdon Capital Management, L.L.C.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Keeley Asset Management Corp.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Jefferies &amp; Company, Inc.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="JPMorgan Private Bank (United States)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="J.P. Morgan Securities Inc.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Interlachen Capital Group LP">
+      <data key="type">Investor</data>
+    </node>
+    <node id="ICC Capital Management, Inc.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Highbridge Capital Management, LLC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Heartland Advisors, Inc.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Headrick (Roger L)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Hanson &amp; Doremus Investment Management, Inc.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Hale (Martin M)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Halcyon Asset Management LLC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="HSBC Global Asset Management (UK) Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Guggenheim Funds Investment Advisors, LLC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Goldman Sachs International">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Goldman Sachs Asset Management (US)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="GoldenTree Asset Management, LP">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Geode Capital Management, L.L.C.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Gabelli Funds, LLC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Gabalex Capital Management LLC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="GMT Capital Corp.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="GLG Partners LP">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Fortress Investment Group, L.L.C.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Forsyth (Stephen C)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="First New York Capital Corp.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Fidelity Management &amp; Research Company">
+      <data key="type">Investor</data>
+    </node>
+    <node id="FMA Advisory, Inc.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Eton Park Capital Management, L.P.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="EnTrust Capital Inc.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Dimensional Fund Advisors, LP">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Dickey (David G)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Deutsche Bank Securities Inc.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Deutsche Asset Management Americas">
+      <data key="type">Investor</data>
+    </node>
+    <node id="DG Capital Management, LLC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Cyrus Capital Partners, L.P.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Crownover (James W)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Credit Suisse Securities (USA) LLC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Cougar Trading, L.L.C.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Contrarian Capital Management, LLC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Columbia Management Investment Advisers, LLC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Citi Investment Research (US)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Cheyne Capital Management (UK) LLP">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Charles Schwab Investment Management, Inc.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="CastleRock Management">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Carlson Capital, L.P.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Canyon Capital Advisors LLC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="California Public Employees' Retirement System">
+      <data key="type">Investor</data>
+    </node>
+    <node id="CQS Cayman LP">
+      <data key="type">Investor</data>
+    </node>
+    <node id="CIBC Global Asset Management Inc.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Brandywine Global Investment Management, LLC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Blue Harbour Group, L.P.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="BlackRock Investment Management, LLC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="BlackRock Institutional Trust Company, N.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="BlackRock Financial Management, Inc.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Bessemer Trust Company, N.A. (US)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Beach Point Capital Management, LP">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Basso Capital Management, L.P.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Barclays Capital Inc.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Bank of America Merrill Lynch (US)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="BNY Mellon Wealth Management">
+      <data key="type">Investor</data>
+    </node>
+    <node id="BNY Mellon Asset Management">
+      <data key="type">Investor</data>
+    </node>
+    <node id="BMI Capital, LLC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Axial Capital Management, L.L.C.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Ascend Capital, LLC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Arrowpoint Asset Management, LLC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Arrowhawk Capital Partners, LLC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Anthion Management, LLC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Anima SGR S.p.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Andrews (Nigel Derek Tracy)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Amundi Asset Management">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Alyeska Investment Group, L.P.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="AllianceBernstein L.P.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Afton Capital Management, LLC">
+      <data key="type">Investor</data>
+    </node>
+    <edge source="Chemtura" target="Zweig-DiMenna Associates, Inc.">
+      <data key="weight">0.5</data>
+    </edge>
+    <edge source="Chemtura" target="York Capital Management">
+      <data key="weight">2.36</data>
+    </edge>
+    <edge source="Chemtura" target="World Asset Management, Inc.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Chemtura" target="Whitebox Advisors, L.L.C.">
+      <data key="weight">0.12</data>
+    </edge>
+    <edge source="Chemtura" target="Wexford Capital LP">
+      <data key="weight">0.17</data>
+    </edge>
+    <edge source="Chemtura" target="Westfield Capital Management Company, L.P.">
+      <data key="weight">0.04</data>
+    </edge>
+    <edge source="Chemtura" target="Wesson (Bruce F)">
+      <data key="weight">0.03</data>
+    </edge>
+    <edge source="Chemtura" target="Wells Fargo Bank, N.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Chemtura" target="Wells Fargo Advisors">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Chemtura" target="Wedinger (Robert S)">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Chemtura" target="Watershed Asset Management, L.L.C.">
+      <data key="weight">0.35</data>
+    </edge>
+    <edge source="Chemtura" target="Visium Asset Management, LP">
+      <data key="weight">0.08</data>
+    </edge>
+    <edge source="Chemtura" target="Vanguard Group, Inc.">
+      <data key="weight">0.28</data>
+    </edge>
+    <edge source="Chemtura" target="Valinor Management, LLC">
+      <data key="weight">0.82</data>
+    </edge>
+    <edge source="Chemtura" target="UBS Securities LLC">
+      <data key="weight">0.04</data>
+    </edge>
+    <edge source="Chemtura" target="U.S. Bancorp Asset Management, Inc. (FAF)">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Chemtura" target="U Capital Group, LP">
+      <data key="weight">0.25</data>
+    </edge>
+    <edge source="Chemtura" target="Turner Investment Partners, Inc.">
+      <data key="weight">0.14</data>
+    </edge>
+    <edge source="Chemtura" target="Tricadia Capital Management, LLC">
+      <data key="weight">0.9</data>
+    </edge>
+    <edge source="Chemtura" target="Tiger Veda Management L.L.C.">
+      <data key="weight">0.1</data>
+    </edge>
+    <edge source="Chemtura" target="The Royal Bank of Scotland">
+      <data key="weight">0.09</data>
+    </edge>
+    <edge source="Chemtura" target="The Private Trust Company, N.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Chemtura" target="The Philadelphia Trust Company">
+      <data key="weight">0.03</data>
+    </edge>
+    <edge source="Chemtura" target="The Northern Trust Company of Connecticut">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Chemtura" target="TIG Advisors, L.L.C.">
+      <data key="weight">0.19</data>
+    </edge>
+    <edge source="Chemtura" target="Susquehanna Financial Group, LLLP">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Chemtura" target="Strategic Value Partners, L.L.C.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Chemtura" target="Stevens Capital Management LP">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Chemtura" target="State Street Global Advisors (US)">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Chemtura" target="Stark Investments">
+      <data key="weight">0.3</data>
+    </edge>
+    <edge source="Chemtura" target="Springbok Capital Management, L.L.C.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Chemtura" target="Soundpost Partners, LP">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Chemtura" target="Soros Fund Management, L.L.C.">
+      <data key="weight">0.08</data>
+    </edge>
+    <edge source="Chemtura" target="Silver Lake Partners">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Chemtura" target="Sigma Capital Management, L.L.C.">
+      <data key="weight">0.1</data>
+    </edge>
+    <edge source="Chemtura" target="Sheffield Asset Management, L.L.C.">
+      <data key="weight">0.04</data>
+    </edge>
+    <edge source="Chemtura" target="Seneca Capital Advisors, L.L.C.">
+      <data key="weight">0.59</data>
+    </edge>
+    <edge source="Chemtura" target="Senator Investment Group LP">
+      <data key="weight">1.36</data>
+    </edge>
+    <edge source="Chemtura" target="Selz Capital, LLC">
+      <data key="weight">0.21</data>
+    </edge>
+    <edge source="Chemtura" target="Segall, Bryant &amp; Hamill Investment Counsel">
+      <data key="weight">0.06</data>
+    </edge>
+    <edge source="Chemtura" target="Scopia Capital, LLC">
+      <data key="weight">0.33</data>
+    </edge>
+    <edge source="Chemtura" target="Scoggin Capital Management, L.L.C.">
+      <data key="weight">0.3</data>
+    </edge>
+    <edge source="Chemtura" target="Saturna Capital Corporation">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Chemtura" target="S.A.C. Capital Advisors, LP">
+      <data key="weight">0.2</data>
+    </edge>
+    <edge source="Chemtura" target="Royce &amp; Associates, LLC">
+      <data key="weight">0.23</data>
+    </edge>
+    <edge source="Chemtura" target="Rhumbline Advisers Ltd. Partnership">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Chemtura" target="Redwood Capital Management, L.L.C.">
+      <data key="weight">0.66</data>
+    </edge>
+    <edge source="Chemtura" target="RBF Capital, LLC">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Chemtura" target="RBC Global Asset Management Inc.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Chemtura" target="RBC Capital Markets Wealth Management">
+      <data key="weight">0.1</data>
+    </edge>
+    <edge source="Chemtura" target="Pyramis Global Advisors, LLC">
+      <data key="weight">0.06</data>
+    </edge>
+    <edge source="Chemtura" target="Perennial Investors, LLC">
+      <data key="weight">0.12</data>
+    </edge>
+    <edge source="Chemtura" target="Paulson &amp; Co. Inc.">
+      <data key="weight">0.07</data>
+    </edge>
+    <edge source="Chemtura" target="Passport Capital LLC">
+      <data key="weight">0.54</data>
+    </edge>
+    <edge source="Chemtura" target="Park West Asset Management LLC">
+      <data key="weight">0.04</data>
+    </edge>
+    <edge source="Chemtura" target="Park National Bank">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Chemtura" target="Parametric Portfolio Associates LLC">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Chemtura" target="Paradigm Capital Management, Inc.">
+      <data key="weight">0.52</data>
+    </edge>
+    <edge source="Chemtura" target="Para Advisors LLC">
+      <data key="weight">0.12</data>
+    </edge>
+    <edge source="Chemtura" target="Paloma Partners Management Company">
+      <data key="weight">0.46</data>
+    </edge>
+    <edge source="Chemtura" target="Pacific Heights Asset Management, LLC">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Chemtura" target="PNC Wealth Management">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Chemtura" target="PENN Capital Management Company, Inc.">
+      <data key="weight">0.18</data>
+    </edge>
+    <edge source="Chemtura" target="Ohio Public Employees Retirement System">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Chemtura" target="Northern Trust Investments, N.A.">
+      <data key="weight">0.06</data>
+    </edge>
+    <edge source="Chemtura" target="Northern Trust Global Investments">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Chemtura" target="North Star Investment Management Corporation">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Chemtura" target="Norman Fields, Gottscho Capital Management, LLC">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Chemtura" target="Norges Bank Investment Management (NBIM)">
+      <data key="weight">0.33</data>
+    </edge>
+    <edge source="Chemtura" target="Nomura Securities Co., Ltd.">
+      <data key="weight">0.14</data>
+    </edge>
+    <edge source="Chemtura" target="Nicholas Investment Partners, L.P.">
+      <data key="weight">0.06</data>
+    </edge>
+    <edge source="Chemtura" target="New Jersey Division of Investment">
+      <data key="weight">0.25</data>
+    </edge>
+    <edge source="Chemtura" target="Neuberger Berman, LLC">
+      <data key="weight">0.23</data>
+    </edge>
+    <edge source="Chemtura" target="Morgan Stanley Wealth Management">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Chemtura" target="Morgan Stanley &amp; Co. LLC">
+      <data key="weight">0.05</data>
+    </edge>
+    <edge source="Chemtura" target="Mesirow Advanced Strategies, Inc.">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Chemtura" target="Meru Capital Group, LP">
+      <data key="weight">0.06</data>
+    </edge>
+    <edge source="Chemtura" target="Mellon Capital Management Corporation">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Chemtura" target="Mariner Investment Group LLC">
+      <data key="weight">1.05</data>
+    </edge>
+    <edge source="Chemtura" target="Maplelane Capital, LLC">
+      <data key="weight">0.08</data>
+    </edge>
+    <edge source="Chemtura" target="Manulife Asset Management Limited">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Chemtura" target="Managed Account Advisors LLC">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Chemtura" target="Los Angeles Capital Management And Equity Research, Inc.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Chemtura" target="Loomis, Sayles &amp; Company, L.P.">
+      <data key="weight">0.79</data>
+    </edge>
+    <edge source="Chemtura" target="Lonestar Capital Management LLC">
+      <data key="weight">0.21</data>
+    </edge>
+    <edge source="Chemtura" target="Levin Capital Strategies, L.P.">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Chemtura" target="Lakewood Capital Management, LP">
+      <data key="weight">0.26</data>
+    </edge>
+    <edge source="Chemtura" target="LSV Asset Management">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Chemtura" target="Knightsbridge Asset Management, L.L.C.">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Chemtura" target="Knighthead Capital Management, LLC">
+      <data key="weight">1.13</data>
+    </edge>
+    <edge source="Chemtura" target="Kingdon Capital Management, L.L.C.">
+      <data key="weight">0.37</data>
+    </edge>
+    <edge source="Chemtura" target="Keeley Asset Management Corp.">
+      <data key="weight">0.03</data>
+    </edge>
+    <edge source="Chemtura" target="Jefferies &amp; Company, Inc.">
+      <data key="weight">0.17</data>
+    </edge>
+    <edge source="Chemtura" target="JPMorgan Private Bank (United States)">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Chemtura" target="J.P. Morgan Securities Inc.">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Chemtura" target="Interlachen Capital Group LP">
+      <data key="weight">0.29</data>
+    </edge>
+    <edge source="Chemtura" target="ICC Capital Management, Inc.">
+      <data key="weight">0.13</data>
+    </edge>
+    <edge source="Chemtura" target="Highbridge Capital Management, LLC">
+      <data key="weight">0.24</data>
+    </edge>
+    <edge source="Chemtura" target="Heartland Advisors, Inc.">
+      <data key="weight">3.82</data>
+    </edge>
+    <edge source="Chemtura" target="Headrick (Roger L)">
+      <data key="weight">0.06</data>
+    </edge>
+    <edge source="Chemtura" target="Hanson &amp; Doremus Investment Management, Inc.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Chemtura" target="Hale (Martin M)">
+      <data key="weight">0.23</data>
+    </edge>
+    <edge source="Chemtura" target="Halcyon Asset Management LLC">
+      <data key="weight">0.91</data>
+    </edge>
+    <edge source="Chemtura" target="HSBC Global Asset Management (UK) Limited">
+      <data key="weight">0.04</data>
+    </edge>
+    <edge source="Chemtura" target="Guggenheim Funds Investment Advisors, LLC">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Chemtura" target="Goldman Sachs International">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Chemtura" target="Goldman Sachs Asset Management (US)">
+      <data key="weight">0.09</data>
+    </edge>
+    <edge source="Chemtura" target="GoldenTree Asset Management, LP">
+      <data key="weight">0.17</data>
+    </edge>
+    <edge source="Chemtura" target="Geode Capital Management, L.L.C.">
+      <data key="weight">0.12</data>
+    </edge>
+    <edge source="Chemtura" target="Gabelli Funds, LLC">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Chemtura" target="Gabalex Capital Management LLC">
+      <data key="weight">0.1</data>
+    </edge>
+    <edge source="Chemtura" target="GMT Capital Corp.">
+      <data key="weight">0.06</data>
+    </edge>
+    <edge source="Chemtura" target="GLG Partners LP">
+      <data key="weight">0.12</data>
+    </edge>
+    <edge source="Chemtura" target="Fortress Investment Group, L.L.C.">
+      <data key="weight">0.03</data>
+    </edge>
+    <edge source="Chemtura" target="Forsyth (Stephen C)">
+      <data key="weight">0.15</data>
+    </edge>
+    <edge source="Chemtura" target="First New York Capital Corp.">
+      <data key="weight">0.12</data>
+    </edge>
+    <edge source="Chemtura" target="Fidelity Management &amp; Research Company">
+      <data key="weight">0.26</data>
+    </edge>
+    <edge source="Chemtura" target="FMA Advisory, Inc.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Chemtura" target="Eton Park Capital Management, L.P.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Chemtura" target="EnTrust Capital Inc.">
+      <data key="weight">0.24</data>
+    </edge>
+    <edge source="Chemtura" target="Dimensional Fund Advisors, LP">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Chemtura" target="Dickey (David G)">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Chemtura" target="Deutsche Bank Securities Inc.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Chemtura" target="Deutsche Asset Management Americas">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Chemtura" target="DG Capital Management, LLC">
+      <data key="weight">0.74</data>
+    </edge>
+    <edge source="Chemtura" target="Cyrus Capital Partners, L.P.">
+      <data key="weight">1.6</data>
+    </edge>
+    <edge source="Chemtura" target="Crownover (James W)">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Chemtura" target="Credit Suisse Securities (USA) LLC">
+      <data key="weight">0.23</data>
+    </edge>
+    <edge source="Chemtura" target="Cougar Trading, L.L.C.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Chemtura" target="Contrarian Capital Management, LLC">
+      <data key="weight">0.05</data>
+    </edge>
+    <edge source="Chemtura" target="Columbia Management Investment Advisers, LLC">
+      <data key="weight">2.07</data>
+    </edge>
+    <edge source="Chemtura" target="Citi Investment Research (US)">
+      <data key="weight">0.63</data>
+    </edge>
+    <edge source="Chemtura" target="Cheyne Capital Management (UK) LLP">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Chemtura" target="Charles Schwab Investment Management, Inc.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Chemtura" target="CastleRock Management">
+      <data key="weight">0.25</data>
+    </edge>
+    <edge source="Chemtura" target="Carlson Capital, L.P.">
+      <data key="weight">0.28</data>
+    </edge>
+    <edge source="Chemtura" target="Canyon Capital Advisors LLC">
+      <data key="weight">1.92</data>
+    </edge>
+    <edge source="Chemtura" target="California Public Employees' Retirement System">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Chemtura" target="CQS Cayman LP">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Chemtura" target="CIBC Global Asset Management Inc.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Chemtura" target="Brandywine Global Investment Management, LLC">
+      <data key="weight">0.31</data>
+    </edge>
+    <edge source="Chemtura" target="Blue Harbour Group, L.P.">
+      <data key="weight">0.11</data>
+    </edge>
+    <edge source="Chemtura" target="BlackRock Investment Management, LLC">
+      <data key="weight">0.06</data>
+    </edge>
+    <edge source="Chemtura" target="BlackRock Institutional Trust Company, N.A.">
+      <data key="weight">0.51</data>
+    </edge>
+    <edge source="Chemtura" target="BlackRock Financial Management, Inc.">
+      <data key="weight">0.11</data>
+    </edge>
+    <edge source="Chemtura" target="Bessemer Trust Company, N.A. (US)">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Chemtura" target="Beach Point Capital Management, LP">
+      <data key="weight">0.53</data>
+    </edge>
+    <edge source="Chemtura" target="Basso Capital Management, L.P.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Chemtura" target="Barclays Capital Inc.">
+      <data key="weight">0.03</data>
+    </edge>
+    <edge source="Chemtura" target="Bank of America Merrill Lynch (US)">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Chemtura" target="BNY Mellon Wealth Management">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Chemtura" target="BNY Mellon Asset Management">
+      <data key="weight">0.05</data>
+    </edge>
+    <edge source="Chemtura" target="BMI Capital, LLC">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Chemtura" target="Axial Capital Management, L.L.C.">
+      <data key="weight">0.48</data>
+    </edge>
+    <edge source="Chemtura" target="Ascend Capital, LLC">
+      <data key="weight">0.61</data>
+    </edge>
+    <edge source="Chemtura" target="Arrowpoint Asset Management, LLC">
+      <data key="weight">0.09</data>
+    </edge>
+    <edge source="Chemtura" target="Arrowhawk Capital Partners, LLC">
+      <data key="weight">0.15</data>
+    </edge>
+    <edge source="Chemtura" target="Anthion Management, LLC">
+      <data key="weight">0.44</data>
+    </edge>
+    <edge source="Chemtura" target="Anima SGR S.p.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Chemtura" target="Andrews (Nigel Derek Tracy)">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Chemtura" target="Amundi Asset Management">
+      <data key="weight">0.03</data>
+    </edge>
+    <edge source="Chemtura" target="Alyeska Investment Group, L.P.">
+      <data key="weight">0.04</data>
+    </edge>
+    <edge source="Chemtura" target="AllianceBernstein L.P.">
+      <data key="weight">0.19</data>
+    </edge>
+    <edge source="Chemtura" target="Afton Capital Management, LLC">
+      <data key="weight">0.13</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="weight" for="edge" attr.name="weight" attr.type="double" />
+  <key id="type" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Boliden">
+      <data key="type">Cartel</data>
+    </node>
+    <node id="UBS Global Asset Management (Switzerland)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Trellborg AB">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Swiss &amp; Global Asset Management Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Swedbank Robur AB">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Skagen AS">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Seligson &amp; Co Rahastoyhtiö Oyj">
+      <data key="type">Investor</data>
+    </node>
+    <node id="SEB Asset Management (Stockholm)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="SCOR Global Investments">
+      <data key="type">Investor</data>
+    </node>
+    <node id="ODIN Forvaltning AS">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Lannebo Fonder AB">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Handelsbanken Asset Management">
+      <data key="type">Investor</data>
+    </node>
+    <node id="H. Lundén Kapitalförvaltning AB">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Futuris Asset Management AB">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Catella Fondförvaltning AB">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Banco Fonder AB">
+      <data key="type">Investor</data>
+    </node>
+    <node id="BMO Asset Management Inc.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Andra AP-Fonden">
+      <data key="type">Investor</data>
+    </node>
+    <node id="ABN AMRO Asset Management Ltd. (Fortis)">
+      <data key="type">Investor</data>
+    </node>
+    <edge source="Boliden" target="UBS Global Asset Management (Switzerland)">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Boliden" target="Trellborg AB">
+      <data key="weight">2.47</data>
+    </edge>
+    <edge source="Boliden" target="Swiss &amp; Global Asset Management Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Boliden" target="Swedbank Robur AB">
+      <data key="weight">0.7</data>
+    </edge>
+    <edge source="Boliden" target="Skagen AS">
+      <data key="weight">0.76</data>
+    </edge>
+    <edge source="Boliden" target="Seligson &amp; Co Rahastoyhtiö Oyj">
+      <data key="weight">0.23</data>
+    </edge>
+    <edge source="Boliden" target="SEB Asset Management (Stockholm)">
+      <data key="weight">3.98</data>
+    </edge>
+    <edge source="Boliden" target="SCOR Global Investments">
+      <data key="weight">0.29</data>
+    </edge>
+    <edge source="Boliden" target="ODIN Forvaltning AS">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Boliden" target="Lannebo Fonder AB">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Boliden" target="Handelsbanken Asset Management">
+      <data key="weight">0.42</data>
+    </edge>
+    <edge source="Boliden" target="H. Lundén Kapitalförvaltning AB">
+      <data key="weight">1.63</data>
+    </edge>
+    <edge source="Boliden" target="Futuris Asset Management AB">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Boliden" target="Catella Fondförvaltning AB">
+      <data key="weight">5.97</data>
+    </edge>
+    <edge source="Boliden" target="Banco Fonder AB">
+      <data key="weight">1.11</data>
+    </edge>
+    <edge source="Boliden" target="BMO Asset Management Inc.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Boliden" target="Andra AP-Fonden">
+      <data key="weight">0.88</data>
+    </edge>
+    <edge source="Boliden" target="ABN AMRO Asset Management Ltd. (Fortis)">
+      <data key="weight">0.12</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,838 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="weight" for="edge" attr.name="weight" attr.type="double" />
+  <key id="type" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Henkel">
+      <data key="type">Cartel</data>
+    </node>
+    <node id="Zürcher Kantonalbank (Asset Management)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Yacktman Asset Management LP">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Wintergreen Advisers, LLC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="WestLB Mellon Asset Management Kapitalanlagegesellschaft mbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Walser Privatbank AG">
+      <data key="type">Investor</data>
+    </node>
+    <node id="ValueFocus Equity Management AG">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Urquijo Gestión, S.A., S.G.I.I.C., Sociedad Unipersonal">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Universal-Investment-Gesellschaft mbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Union Investment Group">
+      <data key="type">Investor</data>
+    </node>
+    <node id="UBS Global Asset Management (Switzerland)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="UBS Global Asset Management (Deutschland) GmbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="UBS (Luxembourg) S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Triodos Bank N.V.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Tredje AP Fonden">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Transatlantique Gestion">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Tapiola Varainhoito Oy">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Sydinvest">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Swisscanto Asset Management AG">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Swiss &amp; Global Asset Management Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="State Street Global Advisors (UK) Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Sjunde AP-fonden">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Singer &amp; Friedlander Investment Management Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Sarasin &amp; Partners LLP">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Santander Asset Management UK Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="SPARX Asset Management Co., Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="SNS Asset Management">
+      <data key="type">Investor</data>
+    </node>
+    <node id="SINOPIA Asset Management">
+      <data key="type">Investor</data>
+    </node>
+    <node id="SEB Investment GmbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="SEB Gyllenberg Rahastoyhtiö Oy">
+      <data key="type">Investor</data>
+    </node>
+    <node id="SEB Asset Management (Stockholm)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="SAM Sustainable Asset Management Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Renta 4 Gestora, S.G.I.I.C., S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="RCM (UK) Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="RBC Asset Management UK Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Quint:Essence Capital S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Putnam Investments Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Pohjola Asset Management Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Pioneer Investments Kapitalanlagegesellschaft mbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Pictet &amp; Cie">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Pharus Management S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Pareto Forvaltning AS">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Palatine Asset Management">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Oppenheim Kapitalanlagegesellschaft mbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Nordinvest Norddeutsche Investment-Gesellschaft mbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Nicholas-Applegate Capital Management, LLC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Neptune Investment Management Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Natixis Asset Management">
+      <data key="type">Investor</data>
+    </node>
+    <node id="NORD/LB Capital Management GmbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Münchner Kapitalanlage AG">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Mitsubishi UFJ Asset Management Co., Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Metzler Asset Management GmbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Mercados y Gestión de Valores A.V., S.A">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Meliorbanca Private S.p.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="MFI Asset Management GmbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="MEAG Munich ERGO Kapitalanlagegesellschaft mbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="M.M.Warburg &amp; CO Luxembourg S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Luzerner Kantonalbank">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Lupus alpha Asset Management AG">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Liberbank Gestion S.G.I.I.C. S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Lazard Frères Gestion S.A.S.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="La Caixa Gestión de Activos S.G.I.I.C., S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="La Banque Postale Asset Management">
+      <data key="type">Investor</data>
+    </node>
+    <node id="LLB Asset Management AG">
+      <data key="type">Investor</data>
+    </node>
+    <node id="LGT Capital Management Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="LBBW Asset Management Investmentgesellschaft mbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="LBB-Invest">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Kleinwort Benson Investors Dublin Ltd">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Kathrein Privatbank Aktiengesellschaft">
+      <data key="type">Investor</data>
+    </node>
+    <node id="KBC Asset Management N.V.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Jahr Vermögensverwaltung GmbH &amp; Co. KG">
+      <data key="type">Investor</data>
+    </node>
+    <node id="J O Hambro Capital Management Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Integral Development Asset Management (I.DE.A.M)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Ignis Asset Management Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="INVESCO Asset Management Deutschland GmbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Henkel Family">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Helaba Invest Kapitalanlagegesellschaft mbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Hauck &amp; Aufhäuser Investment Gesellschaft S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Harris Associates L.P.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Handelsbanken Asset Management">
+      <data key="type">Investor</data>
+    </node>
+    <node id="HSBC Trinkaus &amp; Burkhardt (International) S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="HSBC Global Asset Management Deutschland GmbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="HSBC Global Asset Management (Hong Kong) Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="HSBC Global Asset Management (Canada) Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Griffin Capital Management Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Gesfibanc S.G.I.I.C., S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Gaesco Gestión S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Frankfurt-Trust Investment-Gesellschaft mbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Flossbach &amp; von Storch AG">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Financiera Ponferrada S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Fiduka Depotverwaltung GmbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Fidelity Worldwide Investment (UK) Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Favor GmbH - Kapitalmarktberatung">
+      <data key="type">Investor</data>
+    </node>
+    <node id="FPS Vermögensverwaltung GmbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="FPM Frankfurt Performance Management AG">
+      <data key="type">Investor</data>
+    </node>
+    <node id="F &amp; V Vermoegensverwaltung AG">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Eurizon Capital S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Dexia Asset Management Belgium S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Deka Investment GmbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Degroof Fund Management Company">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Daiwa Asset Management Co., Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="DUX Inversores, SGIIC, S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Credit Suisse Asset Management">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Cominvest Asset Management GmbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Colonial First State Global Asset Management (Core)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Colombo Gestioni Patrimoniali SA">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Collins Stewart Wealth Management">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Cheswold Lane Asset Management, LLC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Capitalia Asset Management SGR S.p.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Caixagest - Técnicas de Gestão de Fundos, S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="CP Invest Investicni Spolecnost a.s.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Berenberg Bank (Asset Management)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Banque Privée Edmond de Rothschild Europe">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Banque Cantonale Vaudoise">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Bankia Fondos, S.G.I.I.C., S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Bankhaus Schelhammer &amp; Schattera KAG mbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Bank Sarasin &amp; Cie AG">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Bank Julius Bär Europe AG">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Bank Julius Bär &amp; Co. AG">
+      <data key="type">Investor</data>
+    </node>
+    <node id="BanSabadell Inversión, S.A., S.G.I.I.C., Sociedad Uniperson">
+      <data key="type">Investor</data>
+    </node>
+    <node id="BWInvest">
+      <data key="type">Investor</data>
+    </node>
+    <node id="BG SGR S.p.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="BBK Gestion S.G.I.I.C., S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Azimut SGR S.p.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Anima SGR S.p.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Ampega Investment AG">
+      <data key="type">Investor</data>
+    </node>
+    <node id="American Century Global Investment Management, Inc.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Altegui Gestión, SGC, S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="AllianceBernstein Ltd. (Value)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="AllianceBernstein Ltd. (Growth)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Alfred Berg Kapitalforvaltning AS">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Aleph Sicav">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Aktia Asset Management Oy Ab">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Adepa, S.G.I.I.C., S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="AXA Rosenberg Investment Management Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="AXA Investment Managers Deutschland GmbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="AFiMA GmbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="ABN AMRO Asset Management Italy SGR">
+      <data key="type">Investor</data>
+    </node>
+    <node id="ABN AMRO Asset Management (Netherlands) B.V.">
+      <data key="type">Investor</data>
+    </node>
+    <edge source="Henkel" target="Zürcher Kantonalbank (Asset Management)">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Henkel" target="Yacktman Asset Management LP">
+      <data key="weight">0.08</data>
+    </edge>
+    <edge source="Henkel" target="Wintergreen Advisers, LLC">
+      <data key="weight">0.12</data>
+    </edge>
+    <edge source="Henkel" target="WestLB Mellon Asset Management Kapitalanlagegesellschaft mbH">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Henkel" target="Walser Privatbank AG">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Henkel" target="ValueFocus Equity Management AG">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Henkel" target="Urquijo Gestión, S.A., S.G.I.I.C., Sociedad Unipersonal">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Henkel" target="Universal-Investment-Gesellschaft mbH">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Henkel" target="Union Investment Group">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Henkel" target="UBS Global Asset Management (Switzerland)">
+      <data key="weight">0.05</data>
+    </edge>
+    <edge source="Henkel" target="UBS Global Asset Management (Deutschland) GmbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Henkel" target="UBS (Luxembourg) S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Henkel" target="Triodos Bank N.V.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Henkel" target="Tredje AP Fonden">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Henkel" target="Transatlantique Gestion">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Henkel" target="Tapiola Varainhoito Oy">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Henkel" target="Sydinvest">
+      <data key="weight">0.04</data>
+    </edge>
+    <edge source="Henkel" target="Swisscanto Asset Management AG">
+      <data key="weight">0.14</data>
+    </edge>
+    <edge source="Henkel" target="Swiss &amp; Global Asset Management Ltd.">
+      <data key="weight">0.11</data>
+    </edge>
+    <edge source="Henkel" target="State Street Global Advisors (UK) Ltd.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Henkel" target="Sjunde AP-fonden">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Henkel" target="Singer &amp; Friedlander Investment Management Ltd.">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Henkel" target="Sarasin &amp; Partners LLP">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Henkel" target="Santander Asset Management UK Limited">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Henkel" target="SPARX Asset Management Co., Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Henkel" target="SNS Asset Management">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Henkel" target="SINOPIA Asset Management">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Henkel" target="SEB Investment GmbH">
+      <data key="weight">0.23</data>
+    </edge>
+    <edge source="Henkel" target="SEB Gyllenberg Rahastoyhtiö Oy">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Henkel" target="SEB Asset Management (Stockholm)">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Henkel" target="SAM Sustainable Asset Management Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Henkel" target="Renta 4 Gestora, S.G.I.I.C., S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Henkel" target="RCM (UK) Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Henkel" target="RBC Asset Management UK Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Henkel" target="Quint:Essence Capital S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Henkel" target="Putnam Investments Limited">
+      <data key="weight">0.04</data>
+    </edge>
+    <edge source="Henkel" target="Pohjola Asset Management Limited">
+      <data key="weight">0.07</data>
+    </edge>
+    <edge source="Henkel" target="Pioneer Investments Kapitalanlagegesellschaft mbH">
+      <data key="weight">0.04</data>
+    </edge>
+    <edge source="Henkel" target="Pictet &amp; Cie">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Henkel" target="Pharus Management S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Henkel" target="Pareto Forvaltning AS">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Henkel" target="Palatine Asset Management">
+      <data key="weight">0.03</data>
+    </edge>
+    <edge source="Henkel" target="Oppenheim Kapitalanlagegesellschaft mbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Henkel" target="Nordinvest Norddeutsche Investment-Gesellschaft mbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Henkel" target="Nicholas-Applegate Capital Management, LLC">
+      <data key="weight">0.08</data>
+    </edge>
+    <edge source="Henkel" target="Neptune Investment Management Limited">
+      <data key="weight">0.03</data>
+    </edge>
+    <edge source="Henkel" target="Natixis Asset Management">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Henkel" target="NORD/LB Capital Management GmbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Henkel" target="Münchner Kapitalanlage AG">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Henkel" target="Mitsubishi UFJ Asset Management Co., Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Henkel" target="Metzler Asset Management GmbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Henkel" target="Mercados y Gestión de Valores A.V., S.A">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Henkel" target="Meliorbanca Private S.p.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Henkel" target="MFI Asset Management GmbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Henkel" target="MEAG Munich ERGO Kapitalanlagegesellschaft mbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Henkel" target="M.M.Warburg &amp; CO Luxembourg S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Henkel" target="Luzerner Kantonalbank">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Henkel" target="Lupus alpha Asset Management AG">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Henkel" target="Liberbank Gestion S.G.I.I.C. S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Henkel" target="Lazard Frères Gestion S.A.S.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Henkel" target="La Caixa Gestión de Activos S.G.I.I.C., S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Henkel" target="La Banque Postale Asset Management">
+      <data key="weight">0.15</data>
+    </edge>
+    <edge source="Henkel" target="LLB Asset Management AG">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Henkel" target="LGT Capital Management Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Henkel" target="LBBW Asset Management Investmentgesellschaft mbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Henkel" target="LBB-Invest">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Henkel" target="Kleinwort Benson Investors Dublin Ltd">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Henkel" target="Kathrein Privatbank Aktiengesellschaft">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Henkel" target="KBC Asset Management N.V.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Henkel" target="Jahr Vermögensverwaltung GmbH &amp; Co. KG">
+      <data key="weight">6.11</data>
+    </edge>
+    <edge source="Henkel" target="J O Hambro Capital Management Limited">
+      <data key="weight">0.11</data>
+    </edge>
+    <edge source="Henkel" target="Integral Development Asset Management (I.DE.A.M)">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Henkel" target="Ignis Asset Management Limited">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Henkel" target="INVESCO Asset Management Deutschland GmbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Henkel" target="Henkel Family">
+      <data key="weight">51.48</data>
+    </edge>
+    <edge source="Henkel" target="Helaba Invest Kapitalanlagegesellschaft mbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Henkel" target="Hauck &amp; Aufhäuser Investment Gesellschaft S.A.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Henkel" target="Harris Associates L.P.">
+      <data key="weight">1.05</data>
+    </edge>
+    <edge source="Henkel" target="Handelsbanken Asset Management">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Henkel" target="HSBC Trinkaus &amp; Burkhardt (International) S.A.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Henkel" target="HSBC Global Asset Management Deutschland GmbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Henkel" target="HSBC Global Asset Management (Hong Kong) Limited">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Henkel" target="HSBC Global Asset Management (Canada) Limited">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Henkel" target="Griffin Capital Management Limited">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Henkel" target="Gesfibanc S.G.I.I.C., S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Henkel" target="Gaesco Gestión S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Henkel" target="Frankfurt-Trust Investment-Gesellschaft mbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Henkel" target="Flossbach &amp; von Storch AG">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Henkel" target="Financiera Ponferrada S.A.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Henkel" target="Fiduka Depotverwaltung GmbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Henkel" target="Fidelity Worldwide Investment (UK) Ltd.">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Henkel" target="Favor GmbH - Kapitalmarktberatung">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Henkel" target="FPS Vermögensverwaltung GmbH">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Henkel" target="FPM Frankfurt Performance Management AG">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Henkel" target="F &amp; V Vermoegensverwaltung AG">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Henkel" target="Eurizon Capital S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Henkel" target="Dexia Asset Management Belgium S.A.">
+      <data key="weight">0.03</data>
+    </edge>
+    <edge source="Henkel" target="Deka Investment GmbH">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Henkel" target="Degroof Fund Management Company">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Henkel" target="Daiwa Asset Management Co., Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Henkel" target="DUX Inversores, SGIIC, S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Henkel" target="Credit Suisse Asset Management">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Henkel" target="Cominvest Asset Management GmbH">
+      <data key="weight">0.45</data>
+    </edge>
+    <edge source="Henkel" target="Colonial First State Global Asset Management (Core)">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Henkel" target="Colombo Gestioni Patrimoniali SA">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Henkel" target="Collins Stewart Wealth Management">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Henkel" target="Cheswold Lane Asset Management, LLC">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Henkel" target="Capitalia Asset Management SGR S.p.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Henkel" target="Caixagest - Técnicas de Gestão de Fundos, S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Henkel" target="CP Invest Investicni Spolecnost a.s.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Henkel" target="Berenberg Bank (Asset Management)">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Henkel" target="Banque Privée Edmond de Rothschild Europe">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Henkel" target="Banque Cantonale Vaudoise">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Henkel" target="Bankia Fondos, S.G.I.I.C., S.A.">
+      <data key="weight">0.03</data>
+    </edge>
+    <edge source="Henkel" target="Bankhaus Schelhammer &amp; Schattera KAG mbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Henkel" target="Bank Sarasin &amp; Cie AG">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Henkel" target="Bank Julius Bär Europe AG">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Henkel" target="Bank Julius Bär &amp; Co. AG">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Henkel" target="BanSabadell Inversión, S.A., S.G.I.I.C., Sociedad Uniperson">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Henkel" target="BWInvest">
+      <data key="weight">0.03</data>
+    </edge>
+    <edge source="Henkel" target="BG SGR S.p.A.">
+      <data key="weight">0.1</data>
+    </edge>
+    <edge source="Henkel" target="BBK Gestion S.G.I.I.C., S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Henkel" target="Azimut SGR S.p.A.">
+      <data key="weight">0.9</data>
+    </edge>
+    <edge source="Henkel" target="Anima SGR S.p.A.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Henkel" target="Ampega Investment AG">
+      <data key="weight">0.04</data>
+    </edge>
+    <edge source="Henkel" target="American Century Global Investment Management, Inc.">
+      <data key="weight">0.03</data>
+    </edge>
+    <edge source="Henkel" target="Altegui Gestión, SGC, S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Henkel" target="AllianceBernstein Ltd. (Value)">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Henkel" target="AllianceBernstein Ltd. (Growth)">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Henkel" target="Alfred Berg Kapitalforvaltning AS">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Henkel" target="Aleph Sicav">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Henkel" target="Aktia Asset Management Oy Ab">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Henkel" target="Adepa, S.G.I.I.C., S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Henkel" target="AXA Rosenberg Investment Management Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Henkel" target="AXA Investment Managers Deutschland GmbH">
+      <data key="weight">0.28</data>
+    </edge>
+    <edge source="Henkel" target="AFiMA GmbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Henkel" target="ABN AMRO Asset Management Italy SGR">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Henkel" target="ABN AMRO Asset Management (Netherlands) B.V.">
+      <data key="weight">0.12</data>
+    </edge>
+  </graph>
+</graphml>

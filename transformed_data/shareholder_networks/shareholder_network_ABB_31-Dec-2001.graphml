@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="weight" for="edge" attr.name="weight" attr.type="double" />
+  <key id="type" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="ABB">
+      <data key="type">Cartel</data>
+    </node>
+    <node id="UTI Asset Management Co. Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Templeton Asset Management Ltd. (Emerging Markets)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Templeton Asset Management (Singapore) Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Tata Asset Management Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Sun F&amp;C Asset Management (India) Pvt. Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="SG Asset Management (Singapore) Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="SBI Funds Management Pvt. Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Reliance Capital Asset Management Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Principal PNB Asset Management Company Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Morgan Stanley Investment Management (Singapore)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Lloyd George Investment Management (Hong Kong) Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Kotak Mahindra Asset Management Company Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="JM Financial Asset Management Pvt. Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Invesco Hong Kong Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Franklin Templeton Asset Management (India) Pvt. Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Birla Sun Life Asset Management Company Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Baroda Pioneer Asset Management Company Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Baring Asset Management Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Banca Cívica Gestión de Activos SGIIC, SA.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="AllianceBernstein (Singapore) Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Aberdeen Asset Management (Asia) Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <edge source="ABB" target="UTI Asset Management Co. Ltd.">
+      <data key="weight">2.18</data>
+    </edge>
+    <edge source="ABB" target="Templeton Asset Management Ltd. (Emerging Markets)">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="ABB" target="Templeton Asset Management (Singapore) Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="ABB" target="Tata Asset Management Limited">
+      <data key="weight">0.45</data>
+    </edge>
+    <edge source="ABB" target="Sun F&amp;C Asset Management (India) Pvt. Ltd.">
+      <data key="weight">0.27</data>
+    </edge>
+    <edge source="ABB" target="SG Asset Management (Singapore) Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="ABB" target="SBI Funds Management Pvt. Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="ABB" target="Reliance Capital Asset Management Ltd.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="ABB" target="Principal PNB Asset Management Company Ltd.">
+      <data key="weight">0.05</data>
+    </edge>
+    <edge source="ABB" target="Morgan Stanley Investment Management (Singapore)">
+      <data key="weight">0.47</data>
+    </edge>
+    <edge source="ABB" target="Lloyd George Investment Management (Hong Kong) Ltd.">
+      <data key="weight">1.85</data>
+    </edge>
+    <edge source="ABB" target="Kotak Mahindra Asset Management Company Ltd.">
+      <data key="weight">0.07</data>
+    </edge>
+    <edge source="ABB" target="JM Financial Asset Management Pvt. Ltd.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="ABB" target="Invesco Hong Kong Limited">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="ABB" target="Franklin Templeton Asset Management (India) Pvt. Ltd.">
+      <data key="weight">0.07</data>
+    </edge>
+    <edge source="ABB" target="Birla Sun Life Asset Management Company Ltd.">
+      <data key="weight">0.11</data>
+    </edge>
+    <edge source="ABB" target="Baroda Pioneer Asset Management Company Limited">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="ABB" target="Baring Asset Management Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="ABB" target="Banca Cívica Gestión de Activos SGIIC, SA.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="ABB" target="AllianceBernstein (Singapore) Ltd.">
+      <data key="weight">0.22</data>
+    </edge>
+    <edge source="ABB" target="Aberdeen Asset Management (Asia) Ltd.">
+      <data key="weight">0.94</data>
+    </edge>
+  </graph>
+</graphml>

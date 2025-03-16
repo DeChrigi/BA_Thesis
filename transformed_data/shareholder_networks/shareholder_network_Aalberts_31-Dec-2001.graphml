@@ -1,214 +1,214 @@
 <?xml version='1.0' encoding='utf-8'?>
 <graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
-  <key id="d1" for="edge" attr.name="weight" attr.type="double" />
-  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <key id="weight" for="edge" attr.name="weight" attr.type="double" />
+  <key id="type" for="node" attr.name="type" attr.type="string" />
   <graph edgedefault="undirected">
     <node id="Aalberts">
-      <data key="d0">Cartel</data>
+      <data key="type">Cartel</data>
     </node>
     <node id="WestLB Mellon Asset Management Kapitalanlagegesellschaft mbH">
-      <data key="d0">Investor</data>
+      <data key="type">Investor</data>
     </node>
     <node id="Wealth Management Partners NV">
-      <data key="d0">Investor</data>
+      <data key="type">Investor</data>
     </node>
     <node id="Union Bancaire Privée">
-      <data key="d0">Investor</data>
+      <data key="type">Investor</data>
     </node>
     <node id="Templeton Asset Management Ltd. (Emerging Markets)">
-      <data key="d0">Investor</data>
+      <data key="type">Investor</data>
     </node>
     <node id="Swisscanto Asset Management AG">
-      <data key="d0">Investor</data>
+      <data key="type">Investor</data>
     </node>
     <node id="Societe Generale Private Banking Belgium">
-      <data key="d0">Investor</data>
+      <data key="type">Investor</data>
     </node>
     <node id="Russell Investments Limited">
-      <data key="d0">Investor</data>
+      <data key="type">Investor</data>
     </node>
     <node id="Puilaetco Private Bankers SA">
-      <data key="d0">Investor</data>
+      <data key="type">Investor</data>
     </node>
     <node id="Petercam S.A.">
-      <data key="d0">Investor</data>
+      <data key="type">Investor</data>
     </node>
     <node id="New Star Institutional Managers Limited">
-      <data key="d0">Investor</data>
+      <data key="type">Investor</data>
     </node>
     <node id="NAVITAS Capital">
-      <data key="d0">Investor</data>
+      <data key="type">Investor</data>
     </node>
     <node id="Lazard Asset Management (Deutschland) GmbH">
-      <data key="d0">Investor</data>
+      <data key="type">Investor</data>
     </node>
     <node id="La Française AM Private Bank">
-      <data key="d0">Investor</data>
+      <data key="type">Investor</data>
     </node>
     <node id="Kempen Capital Management N.V.">
-      <data key="d0">Investor</data>
+      <data key="type">Investor</data>
     </node>
     <node id="Kempen Capital Management (UK) Ltd.">
-      <data key="d0">Investor</data>
+      <data key="type">Investor</data>
     </node>
     <node id="Jupiter Asset Management Ltd.">
-      <data key="d0">Investor</data>
+      <data key="type">Investor</data>
     </node>
     <node id="Hoge Noot BV">
-      <data key="d0">Investor</data>
+      <data key="type">Investor</data>
     </node>
     <node id="Franklin Templeton Investment Management Ltd.">
-      <data key="d0">Investor</data>
+      <data key="type">Investor</data>
     </node>
     <node id="Esemplia Emerging Markets">
-      <data key="d0">Investor</data>
+      <data key="type">Investor</data>
     </node>
     <node id="Edmond de Rothschild Asset Management">
-      <data key="d0">Investor</data>
+      <data key="type">Investor</data>
     </node>
     <node id="Dexia Asset Management Belgium S.A.">
-      <data key="d0">Investor</data>
+      <data key="type">Investor</data>
     </node>
     <node id="Deka Investment GmbH">
-      <data key="d0">Investor</data>
+      <data key="type">Investor</data>
     </node>
     <node id="Credit Suisse Asset Management">
-      <data key="d0">Investor</data>
+      <data key="type">Investor</data>
     </node>
     <node id="Citigroup Investments Inc.">
-      <data key="d0">Investor</data>
+      <data key="type">Investor</data>
     </node>
     <node id="Capitalgest SGR S.p.A.">
-      <data key="d0">Investor</data>
+      <data key="type">Investor</data>
     </node>
     <node id="CCR Chevrillon-Philippe">
-      <data key="d0">Investor</data>
+      <data key="type">Investor</data>
     </node>
     <node id="Barclays Wealth Managers">
-      <data key="d0">Investor</data>
+      <data key="type">Investor</data>
     </node>
     <node id="Banque Degroof S.A.">
-      <data key="d0">Investor</data>
+      <data key="type">Investor</data>
     </node>
     <node id="Banca del Gottardo">
-      <data key="d0">Investor</data>
+      <data key="type">Investor</data>
     </node>
     <node id="BNP Paribas Investment Partners Belgium S.A.">
-      <data key="d0">Investor</data>
+      <data key="type">Investor</data>
     </node>
     <node id="Allianz Nederland Asset Management B.V.">
-      <data key="d0">Investor</data>
+      <data key="type">Investor</data>
     </node>
     <node id="Aalberts Family">
-      <data key="d0">Investor</data>
+      <data key="type">Investor</data>
     </node>
     <node id="AXA Investment Managers Paris">
-      <data key="d0">Investor</data>
+      <data key="type">Investor</data>
     </node>
     <node id="ABN AMRO Asset Management (Netherlands) B.V.">
-      <data key="d0">Investor</data>
+      <data key="type">Investor</data>
     </node>
     <edge source="Aalberts" target="WestLB Mellon Asset Management Kapitalanlagegesellschaft mbH">
-      <data key="d1">0.0</data>
+      <data key="weight">0.0</data>
     </edge>
     <edge source="Aalberts" target="Wealth Management Partners NV">
-      <data key="d1">0.0</data>
+      <data key="weight">0.0</data>
     </edge>
     <edge source="Aalberts" target="Union Bancaire Privée">
-      <data key="d1">0.13</data>
+      <data key="weight">0.13</data>
     </edge>
     <edge source="Aalberts" target="Templeton Asset Management Ltd. (Emerging Markets)">
-      <data key="d1">0.38</data>
+      <data key="weight">0.38</data>
     </edge>
     <edge source="Aalberts" target="Swisscanto Asset Management AG">
-      <data key="d1">0.01</data>
+      <data key="weight">0.01</data>
     </edge>
     <edge source="Aalberts" target="Societe Generale Private Banking Belgium">
-      <data key="d1">0.01</data>
+      <data key="weight">0.01</data>
     </edge>
     <edge source="Aalberts" target="Russell Investments Limited">
-      <data key="d1">0.09</data>
+      <data key="weight">0.09</data>
     </edge>
     <edge source="Aalberts" target="Puilaetco Private Bankers SA">
-      <data key="d1">0.69</data>
+      <data key="weight">0.69</data>
     </edge>
     <edge source="Aalberts" target="Petercam S.A.">
-      <data key="d1">0.48</data>
+      <data key="weight">0.48</data>
     </edge>
     <edge source="Aalberts" target="New Star Institutional Managers Limited">
-      <data key="d1">0.11</data>
+      <data key="weight">0.11</data>
     </edge>
     <edge source="Aalberts" target="NAVITAS Capital">
-      <data key="d1">6.11</data>
+      <data key="weight">6.11</data>
     </edge>
     <edge source="Aalberts" target="Lazard Asset Management (Deutschland) GmbH">
-      <data key="d1">0.1</data>
+      <data key="weight">0.1</data>
     </edge>
     <edge source="Aalberts" target="La Française AM Private Bank">
-      <data key="d1">0.03</data>
+      <data key="weight">0.03</data>
     </edge>
     <edge source="Aalberts" target="Kempen Capital Management N.V.">
-      <data key="d1">3.77</data>
+      <data key="weight">3.77</data>
     </edge>
     <edge source="Aalberts" target="Kempen Capital Management (UK) Ltd.">
-      <data key="d1">0.07</data>
+      <data key="weight">0.07</data>
     </edge>
     <edge source="Aalberts" target="Jupiter Asset Management Ltd.">
-      <data key="d1">3.41</data>
+      <data key="weight">3.41</data>
     </edge>
     <edge source="Aalberts" target="Hoge Noot BV">
-      <data key="d1">6.0</data>
+      <data key="weight">6.0</data>
     </edge>
     <edge source="Aalberts" target="Franklin Templeton Investment Management Ltd.">
-      <data key="d1">1.04</data>
+      <data key="weight">1.04</data>
     </edge>
     <edge source="Aalberts" target="Esemplia Emerging Markets">
-      <data key="d1">0.0</data>
+      <data key="weight">0.0</data>
     </edge>
     <edge source="Aalberts" target="Edmond de Rothschild Asset Management">
-      <data key="d1">0.49</data>
+      <data key="weight">0.49</data>
     </edge>
     <edge source="Aalberts" target="Dexia Asset Management Belgium S.A.">
-      <data key="d1">0.02</data>
+      <data key="weight">0.02</data>
     </edge>
     <edge source="Aalberts" target="Deka Investment GmbH">
-      <data key="d1">1.99</data>
+      <data key="weight">1.99</data>
     </edge>
     <edge source="Aalberts" target="Credit Suisse Asset Management">
-      <data key="d1">1.62</data>
+      <data key="weight">1.62</data>
     </edge>
     <edge source="Aalberts" target="Citigroup Investments Inc.">
-      <data key="d1">0.03</data>
+      <data key="weight">0.03</data>
     </edge>
     <edge source="Aalberts" target="Capitalgest SGR S.p.A.">
-      <data key="d1">0.0</data>
+      <data key="weight">0.0</data>
     </edge>
     <edge source="Aalberts" target="CCR Chevrillon-Philippe">
-      <data key="d1">0.8</data>
+      <data key="weight">0.8</data>
     </edge>
     <edge source="Aalberts" target="Barclays Wealth Managers">
-      <data key="d1">0.42</data>
+      <data key="weight">0.42</data>
     </edge>
     <edge source="Aalberts" target="Banque Degroof S.A.">
-      <data key="d1">0.05</data>
+      <data key="weight">0.05</data>
     </edge>
     <edge source="Aalberts" target="Banca del Gottardo">
-      <data key="d1">0.0</data>
+      <data key="weight">0.0</data>
     </edge>
     <edge source="Aalberts" target="BNP Paribas Investment Partners Belgium S.A.">
-      <data key="d1">0.0</data>
+      <data key="weight">0.0</data>
     </edge>
     <edge source="Aalberts" target="Allianz Nederland Asset Management B.V.">
-      <data key="d1">0.13</data>
+      <data key="weight">0.13</data>
     </edge>
     <edge source="Aalberts" target="Aalberts Family">
-      <data key="d1">16.5</data>
+      <data key="weight">16.5</data>
     </edge>
     <edge source="Aalberts" target="AXA Investment Managers Paris">
-      <data key="d1">0.04</data>
+      <data key="weight">0.04</data>
     </edge>
     <edge source="Aalberts" target="ABN AMRO Asset Management (Netherlands) B.V.">
-      <data key="d1">5.74</data>
+      <data key="weight">5.74</data>
     </edge>
   </graph>
 </graphml>

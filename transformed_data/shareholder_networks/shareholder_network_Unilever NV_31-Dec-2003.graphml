@@ -1,0 +1,1678 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="weight" for="edge" attr.name="weight" attr.type="double" />
+  <key id="type" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Unilever NV">
+      <data key="type">Cartel</data>
+    </node>
+    <node id="Zürcher Kantonalbank (Asset Management)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Williams de Broë Private Investment Management Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Wijs &amp; van Oostveen Effectenkantoor">
+      <data key="type">Investor</data>
+    </node>
+    <node id="WestLB Mellon Asset Management Kapitalanlagegesellschaft mbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Warburg Invest Kapitalanlagegesellschaft mbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Volksbank Invest Kapitalanlagegesellschaft mbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Volksbank AG">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Verwaltungs- und Privat-Bank AG">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Van Vemde Vermögensverwaltung AG">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Van Lanschot Bankiers (Luxembourg) S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Value Management &amp; Research AG (VMR)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Urquijo Gestión, S.A., S.G.I.I.C., Sociedad Unipersonal">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Universal-Investment-Gesellschaft mbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Union Investment Group">
+      <data key="type">Investor</data>
+    </node>
+    <node id="UOB Asset Management Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="UBS Global Asset Management (Switzerland)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="UBS Global Asset Management (Deutschland) GmbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="UBS Deutschland AG">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Triodos Bank N.V.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Triasima Portfolio Management Inc.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Tredje AP Fonden">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Threadneedle Asset Management Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="TT International">
+      <data key="type">Investor</data>
+    </node>
+    <node id="TAMRO Capital Partners, LLC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Sydinvest">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Sydbank">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Swisscanto Asset Management AG">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Swiss &amp; Global Asset Management Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Swedbank Robur AB">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Storebrand Kapitalforvaltning AS">
+      <data key="type">Investor</data>
+    </node>
+    <node id="State Street Global Advisors Ltd. (Canada)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="State Street Global Advisors AG">
+      <data key="type">Investor</data>
+    </node>
+    <node id="State Street Global Advisors (UK) Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="State Street Global Advisors (France) S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Standard Life Investments Inc.(Canada)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Sparkasse Oberösterreich Kapitalanlagegesellschaft mbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Sparinvest Fondsmæglerselskab A/S">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Société de Gestion Prévoir">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Société Générale Bank &amp; Trust (Luxembourg)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Singer &amp; Friedlander Investment Management Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Siemens Kapitalanlagegesellschaft mbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Semper Constantia Invest GmbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Seilern Investment Management Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Security Kapitalanlage AG">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Scottish Widows Investment Partnership Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Scotia Asset Management L.P.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="SciVest Capital Management Inc.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Santander Asset Management UK Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Santander Asset Management - S.G.F.I.M., S.A">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Santander Asset Management">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Sanderson Asset Management, Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="STANLIB Asset Management Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="SEB Investment GmbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="SEB Asset Management (Stockholm)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="SAM Sustainable Asset Management Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Robeco Institutional Asset Management B.V.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Ringturm Kapitalanlagegesellschaft mbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="REAAL Verzekeringen N.V.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="RCM (UK) Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="RBC Asset Management UK Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Quoniam Asset Management GmbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Quilter">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Putnam Investments Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Prismafin S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Prima sgr S.p.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Popular Gestão de Activos - S.G.F.I., S.A">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Pohjola Rahastoyhtiö Oy">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Pioneer Investments Kapitalanlagegesellschaft mbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Pioneer Investments Austria GmbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Pioneer Investment Management Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Pictet Asset Management Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Pictet Asset Management (Japan) Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Pictet &amp; Cie">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Philippe Investment Management, Inc.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Pflug Koory, L.L.C.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Petercam S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Pavilion Asset Management">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Pan Holding S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="PMG Fonds Management AG">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Optimum Gestion Financière">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Oppenheim Kapitalanlagegesellschaft mbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Ontario Municipal Employees Retirement System">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Notenstein Privatbank AG">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Norges Bank Investment Management (NBIM)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Nordinvest Norddeutsche Investment-Gesellschaft mbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Nordea Investment Management AB (Sweden)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Nikko Asset Management Co., Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="New Star Institutional Managers Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Neptune Investment Management Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Natixis Asset Management">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Natexis Asset Management">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Natcan Investment Management Inc.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="NTUC Income Insurance Cooperative Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Morgan Stanley Investment Management Ltd. (UK)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Monega Kapitalanlagegesellschaft mbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Mondrian Investment Partners Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Metzler Equity Research">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Metzler Asset Management GmbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="MetLife Alico M.F.C.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Meeschaert Asset Management">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Mapfre Inversión Dos, S.G.I.I.C., S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Manulife Asset Management (Europe) Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Mannheimer Asset Management Kapitalanlage GmbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Mandatum Omaisuudenhoito Oy">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Magna Vista Investment Management">
+      <data key="type">Investor</data>
+    </node>
+    <node id="MEAG Munich ERGO Kapitalanlagegesellschaft mbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="M &amp; G Investment Management Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Luzerner Kantonalbank">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Liechtensteinische Landesbank AG">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Leonardo SGR S.p.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Legal &amp; General Asset Management (France)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="La Caixa Gestión de Activos S.G.I.I.C., S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="LGT Capital Management Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="LBBW Asset Management Investmentgesellschaft mbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="LBB-Invest">
+      <data key="type">Investor</data>
+    </node>
+    <node id="KutxaGest S.G.I.I.C., S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Kempen Capital Management N.V.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Kames Capital">
+      <data key="type">Investor</data>
+    </node>
+    <node id="KEPLER-FONDS Kapitalanlagegesellschaft m.b.H.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="KBC Asset Management N.V.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="JPMorgan Asset Management U.K. Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="JPMorgan Asset Management (Europe)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Investec Asset Management Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Intertrust S.A. Funds Management Co.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="International Mutual Fund Management S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="International Capital Gestion">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Insinger de Beaufort Asset Management N.V.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Insight Investment Management (Global) Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="ISIS Asset Management p.l.c.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="INVESCO Asset Management Deutschland GmbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="ING Investment Management (Netherlands)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Hornblower Fischer AG">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Henderson Global Investors Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Helaba Invest Kapitalanlagegesellschaft mbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Hansberger Global Investors, Inc. (Canada)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Hang Seng Investment Management Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Hagströmer &amp; Qviberg Fondkommission AB">
+      <data key="type">Investor</data>
+    </node>
+    <node id="HSBC Global Asset Management Deutschland GmbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="HSBC Bank Bermuda Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="HANSAINVEST Hanseatische Investment GmbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Gérifonds S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Gutmann Kapitalanlage Aktiengesellschaft">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Gudme Raaschou Fondsmæglerselskab A/S">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Grossbötzl, Schmitz &amp; Partner Vermögensverwaltersozietät ">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Goldman Sachs Asset Management International">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Gesfibanc S.G.I.I.C., S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Gesdinco Gestión S.G.I.I.C., S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Gerling-Konzern Gesellschaft für Vermögensmanagement mbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Geode Capital Management, L.L.C.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Generali Investments France S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Generali Investments Deutschland Kapitalanlagegesellschaft m">
+      <data key="type">Investor</data>
+    </node>
+    <node id="GLG Partners UK Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="GAM London Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Fundamentum Asset Management S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Frankfurt-Trust Investment-Gesellschaft mbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Fortis Investments France">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Fortis Asset Management Japan Co., Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Fjärde AP-Fonden">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Fisch Asset Management AG">
+      <data key="type">Investor</data>
+    </node>
+    <node id="First Private Investment Management KAG mbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Fifth Third Asset Management (Michigan)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Fiera Capital Corporation">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Fiduka Depotverwaltung GmbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Fidelity Worldwide Investment (UK) Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="F&amp;C Asset Management plc">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Evli Fund Management Company Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Everest Funds Management, L.L.C.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Euromobiliare Asset Management SGR S.p.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Eurizon Capital SGR S.p.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Eurizon Capital S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Esemplia Emerging Markets">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Ersel Asset Management SGR S.p.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Employees Retirement System of Texas">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Egnatia Fund Management Company S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Edmond de Rothschild Asset Management">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Ecofi Investissements S.A">
+      <data key="type">Investor</data>
+    </node>
+    <node id="ERSTE-SPARINVEST Kapitalanlagegesellschaft mbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="EDM Gestión S.A., S.G.I.I.C.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Dresdner Bank Luxembourg S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Dr. Kohlhase Vermögensverwaltungsgesellschaft mbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Doolittle &amp; Ganos Investment Counsel, LLC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Dexia Asset Management Luxembourg S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Dexia Asset Management Belgium S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Deutsche Postbank Financial Services GmbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Delta Lloyd Investment Managers GmbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Deka Investment GmbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="DZ Capital Management GmbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="DWS Investments (Spain), S.G.I.I.C., S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="DB Capital &amp; Asset Management Kapitalanlagegesellschaft mbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Crédit Lyonnais Luxembourg S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Crédit Lyonnais Asset Management S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Credit Suisse Investments Australia Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Credit Suisse Asset Management KAG mbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Credit Suisse Asset Management">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Credit Suisse (Deutschland) AG">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Commerce Capital Management, Inc.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Cominvest Asset Management GmbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Cofibol">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Co-operative Asset Management">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Clariden Leu">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Claremont Investment Partners, L.L.C.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Carnegie Rahastoyhtiö Oyj">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Capitalia Asset Management SGR S.p.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Capital Research Global Investors (Hong Kong)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Capital Research &amp; Management Company">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Capital International Inc. (Singapore)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Cantabria Fondos S.A., S.G.I.I.C.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Canada Life Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Caixagest - Técnicas de Gestão de Fundos, S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Caisse de Depot et Placement du Quebec">
+      <data key="type">Investor</data>
+    </node>
+    <node id="CPR Asset Management">
+      <data key="type">Investor</data>
+    </node>
+    <node id="CPP Investment Board">
+      <data key="type">Investor</data>
+    </node>
+    <node id="CIBC Global Asset Management Asia Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="C.A.S.E. Management, Inc.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Butterfield Bank (Guernsey) Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Butterfield Asset Management Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Boulder Investment Advisers, LLC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="BlackRock International Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Bissett Investment Management Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Beutel, Goodman &amp; Company Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Bethmann Bank A.G.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Berenberg Bank (Asset Management)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Bellevue Asset Management AG">
+      <data key="type">Investor</data>
+    </node>
+    <node id="BayernLB">
+      <data key="type">Investor</data>
+    </node>
+    <node id="BayernInvest Kapitalanlagegesellschaft mbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Baring Asset Management Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Barclays Wealth Managers Portugal SGFIM, S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Barclays Wealth">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Banque Safdié S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Banque Privée Edmond de Rothschild S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Banque Privée Edmond de Rothschild Europe">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Bankia Banca Privada Gestion SGIIC S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Bankhaus Schelhammer &amp; Schattera KAG mbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Bank für Tirol und Vorarlberg AG">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Bank Vontobel Österreich AG">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Bank Vontobel AG (Private Banking)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Bank Sarasin &amp; Cie AG">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Bank Leu AG">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Bank Julius Bär Europe AG">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Bank Hofmann AG">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Banif Gestão de Activos S.G.F.I.M., S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Banca del Gottardo">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Banca Finnat Euramerica S.p.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="BanSabadell Inversión, S.A., S.G.I.I.C., Sociedad Uniperson">
+      <data key="type">Investor</data>
+    </node>
+    <node id="BWInvest">
+      <data key="type">Investor</data>
+    </node>
+    <node id="BSI S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="BPI Gestão de Activos - S.G.F.I.M., S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="BNP Paribas Investment Partners Belgium S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="BMN Gestión de Activos S.G.I.I.C., S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="BIM Intermobiliare SGR S.p.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="BCGE Asset Management">
+      <data key="type">Investor</data>
+    </node>
+    <node id="BBVA Patrimonios Gestora S.G.I.I.C., S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="BBVA Asset Management, S.A., S.G.I.I.C.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Ashburton (Jersey) Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Argenta Fund">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Arca SGR S.p.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Arca BIM S.p.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="AmpegaGerling Investment GmbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Ampega Investment AG">
+      <data key="type">Investor</data>
+    </node>
+    <node id="American Express Asset Management Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="American Century Global Investment Management, Inc.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Alte Leipziger Trust Investment-Gesellschaft mbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Allianz Nederland Asset Management B.V.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Allianz Invest Kapitalanlagegesellschaft mbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="AllianceBernstein Ltd. (Value)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Aletti Gestielle SGR S.p.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="AcomeA SGR S.p.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Aberdeen Asset Management, Inc. (US)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="AXA Rosenberg Investment Management Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="AXA Investment Managers UK Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="AMF Pensionsförsäkring AB">
+      <data key="type">Investor</data>
+    </node>
+    <node id="AIB Govett Asia Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="AEGON Investment Management B.V.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="ACPI Investments Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="ABN AMRO Asset Management Ltd. (Fortis)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="ABN AMRO Asset Management (Netherlands) B.V.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="ABN AMRO Asset Management (Deutschland) GmbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="2CG Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <edge source="Unilever NV" target="Zürcher Kantonalbank (Asset Management)">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Williams de Broë Private Investment Management Limited">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Wijs &amp; van Oostveen Effectenkantoor">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Unilever NV" target="WestLB Mellon Asset Management Kapitalanlagegesellschaft mbH">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Unilever NV" target="Warburg Invest Kapitalanlagegesellschaft mbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Volksbank Invest Kapitalanlagegesellschaft mbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Volksbank AG">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Verwaltungs- und Privat-Bank AG">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Unilever NV" target="Van Vemde Vermögensverwaltung AG">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Van Lanschot Bankiers (Luxembourg) S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Value Management &amp; Research AG (VMR)">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Urquijo Gestión, S.A., S.G.I.I.C., Sociedad Unipersonal">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Universal-Investment-Gesellschaft mbH">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Unilever NV" target="Union Investment Group">
+      <data key="weight">0.46</data>
+    </edge>
+    <edge source="Unilever NV" target="UOB Asset Management Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="UBS Global Asset Management (Switzerland)">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="UBS Global Asset Management (Deutschland) GmbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="UBS Deutschland AG">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Triodos Bank N.V.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Triasima Portfolio Management Inc.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Tredje AP Fonden">
+      <data key="weight">0.07</data>
+    </edge>
+    <edge source="Unilever NV" target="Threadneedle Asset Management Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="TT International">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="TAMRO Capital Partners, LLC">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Sydinvest">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Sydbank">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Swisscanto Asset Management AG">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Swiss &amp; Global Asset Management Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Swedbank Robur AB">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Storebrand Kapitalforvaltning AS">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="State Street Global Advisors Ltd. (Canada)">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="State Street Global Advisors AG">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="State Street Global Advisors (UK) Ltd.">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Unilever NV" target="State Street Global Advisors (France) S.A.">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Unilever NV" target="Standard Life Investments Inc.(Canada)">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Sparkasse Oberösterreich Kapitalanlagegesellschaft mbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Sparinvest Fondsmæglerselskab A/S">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Société de Gestion Prévoir">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Société Générale Bank &amp; Trust (Luxembourg)">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Singer &amp; Friedlander Investment Management Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Siemens Kapitalanlagegesellschaft mbH">
+      <data key="weight">0.13</data>
+    </edge>
+    <edge source="Unilever NV" target="Semper Constantia Invest GmbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Seilern Investment Management Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Security Kapitalanlage AG">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Scottish Widows Investment Partnership Ltd.">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Unilever NV" target="Scotia Asset Management L.P.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="SciVest Capital Management Inc.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Santander Asset Management UK Limited">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Unilever NV" target="Santander Asset Management - S.G.F.I.M., S.A">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Santander Asset Management">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Sanderson Asset Management, Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="STANLIB Asset Management Ltd.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Unilever NV" target="SEB Investment GmbH">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Unilever NV" target="SEB Asset Management (Stockholm)">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="SAM Sustainable Asset Management Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Robeco Institutional Asset Management B.V.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Ringturm Kapitalanlagegesellschaft mbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="REAAL Verzekeringen N.V.">
+      <data key="weight">0.05</data>
+    </edge>
+    <edge source="Unilever NV" target="RCM (UK) Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="RBC Asset Management UK Ltd.">
+      <data key="weight">0.04</data>
+    </edge>
+    <edge source="Unilever NV" target="Quoniam Asset Management GmbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Quilter">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Putnam Investments Limited">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Prismafin S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Prima sgr S.p.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Popular Gestão de Activos - S.G.F.I., S.A">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Pohjola Rahastoyhtiö Oy">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Pioneer Investments Kapitalanlagegesellschaft mbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Pioneer Investments Austria GmbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Pioneer Investment Management Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Pictet Asset Management Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Pictet Asset Management (Japan) Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Pictet &amp; Cie">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Philippe Investment Management, Inc.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Pflug Koory, L.L.C.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Petercam S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Pavilion Asset Management">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Pan Holding S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="PMG Fonds Management AG">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Optimum Gestion Financière">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Oppenheim Kapitalanlagegesellschaft mbH">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Unilever NV" target="Ontario Municipal Employees Retirement System">
+      <data key="weight">0.04</data>
+    </edge>
+    <edge source="Unilever NV" target="Notenstein Privatbank AG">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Norges Bank Investment Management (NBIM)">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Nordinvest Norddeutsche Investment-Gesellschaft mbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Nordea Investment Management AB (Sweden)">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Nikko Asset Management Co., Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="New Star Institutional Managers Limited">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Neptune Investment Management Limited">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Natixis Asset Management">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Natexis Asset Management">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Natcan Investment Management Inc.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Unilever NV" target="NTUC Income Insurance Cooperative Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Morgan Stanley Investment Management Ltd. (UK)">
+      <data key="weight">0.41</data>
+    </edge>
+    <edge source="Unilever NV" target="Monega Kapitalanlagegesellschaft mbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Mondrian Investment Partners Limited">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Unilever NV" target="Metzler Equity Research">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Metzler Asset Management GmbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="MetLife Alico M.F.C.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Meeschaert Asset Management">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Mapfre Inversión Dos, S.G.I.I.C., S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Manulife Asset Management (Europe) Limited">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Mannheimer Asset Management Kapitalanlage GmbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Mandatum Omaisuudenhoito Oy">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Magna Vista Investment Management">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="MEAG Munich ERGO Kapitalanlagegesellschaft mbH">
+      <data key="weight">0.05</data>
+    </edge>
+    <edge source="Unilever NV" target="M &amp; G Investment Management Ltd.">
+      <data key="weight">0.04</data>
+    </edge>
+    <edge source="Unilever NV" target="Luzerner Kantonalbank">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Liechtensteinische Landesbank AG">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Leonardo SGR S.p.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Legal &amp; General Asset Management (France)">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="La Caixa Gestión de Activos S.G.I.I.C., S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="LGT Capital Management Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="LBBW Asset Management Investmentgesellschaft mbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="LBB-Invest">
+      <data key="weight">0.11</data>
+    </edge>
+    <edge source="Unilever NV" target="KutxaGest S.G.I.I.C., S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Kempen Capital Management N.V.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Kames Capital">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Unilever NV" target="KEPLER-FONDS Kapitalanlagegesellschaft m.b.H.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="KBC Asset Management N.V.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="JPMorgan Asset Management U.K. Limited">
+      <data key="weight">0.04</data>
+    </edge>
+    <edge source="Unilever NV" target="JPMorgan Asset Management (Europe)">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Unilever NV" target="Investec Asset Management Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Intertrust S.A. Funds Management Co.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="International Mutual Fund Management S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="International Capital Gestion">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Insinger de Beaufort Asset Management N.V.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Insight Investment Management (Global) Limited">
+      <data key="weight">0.03</data>
+    </edge>
+    <edge source="Unilever NV" target="ISIS Asset Management p.l.c.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="INVESCO Asset Management Deutschland GmbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="ING Investment Management (Netherlands)">
+      <data key="weight">2.4</data>
+    </edge>
+    <edge source="Unilever NV" target="Hornblower Fischer AG">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Henderson Global Investors Ltd.">
+      <data key="weight">0.07</data>
+    </edge>
+    <edge source="Unilever NV" target="Helaba Invest Kapitalanlagegesellschaft mbH">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Unilever NV" target="Hansberger Global Investors, Inc. (Canada)">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Hang Seng Investment Management Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Hagströmer &amp; Qviberg Fondkommission AB">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="HSBC Global Asset Management Deutschland GmbH">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Unilever NV" target="HSBC Bank Bermuda Limited">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="HANSAINVEST Hanseatische Investment GmbH">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Unilever NV" target="Gérifonds S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Gutmann Kapitalanlage Aktiengesellschaft">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Gudme Raaschou Fondsmæglerselskab A/S">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Grossbötzl, Schmitz &amp; Partner Vermögensverwaltersozietät ">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Goldman Sachs Asset Management International">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Gesfibanc S.G.I.I.C., S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Gesdinco Gestión S.G.I.I.C., S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Gerling-Konzern Gesellschaft für Vermögensmanagement mbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Geode Capital Management, L.L.C.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Unilever NV" target="Generali Investments France S.A.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Unilever NV" target="Generali Investments Deutschland Kapitalanlagegesellschaft m">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="GLG Partners UK Limited">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="GAM London Limited">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Fundamentum Asset Management S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Frankfurt-Trust Investment-Gesellschaft mbH">
+      <data key="weight">0.03</data>
+    </edge>
+    <edge source="Unilever NV" target="Fortis Investments France">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Fortis Asset Management Japan Co., Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Fjärde AP-Fonden">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Fisch Asset Management AG">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="First Private Investment Management KAG mbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Fifth Third Asset Management (Michigan)">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Unilever NV" target="Fiera Capital Corporation">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Fiduka Depotverwaltung GmbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Fidelity Worldwide Investment (UK) Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="F&amp;C Asset Management plc">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Evli Fund Management Company Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Everest Funds Management, L.L.C.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Euromobiliare Asset Management SGR S.p.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Eurizon Capital SGR S.p.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Eurizon Capital S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Esemplia Emerging Markets">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Ersel Asset Management SGR S.p.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Employees Retirement System of Texas">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Egnatia Fund Management Company S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Edmond de Rothschild Asset Management">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Ecofi Investissements S.A">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="ERSTE-SPARINVEST Kapitalanlagegesellschaft mbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="EDM Gestión S.A., S.G.I.I.C.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Dresdner Bank Luxembourg S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Dr. Kohlhase Vermögensverwaltungsgesellschaft mbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Doolittle &amp; Ganos Investment Counsel, LLC">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Dexia Asset Management Luxembourg S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Dexia Asset Management Belgium S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Deutsche Postbank Financial Services GmbH">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Unilever NV" target="Delta Lloyd Investment Managers GmbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Deka Investment GmbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="DZ Capital Management GmbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="DWS Investments (Spain), S.G.I.I.C., S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="DB Capital &amp; Asset Management Kapitalanlagegesellschaft mbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Crédit Lyonnais Luxembourg S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Crédit Lyonnais Asset Management S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Credit Suisse Investments Australia Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Credit Suisse Asset Management KAG mbH">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Unilever NV" target="Credit Suisse Asset Management">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Unilever NV" target="Credit Suisse (Deutschland) AG">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Commerce Capital Management, Inc.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Cominvest Asset Management GmbH">
+      <data key="weight">0.03</data>
+    </edge>
+    <edge source="Unilever NV" target="Cofibol">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Co-operative Asset Management">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Clariden Leu">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Claremont Investment Partners, L.L.C.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Carnegie Rahastoyhtiö Oyj">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Capitalia Asset Management SGR S.p.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Capital Research Global Investors (Hong Kong)">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Unilever NV" target="Capital Research &amp; Management Company">
+      <data key="weight">7.64</data>
+    </edge>
+    <edge source="Unilever NV" target="Capital International Inc. (Singapore)">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Cantabria Fondos S.A., S.G.I.I.C.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Canada Life Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Caixagest - Técnicas de Gestão de Fundos, S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Caisse de Depot et Placement du Quebec">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Unilever NV" target="CPR Asset Management">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="CPP Investment Board">
+      <data key="weight">0.04</data>
+    </edge>
+    <edge source="Unilever NV" target="CIBC Global Asset Management Asia Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="C.A.S.E. Management, Inc.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Butterfield Bank (Guernsey) Limited">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Unilever NV" target="Butterfield Asset Management Limited">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Unilever NV" target="Boulder Investment Advisers, LLC">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="BlackRock International Ltd.">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Unilever NV" target="Bissett Investment Management Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Beutel, Goodman &amp; Company Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Bethmann Bank A.G.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Berenberg Bank (Asset Management)">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Bellevue Asset Management AG">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="BayernLB">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="BayernInvest Kapitalanlagegesellschaft mbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Baring Asset Management Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Barclays Wealth Managers Portugal SGFIM, S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Barclays Wealth">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Banque Safdié S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Banque Privée Edmond de Rothschild S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Banque Privée Edmond de Rothschild Europe">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Bankia Banca Privada Gestion SGIIC S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Bankhaus Schelhammer &amp; Schattera KAG mbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Bank für Tirol und Vorarlberg AG">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Bank Vontobel Österreich AG">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Bank Vontobel AG (Private Banking)">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Bank Sarasin &amp; Cie AG">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Bank Leu AG">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Bank Julius Bär Europe AG">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Bank Hofmann AG">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Banif Gestão de Activos S.G.F.I.M., S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Banca del Gottardo">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Banca Finnat Euramerica S.p.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="BanSabadell Inversión, S.A., S.G.I.I.C., Sociedad Uniperson">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="BWInvest">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="BSI S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="BPI Gestão de Activos - S.G.F.I.M., S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="BNP Paribas Investment Partners Belgium S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="BMN Gestión de Activos S.G.I.I.C., S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="BIM Intermobiliare SGR S.p.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="BCGE Asset Management">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="BBVA Patrimonios Gestora S.G.I.I.C., S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="BBVA Asset Management, S.A., S.G.I.I.C.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Ashburton (Jersey) Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Argenta Fund">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Arca SGR S.p.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Arca BIM S.p.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="AmpegaGerling Investment GmbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Ampega Investment AG">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Unilever NV" target="American Express Asset Management Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="American Century Global Investment Management, Inc.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Alte Leipziger Trust Investment-Gesellschaft mbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Allianz Nederland Asset Management B.V.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Allianz Invest Kapitalanlagegesellschaft mbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="AllianceBernstein Ltd. (Value)">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Aletti Gestielle SGR S.p.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="AcomeA SGR S.p.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="Aberdeen Asset Management, Inc. (US)">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="AXA Rosenberg Investment Management Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="AXA Investment Managers UK Ltd.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Unilever NV" target="AMF Pensionsförsäkring AB">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="AIB Govett Asia Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="AEGON Investment Management B.V.">
+      <data key="weight">0.08</data>
+    </edge>
+    <edge source="Unilever NV" target="ACPI Investments Limited">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="ABN AMRO Asset Management Ltd. (Fortis)">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Unilever NV" target="ABN AMRO Asset Management (Netherlands) B.V.">
+      <data key="weight">0.04</data>
+    </edge>
+    <edge source="Unilever NV" target="ABN AMRO Asset Management (Deutschland) GmbH">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Unilever NV" target="2CG Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+  </graph>
+</graphml>
