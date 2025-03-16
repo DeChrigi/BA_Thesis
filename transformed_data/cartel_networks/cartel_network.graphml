@@ -1,0 +1,2888 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="classification" for="node" attr.name="classification" attr.type="string" />
+  <key id="subsector" for="node" attr.name="subsector" attr.type="long" />
+  <key id="sector" for="node" attr.name="sector" attr.type="long" />
+  <key id="number_of_cartel_firms" for="node" attr.name="number_of_cartel_firms" attr.type="double" />
+  <key id="number_of_firms" for="node" attr.name="number_of_firms" attr.type="long" />
+  <key id="duration" for="node" attr.name="duration" attr.type="long" />
+  <key id="endyear" for="node" attr.name="endyear" attr.type="long" />
+  <key id="startyear" for="node" attr.name="startyear" attr.type="long" />
+  <key id="case" for="node" attr.name="case" attr.type="string" />
+  <key id="firm_name" for="node" attr.name="firm_name" attr.type="string" />
+  <key id="key_iustin_long" for="node" attr.name="key_iustin_long" attr.type="string" />
+  <key id="key_iustin" for="node" attr.name="key_iustin" attr.type="string" />
+  <key id="bipartite" for="node" attr.name="bipartite" attr.type="long" />
+  <key id="type" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Elf Aquitaine SA">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000007728</data>
+      <data key="key_iustin_long">31865C000007728</data>
+      <data key="firm_name">Elf Aquitaine SA</data>
+    </node>
+    <node id="BASF SE">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000008351</data>
+      <data key="key_iustin_long">31865C000008351</data>
+      <data key="firm_name">BASF SE</data>
+    </node>
+    <node id="Koninklijke DSM">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000013105</data>
+      <data key="key_iustin_long">31865C000013105</data>
+      <data key="firm_name">Koninklijke DSM</data>
+    </node>
+    <node id="ENI">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C901505544</data>
+      <data key="key_iustin_long">31865C901505544</data>
+      <data key="firm_name">ENI</data>
+    </node>
+    <node id="Wacker Chemie AG">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C901711026</data>
+      <data key="key_iustin_long">31865C901711026</data>
+      <data key="firm_name">Wacker Chemie AG</data>
+    </node>
+    <node id="Royal Dutch Shell">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C901842957</data>
+      <data key="key_iustin_long">31865C901842957</data>
+      <data key="firm_name">Royal Dutch Shell</data>
+    </node>
+    <node id="PPG Industries Inc">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000003476</data>
+      <data key="key_iustin_long">31906C000003476</data>
+      <data key="firm_name">Vernante Pennitalia SpA</data>
+    </node>
+    <node id="Saint Gobain">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000007729</data>
+      <data key="key_iustin_long">31906C000007729</data>
+      <data key="firm_name">Fabbrica pisana SpA</data>
+    </node>
+    <node id="Hoya Corporation">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000087990</data>
+      <data key="key_iustin_long">32800C000087990</data>
+      <data key="firm_name">Quantel International</data>
+    </node>
+    <node id="FMC Corp.">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000001711</data>
+      <data key="key_iustin_long">33016C000001711</data>
+      <data key="firm_name">FMC Wyoming Corporation</data>
+    </node>
+    <node id="KERR-MCGEE CORPORATION">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000002628</data>
+      <data key="key_iustin_long">33016C000002628</data>
+      <data key="firm_name">Kerr McGee Chemical Corporation</data>
+    </node>
+    <node id="Tenneco Inc">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000004477</data>
+      <data key="key_iustin_long">33016C000004477</data>
+      <data key="firm_name">Tenneco Minerals Company</data>
+    </node>
+    <node id="Vicat SA">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000007163</data>
+      <data key="key_iustin_long">33126C000007163</data>
+      <data key="firm_name">Vicat SA</data>
+    </node>
+    <node id="Lafarge SA">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000007744</data>
+      <data key="key_iustin_long">33126C000007744</data>
+      <data key="firm_name">Lafarge Coppée SA</data>
+    </node>
+    <node id="Heracles General Cement SA">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000008415</data>
+      <data key="key_iustin_long">33126C000008415</data>
+      <data key="firm_name">Heracles General Cement Company</data>
+    </node>
+    <node id="Titan Cement Company SA">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000008470</data>
+      <data key="key_iustin_long">33126C000008470</data>
+      <data key="firm_name">Titan Cement Company</data>
+    </node>
+    <node id="Cementir Holding">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000009551</data>
+      <data key="key_iustin_long">33126C000009551</data>
+      <data key="firm_name">Cementir-Cementerie del Tirreno SpA</data>
+    </node>
+    <node id="Italcementi">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000009565</data>
+      <data key="key_iustin_long">33126C000009565</data>
+      <data key="firm_name">Italcementi-Fabbrishe riunite Cemento SpA</data>
+    </node>
+    <node id="Buzzi Unicem">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000009585</data>
+      <data key="key_iustin_long">33126C000009585</data>
+      <data key="firm_name">Fratelli Buzzi SpA</data>
+    </node>
+    <node id="Dyckerhoff AG">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000087173</data>
+      <data key="key_iustin_long">33126C000087173</data>
+      <data key="firm_name">Dyckerhoff AG</data>
+    </node>
+    <node id="Heidelbergcement AG">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C901509694</data>
+      <data key="key_iustin_long">33126C901509694</data>
+      <data key="firm_name">Heidelberger Zement AG</data>
+    </node>
+    <node id="Solvay">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000005678</data>
+      <data key="key_iustin_long">33133C000005678</data>
+      <data key="firm_name">Solvay et Cie. SA</data>
+    </node>
+    <node id="Imperial Chemical Industries PLC">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000017180</data>
+      <data key="key_iustin_long">33133C000017180</data>
+      <data key="firm_name">Imperial Chemical Industries plc.</data>
+    </node>
+    <node id="Associated British Foods PLC">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000015507</data>
+      <data key="key_iustin_long">33708C000015507</data>
+      <data key="firm_name">British Sugar plc</data>
+    </node>
+    <node id="Tate &amp; Lyle PLC">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000017195</data>
+      <data key="key_iustin_long">33708C000017195</data>
+      <data key="firm_name">Tate &amp; Lyle plc.</data>
+    </node>
+    <node id="International Paper Company">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000002485</data>
+      <data key="key_iustin_long">33833C000002485</data>
+      <data key="firm_name">Papeteries de Lancey SA</data>
+    </node>
+    <node id="Cascades Inc">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000005927</data>
+      <data key="key_iustin_long">33833C000005927</data>
+      <data key="firm_name">Cascades SA</data>
+    </node>
+    <node id="Holmen AB">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000014523</data>
+      <data key="key_iustin_long">33833C000014523</data>
+      <data key="firm_name">Mo Och Domsjö AB</data>
+    </node>
+    <node id="SCA AB">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000088305</data>
+      <data key="key_iustin_long">33833C000088305</data>
+      <data key="firm_name">SCA Holding</data>
+    </node>
+    <node id="Stora Enso OYJ">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C902431667</data>
+      <data key="key_iustin_long">33833C902431667</data>
+      <data key="firm_name">Stora Kopparbergs Bergslags AB</data>
+    </node>
+    <node id="Mitsui Osk Lines Limited">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000010813</data>
+      <data key="key_iustin_long">34250C000010813</data>
+      <data key="firm_name">Mitsui O.S.K. Lines Ltd (MOL)</data>
+    </node>
+    <node id="Kawasaki Kisen Kaisha Limited">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000010902</data>
+      <data key="key_iustin_long">34250C000010902</data>
+      <data key="firm_name">Kawasaki Kisen Kaisha Ltd (K Line)</data>
+    </node>
+    <node id="Hanjin Shipping Company Limited">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000012192</data>
+      <data key="key_iustin_long">34250C000012192</data>
+      <data key="firm_name">Hanjin Shipping Co. Ltd (Hanjin)</data>
+    </node>
+    <node id="KONINKLIJKE P&amp;O NEDLLOYD NV">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000012966</data>
+      <data key="key_iustin_long">34250C000012966</data>
+      <data key="firm_name">Nedlloyd Lijnen BV (Nedlloyd)</data>
+    </node>
+    <node id="Neptune Orient Lines Limited">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000013695</data>
+      <data key="key_iustin_long">34250C000013695</data>
+      <data key="firm_name">Neptune Orient Lines Ltd (NOL)</data>
+    </node>
+    <node id="Evergreen Marine Corp. (Taiwan) Limited">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000014823</data>
+      <data key="key_iustin_long">34250C000014823</data>
+      <data key="firm_name">Evergreen Marine Corp (Taiwan) Ltd (Evergreen)</data>
+    </node>
+    <node id="Yang Ming Marine Transport Corp.">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000014964</data>
+      <data key="key_iustin_long">34250C000014964</data>
+      <data key="firm_name">Yangming Marine Transport Corp. (Yangming)</data>
+    </node>
+    <node id="Hyundai Merchant Marine">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000032447</data>
+      <data key="key_iustin_long">34250C000032447</data>
+      <data key="firm_name">Hyundai Merchant Marine Co. Ltd (Hyundai)</data>
+    </node>
+    <node id="Nippon Yusen KK">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C901849868</data>
+      <data key="key_iustin_long">34250C901849868</data>
+      <data key="firm_name">Nippon Yusen Kabushiki Kaisha (NYK)</data>
+    </node>
+    <node id="Orient Overseas (International) Limited">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000008711</data>
+      <data key="key_iustin_long">34446C000008711</data>
+      <data key="firm_name">OOCL (UK) Ltd.</data>
+    </node>
+    <node id="Minoan Lines SA">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000047602</data>
+      <data key="key_iustin_long">34466C000047602</data>
+      <data key="firm_name">Minoan Lines</data>
+    </node>
+    <node id="CSX Corp.">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000000837</data>
+      <data key="key_iustin_long">35134C000000837</data>
+      <data key="firm_name">Sea-Land Service Inc. (Sea-Land)</data>
+    </node>
+    <node id="PENINSULAR AND ORIENTAL STEAM NAVIGATION">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000015594</data>
+      <data key="key_iustin_long">35134C000015594</data>
+      <data key="firm_name">P&amp; O Containers Limited (P&amp; O)</data>
+    </node>
+    <node id="Bollore">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000007689</data>
+      <data key="key_iustin_long">36212C000007689</data>
+      <data key="firm_name">Bolloré SA</data>
+    </node>
+    <node id="Mitsubishi Paper Mills Limited">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000011739</data>
+      <data key="key_iustin_long">36212C000011739</data>
+      <data key="firm_name">Mitsubishi HiTech Paper Bielefeld GmbH</data>
+    </node>
+    <node id="Sappi Limited">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000013976</data>
+      <data key="key_iustin_long">36212C000013976</data>
+      <data key="firm_name">Sappi Limited</data>
+    </node>
+    <node id="Iberpapel Gestion SA">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000040390</data>
+      <data key="key_iustin_long">36212C000040390</data>
+      <data key="firm_name">Papelera Guipuzoana de Zicuñaga SA</data>
+    </node>
+    <node id="Carbide/Graphite Group">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000000901</data>
+      <data key="key_iustin_long">36490C000000901</data>
+      <data key="firm_name">The Carbide Graphite Group Inc.</data>
+    </node>
+    <node id="UCAR CARBON S/A">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000005765</data>
+      <data key="key_iustin_long">36490C000005765</data>
+      <data key="firm_name">UCAR International Inc.</data>
+    </node>
+    <node id="Tokai Carbon Company Limited">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000010419</data>
+      <data key="key_iustin_long">36490C000010419</data>
+      <data key="firm_name">Tokai Carbon Co. Ltd</data>
+    </node>
+    <node id="SEC Carbon Limited">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000011514</data>
+      <data key="key_iustin_long">36490C000011514</data>
+      <data key="firm_name">SEC Corporation</data>
+    </node>
+    <node id="Showa Denko KK">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000012021</data>
+      <data key="key_iustin_long">36490C000012021</data>
+      <data key="firm_name">Showa Denko K.K.</data>
+    </node>
+    <node id="Nippon Carbon Company Limited">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000089452</data>
+      <data key="key_iustin_long">36490C000089452</data>
+      <data key="firm_name">Nippon Carbon Co. Ltd</data>
+    </node>
+    <node id="SGL Carbon AG">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C901931656</data>
+      <data key="key_iustin_long">36490C901931656</data>
+      <data key="firm_name">SGL Carbon AG</data>
+    </node>
+    <node id="Archer-Daniels-Midland Company">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000000408</data>
+      <data key="key_iustin_long">36545C000000408</data>
+      <data key="firm_name">Archer Daniels Midland Company</data>
+    </node>
+    <node id="Ajinomoto Company Inc">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000012040</data>
+      <data key="key_iustin_long">36545C000012040</data>
+      <data key="firm_name">Ajinomoto Company</data>
+    </node>
+    <node id="Kyowa Hakko Kogyo Company Ltd">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000088007</data>
+      <data key="key_iustin_long">36545C000088007</data>
+      <data key="firm_name">Kyowa Hakko Kogyo Company Limited</data>
+    </node>
+    <node id="Daesang Corporation">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000088946</data>
+      <data key="key_iustin_long">36545C000088946</data>
+      <data key="firm_name">Daesang Corporation</data>
+    </node>
+    <node id="Bank Austria Creditanstalt AG">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000005490</data>
+      <data key="key_iustin_long">36571C000005490</data>
+      <data key="firm_name">Bank Austria</data>
+    </node>
+    <node id="Raiffeisen International Bank Holding AG">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C901810669</data>
+      <data key="key_iustin_long">36571C901810669</data>
+      <data key="firm_name">Raiffeisen</data>
+    </node>
+    <node id="Erste Bank Der Oesterreichischen AG">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C901827885</data>
+      <data key="key_iustin_long">36571C901827885</data>
+      <data key="firm_name">Erste Bank der oesterreichischen Sparkassen AG</data>
+    </node>
+    <node id="Bayer AG">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000008350</data>
+      <data key="key_iustin_long">36604C000008350</data>
+      <data key="firm_name">Haarmann &amp; Reimer Corporation</data>
+    </node>
+    <node id="Roche Holdings Limited">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000089144</data>
+      <data key="key_iustin_long">36604C000089144</data>
+      <data key="firm_name">F. Hoffmann-La Roche AG</data>
+    </node>
+    <node id="Air Products &amp; Chemicals Inc">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000000123</data>
+      <data key="key_iustin_long">36700C000000123</data>
+      <data key="firm_name">Air Products Nederland BV</data>
+    </node>
+    <node id="Linde AG">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000008385</data>
+      <data key="key_iustin_long">36700C000008385</data>
+      <data key="firm_name">NV Hoek Loos</data>
+    </node>
+    <node id="BOC GROUP PLC (THE)">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000017194</data>
+      <data key="key_iustin_long">36700C000017194</data>
+      <data key="firm_name">BOC Group plc</data>
+    </node>
+    <node id="Air Liquide">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C902176235</data>
+      <data key="key_iustin_long">36700C902176235</data>
+      <data key="firm_name">Air Liquide BV</data>
+    </node>
+    <node id="BPB PLC">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000087248</data>
+      <data key="key_iustin_long">37152C000087248</data>
+      <data key="firm_name">BPB PLC</data>
+    </node>
+    <node id="SAS AB">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C902489177</data>
+      <data key="key_iustin_long">37444C902489177</data>
+      <data key="firm_name">SAS (Scandinavian Airlines System)</data>
+    </node>
+    <node id="Sanofi-Aventis">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000007721</data>
+      <data key="key_iustin_long">37512C000007721</data>
+      <data key="firm_name">Aventis SA</data>
+    </node>
+    <node id="Merck Kgaa AG">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000008297</data>
+      <data key="key_iustin_long">37512C000008297</data>
+      <data key="firm_name">Merck KgaA</data>
+    </node>
+    <node id="Lonza Group">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000067107</data>
+      <data key="key_iustin_long">37512C000067107</data>
+      <data key="firm_name">Lonza AG</data>
+    </node>
+    <node id="Takeda Pharmaceutical Company">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000084910</data>
+      <data key="key_iustin_long">37512C000084910</data>
+      <data key="firm_name">Takeda Chemical Industries Ltd</data>
+    </node>
+    <node id="DAIICHI PHARMACEUTICAL COMPANY LIMITED">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000087357</data>
+      <data key="key_iustin_long">37512C000087357</data>
+      <data key="firm_name">Daiichi Pharmaceutical Co. Ltd</data>
+    </node>
+    <node id="Sumitomo Chemical Company Limited">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000088053</data>
+      <data key="key_iustin_long">37512C000088053</data>
+      <data key="firm_name">Sumitomo Chemical Co. Ltd</data>
+    </node>
+    <node id="Mitsubishi Tanabe Pharma">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000088061</data>
+      <data key="key_iustin_long">37512C000088061</data>
+      <data key="firm_name">Tanabe Seiyaku Co. Ltd</data>
+    </node>
+    <node id="AVENTIS SA">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000007732</data>
+      <data key="key_iustin_long">37519C000007732</data>
+      <data key="firm_name">Aventis SA</data>
+    </node>
+    <node id="Nippon Soda Company Limited">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000010069</data>
+      <data key="key_iustin_long">37519C000010069</data>
+      <data key="firm_name">Nippon Soda Company Ltd</data>
+    </node>
+    <node id="UCB SA">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000005675</data>
+      <data key="key_iustin_long">37533C000005675</data>
+      <data key="firm_name">UCB SA</data>
+    </node>
+    <node id="Akzo Nobel NV">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000013104</data>
+      <data key="key_iustin_long">37533C000013104</data>
+      <data key="firm_name">Akzo Nobel NV</data>
+    </node>
+    <node id="Inbev SA">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000005626</data>
+      <data key="key_iustin_long">37614C000005626</data>
+      <data key="firm_name">Interbrew NV</data>
+    </node>
+    <node id="Groupe Danone">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000087675</data>
+      <data key="key_iustin_long">37614C000087675</data>
+      <data key="firm_name">Groupe Danone SA</data>
+    </node>
+    <node id="Graftech International Limited">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000004638</data>
+      <data key="key_iustin_long">37667C000004638</data>
+      <data key="firm_name">GrafTech International</data>
+    </node>
+    <node id="Carbone-Lorraine">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000007172</data>
+      <data key="key_iustin_long">37667C000007172</data>
+      <data key="firm_name">Le Carbone-Lorraine S.A.</data>
+    </node>
+    <node id="Ibiden Company Limited">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000010549</data>
+      <data key="key_iustin_long">37667C000010549</data>
+      <data key="firm_name">Ibiden Co.</data>
+    </node>
+    <node id="AGIE CHARMILLES HOLDING AG">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000014633</data>
+      <data key="key_iustin_long">37667C000014633</data>
+      <data key="firm_name">Intech EDM AG</data>
+    </node>
+    <node id="Heineken NV">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000013107</data>
+      <data key="key_iustin_long">37750C000013107</data>
+      <data key="firm_name">Heineken NV</data>
+    </node>
+    <node id="Koninklijke Grolsch NV">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C901722538</data>
+      <data key="key_iustin_long">37766C901722538</data>
+      <data key="firm_name">Koninklijke Grolsch NV</data>
+    </node>
+    <node id="HOECHST AKTIENGESELLSCHAFT">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000008349</data>
+      <data key="key_iustin_long">37773C000008349</data>
+      <data key="firm_name">Hoechst AG</data>
+    </node>
+    <node id="Sotheby's">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000004197</data>
+      <data key="key_iustin_long">37784C000004197</data>
+      <data key="firm_name">Sotheby’s Holdings Inc.</data>
+    </node>
+    <node id="Commerzbank AG">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000007894</data>
+      <data key="key_iustin_long">37919C000007894</data>
+      <data key="firm_name">Commerzbank AG</data>
+    </node>
+    <node id="Dresdner Bank">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000007912</data>
+      <data key="key_iustin_long">37919C000007912</data>
+      <data key="firm_name">Dresdner Bank AG</data>
+    </node>
+    <node id="Mueller Industries Inc">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000003159</data>
+      <data key="key_iustin_long">38069C000003159</data>
+      <data key="firm_name">Mueller  Industries</data>
+    </node>
+    <node id="Outokumpu OYJ">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000006927</data>
+      <data key="key_iustin_long">38069C000006927</data>
+      <data key="firm_name">Outokumpu Oyj and Outokumpu Copper Products Oy</data>
+    </node>
+    <node id="KME Group">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000009578</data>
+      <data key="key_iustin_long">38069C000009578</data>
+      <data key="firm_name">KM Europa Metal AG</data>
+    </node>
+    <node id="Halcor SA">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000038620</data>
+      <data key="key_iustin_long">38069C000038620</data>
+      <data key="firm_name">Halcor S.A.</data>
+    </node>
+    <node id="Boliden AB">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000080029</data>
+      <data key="key_iustin_long">38069C000080029</data>
+      <data key="firm_name">Boliden AB (Boliden Fabrication AB and Boliden Cuivre &amp; Zinc S.A. )</data>
+    </node>
+    <node id="IMI PLC">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000087770</data>
+      <data key="key_iustin_long">38069C000087770</data>
+      <data key="firm_name">IMI  plc</data>
+    </node>
+    <node id="Universal Corp.">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000004748</data>
+      <data key="key_iustin_long">38238C000004748</data>
+      <data key="firm_name">Tabacos Españoles</data>
+    </node>
+    <node id="Altadis SA">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000087176</data>
+      <data key="key_iustin_long">38238C000087176</data>
+      <data key="firm_name">Compañia Española de Tabaco en Rama ( S.A. (Cetarsa)</data>
+    </node>
+    <node id="Alliance One International Inc">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000001477</data>
+      <data key="key_iustin_long">38281C000001477</data>
+      <data key="firm_name">Alliance One International</data>
+    </node>
+    <node id="DMC (Dollfus Mieg)">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000007755</data>
+      <data key="key_iustin_long">38337C000007755</data>
+      <data key="firm_name">DMC</data>
+    </node>
+    <node id="HICKING PENTECOST PLC">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000016301</data>
+      <data key="key_iustin_long">38337C000016301</data>
+      <data key="firm_name">Hiching Pentecast</data>
+    </node>
+    <node id="Kendrion NV">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000013045</data>
+      <data key="key_iustin_long">38354C000013045</data>
+      <data key="firm_name">Kendrion</data>
+    </node>
+    <node id="Low &amp; Bonar PLC">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000015581</data>
+      <data key="key_iustin_long">38354C000015581</data>
+      <data key="firm_name">Low &amp; Benar</data>
+    </node>
+    <node id="UPM-Kymmene OYJ">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000088326</data>
+      <data key="key_iustin_long">38354C000088326</data>
+      <data key="firm_name">UPM-Kymmene</data>
+    </node>
+    <node id="The Morgan Crucible Company PLC">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000087832</data>
+      <data key="key_iustin_long">38359C000087832</data>
+      <data key="firm_name">Morgan Crucible Company plc</data>
+    </node>
+    <node id="Hitachi Maxell Limited">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000009819</data>
+      <data key="key_iustin_long">38432C000009819</data>
+      <data key="firm_name">Hitachi Maxell Limited</data>
+    </node>
+    <node id="Sony Corporation">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000012018</data>
+      <data key="key_iustin_long">38432C000012018</data>
+      <data key="firm_name">Sony Corporation</data>
+    </node>
+    <node id="Fujifilm Holdings Corp.">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000012041</data>
+      <data key="key_iustin_long">38432C000012041</data>
+      <data key="firm_name">Fujifilm Holdings Corp.</data>
+    </node>
+    <node id="Chemtura Corp.">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000001322</data>
+      <data key="key_iustin_long">38443C000001322</data>
+      <data key="firm_name">Chemtura</data>
+    </node>
+    <node id="Repsol YPF SA">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000014157</data>
+      <data key="key_iustin_long">38443C000014157</data>
+      <data key="firm_name">Repsol</data>
+    </node>
+    <node id="Ballast Nedam NV">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000012953</data>
+      <data key="key_iustin_long">38456C000012953</data>
+      <data key="firm_name">Ballast Nedam</data>
+    </node>
+    <node id="KONINKLIJKE VOLKER WESSELS STEVIN NV">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000012969</data>
+      <data key="key_iustin_long">38456C000012969</data>
+      <data key="firm_name">KVWS</data>
+    </node>
+    <node id="Koninklijke BAM Groep NV">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000012997</data>
+      <data key="key_iustin_long">38456C000012997</data>
+      <data key="firm_name">BAM</data>
+    </node>
+    <node id="HOLLANDSCHE BETON GROEP NV">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000013076</data>
+      <data key="key_iustin_long">38456C000013076</data>
+      <data key="firm_name">HBG</data>
+    </node>
+    <node id="Heijmans NV">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000013085</data>
+      <data key="key_iustin_long">38456C000013085</data>
+      <data key="firm_name">Heijmans</data>
+    </node>
+    <node id="AB NYNAS PETROLEUM">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000014526</data>
+      <data key="key_iustin_long">38456C000014526</data>
+      <data key="firm_name">AB Nynas</data>
+    </node>
+    <node id="BP PLC">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000017178</data>
+      <data key="key_iustin_long">38456C000017178</data>
+      <data key="firm_name">BP plc</data>
+    </node>
+    <node id="Total SA">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000064388</data>
+      <data key="key_iustin_long">38456C000064388</data>
+      <data key="firm_name">Total SA</data>
+    </node>
+    <node id="DEGUSSA AG">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000008366</data>
+      <data key="key_iustin_long">38645C000008366</data>
+      <data key="firm_name">Degussa</data>
+    </node>
+    <node id="ICI">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000017180</data>
+      <data key="key_iustin_long">38645C000017180</data>
+      <data key="firm_name">ICI</data>
+    </node>
+    <node id="United Technologies Corp.">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000004737</data>
+      <data key="key_iustin_long">38823C000004737</data>
+      <data key="firm_name">United Technologies Corp.</data>
+    </node>
+    <node id="Schindler">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000014785</data>
+      <data key="key_iustin_long">38823C000014785</data>
+      <data key="firm_name">Schindler</data>
+    </node>
+    <node id="Thyssenkrupp AG">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000087653</data>
+      <data key="key_iustin_long">38823C000087653</data>
+      <data key="firm_name">Thyssenkrupp AG</data>
+    </node>
+    <node id="Kone OYJ">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000088317</data>
+      <data key="key_iustin_long">38823C000088317</data>
+      <data key="firm_name">Kone OYJ</data>
+    </node>
+    <node id="VA TECHNOLOGIE AG">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000005422</data>
+      <data key="key_iustin_long">38823C000005422</data>
+      <data key="firm_name">VA Technologie AG</data>
+    </node>
+    <node id="Siemens AG">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000008346</data>
+      <data key="key_iustin_long">38899C000008346</data>
+      <data key="firm_name">Siemens AG</data>
+    </node>
+    <node id="Hitachi Limited">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000011999</data>
+      <data key="key_iustin_long">38899C000011999</data>
+      <data key="firm_name">Hitachi ltd </data>
+    </node>
+    <node id="Toshiba Corporation">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000012000</data>
+      <data key="key_iustin_long">38899C000012000</data>
+      <data key="firm_name">Toshiba Corp</data>
+    </node>
+    <node id="Mitsubishi Electric Corp.">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000012009</data>
+      <data key="key_iustin_long">38899C000012009</data>
+      <data key="firm_name">Mitsubishi Elec Corp</data>
+    </node>
+    <node id="Alstom SA">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000047686</data>
+      <data key="key_iustin_long">38899C000047686</data>
+      <data key="firm_name">Alstom</data>
+    </node>
+    <node id="Schneider Electric SA">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000087710</data>
+      <data key="key_iustin_long">38899C000087710</data>
+      <data key="firm_name">Schneider Electric SA</data>
+    </node>
+    <node id="Fuji Electric Holdings">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000087983</data>
+      <data key="key_iustin_long">38899C000087983</data>
+      <data key="firm_name">Fuji Electric holding</data>
+    </node>
+    <node id="ABB LTD">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C902366111</data>
+      <data key="key_iustin_long">38899C902366111</data>
+      <data key="firm_name">ABB ltd</data>
+    </node>
+    <node id="NKK CORPORATION">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000012001</data>
+      <data key="key_iustin_long">39041C000012001</data>
+      <data key="firm_name">NKK Corporation</data>
+    </node>
+    <node id="Sumitomo Metal Industries Limited">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000012004</data>
+      <data key="key_iustin_long">39041C000012004</data>
+      <data key="firm_name">Sumitomo Metal Industries Limited</data>
+    </node>
+    <node id="Brueder Mannesmann AG">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000041437</data>
+      <data key="key_iustin_long">39041C000041437</data>
+      <data key="firm_name">Mannesmannröhren-Werke AG</data>
+    </node>
+    <node id="Nippon Steel Corporation">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000085213</data>
+      <data key="key_iustin_long">39041C000085213</data>
+      <data key="firm_name">Nippon Steel Corporation</data>
+    </node>
+    <node id="Vallourec">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000089301</data>
+      <data key="key_iustin_long">39041C000089301</data>
+      <data key="firm_name">Vallourec SA</data>
+    </node>
+    <node id="Prym group">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C901012531</data>
+      <data key="key_iustin_long">39168C901012531</data>
+      <data key="firm_name">nan</data>
+    </node>
+    <node id="BP">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000017178</data>
+      <data key="key_iustin_long">38710C000017178</data>
+      <data key="firm_name">nan</data>
+    </node>
+    <node id="Repsol">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000014157</data>
+      <data key="key_iustin_long">38710C000014157</data>
+      <data key="firm_name">nan</data>
+    </node>
+    <node id="Cepsa">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000014309</data>
+      <data key="key_iustin_long">38710C000014309</data>
+      <data key="firm_name">nan</data>
+    </node>
+    <node id="Nynas">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000014526</data>
+      <data key="key_iustin_long">38710C000014526</data>
+      <data key="firm_name">nan</data>
+    </node>
+    <node id="Galp">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C900439471</data>
+      <data key="key_iustin_long">38710C900439471 </data>
+      <data key="firm_name">nan</data>
+    </node>
+    <node id="Asahi">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000012034</data>
+      <data key="key_iustin_long">39165C000012034 </data>
+      <data key="firm_name">nan</data>
+    </node>
+    <node id="Pilkington">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000008276</data>
+      <data key="key_iustin_long">39165C000008276 </data>
+      <data key="firm_name">nan</data>
+    </node>
+    <node id="Saint-Gobain">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000007729</data>
+      <data key="key_iustin_long">39165C000007729 </data>
+      <data key="firm_name">nan</data>
+    </node>
+    <node id="Bayer">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000008350</data>
+      <data key="key_iustin_long">38629C000008350 </data>
+      <data key="firm_name">nan</data>
+    </node>
+    <node id="Tosoh">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000012105</data>
+      <data key="key_iustin_long">38629C000012105 </data>
+      <data key="firm_name">nan</data>
+    </node>
+    <node id="DuPont, of which Dow">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000001513</data>
+      <data key="key_iustin_long">38629C000001513 </data>
+      <data key="firm_name">nan</data>
+    </node>
+    <node id="Dow">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000001499</data>
+      <data key="key_iustin_long">38629C000001499 </data>
+      <data key="firm_name">nan</data>
+    </node>
+    <node id="Denka">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000087364</data>
+      <data key="key_iustin_long">38629C000087364 </data>
+      <data key="firm_name">nan</data>
+    </node>
+    <node id="Zeon">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000045268</data>
+      <data key="key_iustin_long">38628C000045268 </data>
+      <data key="firm_name">nan</data>
+    </node>
+    <node id="Akzo Nobel">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000013104</data>
+      <data key="key_iustin_long">38695C000013104 </data>
+      <data key="firm_name">nan</data>
+    </node>
+    <node id="Elf Aquitaine">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000007728</data>
+      <data key="key_iustin_long">38695C000007728 </data>
+      <data key="firm_name">nan</data>
+    </node>
+    <node id="Uralita">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000014304</data>
+      <data key="key_iustin_long">38695C000014304 </data>
+      <data key="firm_name">nan</data>
+    </node>
+    <node id="Shell">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C901842957</data>
+      <data key="key_iustin_long">39181C901842957</data>
+      <data key="firm_name">nan</data>
+    </node>
+    <node id="Sasol">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000013978</data>
+      <data key="key_iustin_long">39181C000013978 </data>
+      <data key="firm_name">nan</data>
+    </node>
+    <node id="Exxon Mobil">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000001704</data>
+      <data key="key_iustin_long">39181C000001704 </data>
+      <data key="firm_name">nan</data>
+    </node>
+    <node id="MOL">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000032440</data>
+      <data key="key_iustin_long">39181C000032440 </data>
+      <data key="firm_name">nan</data>
+    </node>
+    <node id="RWE">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000008220</data>
+      <data key="key_iustin_long">39181C000008220 </data>
+      <data key="firm_name">nan</data>
+    </node>
+    <node id="Total">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000064388</data>
+      <data key="key_iustin_long">39181C000064388 </data>
+      <data key="firm_name">nan</data>
+    </node>
+    <node id="Chiquita">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000001039</data>
+      <data key="key_iustin_long">39188C000001039 </data>
+      <data key="firm_name">nan</data>
+    </node>
+    <node id="Dole">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000001487</data>
+      <data key="key_iustin_long">39188C000001487 </data>
+      <data key="firm_name">nan</data>
+    </node>
+    <node id="Del Monte ">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000032497</data>
+      <data key="key_iustin_long">39188C000032497</data>
+      <data key="firm_name">nan</data>
+    </node>
+    <node id="SKW Stahl- Metallurgie and ARQUES Industries">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C902436821</data>
+      <data key="key_iustin_long">39396C902436821 </data>
+      <data key="firm_name">nan</data>
+    </node>
+    <node id="Siemens">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000008346</data>
+      <data key="key_iustin_long">39129C000008346 </data>
+      <data key="firm_name">nan</data>
+    </node>
+    <node id="ABB">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C903033437</data>
+      <data key="key_iustin_long">39129C903033437 </data>
+      <data key="firm_name">nan</data>
+    </node>
+    <node id="ALSTOM SA">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000047686</data>
+      <data key="key_iustin_long">39129C000047686 </data>
+      <data key="firm_name">nan</data>
+    </node>
+    <node id="AREVA T&amp;D SA">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000007534</data>
+      <data key="key_iustin_long">39129C000007534</data>
+      <data key="firm_name">nan</data>
+    </node>
+    <node id="Fuji Electric">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000087983</data>
+      <data key="key_iustin_long">39129C000087983 </data>
+      <data key="firm_name">nan</data>
+    </node>
+    <node id="Hitachi">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000011999</data>
+      <data key="key_iustin_long">39129C000011999 </data>
+      <data key="firm_name">nan</data>
+    </node>
+    <node id="Toshiba">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000012000</data>
+      <data key="key_iustin_long">39129C000012000 </data>
+      <data key="firm_name">nan</data>
+    </node>
+    <node id="Elementis">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000087315</data>
+      <data key="key_iustin_long">38589C000087315</data>
+      <data key="firm_name">nan</data>
+    </node>
+    <node id="Chemtura">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000001322</data>
+      <data key="key_iustin_long">38589C000001322</data>
+      <data key="firm_name">nan</data>
+    </node>
+    <node id="Micron">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000003069</data>
+      <data key="key_iustin_long">38511C000003069</data>
+      <data key="firm_name">nan</data>
+    </node>
+    <node id="Infineon">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000070443</data>
+      <data key="key_iustin_long">38511C000070443 </data>
+      <data key="firm_name">nan</data>
+    </node>
+    <node id="Samsung">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000012130</data>
+      <data key="key_iustin_long">38511C000012130 </data>
+      <data key="firm_name">nan</data>
+    </node>
+    <node id="Elpida ">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C901726534</data>
+      <data key="key_iustin_long">38511C901726534 </data>
+      <data key="firm_name">nan</data>
+    </node>
+    <node id="NEC Corporation">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000012014</data>
+      <data key="key_iustin_long">38511C000012014 </data>
+      <data key="firm_name">nan</data>
+    </node>
+    <node id="Hitachi Ltd.">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000011999</data>
+      <data key="key_iustin_long">38511C000011999 </data>
+      <data key="firm_name">nan</data>
+    </node>
+    <node id="Mitsubishi">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000010807</data>
+      <data key="key_iustin_long">38511C000010807 </data>
+      <data key="firm_name">nan</data>
+    </node>
+    <node id="Nanya">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000073005</data>
+      <data key="key_iustin_long">38511C000073005 </data>
+      <data key="firm_name">nan</data>
+    </node>
+    <node id="Masco">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000002924</data>
+      <data key="key_iustin_long">39092C000002924 </data>
+      <data key="firm_name">nan</data>
+    </node>
+    <node id="ArcelorMittal">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C902896119</data>
+      <data key="key_iustin_long">38344C902896119 </data>
+      <data key="firm_name">nan</data>
+    </node>
+    <node id="Rautaruukki">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000006978</data>
+      <data key="key_iustin_long">38344C000006978 </data>
+      <data key="firm_name">nan</data>
+    </node>
+    <node id="Air Canada">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000006190</data>
+      <data key="key_iustin_long">39258C000006190 </data>
+      <data key="firm_name">nan</data>
+    </node>
+    <node id="KLM">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000087196</data>
+      <data key="key_iustin_long">39258C000087196 </data>
+      <data key="firm_name">nan</data>
+    </node>
+    <node id="British Airways">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000015526</data>
+      <data key="key_iustin_long">39258C000015526</data>
+      <data key="firm_name">nan</data>
+    </node>
+    <node id="Cathay Pacific Airways">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000008660</data>
+      <data key="key_iustin_long">39258C000008660 </data>
+      <data key="firm_name">nan</data>
+    </node>
+    <node id="Qantas">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000088204</data>
+      <data key="key_iustin_long">39258C000088204 </data>
+      <data key="firm_name">nan</data>
+    </node>
+    <node id="SAS ">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C902489177</data>
+      <data key="key_iustin_long">39258C902489177 </data>
+      <data key="firm_name">nan</data>
+    </node>
+    <node id="Singapore Airlines">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000088281</data>
+      <data key="key_iustin_long">39258C000088281 </data>
+      <data key="firm_name">nan</data>
+    </node>
+    <node id="LG Display">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C900576423</data>
+      <data key="key_iustin_long">39309C900576423 </data>
+      <data key="firm_name">nan</data>
+    </node>
+    <node id="AU Optronics">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000073264</data>
+      <data key="key_iustin_long">39309C000073264</data>
+      <data key="firm_name">nan</data>
+    </node>
+    <node id="Chimei InnoLux Corporation">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C901844212</data>
+      <data key="key_iustin_long">39309C901844212 </data>
+      <data key="firm_name">nan</data>
+    </node>
+    <node id="Chunghwa Picture Tubes">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000070352</data>
+      <data key="key_iustin_long">39309C000070352 </data>
+      <data key="firm_name">nan</data>
+    </node>
+    <node id="HannStar Display Corporation">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000079033</data>
+      <data key="key_iustin_long">39309C000079033 </data>
+      <data key="firm_name">nan</data>
+    </node>
+    <node id="Bridgestone">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000012019</data>
+      <data key="key_iustin_long">39406C000012019 </data>
+      <data key="firm_name">nan</data>
+    </node>
+    <node id="Yokohama">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000012081</data>
+      <data key="key_iustin_long">39406C000012081 </data>
+      <data key="firm_name">nan</data>
+    </node>
+    <node id="Trelleborg">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000088309</data>
+      <data key="key_iustin_long">39406C000088309 </data>
+      <data key="firm_name">nan</data>
+    </node>
+    <node id="Manuli">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000041001</data>
+      <data key="key_iustin_long">39406C000041001</data>
+      <data key="firm_name">nan</data>
+    </node>
+    <node id="Aalberts Industries NV">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000087118</data>
+      <data key="key_iustin_long">38121C000087118</data>
+      <data key="firm_name">nan</data>
+    </node>
+    <node id="Unipetrol">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000039223</data>
+      <data key="key_iustin_long">38638C000039223</data>
+      <data key="firm_name">nan</data>
+    </node>
+    <node id="MasterCard Incorporated">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C901957091</data>
+      <data key="key_iustin_long">34579, 36518, 38580C901957091</data>
+      <data key="firm_name">nan</data>
+    </node>
+    <node id="QB Industrias ">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000085264</data>
+      <data key="key_iustin_long">39180C000085264</data>
+      <data key="firm_name">nan</data>
+    </node>
+    <node id="E.ON AG">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000008361</data>
+      <data key="key_iustin_long">39401C000008361</data>
+      <data key="firm_name">nan</data>
+    </node>
+    <node id="GDF SUEZ SA">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000007346</data>
+      <data key="key_iustin_long">39401C000007346</data>
+      <data key="firm_name">nan</data>
+    </node>
+    <node id="Yara Phosphates Oy ">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C901485829</data>
+      <data key="key_iustin_long">38866C901485829</data>
+      <data key="firm_name">nan</data>
+    </node>
+    <node id=" Yara Suomi Oy ">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C901485830</data>
+      <data key="key_iustin_long">38866C901485830</data>
+      <data key="firm_name">nan</data>
+    </node>
+    <node id="Kemira Oyj ">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C901931635</data>
+      <data key="key_iustin_long">38866C901931635</data>
+      <data key="firm_name">nan</data>
+    </node>
+    <node id="Tessenderlo Chemie N.V. ">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000089291</data>
+      <data key="key_iustin_long">38866C000089291</data>
+      <data key="firm_name">nan</data>
+    </node>
+    <node id="Ercros S.A.">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000014159</data>
+      <data key="key_iustin_long">38866C000014159</data>
+      <data key="firm_name">nan</data>
+    </node>
+    <node id="FMC Corporation ">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000001711</data>
+      <data key="key_iustin_long">38866C000001711</data>
+      <data key="firm_name">nan</data>
+    </node>
+    <node id="Henkel AG &amp; Co. ">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000008372</data>
+      <data key="key_iustin_long">39579C000008372</data>
+      <data key="firm_name">nan</data>
+    </node>
+    <node id="The Procter &amp; Gamble Company">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000003718</data>
+      <data key="key_iustin_long">39579C000003718</data>
+      <data key="firm_name">nan</data>
+    </node>
+    <node id="Unilever PLC">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000017179</data>
+      <data key="key_iustin_long">39579C000017179</data>
+      <data key="firm_name">nan</data>
+    </node>
+    <node id="Unilever NV">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000012895</data>
+      <data key="key_iustin_long">39579C000012895</data>
+      <data key="firm_name">nan</data>
+    </node>
+    <node id="Chiquita Brands International, Inc.,">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000001039</data>
+      <data key="key_iustin_long">39482C000001039</data>
+      <data key="firm_name">nan</data>
+    </node>
+    <node id="Chiquita Brands International, Inc.">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000001039</data>
+      <data key="key_iustin_long">39482C000001039</data>
+      <data key="firm_name">nan</data>
+    </node>
+    <node id="Samsung Corning Precision Material,">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000012130</data>
+      <data key="key_iustin_long">39605C000012130</data>
+      <data key="firm_name">nan</data>
+    </node>
+    <node id="Nippon Electric Glass">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000011748</data>
+      <data key="key_iustin_long">39605C000011748</data>
+      <data key="firm_name">nan</data>
+    </node>
+    <node id="Schott">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C903025159</data>
+      <data key="key_iustin_long">39605C903025159</data>
+      <data key="firm_name">nan</data>
+    </node>
+    <node id="Asahi Glass">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000012034</data>
+      <data key="key_iustin_long">39605C000012034</data>
+      <data key="firm_name">nan</data>
+    </node>
+    <node id="Whirlpool">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000004969</data>
+      <data key="key_iustin_long">39600C000004969</data>
+      <data key="firm_name">nan</data>
+    </node>
+    <node id="Panasonic Corporation">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000088012</data>
+      <data key="key_iustin_long">39600C000088012</data>
+      <data key="firm_name">nan</data>
+    </node>
+    <node id="Tecumseh Products Company">
+      <data key="type">Company</data>
+      <data key="bipartite">0</data>
+      <data key="key_iustin">C000004452</data>
+      <data key="key_iustin_long">39600C000004452</data>
+      <data key="firm_name">nan</data>
+    </node>
+    <node id="PVC (II)">
+      <data key="type">Cartel</data>
+      <data key="bipartite">1</data>
+      <data key="case">31865</data>
+      <data key="startyear">1981</data>
+      <data key="endyear">1994</data>
+      <data key="duration">14</data>
+      <data key="number_of_firms">6</data>
+      <data key="number_of_cartel_firms">12.0</data>
+      <data key="sector">3</data>
+      <data key="subsector">3</data>
+      <data key="classification">1.2, 1.6</data>
+    </node>
+    <node id="FLAT GLASS">
+      <data key="type">Cartel</data>
+      <data key="bipartite">1</data>
+      <data key="case">31906</data>
+      <data key="startyear">1982</data>
+      <data key="endyear">1987</data>
+      <data key="duration">6</data>
+      <data key="number_of_firms">2</data>
+      <data key="number_of_cartel_firms">3.0</data>
+      <data key="sector">3</data>
+      <data key="subsector">4</data>
+      <data key="classification">1.2, 1.6, 1.7</data>
+    </node>
+    <node id="Quantel International - continuum / Quantel SA">
+      <data key="type">Cartel</data>
+      <data key="bipartite">1</data>
+      <data key="case">32800</data>
+      <data key="startyear">1986</data>
+      <data key="endyear">1992</data>
+      <data key="duration">7</data>
+      <data key="number_of_firms">1</data>
+      <data key="number_of_cartel_firms">2.0</data>
+      <data key="sector">3</data>
+      <data key="subsector">5</data>
+      <data key="classification">1.6</data>
+    </node>
+    <node id="ANSAC">
+      <data key="type">Cartel</data>
+      <data key="bipartite">1</data>
+      <data key="case">33016</data>
+      <data key="startyear">1984</data>
+      <data key="endyear">1990</data>
+      <data key="duration">7</data>
+      <data key="number_of_firms">4</data>
+      <data key="number_of_cartel_firms">7.0</data>
+      <data key="sector">3</data>
+      <data key="subsector">3</data>
+      <data key="classification">1.5</data>
+    </node>
+    <node id="Ciment Cement">
+      <data key="type">Cartel</data>
+      <data key="bipartite">1</data>
+      <data key="case">33126</data>
+      <data key="startyear">1983</data>
+      <data key="endyear">1988</data>
+      <data key="duration">6</data>
+      <data key="number_of_firms">8</data>
+      <data key="number_of_cartel_firms">42.0</data>
+      <data key="sector">3</data>
+      <data key="subsector">4</data>
+      <data key="classification">1.2, 1.6</data>
+    </node>
+    <node id="Soda-ash - Solvay / ICI">
+      <data key="type">Cartel</data>
+      <data key="bipartite">1</data>
+      <data key="case">33133</data>
+      <data key="startyear">1983</data>
+      <data key="endyear">1990</data>
+      <data key="duration">8</data>
+      <data key="number_of_firms">2</data>
+      <data key="number_of_cartel_firms">2.0</data>
+      <data key="sector">3</data>
+      <data key="subsector">3</data>
+      <data key="classification">1.6</data>
+    </node>
+    <node id="British Sugar (II)">
+      <data key="type">Cartel</data>
+      <data key="bipartite">1</data>
+      <data key="case">33708</data>
+      <data key="startyear">1986</data>
+      <data key="endyear">1990</data>
+      <data key="duration">5</data>
+      <data key="number_of_firms">2</data>
+      <data key="number_of_cartel_firms">4.0</data>
+      <data key="sector">3</data>
+      <data key="subsector">1</data>
+      <data key="classification">1.2</data>
+    </node>
+    <node id="CARTONBOARD">
+      <data key="type">Cartel</data>
+      <data key="bipartite">1</data>
+      <data key="case">33833</data>
+      <data key="startyear">1986</data>
+      <data key="endyear">1990</data>
+      <data key="duration">5</data>
+      <data key="number_of_firms">5</data>
+      <data key="number_of_cartel_firms">23.0</data>
+      <data key="sector">3</data>
+      <data key="subsector">4</data>
+      <data key="classification">1.2, 1.6</data>
+    </node>
+    <node id="EATA">
+      <data key="type">Cartel</data>
+      <data key="bipartite">1</data>
+      <data key="case">34250</data>
+      <data key="startyear">1993</data>
+      <data key="endyear">1996</data>
+      <data key="duration">4</data>
+      <data key="number_of_firms">9</data>
+      <data key="number_of_cartel_firms">16.0</data>
+      <data key="sector">7</data>
+      <data key="subsector">0</data>
+      <data key="classification">1.2</data>
+    </node>
+    <node id="Transatlantic Agreement (TAA)">
+      <data key="type">Cartel</data>
+      <data key="bipartite">1</data>
+      <data key="case">34446</data>
+      <data key="startyear">1990</data>
+      <data key="endyear">1994</data>
+      <data key="duration">5</data>
+      <data key="number_of_firms">4</data>
+      <data key="number_of_cartel_firms">15.0</data>
+      <data key="sector">7</data>
+      <data key="subsector">0</data>
+      <data key="classification">1.2, 1.6</data>
+    </node>
+    <node id="Greek Ferries ">
+      <data key="type">Cartel</data>
+      <data key="bipartite">1</data>
+      <data key="case">34466</data>
+      <data key="startyear">1988</data>
+      <data key="endyear">1994</data>
+      <data key="duration">7</data>
+      <data key="number_of_firms">1</data>
+      <data key="number_of_cartel_firms">7.0</data>
+      <data key="sector">7</data>
+      <data key="subsector">0</data>
+      <data key="classification">1.2</data>
+    </node>
+    <node id="TACA">
+      <data key="type">Cartel</data>
+      <data key="bipartite">1</data>
+      <data key="case">35134</data>
+      <data key="startyear">1994</data>
+      <data key="endyear">1996</data>
+      <data key="duration">3</data>
+      <data key="number_of_firms">8</data>
+      <data key="number_of_cartel_firms">15.0</data>
+      <data key="sector">7</data>
+      <data key="subsector">0</data>
+      <data key="classification">1.2, 1.6, 1.7, 2.5</data>
+    </node>
+    <node id="Carbonless Paper">
+      <data key="type">Cartel</data>
+      <data key="bipartite">1</data>
+      <data key="case">36212</data>
+      <data key="startyear">1992</data>
+      <data key="endyear">1995</data>
+      <data key="duration">4</data>
+      <data key="number_of_firms">5</data>
+      <data key="number_of_cartel_firms">11.0</data>
+      <data key="sector">3</data>
+      <data key="subsector">4</data>
+      <data key="classification">1.2, 1.6</data>
+    </node>
+    <node id="Graphite Electrodes">
+      <data key="type">Cartel</data>
+      <data key="bipartite">1</data>
+      <data key="case">36490</data>
+      <data key="startyear">1993</data>
+      <data key="endyear">1996</data>
+      <data key="duration">4</data>
+      <data key="number_of_firms">6</data>
+      <data key="number_of_cartel_firms">8.0</data>
+      <data key="sector">3</data>
+      <data key="subsector">4</data>
+      <data key="classification">1.2, 1.6</data>
+    </node>
+    <node id="Amino Acids">
+      <data key="type">Cartel</data>
+      <data key="bipartite">1</data>
+      <data key="case">36545</data>
+      <data key="startyear">1992</data>
+      <data key="endyear">1994</data>
+      <data key="duration">3</data>
+      <data key="number_of_firms">4</data>
+      <data key="number_of_cartel_firms">7.0</data>
+      <data key="sector">3</data>
+      <data key="subsector">3</data>
+      <data key="classification">1.2, 1.6, 1.10</data>
+    </node>
+    <node id="PO/Oesterreichische Banken (Lombard)">
+      <data key="type">Cartel</data>
+      <data key="bipartite">1</data>
+      <data key="case">36571</data>
+      <data key="startyear">1995</data>
+      <data key="endyear">1997</data>
+      <data key="duration">3</data>
+      <data key="number_of_firms">3</data>
+      <data key="number_of_cartel_firms">8.0</data>
+      <data key="sector">8</data>
+      <data key="subsector">0</data>
+      <data key="classification">1.2</data>
+    </node>
+    <node id="Citric Acid">
+      <data key="type">Cartel</data>
+      <data key="bipartite">1</data>
+      <data key="case">36604</data>
+      <data key="startyear">1991</data>
+      <data key="endyear">1994</data>
+      <data key="duration">4</data>
+      <data key="number_of_firms">3</data>
+      <data key="number_of_cartel_firms">5.0</data>
+      <data key="sector">3</data>
+      <data key="subsector">3</data>
+      <data key="classification">1.2, 1.6, 1.10</data>
+    </node>
+    <node id="Industrial and medical gases">
+      <data key="type">Cartel</data>
+      <data key="bipartite">1</data>
+      <data key="case">36700</data>
+      <data key="startyear">1994</data>
+      <data key="endyear">1997</data>
+      <data key="duration">4</data>
+      <data key="number_of_firms">4</data>
+      <data key="number_of_cartel_firms">7.0</data>
+      <data key="sector">3</data>
+      <data key="subsector">3</data>
+      <data key="classification">1.2, 1.6</data>
+    </node>
+    <node id="Plasterboard">
+      <data key="type">Cartel</data>
+      <data key="bipartite">1</data>
+      <data key="case">37152</data>
+      <data key="startyear">1993</data>
+      <data key="endyear">1998</data>
+      <data key="duration">6</data>
+      <data key="number_of_firms">2</data>
+      <data key="number_of_cartel_firms">4.0</data>
+      <data key="sector">3</data>
+      <data key="subsector">4</data>
+      <data key="classification">1.2, 1.6, 1.10!!</data>
+    </node>
+    <node id="SAS Maersk Air and Sun-Air">
+      <data key="type">Cartel</data>
+      <data key="bipartite">1</data>
+      <data key="case">37444</data>
+      <data key="startyear">1999</data>
+      <data key="endyear">2001</data>
+      <data key="duration">3</data>
+      <data key="number_of_firms">1</data>
+      <data key="number_of_cartel_firms">2.0</data>
+      <data key="sector">7</data>
+      <data key="subsector">0</data>
+      <data key="classification">1.6</data>
+    </node>
+    <node id="Vitamins">
+      <data key="type">Cartel</data>
+      <data key="bipartite">1</data>
+      <data key="case">37512</data>
+      <data key="startyear">1994</data>
+      <data key="endyear">1997</data>
+      <data key="duration">4</data>
+      <data key="number_of_firms">10</data>
+      <data key="number_of_cartel_firms">10.0</data>
+      <data key="sector">3</data>
+      <data key="subsector">3</data>
+      <data key="classification">1.2</data>
+    </node>
+    <node id="Methionine">
+      <data key="type">Cartel</data>
+      <data key="bipartite">1</data>
+      <data key="case">37519</data>
+      <data key="startyear">1986</data>
+      <data key="endyear">1998</data>
+      <data key="duration">13</data>
+      <data key="number_of_firms">2</data>
+      <data key="number_of_cartel_firms">4.0</data>
+      <data key="sector">3</data>
+      <data key="subsector">3</data>
+      <data key="classification">1.2, 1.10</data>
+    </node>
+    <node id="Choline Chloride">
+      <data key="type">Cartel</data>
+      <data key="bipartite">1</data>
+      <data key="case">37533</data>
+      <data key="startyear">1993</data>
+      <data key="endyear">1998</data>
+      <data key="duration">6</data>
+      <data key="number_of_firms">3</data>
+      <data key="number_of_cartel_firms">6.0</data>
+      <data key="sector">3</data>
+      <data key="subsector">3</data>
+      <data key="classification">1.2, 1.6, 1.7</data>
+    </node>
+    <node id="Interbrew and Alken-Maes">
+      <data key="type">Cartel</data>
+      <data key="bipartite">1</data>
+      <data key="case">37614</data>
+      <data key="startyear">1993</data>
+      <data key="endyear">1997</data>
+      <data key="duration">5</data>
+      <data key="number_of_firms">2</data>
+      <data key="number_of_cartel_firms">5.0</data>
+      <data key="sector">3</data>
+      <data key="subsector">1</data>
+      <data key="classification">1.2, 1.6, 1.10</data>
+    </node>
+    <node id="Speciality graphite/PO">
+      <data key="type">Cartel</data>
+      <data key="bipartite">1</data>
+      <data key="case">37667</data>
+      <data key="startyear">1996</data>
+      <data key="endyear">1996</data>
+      <data key="duration">1</data>
+      <data key="number_of_firms">6</data>
+      <data key="number_of_cartel_firms">7.0</data>
+      <data key="sector">3</data>
+      <data key="subsector">4</data>
+      <data key="classification">1.2, 1.6</data>
+    </node>
+    <node id="Food Flavor Enhancers (Nucleotides)">
+      <data key="type">Cartel</data>
+      <data key="bipartite">1</data>
+      <data key="case">37671</data>
+      <data key="startyear">1989</data>
+      <data key="endyear">1997</data>
+      <data key="duration">9</data>
+      <data key="number_of_firms">2</data>
+      <data key="number_of_cartel_firms">4.0</data>
+      <data key="sector">3</data>
+      <data key="subsector">1</data>
+      <data key="classification">1.2, 1.6</data>
+    </node>
+    <node id="French beer market">
+      <data key="type">Cartel</data>
+      <data key="bipartite">1</data>
+      <data key="case">37750</data>
+      <data key="startyear">1996</data>
+      <data key="endyear">2004</data>
+      <data key="duration">9</data>
+      <data key="number_of_firms">2</data>
+      <data key="number_of_cartel_firms">4.0</data>
+      <data key="sector">3</data>
+      <data key="subsector">1</data>
+      <data key="classification">1.2, 1.7</data>
+    </node>
+    <node id="Dutch beer market">
+      <data key="type">Cartel</data>
+      <data key="bipartite">1</data>
+      <data key="case">37766</data>
+      <data key="startyear">1996</data>
+      <data key="endyear">1999</data>
+      <data key="duration">4</data>
+      <data key="number_of_firms">3</data>
+      <data key="number_of_cartel_firms">6.0</data>
+      <data key="sector">3</data>
+      <data key="subsector">1</data>
+      <data key="classification">1.2</data>
+    </node>
+    <node id="MCAA (Monochloroacetic acid)">
+      <data key="type">Cartel</data>
+      <data key="bipartite">1</data>
+      <data key="case">37773</data>
+      <data key="startyear">1984</data>
+      <data key="endyear">1998</data>
+      <data key="duration">15</data>
+      <data key="number_of_firms">3</data>
+      <data key="number_of_cartel_firms">10.0</data>
+      <data key="sector">3</data>
+      <data key="subsector">3</data>
+      <data key="classification">1.2, 1.6, 1.10</data>
+    </node>
+    <node id="Fine Art Auction Houses (Christies &amp; Sotheby's)">
+      <data key="type">Cartel</data>
+      <data key="bipartite">1</data>
+      <data key="case">37784</data>
+      <data key="startyear">1993</data>
+      <data key="endyear">1999</data>
+      <data key="duration">7</data>
+      <data key="number_of_firms">1</data>
+      <data key="number_of_cartel_firms">2.0</data>
+      <data key="sector">8</data>
+      <data key="subsector">0</data>
+      <data key="classification">1.2, 1.7</data>
+    </node>
+    <node id="Bank charges for exchanging EUR currencies Germany (German Banks)">
+      <data key="type">Cartel</data>
+      <data key="bipartite">1</data>
+      <data key="case">37919</data>
+      <data key="startyear">1999</data>
+      <data key="endyear">2001</data>
+      <data key="duration">3</data>
+      <data key="number_of_firms">2</data>
+      <data key="number_of_cartel_firms">5.0</data>
+      <data key="sector">8</data>
+      <data key="subsector">0</data>
+      <data key="classification">1.2</data>
+    </node>
+    <node id="Methylglucamine">
+      <data key="type">Cartel</data>
+      <data key="bipartite">1</data>
+      <data key="case">37978</data>
+      <data key="startyear">1991</data>
+      <data key="endyear">1999</data>
+      <data key="duration">9</data>
+      <data key="number_of_firms">2</data>
+      <data key="number_of_cartel_firms">3.0</data>
+      <data key="sector">3</data>
+      <data key="subsector">3</data>
+      <data key="classification">1.2, 1.6</data>
+    </node>
+    <node id="Copper plumbing tubes">
+      <data key="type">Cartel</data>
+      <data key="bipartite">1</data>
+      <data key="case">38069</data>
+      <data key="startyear">1998</data>
+      <data key="endyear">2000</data>
+      <data key="duration">3</data>
+      <data key="number_of_firms">6</data>
+      <data key="number_of_cartel_firms">16.0</data>
+      <data key="sector">3</data>
+      <data key="subsector">4</data>
+      <data key="classification">1.2, 1.6</data>
+    </node>
+    <node id="Raw tobacco — Spain">
+      <data key="type">Cartel</data>
+      <data key="bipartite">1</data>
+      <data key="case">38238</data>
+      <data key="startyear">1996</data>
+      <data key="endyear">2001</data>
+      <data key="duration">6</data>
+      <data key="number_of_firms">3</data>
+      <data key="number_of_cartel_firms">13.0</data>
+      <data key="sector">3</data>
+      <data key="subsector">1</data>
+      <data key="classification">1.2</data>
+    </node>
+    <node id="Industrial copper tubes">
+      <data key="type">Cartel</data>
+      <data key="bipartite">1</data>
+      <data key="case">38240</data>
+      <data key="startyear">1988</data>
+      <data key="endyear">2000</data>
+      <data key="duration">13</data>
+      <data key="number_of_firms">2</data>
+      <data key="number_of_cartel_firms">6.0</data>
+      <data key="sector">3</data>
+      <data key="subsector">4</data>
+      <data key="classification">1.2, 1.6, 1.10</data>
+    </node>
+    <node id="Raw tobacco — Italy">
+      <data key="type">Cartel</data>
+      <data key="bipartite">1</data>
+      <data key="case">38281</data>
+      <data key="startyear">1996</data>
+      <data key="endyear">2001</data>
+      <data key="duration">6</data>
+      <data key="number_of_firms">2</data>
+      <data key="number_of_cartel_firms">8.0</data>
+      <data key="sector">3</data>
+      <data key="subsector">1</data>
+      <data key="classification">1.2, 1.6</data>
+    </node>
+    <node id="E1/PO/Thread">
+      <data key="type">Cartel</data>
+      <data key="bipartite">1</data>
+      <data key="case">38337</data>
+      <data key="startyear">1991</data>
+      <data key="endyear">1996</data>
+      <data key="duration">6</data>
+      <data key="number_of_firms">2</data>
+      <data key="number_of_cartel_firms">16.0</data>
+      <data key="sector">3</data>
+      <data key="subsector">5</data>
+      <data key="classification">1.2, 1.6, 1.10</data>
+    </node>
+    <node id="Industrial Bags">
+      <data key="type">Cartel</data>
+      <data key="bipartite">1</data>
+      <data key="case">38354</data>
+      <data key="startyear">1995</data>
+      <data key="endyear">2001</data>
+      <data key="duration">7</data>
+      <data key="number_of_firms">3</data>
+      <data key="number_of_cartel_firms">25.0</data>
+      <data key="sector">3</data>
+      <data key="subsector">4</data>
+      <data key="classification">1.2, 1.6, 1.7, 1.10</data>
+    </node>
+    <node id="Electrical and mechanical carbon and graphite products">
+      <data key="type">Cartel</data>
+      <data key="bipartite">1</data>
+      <data key="case">38359</data>
+      <data key="startyear">1989</data>
+      <data key="endyear">1998</data>
+      <data key="duration">10</data>
+      <data key="number_of_firms">3</data>
+      <data key="number_of_cartel_firms">6.0</data>
+      <data key="sector">3</data>
+      <data key="subsector">4</data>
+      <data key="classification">1.2, 1.6, 1.7</data>
+    </node>
+    <node id="Professional videotape">
+      <data key="type">Cartel</data>
+      <data key="bipartite">1</data>
+      <data key="case">38432</data>
+      <data key="startyear">2000</data>
+      <data key="endyear">2001</data>
+      <data key="duration">2</data>
+      <data key="number_of_firms">3</data>
+      <data key="number_of_cartel_firms">8.0</data>
+      <data key="sector">3</data>
+      <data key="subsector">5</data>
+      <data key="classification">1.2</data>
+    </node>
+    <node id="Rubber chemicals">
+      <data key="type">Cartel</data>
+      <data key="bipartite">1</data>
+      <data key="case">38443</data>
+      <data key="startyear">1997</data>
+      <data key="endyear">2001</data>
+      <data key="duration">5</data>
+      <data key="number_of_firms">3</data>
+      <data key="number_of_cartel_firms">8.0</data>
+      <data key="sector">3</data>
+      <data key="subsector">4</data>
+      <data key="classification">1.2, 1.10</data>
+    </node>
+    <node id="Bitumen NL">
+      <data key="type">Cartel</data>
+      <data key="bipartite">1</data>
+      <data key="case">38456</data>
+      <data key="startyear">1996</data>
+      <data key="endyear">2001</data>
+      <data key="duration">6</data>
+      <data key="number_of_firms">9</data>
+      <data key="number_of_cartel_firms">40.0</data>
+      <data key="sector">3</data>
+      <data key="subsector">3</data>
+      <data key="classification">1.2</data>
+    </node>
+    <node id="Hydrogen peroxide">
+      <data key="type">Cartel</data>
+      <data key="bipartite">1</data>
+      <data key="case">38620</data>
+      <data key="startyear">1997</data>
+      <data key="endyear">1999</data>
+      <data key="duration">3</data>
+      <data key="number_of_firms">6</data>
+      <data key="number_of_cartel_firms">16.0</data>
+      <data key="sector">3</data>
+      <data key="subsector">3</data>
+      <data key="classification">1.2, 1.6, 1.7, 1.10</data>
+    </node>
+    <node id="Methacrylates">
+      <data key="type">Cartel</data>
+      <data key="bipartite">1</data>
+      <data key="case">38645</data>
+      <data key="startyear">1997</data>
+      <data key="endyear">2002</data>
+      <data key="duration">6</data>
+      <data key="number_of_firms">4</data>
+      <data key="number_of_cartel_firms">14.0</data>
+      <data key="sector">3</data>
+      <data key="subsector">3</data>
+      <data key="classification">1.2, 1.10</data>
+    </node>
+    <node id="Gaz de France/ENEL+ENI">
+      <data key="type">Cartel</data>
+      <data key="bipartite">1</data>
+      <data key="case">38662</data>
+      <data key="startyear">2000</data>
+      <data key="endyear">2003</data>
+      <data key="duration">4</data>
+      <data key="number_of_firms">1</data>
+      <data key="number_of_cartel_firms">2.0</data>
+      <data key="sector">4</data>
+      <data key="subsector">0</data>
+      <data key="classification">1.6</data>
+    </node>
+    <node id="Elevators and escalators">
+      <data key="type">Cartel</data>
+      <data key="bipartite">1</data>
+      <data key="case">38823</data>
+      <data key="startyear">1998</data>
+      <data key="endyear">2003</data>
+      <data key="duration">6</data>
+      <data key="number_of_firms">5</data>
+      <data key="number_of_cartel_firms">25.0</data>
+      <data key="sector">3</data>
+      <data key="subsector">5</data>
+      <data key="classification">1.2, 1.6, 1.7, 1.10</data>
+    </node>
+    <node id="Gas Insulated Switchgear">
+      <data key="type">Cartel</data>
+      <data key="bipartite">1</data>
+      <data key="case">38899</data>
+      <data key="startyear">1988</data>
+      <data key="endyear">2003</data>
+      <data key="duration">16</data>
+      <data key="number_of_firms">8</data>
+      <data key="number_of_cartel_firms">20.0</data>
+      <data key="sector">3</data>
+      <data key="subsector">5</data>
+      <data key="classification">1.2, 1.6, 1.7, 1.10</data>
+    </node>
+    <node id="Seamless steel tubes">
+      <data key="type">Cartel</data>
+      <data key="bipartite">1</data>
+      <data key="case">39041</data>
+      <data key="startyear">1990</data>
+      <data key="endyear">1995</data>
+      <data key="duration">6</data>
+      <data key="number_of_firms">5</data>
+      <data key="number_of_cartel_firms">8.0</data>
+      <data key="sector">3</data>
+      <data key="subsector">4</data>
+      <data key="classification">1.6</data>
+    </node>
+    <node id="Fasteners">
+      <data key="type">Cartel</data>
+      <data key="bipartite">1</data>
+      <data key="case">39168</data>
+      <data key="startyear">1977</data>
+      <data key="endyear">2000</data>
+      <data key="duration">24</data>
+      <data key="number_of_firms">1</data>
+      <data key="number_of_cartel_firms">6.0</data>
+      <data key="sector">3</data>
+      <data key="subsector">4</data>
+      <data key="classification">1.2,1.6,1.10</data>
+    </node>
+    <node id="Bitumen Spain">
+      <data key="type">Cartel</data>
+      <data key="bipartite">1</data>
+      <data key="case">38710</data>
+      <data key="startyear">1992</data>
+      <data key="endyear">2001</data>
+      <data key="duration">10</data>
+      <data key="number_of_firms">5</data>
+      <data key="number_of_cartel_firms">5.0</data>
+      <data key="sector">3</data>
+      <data key="subsector">3</data>
+      <data key="classification">1.2,1.6,1.10</data>
+    </node>
+    <node id="Chloroprene Rubber">
+      <data key="type">Cartel</data>
+      <data key="bipartite">1</data>
+      <data key="case">38629</data>
+      <data key="startyear">1993</data>
+      <data key="endyear">2001</data>
+      <data key="duration">9</data>
+      <data key="number_of_firms">6</data>
+      <data key="number_of_cartel_firms">6.0</data>
+      <data key="sector">3</data>
+      <data key="subsector">4</data>
+      <data key="classification">1.2,1.6,1.10</data>
+    </node>
+    <node id="Nitrile Butadiene Rubber">
+      <data key="type">Cartel</data>
+      <data key="bipartite">1</data>
+      <data key="case">38628</data>
+      <data key="startyear">2001</data>
+      <data key="endyear">2002</data>
+      <data key="duration">2</data>
+      <data key="number_of_firms">2</data>
+      <data key="number_of_cartel_firms">2.0</data>
+      <data key="sector">3</data>
+      <data key="subsector">4</data>
+      <data key="classification">1.2,1.10</data>
+    </node>
+    <node id="Sodium Chlorate">
+      <data key="type">Cartel</data>
+      <data key="bipartite">1</data>
+      <data key="case">38695</data>
+      <data key="startyear">1995</data>
+      <data key="endyear">1999</data>
+      <data key="duration">5</data>
+      <data key="number_of_firms">3</data>
+      <data key="number_of_cartel_firms">8.0</data>
+      <data key="sector">3</data>
+      <data key="subsector">3</data>
+      <data key="classification">1.2,1.6</data>
+    </node>
+    <node id="Candle Waxes">
+      <data key="type">Cartel</data>
+      <data key="bipartite">1</data>
+      <data key="case">39181</data>
+      <data key="startyear">1993</data>
+      <data key="endyear">2004</data>
+      <data key="duration">12</data>
+      <data key="number_of_firms">8</data>
+      <data key="number_of_cartel_firms">10.0</data>
+      <data key="sector">3</data>
+      <data key="subsector">3</data>
+      <data key="classification">1.2,1.10</data>
+    </node>
+    <node id="Bananas">
+      <data key="type">Cartel</data>
+      <data key="bipartite">1</data>
+      <data key="case">39188</data>
+      <data key="startyear">2000</data>
+      <data key="endyear">2002</data>
+      <data key="duration">3</data>
+      <data key="number_of_firms">3</data>
+      <data key="number_of_cartel_firms">4.0</data>
+      <data key="sector">3</data>
+      <data key="subsector">1</data>
+      <data key="classification">1.2,1.10</data>
+    </node>
+    <node id="Carglass">
+      <data key="type">Cartel</data>
+      <data key="bipartite">1</data>
+      <data key="case">39125</data>
+      <data key="startyear">1998</data>
+      <data key="endyear">2002</data>
+      <data key="duration">5</data>
+      <data key="number_of_firms">3</data>
+      <data key="number_of_cartel_firms">5.0</data>
+      <data key="sector">3</data>
+      <data key="subsector">4</data>
+      <data key="classification">1.6</data>
+    </node>
+    <node id="Calcium carbide and magnesium based reagents for the steel and gas industries">
+      <data key="type">Cartel</data>
+      <data key="bipartite">1</data>
+      <data key="case">39396</data>
+      <data key="startyear">2005</data>
+      <data key="endyear">2006</data>
+      <data key="duration">2</data>
+      <data key="number_of_firms">2</data>
+      <data key="number_of_cartel_firms">8.0</data>
+      <data key="sector">3</data>
+      <data key="subsector">3</data>
+      <data key="classification">1.2,1.6</data>
+    </node>
+    <node id="Power Transformers">
+      <data key="type">Cartel</data>
+      <data key="bipartite">1</data>
+      <data key="case">39129</data>
+      <data key="startyear">1999</data>
+      <data key="endyear">2002</data>
+      <data key="duration">4</data>
+      <data key="number_of_firms">7</data>
+      <data key="number_of_cartel_firms">7.0</data>
+      <data key="sector">3</data>
+      <data key="subsector">5</data>
+      <data key="classification">1.6</data>
+    </node>
+    <node id="HEAT STABILISERS">
+      <data key="type">Cartel</data>
+      <data key="bipartite">1</data>
+      <data key="case">38589</data>
+      <data key="startyear">1987</data>
+      <data key="endyear">1999</data>
+      <data key="duration">13</data>
+      <data key="number_of_firms">4</data>
+      <data key="number_of_cartel_firms">10.0</data>
+      <data key="sector">3</data>
+      <data key="subsector">5</data>
+      <data key="classification">1.2,1.6,1.10</data>
+    </node>
+    <node id="DRAM">
+      <data key="type">Cartel</data>
+      <data key="bipartite">1</data>
+      <data key="case">38511</data>
+      <data key="startyear">1999</data>
+      <data key="endyear">2001</data>
+      <data key="duration">3</data>
+      <data key="number_of_firms">9</data>
+      <data key="number_of_cartel_firms">10.0</data>
+      <data key="sector">3</data>
+      <data key="subsector">5</data>
+      <data key="classification">1.2,1.10</data>
+    </node>
+    <node id="Bathroom Equipment Manufacturers">
+      <data key="type">Cartel</data>
+      <data key="bipartite">1</data>
+      <data key="case">39092</data>
+      <data key="startyear">1992</data>
+      <data key="endyear">2004</data>
+      <data key="duration">13</data>
+      <data key="number_of_firms">1</data>
+      <data key="number_of_cartel_firms">17.0</data>
+      <data key="sector">3</data>
+      <data key="subsector">5</data>
+      <data key="classification">1.2</data>
+    </node>
+    <node id="Prestressing Steel Producers">
+      <data key="type">Cartel</data>
+      <data key="bipartite">1</data>
+      <data key="case">38344</data>
+      <data key="startyear">1984</data>
+      <data key="endyear">2002</data>
+      <data key="duration">19</data>
+      <data key="number_of_firms">2</data>
+      <data key="number_of_cartel_firms">23.0</data>
+      <data key="sector">3</data>
+      <data key="subsector">5</data>
+      <data key="classification">1.2,1.6</data>
+    </node>
+    <node id="Air Cargo">
+      <data key="type">Cartel</data>
+      <data key="bipartite">1</data>
+      <data key="case">39258</data>
+      <data key="startyear">2000</data>
+      <data key="endyear">2005</data>
+      <data key="duration">6</data>
+      <data key="number_of_firms">7</data>
+      <data key="number_of_cartel_firms">14.0</data>
+      <data key="sector">7</data>
+      <data key="subsector">0</data>
+      <data key="classification">1.2</data>
+    </node>
+    <node id="LCD panel producers ">
+      <data key="type">Cartel</data>
+      <data key="bipartite">1</data>
+      <data key="case">39309</data>
+      <data key="startyear">2002</data>
+      <data key="endyear">2005</data>
+      <data key="duration">4</data>
+      <data key="number_of_firms">6</data>
+      <data key="number_of_cartel_firms">6.0</data>
+      <data key="sector">3</data>
+      <data key="subsector">5</data>
+      <data key="classification">1.2,1.10</data>
+    </node>
+    <node id="Marine Hoses">
+      <data key="type">Cartel</data>
+      <data key="bipartite">1</data>
+      <data key="case">39406</data>
+      <data key="startyear">1986</data>
+      <data key="endyear">2006</data>
+      <data key="duration">21</data>
+      <data key="number_of_firms">4</data>
+      <data key="number_of_cartel_firms">6.0</data>
+      <data key="sector">3</data>
+      <data key="subsector">4</data>
+      <data key="classification">1.2,1.6,1.10</data>
+    </node>
+    <node id="Fittings">
+      <data key="type">Cartel</data>
+      <data key="bipartite">1</data>
+      <data key="case">38121</data>
+      <data key="startyear">1992</data>
+      <data key="endyear">2000</data>
+      <data key="duration">9</data>
+      <data key="number_of_firms">3</data>
+      <data key="number_of_cartel_firms">27.0</data>
+      <data key="sector">3</data>
+      <data key="subsector">4</data>
+      <data key="classification">nan</data>
+    </node>
+    <node id="BR/ESBR">
+      <data key="type">Cartel</data>
+      <data key="bipartite">1</data>
+      <data key="case">38638</data>
+      <data key="startyear">1996</data>
+      <data key="endyear">2002</data>
+      <data key="duration">7</data>
+      <data key="number_of_firms">4</data>
+      <data key="number_of_cartel_firms">13.0</data>
+      <data key="sector">3</data>
+      <data key="subsector">4</data>
+      <data key="classification">nan</data>
+    </node>
+    <node id="MasterCard, EuroCommerce and Commercial Cards">
+      <data key="type">Cartel</data>
+      <data key="bipartite">1</data>
+      <data key="case">34579, 36518, 38580</data>
+      <data key="startyear">1992</data>
+      <data key="endyear">2007</data>
+      <data key="duration">16</data>
+      <data key="number_of_firms">1</data>
+      <data key="number_of_cartel_firms">3.0</data>
+      <data key="sector">8</data>
+      <data key="subsector">0</data>
+      <data key="classification">nan</data>
+    </node>
+    <node id="Aluminium Fluoride">
+      <data key="type">Cartel</data>
+      <data key="bipartite">1</data>
+      <data key="case">39180</data>
+      <data key="startyear">2000</data>
+      <data key="endyear">2000</data>
+      <data key="duration">1</data>
+      <data key="number_of_firms">2</data>
+      <data key="number_of_cartel_firms">7.0</data>
+      <data key="sector">3</data>
+      <data key="subsector">3</data>
+      <data key="classification">nan</data>
+    </node>
+    <node id="E.On GDF">
+      <data key="type">Cartel</data>
+      <data key="bipartite">1</data>
+      <data key="case">39401</data>
+      <data key="startyear">2003</data>
+      <data key="endyear">2005</data>
+      <data key="duration">3</data>
+      <data key="number_of_firms">2</data>
+      <data key="number_of_cartel_firms">3.0</data>
+      <data key="sector">4</data>
+      <data key="subsector">0</data>
+      <data key="classification">nan</data>
+    </node>
+    <node id="Feed Phosphates Producers">
+      <data key="type">Cartel</data>
+      <data key="bipartite">1</data>
+      <data key="case">38866</data>
+      <data key="startyear">1969</data>
+      <data key="endyear">2003</data>
+      <data key="duration">35</data>
+      <data key="number_of_firms">6</data>
+      <data key="number_of_cartel_firms">13.0</data>
+      <data key="sector">3</data>
+      <data key="subsector">3</data>
+      <data key="classification">nan</data>
+    </node>
+    <node id="Consumer Detergents">
+      <data key="type">Cartel</data>
+      <data key="bipartite">1</data>
+      <data key="case">39579</data>
+      <data key="startyear">2002</data>
+      <data key="endyear">2004</data>
+      <data key="duration">3</data>
+      <data key="number_of_firms">4</data>
+      <data key="number_of_cartel_firms">5.0</data>
+      <data key="sector">3</data>
+      <data key="subsector">3</data>
+      <data key="classification">nan</data>
+    </node>
+    <node id="Exotic Fruits">
+      <data key="type">Cartel</data>
+      <data key="bipartite">1</data>
+      <data key="case">39482</data>
+      <data key="startyear">2004</data>
+      <data key="endyear">2005</data>
+      <data key="duration">2</data>
+      <data key="number_of_firms">3</data>
+      <data key="number_of_cartel_firms">7.0</data>
+      <data key="sector">3</data>
+      <data key="subsector">1</data>
+      <data key="classification">nan</data>
+    </node>
+    <node id="CRT Glass">
+      <data key="type">Cartel</data>
+      <data key="bipartite">1</data>
+      <data key="case">39605</data>
+      <data key="startyear">1999</data>
+      <data key="endyear">2004</data>
+      <data key="duration">6</data>
+      <data key="number_of_firms">4</data>
+      <data key="number_of_cartel_firms">5.0</data>
+      <data key="sector">3</data>
+      <data key="subsector">4</data>
+      <data key="classification">nan</data>
+    </node>
+    <node id="Refrigerator Compressors">
+      <data key="type">Cartel</data>
+      <data key="bipartite">1</data>
+      <data key="case">39600</data>
+      <data key="startyear">2004</data>
+      <data key="endyear">2007</data>
+      <data key="duration">4</data>
+      <data key="number_of_firms">3</data>
+      <data key="number_of_cartel_firms">10.0</data>
+      <data key="sector">3</data>
+      <data key="subsector">5</data>
+      <data key="classification">nan</data>
+    </node>
+    <edge source="Elf Aquitaine SA" target="PVC (II)" />
+    <edge source="Elf Aquitaine SA" target="ANSAC" />
+    <edge source="Elf Aquitaine SA" target="MCAA (Monochloroacetic acid)" />
+    <edge source="Elf Aquitaine SA" target="Hydrogen peroxide" />
+    <edge source="Elf Aquitaine SA" target="Methacrylates" />
+    <edge source="BASF SE" target="PVC (II)" />
+    <edge source="BASF SE" target="Vitamins" />
+    <edge source="BASF SE" target="Choline Chloride" />
+    <edge source="Koninklijke DSM" target="PVC (II)" />
+    <edge source="ENI" target="PVC (II)" />
+    <edge source="ENI" target="Gaz de France/ENEL+ENI" />
+    <edge source="ENI" target="Chloroprene Rubber" />
+    <edge source="ENI" target="Candle Waxes" />
+    <edge source="ENI" target="BR/ESBR" />
+    <edge source="Wacker Chemie AG" target="PVC (II)" />
+    <edge source="Royal Dutch Shell" target="PVC (II)" />
+    <edge source="Royal Dutch Shell" target="Bitumen NL" />
+    <edge source="PPG Industries Inc" target="FLAT GLASS" />
+    <edge source="Saint Gobain" target="FLAT GLASS" />
+    <edge source="Hoya Corporation" target="Quantel International - continuum / Quantel SA" />
+    <edge source="FMC Corp." target="ANSAC" />
+    <edge source="FMC Corp." target="Hydrogen peroxide" />
+    <edge source="KERR-MCGEE CORPORATION" target="ANSAC" />
+    <edge source="Tenneco Inc" target="ANSAC" />
+    <edge source="Vicat SA" target="Ciment Cement" />
+    <edge source="Lafarge SA" target="Ciment Cement" />
+    <edge source="Lafarge SA" target="Plasterboard" />
+    <edge source="Heracles General Cement SA" target="Ciment Cement" />
+    <edge source="Titan Cement Company SA" target="Ciment Cement" />
+    <edge source="Cementir Holding" target="Ciment Cement" />
+    <edge source="Italcementi" target="Ciment Cement" />
+    <edge source="Buzzi Unicem" target="Ciment Cement" />
+    <edge source="Dyckerhoff AG" target="Ciment Cement" />
+    <edge source="Heidelbergcement AG" target="Ciment Cement" />
+    <edge source="Solvay" target="Soda-ash - Solvay / ICI" />
+    <edge source="Solvay" target="Vitamins" />
+    <edge source="Solvay" target="Hydrogen peroxide" />
+    <edge source="Imperial Chemical Industries PLC" target="Soda-ash - Solvay / ICI" />
+    <edge source="Associated British Foods PLC" target="British Sugar (II)" />
+    <edge source="Tate &amp; Lyle PLC" target="British Sugar (II)" />
+    <edge source="International Paper Company" target="CARTONBOARD" />
+    <edge source="International Paper Company" target="Carbonless Paper" />
+    <edge source="Cascades Inc" target="CARTONBOARD" />
+    <edge source="Holmen AB" target="CARTONBOARD" />
+    <edge source="SCA AB" target="CARTONBOARD" />
+    <edge source="Stora Enso OYJ" target="CARTONBOARD" />
+    <edge source="Mitsui Osk Lines Limited" target="EATA" />
+    <edge source="Kawasaki Kisen Kaisha Limited" target="EATA" />
+    <edge source="Hanjin Shipping Company Limited" target="EATA" />
+    <edge source="Hanjin Shipping Company Limited" target="TACA" />
+    <edge source="KONINKLIJKE P&amp;O NEDLLOYD NV" target="EATA" />
+    <edge source="KONINKLIJKE P&amp;O NEDLLOYD NV" target="Transatlantic Agreement (TAA)" />
+    <edge source="KONINKLIJKE P&amp;O NEDLLOYD NV" target="TACA" />
+    <edge source="Neptune Orient Lines Limited" target="EATA" />
+    <edge source="Neptune Orient Lines Limited" target="Transatlantic Agreement (TAA)" />
+    <edge source="Neptune Orient Lines Limited" target="TACA" />
+    <edge source="Evergreen Marine Corp. (Taiwan) Limited" target="EATA" />
+    <edge source="Yang Ming Marine Transport Corp." target="EATA" />
+    <edge source="Hyundai Merchant Marine" target="EATA" />
+    <edge source="Hyundai Merchant Marine" target="TACA" />
+    <edge source="Nippon Yusen KK" target="EATA" />
+    <edge source="Nippon Yusen KK" target="Transatlantic Agreement (TAA)" />
+    <edge source="Nippon Yusen KK" target="TACA" />
+    <edge source="Orient Overseas (International) Limited" target="Transatlantic Agreement (TAA)" />
+    <edge source="Orient Overseas (International) Limited" target="TACA" />
+    <edge source="Minoan Lines SA" target="Greek Ferries " />
+    <edge source="CSX Corp." target="TACA" />
+    <edge source="PENINSULAR AND ORIENTAL STEAM NAVIGATION" target="TACA" />
+    <edge source="Bollore" target="Carbonless Paper" />
+    <edge source="Mitsubishi Paper Mills Limited" target="Carbonless Paper" />
+    <edge source="Sappi Limited" target="Carbonless Paper" />
+    <edge source="Iberpapel Gestion SA" target="Carbonless Paper" />
+    <edge source="Carbide/Graphite Group" target="Graphite Electrodes" />
+    <edge source="UCAR CARBON S/A" target="Graphite Electrodes" />
+    <edge source="Tokai Carbon Company Limited" target="Graphite Electrodes" />
+    <edge source="Tokai Carbon Company Limited" target="Speciality graphite/PO" />
+    <edge source="SEC Carbon Limited" target="Graphite Electrodes" />
+    <edge source="Showa Denko KK" target="Graphite Electrodes" />
+    <edge source="Nippon Carbon Company Limited" target="Graphite Electrodes" />
+    <edge source="SGL Carbon AG" target="Graphite Electrodes" />
+    <edge source="SGL Carbon AG" target="Speciality graphite/PO" />
+    <edge source="SGL Carbon AG" target="Electrical and mechanical carbon and graphite products" />
+    <edge source="Archer-Daniels-Midland Company" target="Amino Acids" />
+    <edge source="Archer-Daniels-Midland Company" target="Citric Acid" />
+    <edge source="Ajinomoto Company Inc" target="Amino Acids" />
+    <edge source="Ajinomoto Company Inc" target="Food Flavor Enhancers (Nucleotides)" />
+    <edge source="Kyowa Hakko Kogyo Company Ltd" target="Amino Acids" />
+    <edge source="Daesang Corporation" target="Amino Acids" />
+    <edge source="Daesang Corporation" target="Food Flavor Enhancers (Nucleotides)" />
+    <edge source="Bank Austria Creditanstalt AG" target="PO/Oesterreichische Banken (Lombard)" />
+    <edge source="Raiffeisen International Bank Holding AG" target="PO/Oesterreichische Banken (Lombard)" />
+    <edge source="Erste Bank Der Oesterreichischen AG" target="PO/Oesterreichische Banken (Lombard)" />
+    <edge source="Bayer AG" target="Citric Acid" />
+    <edge source="Bayer AG" target="Rubber chemicals" />
+    <edge source="Bayer AG" target="BR/ESBR" />
+    <edge source="Roche Holdings Limited" target="Citric Acid" />
+    <edge source="Roche Holdings Limited" target="Vitamins" />
+    <edge source="Air Products &amp; Chemicals Inc" target="Industrial and medical gases" />
+    <edge source="Linde AG" target="Industrial and medical gases" />
+    <edge source="BOC GROUP PLC (THE)" target="Industrial and medical gases" />
+    <edge source="Air Liquide" target="Industrial and medical gases" />
+    <edge source="Air Liquide" target="Hydrogen peroxide" />
+    <edge source="BPB PLC" target="Plasterboard" />
+    <edge source="SAS AB" target="SAS Maersk Air and Sun-Air" />
+    <edge source="Sanofi-Aventis" target="Vitamins" />
+    <edge source="Merck Kgaa AG" target="Vitamins" />
+    <edge source="Merck Kgaa AG" target="Methylglucamine" />
+    <edge source="Lonza Group" target="Vitamins" />
+    <edge source="Takeda Pharmaceutical Company" target="Vitamins" />
+    <edge source="DAIICHI PHARMACEUTICAL COMPANY LIMITED" target="Vitamins" />
+    <edge source="Sumitomo Chemical Company Limited" target="Vitamins" />
+    <edge source="Mitsubishi Tanabe Pharma" target="Vitamins" />
+    <edge source="AVENTIS SA" target="Methionine" />
+    <edge source="AVENTIS SA" target="Methylglucamine" />
+    <edge source="Nippon Soda Company Limited" target="Methionine" />
+    <edge source="UCB SA" target="Choline Chloride" />
+    <edge source="Akzo Nobel NV" target="Choline Chloride" />
+    <edge source="Akzo Nobel NV" target="MCAA (Monochloroacetic acid)" />
+    <edge source="Akzo Nobel NV" target="Hydrogen peroxide" />
+    <edge source="Inbev SA" target="Interbrew and Alken-Maes" />
+    <edge source="Inbev SA" target="Dutch beer market" />
+    <edge source="Groupe Danone" target="Interbrew and Alken-Maes" />
+    <edge source="Groupe Danone" target="French beer market" />
+    <edge source="Graftech International Limited" target="Speciality graphite/PO" />
+    <edge source="Carbone-Lorraine" target="Speciality graphite/PO" />
+    <edge source="Carbone-Lorraine" target="Electrical and mechanical carbon and graphite products" />
+    <edge source="Ibiden Company Limited" target="Speciality graphite/PO" />
+    <edge source="AGIE CHARMILLES HOLDING AG" target="Speciality graphite/PO" />
+    <edge source="Heineken NV" target="French beer market" />
+    <edge source="Heineken NV" target="Dutch beer market" />
+    <edge source="Koninklijke Grolsch NV" target="Dutch beer market" />
+    <edge source="HOECHST AKTIENGESELLSCHAFT" target="MCAA (Monochloroacetic acid)" />
+    <edge source="Sotheby's" target="Fine Art Auction Houses (Christies &amp; Sotheby's)" />
+    <edge source="Commerzbank AG" target="Bank charges for exchanging EUR currencies Germany (German Banks)" />
+    <edge source="Dresdner Bank" target="Bank charges for exchanging EUR currencies Germany (German Banks)" />
+    <edge source="Mueller Industries Inc" target="Copper plumbing tubes" />
+    <edge source="Mueller Industries Inc" target="Fittings" />
+    <edge source="Outokumpu OYJ" target="Copper plumbing tubes" />
+    <edge source="Outokumpu OYJ" target="Industrial copper tubes" />
+    <edge source="KME Group" target="Copper plumbing tubes" />
+    <edge source="KME Group" target="Industrial copper tubes" />
+    <edge source="Halcor SA" target="Copper plumbing tubes" />
+    <edge source="Boliden AB" target="Copper plumbing tubes" />
+    <edge source="Boliden AB" target="Aluminium Fluoride" />
+    <edge source="IMI PLC" target="Copper plumbing tubes" />
+    <edge source="IMI PLC" target="Fittings" />
+    <edge source="Universal Corp." target="Raw tobacco — Spain" />
+    <edge source="Universal Corp." target="Raw tobacco — Italy" />
+    <edge source="Altadis SA" target="Raw tobacco — Spain" />
+    <edge source="Alliance One International Inc" target="Raw tobacco — Italy" />
+    <edge source="DMC (Dollfus Mieg)" target="E1/PO/Thread" />
+    <edge source="HICKING PENTECOST PLC" target="E1/PO/Thread" />
+    <edge source="Kendrion NV" target="Industrial Bags" />
+    <edge source="Low &amp; Bonar PLC" target="Industrial Bags" />
+    <edge source="UPM-Kymmene OYJ" target="Industrial Bags" />
+    <edge source="The Morgan Crucible Company PLC" target="Electrical and mechanical carbon and graphite products" />
+    <edge source="Hitachi Maxell Limited" target="Professional videotape" />
+    <edge source="Sony Corporation" target="Professional videotape" />
+    <edge source="Fujifilm Holdings Corp." target="Professional videotape" />
+    <edge source="Chemtura Corp." target="Rubber chemicals" />
+    <edge source="Repsol YPF SA" target="Rubber chemicals" />
+    <edge source="Ballast Nedam NV" target="Bitumen NL" />
+    <edge source="KONINKLIJKE VOLKER WESSELS STEVIN NV" target="Bitumen NL" />
+    <edge source="Koninklijke BAM Groep NV" target="Bitumen NL" />
+    <edge source="HOLLANDSCHE BETON GROEP NV" target="Bitumen NL" />
+    <edge source="Heijmans NV" target="Bitumen NL" />
+    <edge source="AB NYNAS PETROLEUM" target="Bitumen NL" />
+    <edge source="BP PLC" target="Bitumen NL" />
+    <edge source="Total SA" target="Bitumen NL" />
+    <edge source="Total SA" target="Hydrogen peroxide" />
+    <edge source="Total SA" target="Methacrylates" />
+    <edge source="DEGUSSA AG" target="Methacrylates" />
+    <edge source="ICI" target="Methacrylates" />
+    <edge source="United Technologies Corp." target="Elevators and escalators" />
+    <edge source="Schindler" target="Elevators and escalators" />
+    <edge source="Thyssenkrupp AG" target="Elevators and escalators" />
+    <edge source="Kone OYJ" target="Elevators and escalators" />
+    <edge source="VA TECHNOLOGIE AG" target="Elevators and escalators" />
+    <edge source="Siemens AG" target="Gas Insulated Switchgear" />
+    <edge source="Hitachi Limited" target="Gas Insulated Switchgear" />
+    <edge source="Toshiba Corporation" target="Gas Insulated Switchgear" />
+    <edge source="Mitsubishi Electric Corp." target="Gas Insulated Switchgear" />
+    <edge source="Alstom SA" target="Gas Insulated Switchgear" />
+    <edge source="Schneider Electric SA" target="Gas Insulated Switchgear" />
+    <edge source="Fuji Electric Holdings" target="Gas Insulated Switchgear" />
+    <edge source="ABB LTD" target="Gas Insulated Switchgear" />
+    <edge source="NKK CORPORATION" target="Seamless steel tubes" />
+    <edge source="Sumitomo Metal Industries Limited" target="Seamless steel tubes" />
+    <edge source="Brueder Mannesmann AG" target="Seamless steel tubes" />
+    <edge source="Nippon Steel Corporation" target="Seamless steel tubes" />
+    <edge source="Vallourec" target="Seamless steel tubes" />
+    <edge source="Prym group" target="Fasteners" />
+    <edge source="BP" target="Bitumen Spain" />
+    <edge source="Repsol" target="Bitumen Spain" />
+    <edge source="Repsol" target="Candle Waxes" />
+    <edge source="Cepsa" target="Bitumen Spain" />
+    <edge source="Nynas" target="Bitumen Spain" />
+    <edge source="Galp" target="Bitumen Spain" />
+    <edge source="Asahi" target="FLAT GLASS" />
+    <edge source="Asahi" target="Carglass" />
+    <edge source="Pilkington" target="FLAT GLASS" />
+    <edge source="Pilkington" target="Carglass" />
+    <edge source="Saint-Gobain" target="FLAT GLASS" />
+    <edge source="Saint-Gobain" target="Carglass" />
+    <edge source="Bayer" target="Chloroprene Rubber" />
+    <edge source="Bayer" target="Nitrile Butadiene Rubber" />
+    <edge source="Tosoh" target="Chloroprene Rubber" />
+    <edge source="DuPont, of which Dow" target="Chloroprene Rubber" />
+    <edge source="Dow" target="Chloroprene Rubber" />
+    <edge source="Dow" target="BR/ESBR" />
+    <edge source="Denka" target="Chloroprene Rubber" />
+    <edge source="Zeon" target="Nitrile Butadiene Rubber" />
+    <edge source="Akzo Nobel" target="Sodium Chlorate" />
+    <edge source="Akzo Nobel" target="Calcium carbide and magnesium based reagents for the steel and gas industries" />
+    <edge source="Akzo Nobel" target="HEAT STABILISERS" />
+    <edge source="Elf Aquitaine" target="Sodium Chlorate" />
+    <edge source="Elf Aquitaine" target="HEAT STABILISERS" />
+    <edge source="Uralita" target="Sodium Chlorate" />
+    <edge source="Shell" target="Candle Waxes" />
+    <edge source="Sasol" target="Candle Waxes" />
+    <edge source="Exxon Mobil" target="Candle Waxes" />
+    <edge source="MOL" target="Candle Waxes" />
+    <edge source="RWE" target="Candle Waxes" />
+    <edge source="Total" target="Candle Waxes" />
+    <edge source="Chiquita" target="Bananas" />
+    <edge source="Dole" target="Bananas" />
+    <edge source="Del Monte " target="Bananas" />
+    <edge source="SKW Stahl- Metallurgie and ARQUES Industries" target="Calcium carbide and magnesium based reagents for the steel and gas industries" />
+    <edge source="Siemens" target="Power Transformers" />
+    <edge source="ABB" target="Power Transformers" />
+    <edge source="ALSTOM SA" target="Power Transformers" />
+    <edge source="AREVA T&amp;D SA" target="Power Transformers" />
+    <edge source="Fuji Electric" target="Power Transformers" />
+    <edge source="Hitachi" target="Power Transformers" />
+    <edge source="Toshiba" target="Power Transformers" />
+    <edge source="Toshiba" target="DRAM" />
+    <edge source="Elementis" target="HEAT STABILISERS" />
+    <edge source="Chemtura" target="HEAT STABILISERS" />
+    <edge source="Micron" target="DRAM" />
+    <edge source="Infineon" target="DRAM" />
+    <edge source="Samsung" target="DRAM" />
+    <edge source="Samsung" target="LCD panel producers " />
+    <edge source="Elpida " target="DRAM" />
+    <edge source="NEC Corporation" target="DRAM" />
+    <edge source="Hitachi Ltd." target="DRAM" />
+    <edge source="Mitsubishi" target="DRAM" />
+    <edge source="Nanya" target="DRAM" />
+    <edge source="Masco" target="Bathroom Equipment Manufacturers" />
+    <edge source="ArcelorMittal" target="Prestressing Steel Producers" />
+    <edge source="Rautaruukki" target="Prestressing Steel Producers" />
+    <edge source="Air Canada" target="Air Cargo" />
+    <edge source="KLM" target="Air Cargo" />
+    <edge source="British Airways" target="Air Cargo" />
+    <edge source="Cathay Pacific Airways" target="Air Cargo" />
+    <edge source="Qantas" target="Air Cargo" />
+    <edge source="SAS " target="Air Cargo" />
+    <edge source="Singapore Airlines" target="Air Cargo" />
+    <edge source="LG Display" target="LCD panel producers " />
+    <edge source="AU Optronics" target="LCD panel producers " />
+    <edge source="Chimei InnoLux Corporation" target="LCD panel producers " />
+    <edge source="Chunghwa Picture Tubes" target="LCD panel producers " />
+    <edge source="HannStar Display Corporation" target="LCD panel producers " />
+    <edge source="Bridgestone" target="Marine Hoses" />
+    <edge source="Yokohama" target="Marine Hoses" />
+    <edge source="Trelleborg" target="Marine Hoses" />
+    <edge source="Manuli" target="Marine Hoses" />
+    <edge source="Aalberts Industries NV" target="Fittings" />
+    <edge source="Unipetrol" target="BR/ESBR" />
+    <edge source="MasterCard Incorporated" target="MasterCard, EuroCommerce and Commercial Cards" />
+    <edge source="QB Industrias " target="Aluminium Fluoride" />
+    <edge source="E.ON AG" target="E.On GDF" />
+    <edge source="GDF SUEZ SA" target="E.On GDF" />
+    <edge source="Yara Phosphates Oy " target="Feed Phosphates Producers" />
+    <edge source=" Yara Suomi Oy " target="Feed Phosphates Producers" />
+    <edge source="Kemira Oyj " target="Feed Phosphates Producers" />
+    <edge source="Tessenderlo Chemie N.V. " target="Feed Phosphates Producers" />
+    <edge source="Ercros S.A." target="Feed Phosphates Producers" />
+    <edge source="FMC Corporation " target="Feed Phosphates Producers" />
+    <edge source="Henkel AG &amp; Co. " target="Consumer Detergents" />
+    <edge source="The Procter &amp; Gamble Company" target="Consumer Detergents" />
+    <edge source="Unilever PLC" target="Consumer Detergents" />
+    <edge source="Unilever NV" target="Consumer Detergents" />
+    <edge source="Chiquita Brands International, Inc.," target="Exotic Fruits" />
+    <edge source="Chiquita Brands International, Inc." target="Exotic Fruits" />
+    <edge source="Samsung Corning Precision Material," target="CRT Glass" />
+    <edge source="Nippon Electric Glass" target="CRT Glass" />
+    <edge source="Schott" target="CRT Glass" />
+    <edge source="Asahi Glass" target="CRT Glass" />
+    <edge source="Whirlpool" target="Refrigerator Compressors" />
+    <edge source="Panasonic Corporation" target="Refrigerator Compressors" />
+    <edge source="Tecumseh Products Company" target="Refrigerator Compressors" />
+  </graph>
+</graphml>
