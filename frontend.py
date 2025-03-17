@@ -10,11 +10,11 @@ server = app.server  # Für Flask-Hosting
 app.layout = html.Div([
     dbc.Navbar(
         dbc.Container([
-            dbc.NavbarBrand("Meine Dash-App", href="/", className="ms-2"),
+            dbc.NavbarBrand("Network Visualizations", href="/", className="ms-2"),
             dbc.Nav(
                 [
-                    dbc.NavItem(dcc.Link("GraphML Visualizer", href="/", className="nav-link")),
-                    dbc.NavItem(dcc.Link("Andere Seite", href="/page2", className="nav-link")),
+                    dbc.NavItem(dcc.Link("Cartel Network", href="/page2", className="nav-link")),
+                    dbc.NavItem(dcc.Link("Shareholder Network", href="/", className="nav-link")),
                 ],
                 className="ms-auto",
                 navbar=True

@@ -80,8 +80,7 @@ filename = "cartel_network.graphml"
 
 # Dash Layout für Seite 2
 layout = html.Div([
-    html.H1("Unternehmens-Kartell-Netzwerk", style={'textAlign': 'center'}),
-    html.P("Dieses Netzwerk zeigt die Verbindungen zwischen Unternehmen und den Kartellen, an denen sie beteiligt waren."),
+    html.H1("Cartel Network", style={'textAlign': 'center'}),
     dcc.Graph(id='cartel-graph', style={'height': '600px'}),
 ])
 

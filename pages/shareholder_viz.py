@@ -141,7 +141,7 @@ graphml_files = [f.split("shareholder_network_")[1].split("_31-Dec")[0] for f in
 graphml_files = list(set(graphml_files))
 
 layout = html.Div([
-    html.H1("GraphML Visualizer", style={'textAlign': 'center', 'marginBottom': '20px'}),
+    html.H1("Shareholder Network", style={'textAlign': 'center', 'marginBottom': '20px'}),
     
     html.Div([
         html.Label("Select Graph:"),
