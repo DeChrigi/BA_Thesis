@@ -16,7 +16,7 @@ def load_graph(filename, min_weight_filter):
     # Identify the central 'Cartel' node
     central_node = None
     for node, attr in G.nodes(data=True):
-        if attr.get('type') == 'Cartel':
+        if attr.get('type') == 'Company':
             central_node = node
             break
     
