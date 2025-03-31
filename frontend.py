@@ -15,6 +15,7 @@ app.layout = html.Div([
                 [
                     dbc.NavItem(dcc.Link("Cartel Network", href="/page2", className="nav-link")),
                     dbc.NavItem(dcc.Link("Shareholder Network", href="/", className="nav-link")),
+                    dbc.NavItem(dcc.Link("Test Complete Network", href="/page3", className="nav-link")),
                 ],
                 className="ms-auto",
                 navbar=True
