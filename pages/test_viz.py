@@ -7,6 +7,7 @@ import os
 def load_graph():
     G = nx.read_graphml(os.path.join(graphml_folder, filename))
 
+    # Position nodes using spring layout
     pos = nx.spring_layout(G, seed=42)
 
     edge_traces = []
@@ -22,7 +23,7 @@ def load_graph():
         )
         edge_traces.append(edge_trace)
 
-    # Listen für die Knoten
+    # Lists for nodes
     company_x, company_y, company_text = [], [], []
     cartel_x, cartel_y, cartel_text = [], [], []
     investor_x, investor_y, investor_text = [], [], []
@@ -44,7 +45,7 @@ def load_graph():
             investor_y.append(y)
             investor_text.append(f"{node} (Investor)")
 
-    # Scatter-Plot für Kartelle (Rot)
+    # Scatter plot for cartels (green)
     cartel_trace = go.Scatter(
         x=cartel_x, y=cartel_y,
         mode='markers',
@@ -53,7 +54,7 @@ def load_graph():
         hoverinfo='text'
     )
 
-    # Scatter-Plot für Unternehmen (Blau)
+    # Scatter plot for companies (blue)
     company_trace = go.Scatter(
         x=company_x, y=company_y,
         mode='markers',
@@ -62,7 +63,7 @@ def load_graph():
         hoverinfo='text'
     )
 
-    # Scatter-Plot für Investoren (Grün)
+    # Scatter plot for investors (green)
     investor_trace = go.Scatter(
         x=investor_x, y=investor_y,
         mode='markers',
@@ -71,7 +72,7 @@ def load_graph():
         hoverinfo='text'
     )
 
-    # Finale Figure
+    # Final figure
     fig = go.Figure(
         data=edge_traces + [company_trace, cartel_trace, investor_trace],
         layout=go.Layout(
@@ -86,22 +87,23 @@ def load_graph():
     
     return fig
 
-dash.register_page(__name__, path="/page3")  # Diese Seite ist unter /page2 erreichbar
+# Register this page to be accessible at /page3
+dash.register_page(__name__, path="/page3")
 
 # Set the folder where GraphML files are stored
 graphml_folder = "./transformed_data/tests"
 filename = "complete_cartel_network.graphml"
 
-# Dash Layout für Seite 2
+# Dash layout for page 3
 layout = html.Div([
     html.H1("Complete Cartel Network", style={'textAlign': 'center'}),
     dcc.Graph(id='complete-cartel-graph', style={'height': '600px'}),
 ])
 
+# Callback to load and display the graph on initialization
 @callback(
     Output('complete-cartel-graph', 'figure'),
-    Input('complete-cartel-graph', 'id')  # Dummy-Input für Initialisierung
+    Input('complete-cartel-graph', 'id')  # Dummy input just to trigger initial load
 )
 def update_graph(_):
     return load_graph()
-

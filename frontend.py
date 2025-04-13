@@ -2,11 +2,11 @@ import dash
 from dash import dcc, html
 import dash_bootstrap_components as dbc
 
-# Multi-Page Support aktivieren
+# Activate multi-page mode
 app = dash.Dash(__name__, use_pages=True, external_stylesheets=[dbc.themes.BOOTSTRAP])
-server = app.server  # Für Flask-Hosting
+server = app.server  # For flask deployment
 
-# Navigation & Seitenlayout
+# Navigation & page layout
 app.layout = html.Div([
     dbc.Navbar(
         dbc.Container([
@@ -25,7 +25,7 @@ app.layout = html.Div([
         dark=True
     ),
 
-    # Container für die Seiteninhalte
+    # container for the page content
     dash.page_container
 ])
 

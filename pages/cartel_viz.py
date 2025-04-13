@@ -22,7 +22,7 @@ def load_graph():
         )
         edge_traces.append(edge_trace)
 
-    # Listen für die Knoten
+    # Liste for all nodes
     company_x, company_y, company_text = [], [], []
     cartel_x, cartel_y, cartel_text = [], [], []
 
@@ -39,7 +39,7 @@ def load_graph():
             company_y.append(y)
             company_text.append(f"{node} (Company)")
 
-    # Scatter-Plot für Unternehmen (Blau)
+    # Scatter-Plot for companies (blue)
     company_trace = go.Scatter(
         x=company_x, y=company_y,
         mode='markers',
@@ -48,7 +48,7 @@ def load_graph():
         hoverinfo='text'
     )
 
-    # Scatter-Plot für Kartelle (Rot)
+    # Scatter-Plot for cartels (red)
     cartel_trace = go.Scatter(
         x=cartel_x, y=cartel_y,
         mode='markers',
@@ -57,7 +57,7 @@ def load_graph():
         hoverinfo='text'
     )
 
-    # Finale Figure
+    # Final Figure
     fig = go.Figure(
         data=edge_traces + [company_trace, cartel_trace],
         layout=go.Layout(
@@ -72,7 +72,7 @@ def load_graph():
     
     return fig
 
-dash.register_page(__name__, path="/page2")  # Diese Seite ist unter /page2 erreichbar
+dash.register_page(__name__, path="/page2")  # This page is available at /page2
 
 # Set the folder where GraphML files are stored
 graphml_folder = "./transformed_data/cartel_networks"
@@ -86,7 +86,7 @@ layout = html.Div([
 
 @callback(
     Output('cartel-graph', 'figure'),
-    Input('cartel-graph', 'id')  # Dummy-Input für Initialisierung
+    Input('cartel-graph', 'id')  # Dummy-Input for initial load
 )
 def update_graph(_):
     return load_graph()
