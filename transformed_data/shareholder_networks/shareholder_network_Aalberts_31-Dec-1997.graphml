@@ -3,206 +3,128 @@
   <key id="weight" for="edge" attr.name="weight" attr.type="double" />
   <key id="type" for="node" attr.name="type" attr.type="string" />
   <graph edgedefault="undirected">
-    <node id="Zeon">
+    <node id="Aalberts">
       <data key="type">Company</data>
     </node>
-    <node id="Yokohama Rubber Co Ltd">
+    <node id="WestLB Mellon Asset Management Kapitalanlagegesellschaft mbH">
       <data key="type">Investor</data>
     </node>
-    <node id="US Trust Bk of Amer Private Wealth Mgmt LaSalle">
+    <node id="UBS Global Asset Management (Switzerland)">
       <data key="type">Investor</data>
     </node>
-    <node id="Trustus Capital Management B.V.">
+    <node id="Tolsteeg NV">
       <data key="type">Investor</data>
     </node>
-    <node id="Tokio Marine &amp; Nichido Fire Insurance Co., Ltd.">
+    <node id="Oppenheim Investment Managers">
       <data key="type">Investor</data>
     </node>
-    <node id="Sumitomo Mitsui Trust Bank, Limited">
+    <node id="Kempen Capital Management N.V.">
       <data key="type">Investor</data>
     </node>
-    <node id="Scottish Widows Investment Partnership Ltd.">
+    <node id="Jupiter Asset Management Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Santander Asset Management UK Limited">
+    <node id="JPMorgan Asset Management U.K. Limited">
       <data key="type">Investor</data>
     </node>
-    <node id="Prigest S.A.">
+    <node id="Insinger de Beaufort Asset Management N.V.">
       <data key="type">Investor</data>
     </node>
-    <node id="Oppenheim Kapitalanlagegesellschaft mbH">
+    <node id="Hoge Noot BV">
       <data key="type">Investor</data>
     </node>
-    <node id="Nikko Asset Management Co., Ltd.">
+    <node id="Gutmann Kapitalanlage Aktiengesellschaft">
       <data key="type">Investor</data>
     </node>
-    <node id="Morley Fund Management (Singapore) Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Morley Fund Management (Japan) Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Morgan Stanley Investment Management (Japan) Co., Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Mizuho Corporate Bank, Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Mizuho Bank, Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Mitsubishi UFJ Trust and Banking Corporation">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Kames Capital">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Insight Investment Management (Global) Limited">
-      <data key="type">Investor</data>
-    </node>
-    <node id="ISIS Asset Management p.l.c.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="INVESCO Asset Management Deutschland GmbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Guardian Asset Management Limited">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Furukawa Electric Co Ltd">
-      <data key="type">Investor</data>
-    </node>
-    <node id="FIL Investments (Japan) Limited">
+    <node id="GIM Algemeen Vermogensbeheer">
       <data key="type">Investor</data>
     </node>
     <node id="Deutsche Bank Private Wealth Management Limited (Inactive)">
       <data key="type">Investor</data>
     </node>
-    <node id="Crédit Lyonnais Asset Management S.A.">
+    <node id="Daiwa SB Investments (UK) Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Cazenove Capital Management Limited">
+    <node id="Credit Suisse Asset Management">
       <data key="type">Investor</data>
     </node>
-    <node id="CAAM SGR S.p.A.">
+    <node id="Clariden Leu">
       <data key="type">Investor</data>
     </node>
-    <node id="Barclays Wealth">
+    <node id="Capitalgest SGR S.p.A.">
       <data key="type">Investor</data>
     </node>
-    <node id="Banco Fonder AB">
+    <node id="BNP Paribas Investment Partners Netherlands N.V.">
       <data key="type">Investor</data>
     </node>
-    <node id="Aviva Investors Global Services Limited">
+    <node id="Allianz Dresdner Asset Management (ex Pimco)">
       <data key="type">Investor</data>
     </node>
-    <node id="Asahi Mutual Life Insurance Co.">
+    <node id="Aalberts Family">
       <data key="type">Investor</data>
     </node>
-    <node id="Asahi Chemical">
+    <node id="ABN AMRO Asset Management (Netherlands) B.V.">
       <data key="type">Investor</data>
     </node>
-    <node id="AEGON Investment Management B.V.">
-      <data key="type">Investor</data>
-    </node>
-    <edge source="Zeon" target="Yokohama Rubber Co Ltd">
-      <data key="weight">6.2</data>
-    </edge>
-    <edge source="Zeon" target="US Trust Bk of Amer Private Wealth Mgmt LaSalle">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Trustus Capital Management B.V.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Zeon" target="Tokio Marine &amp; Nichido Fire Insurance Co., Ltd.">
-      <data key="weight">1.6</data>
-    </edge>
-    <edge source="Zeon" target="Sumitomo Mitsui Trust Bank, Limited">
-      <data key="weight">2.4</data>
-    </edge>
-    <edge source="Zeon" target="Scottish Widows Investment Partnership Ltd.">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="Zeon" target="Santander Asset Management UK Limited">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Zeon" target="Prigest S.A.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Zeon" target="Oppenheim Kapitalanlagegesellschaft mbH">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Nikko Asset Management Co., Ltd.">
-      <data key="weight">0.04</data>
-    </edge>
-    <edge source="Zeon" target="Morley Fund Management (Singapore) Ltd.">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Zeon" target="Morley Fund Management (Japan) Ltd.">
-      <data key="weight">0.18</data>
-    </edge>
-    <edge source="Zeon" target="Morgan Stanley Investment Management (Japan) Co., Ltd.">
+    <edge source="Aalberts" target="WestLB Mellon Asset Management Kapitalanlagegesellschaft mbH">
       <data key="weight">0.11</data>
     </edge>
-    <edge source="Zeon" target="Mizuho Corporate Bank, Ltd.">
-      <data key="weight">4.1</data>
-    </edge>
-    <edge source="Zeon" target="Mizuho Bank, Ltd.">
-      <data key="weight">4.3</data>
-    </edge>
-    <edge source="Zeon" target="Mitsubishi UFJ Trust and Banking Corporation">
-      <data key="weight">2.5</data>
-    </edge>
-    <edge source="Zeon" target="Kames Capital">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="Zeon" target="Insight Investment Management (Global) Limited">
-      <data key="weight">0.17</data>
-    </edge>
-    <edge source="Zeon" target="ISIS Asset Management p.l.c.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Zeon" target="INVESCO Asset Management Deutschland GmbH">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Zeon" target="Guardian Asset Management Limited">
-      <data key="weight">0.13</data>
-    </edge>
-    <edge source="Zeon" target="Furukawa Electric Co Ltd">
-      <data key="weight">6.2</data>
-    </edge>
-    <edge source="Zeon" target="FIL Investments (Japan) Limited">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Deutsche Bank Private Wealth Management Limited (Inactive)">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Zeon" target="Crédit Lyonnais Asset Management S.A.">
-      <data key="weight">0.08</data>
-    </edge>
-    <edge source="Zeon" target="Cazenove Capital Management Limited">
-      <data key="weight">0.12</data>
-    </edge>
-    <edge source="Zeon" target="CAAM SGR S.p.A.">
-      <data key="weight">0.2</data>
-    </edge>
-    <edge source="Zeon" target="Barclays Wealth">
+    <edge source="Aalberts" target="UBS Global Asset Management (Switzerland)">
       <data key="weight">0.07</data>
     </edge>
-    <edge source="Zeon" target="Banco Fonder AB">
+    <edge source="Aalberts" target="Tolsteeg NV">
+      <data key="weight">5.94</data>
+    </edge>
+    <edge source="Aalberts" target="Oppenheim Investment Managers">
+      <data key="weight">0.13</data>
+    </edge>
+    <edge source="Aalberts" target="Kempen Capital Management N.V.">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Zeon" target="Aviva Investors Global Services Limited">
+    <edge source="Aalberts" target="Jupiter Asset Management Ltd.">
+      <data key="weight">0.45</data>
+    </edge>
+    <edge source="Aalberts" target="JPMorgan Asset Management U.K. Limited">
+      <data key="weight">0.72</data>
+    </edge>
+    <edge source="Aalberts" target="Insinger de Beaufort Asset Management N.V.">
+      <data key="weight">0.15</data>
+    </edge>
+    <edge source="Aalberts" target="Hoge Noot BV">
+      <data key="weight">5.93</data>
+    </edge>
+    <edge source="Aalberts" target="Gutmann Kapitalanlage Aktiengesellschaft">
+      <data key="weight">0.06</data>
+    </edge>
+    <edge source="Aalberts" target="GIM Algemeen Vermogensbeheer">
+      <data key="weight">0.03</data>
+    </edge>
+    <edge source="Aalberts" target="Deutsche Bank Private Wealth Management Limited (Inactive)">
+      <data key="weight">0.92</data>
+    </edge>
+    <edge source="Aalberts" target="Daiwa SB Investments (UK) Ltd.">
       <data key="weight">0.02</data>
     </edge>
-    <edge source="Zeon" target="Asahi Mutual Life Insurance Co.">
-      <data key="weight">7.3</data>
+    <edge source="Aalberts" target="Credit Suisse Asset Management">
+      <data key="weight">0.31</data>
     </edge>
-    <edge source="Zeon" target="Asahi Chemical">
-      <data key="weight">2.6</data>
+    <edge source="Aalberts" target="Clariden Leu">
+      <data key="weight">0.03</data>
     </edge>
-    <edge source="Zeon" target="AEGON Investment Management B.V.">
-      <data key="weight">0.06</data>
+    <edge source="Aalberts" target="Capitalgest SGR S.p.A.">
+      <data key="weight">0.25</data>
+    </edge>
+    <edge source="Aalberts" target="BNP Paribas Investment Partners Netherlands N.V.">
+      <data key="weight">1.93</data>
+    </edge>
+    <edge source="Aalberts" target="Allianz Dresdner Asset Management (ex Pimco)">
+      <data key="weight">0.03</data>
+    </edge>
+    <edge source="Aalberts" target="Aalberts Family">
+      <data key="weight">16.3</data>
+    </edge>
+    <edge source="Aalberts" target="ABN AMRO Asset Management (Netherlands) B.V.">
+      <data key="weight">9.44</data>
     </edge>
   </graph>
 </graphml>

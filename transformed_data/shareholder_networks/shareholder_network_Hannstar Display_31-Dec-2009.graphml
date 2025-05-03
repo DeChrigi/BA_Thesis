@@ -3,13 +3,16 @@
   <key id="weight" for="edge" attr.name="weight" attr.type="double" />
   <key id="type" for="node" attr.name="type" attr.type="string" />
   <graph edgedefault="undirected">
-    <node id="Zeon">
+    <node id="Hannstar Display">
       <data key="type">Company</data>
     </node>
-    <node id="Yokohama Rubber Co Ltd">
+    <node id="Winbond Electronics Corp">
       <data key="type">Investor</data>
     </node>
-    <node id="Yasuda Asset Management Co., Ltd.">
+    <node id="Wilmington Trust Investment Management LLC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Wang (Hsiu Kui)">
       <data key="type">Investor</data>
     </node>
     <node id="Vanguard Group, Inc.">
@@ -18,16 +21,10 @@
     <node id="Universal-Investment-Gesellschaft mbH">
       <data key="type">Investor</data>
     </node>
-    <node id="Toyota Asset Management Co., Ltd.">
+    <node id="Thomas White International, Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Tokio Marine Asset Management Co., Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Tohpe Corp">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Threadneedle Asset Management Ltd.">
+    <node id="Teacher Retirement System of Texas">
       <data key="type">Investor</data>
     </node>
     <node id="TIAA-CREF">
@@ -36,79 +33,49 @@
     <node id="Swedbank Robur AB">
       <data key="type">Investor</data>
     </node>
-    <node id="Sumitomo Mitsui Trust Asset Management Co., Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Sumitomo Mitsui Asset Management Company, Limited">
-      <data key="type">Investor</data>
-    </node>
-    <node id="State Street Global Advisors Australia Ltd.">
-      <data key="type">Investor</data>
-    </node>
     <node id="State Street Global Advisors (US)">
       <data key="type">Investor</data>
     </node>
-    <node id="State Street Global Advisors (Japan) Co., Ltd.">
+    <node id="SinoPac Securities Investment Trust Co., Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="State Street Global Advisors (France) S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Standard Life Investments Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Sompo Japan Insurance Inc">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Simplex Asset Management Co., Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Showa Paxxs Corp">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Shinko Plantech Co Ltd">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Shinko Asset Management Co., Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Shinkin Asset Management Co., Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Shibusawa Warehouse Co Ltd">
+    <node id="Simplicity AB">
       <data key="type">Investor</data>
     </node>
     <node id="Schroder Investment Management Ltd. (SIM)">
       <data key="type">Investor</data>
     </node>
-    <node id="Sanwa Soko Co Ltd">
+    <node id="Schroder Investment Management (Singapore) Ltd.">
       <data key="type">Investor</data>
     </node>
     <node id="SINOPIA Asset Management">
       <data key="type">Investor</data>
     </node>
+    <node id="Russell Investments Limited">
+      <data key="type">Investor</data>
+    </node>
     <node id="Robeco Institutional Asset Management B.V.">
       <data key="type">Investor</data>
     </node>
-    <node id="Prudential Investment Management Japan Co., Ltd.">
+    <node id="Polaris Int'l Sec. Inv. Trust Co.">
       <data key="type">Investor</data>
     </node>
-    <node id="Prescient Investment Managers (Ireland) Limited">
+    <node id="Pictet Asset Management S.A.">
       <data key="type">Investor</data>
     </node>
     <node id="Pictet Asset Management Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Okasan Asset Management Co., Ltd.">
+    <node id="Parametric Portfolio Associates LLC">
       <data key="type">Investor</data>
     </node>
-    <node id="Okamoto Industries Inc">
+    <node id="Paradigm Asset Management Co., Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Northern Trust Global Investments Japan, KK">
+    <node id="PanAgora Asset Management Inc.">
       <data key="type">Investor</data>
     </node>
-    <node id="Norinchukin Zenkyoren Asset Management Co., Ltd.">
+    <node id="Northern Trust Global Investments">
       <data key="type">Investor</data>
     </node>
     <node id="Norges Bank Investment Management (NBIM)">
@@ -117,103 +84,31 @@
     <node id="Nomura Asset Management Co., Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Nissay Asset Management Corp.">
-      <data key="type">Investor</data>
-    </node>
     <node id="Nikko Asset Management Co., Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Nichiban Co Ltd">
-      <data key="type">Investor</data>
-    </node>
-    <node id="NOK Corp">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Mizuho Corporate Bank, Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Mizuho Bank, Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Mizuho Asset Management Co., Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Mitsubishi UFJ Asset Management Co., Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Mitsubishi UFJ Asset Management (UK) Ltd.">
+    <node id="NORD/LB Capital Management GmbH">
       <data key="type">Investor</data>
     </node>
     <node id="Mellon Capital Management Corporation">
       <data key="type">Investor</data>
     </node>
-    <node id="Meiji Yasuda Asset Management Company Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="M &amp; G Investment Management Ltd.">
+    <node id="Mega International Investment Trust Co., Ltd.">
       <data key="type">Investor</data>
     </node>
     <node id="Lyxor Asset Management">
       <data key="type">Investor</data>
     </node>
-    <node id="Lord, Abbett &amp; Co. LLC">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Lombard Odier Darier Hentsch Trust (Japan) Ltd.">
-      <data key="type">Investor</data>
-    </node>
     <node id="Legal &amp; General Investment Management Ltd. (UK)">
       <data key="type">Investor</data>
     </node>
-    <node id="LSV Asset Management">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Kokusai Asset Management Co., Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Kleinwort Benson Investors Dublin Ltd">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Kanto Denka Kogyo Co Ltd">
-      <data key="type">Investor</data>
-    </node>
-    <node id="JPMorgan Asset Management (Japan) Limited">
-      <data key="type">Investor</data>
-    </node>
-    <node id="J.P. Morgan Whitefriars Inc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Invesco PowerShares Capital Management LLC">
+    <node id="Jui Hwa Investment Company Ltd">
       <data key="type">Investor</data>
     </node>
     <node id="Insight Investment Management (Global) Limited">
       <data key="type">Investor</data>
     </node>
-    <node id="Iino Kaiun Kaisha Ltd">
-      <data key="type">Investor</data>
-    </node>
-    <node id="INVESCO Asset Management Limited">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Helaba Invest Kapitalanlagegesellschaft mbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Harima Chemicals Group Inc">
-      <data key="type">Investor</data>
-    </node>
-    <node id="HSBC Global Asset Management (Hong Kong) Limited (Inactive)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="HANSAINVEST Hanseatische Investment GmbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Groupama Asset Management">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Goldman Sachs Asset Management International">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Goldman Sachs Asset Management Co., Ltd.">
+    <node id="Handelsbanken Asset Management">
       <data key="type">Investor</data>
     </node>
     <node id="Goldman Sachs Asset Management (US)">
@@ -222,22 +117,25 @@
     <node id="Global Index Advisors, Inc.">
       <data key="type">Investor</data>
     </node>
+    <node id="Geode Capital Management, L.L.C.">
+      <data key="type">Investor</data>
+    </node>
     <node id="GMO LLC">
       <data key="type">Investor</data>
     </node>
     <node id="Första AP-Fonden">
       <data key="type">Investor</data>
     </node>
-    <node id="Furukawa Electric Co Ltd">
+    <node id="Fubon Asset Management Company Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="First Private Investment Management KAG mbH">
+    <node id="First Securities Investment Trust Co., Ltd.">
       <data key="type">Investor</data>
     </node>
     <node id="Fidelity Worldwide Investment (UK) Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="FIL Investments (Japan) Limited">
+    <node id="Fidelity Management &amp; Research Company">
       <data key="type">Investor</data>
     </node>
     <node id="FIL Investment Management (Singapore) Limited">
@@ -246,100 +144,73 @@
     <node id="FIL Investment Management (Hong Kong) Limited">
       <data key="type">Investor</data>
     </node>
-    <node id="Esemplia Emerging Markets">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Ersel Asset Management SGR S.p.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="E.Öhman J:or Fonder AB">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Driehaus Capital Management, LLC">
+    <node id="Eurizon Capital S.A.">
       <data key="type">Investor</data>
     </node>
     <node id="Dimensional Fund Advisors, LP">
       <data key="type">Investor</data>
     </node>
-    <node id="Deutsche Asset Management Investmentgesellschaft mbH">
+    <node id="Dexia Asset Management Belgium S.A.">
       <data key="type">Investor</data>
     </node>
-    <node id="Deka Investment GmbH">
+    <node id="Daiwa Asset Management (HK) Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Daiwa Asset Management Co., Ltd.">
+    <node id="DNB Asset Management AS">
       <data key="type">Investor</data>
     </node>
-    <node id="DIAM Co., Ltd.">
+    <node id="Credit Suisse Asset Management Funds S.p.A.">
       <data key="type">Investor</data>
     </node>
-    <node id="DFA Australia Ltd.">
+    <node id="Credit Suisse Asset Management">
       <data key="type">Investor</data>
     </node>
-    <node id="Credit Suisse Private Banking (Switzerland)">
+    <node id="Columbia Management Investment Advisers, LLC">
       <data key="type">Investor</data>
     </node>
-    <node id="Chuo Mitsui Asset Management Co., Ltd.">
+    <node id="Clairvoyance Capital Advisors Pte. Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Charles Schwab Investment Management, Inc.">
+    <node id="Cathay Securities Investment Trust Co., Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Capital International Inc. (Singapore)">
+    <node id="Caisse de Depot et Placement du Quebec">
       <data key="type">Investor</data>
     </node>
-    <node id="Campbell &amp; Company, Inc.">
+    <node id="CPP Investment Board">
       <data key="type">Investor</data>
     </node>
     <node id="CIBC Global Asset Management Inc.">
       <data key="type">Investor</data>
     </node>
-    <node id="C I Kasei Company Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Brother Industries Ltd">
-      <data key="type">Investor</data>
-    </node>
-    <node id="BlackRock Japan Co., Ltd.">
+    <node id="CI Investments Inc.">
       <data key="type">Investor</data>
     </node>
     <node id="BlackRock Institutional Trust Company, N.A.">
       <data key="type">Investor</data>
     </node>
-    <node id="BlackRock Financial Management, Inc.">
-      <data key="type">Investor</data>
-    </node>
     <node id="BlackRock Advisors (UK) Limited">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Batterymarch Financial Management, Inc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Banque Cantonale Vaudoise">
       <data key="type">Investor</data>
     </node>
     <node id="Aviva Investors Global Services Limited">
       <data key="type">Investor</data>
     </node>
-    <node id="Asahi Mutual Life Insurance Co.">
+    <node id="Arrowstreet Capital, Limited Partnership">
       <data key="type">Investor</data>
     </node>
-    <node id="Asahi Kasei Chemicals Corporation">
+    <node id="Anima SGR.p.A.">
       <data key="type">Investor</data>
     </node>
-    <node id="Amundi Japan Ltd.">
+    <node id="Anima SGR S.p.A.">
       <data key="type">Investor</data>
     </node>
-    <node id="Amundi Asset Management">
+    <node id="AllianceBernstein Ltd. (Growth)">
       <data key="type">Investor</data>
     </node>
-    <node id="American Independence Financial Services, LLC">
+    <node id="AllianceBernstein L.P.">
       <data key="type">Investor</data>
     </node>
-    <node id="American Century Global Investment Management, Inc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Adeka Corp">
+    <node id="Acadian Asset Management LLC">
       <data key="type">Investor</data>
     </node>
     <node id="AXA Rosenberg Investment Management Ltd.">
@@ -348,359 +219,236 @@
     <node id="AXA Rosenberg Investment Management LLC">
       <data key="type">Investor</data>
     </node>
-    <node id="AXA Investment Managers Paris">
+    <node id="AXA Rosenberg Investment Management Asia Pacific Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="AXA Investment Managers Deutschland GmbH">
+    <node id="AXA Investment Managers UK Ltd.">
       <data key="type">Investor</data>
     </node>
-    <edge source="Zeon" target="Yokohama Rubber Co Ltd">
-      <data key="weight">6.95</data>
+    <node id="APG Asset Management">
+      <data key="type">Investor</data>
+    </node>
+    <edge source="Hannstar Display" target="Winbond Electronics Corp">
+      <data key="weight">3.26</data>
     </edge>
-    <edge source="Zeon" target="Yasuda Asset Management Co., Ltd.">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Zeon" target="Vanguard Group, Inc.">
-      <data key="weight">0.04</data>
-    </edge>
-    <edge source="Zeon" target="Universal-Investment-Gesellschaft mbH">
+    <edge source="Hannstar Display" target="Wilmington Trust Investment Management LLC">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Zeon" target="Toyota Asset Management Co., Ltd.">
+    <edge source="Hannstar Display" target="Wang (Hsiu Kui)">
+      <data key="weight">0.71</data>
+    </edge>
+    <edge source="Hannstar Display" target="Vanguard Group, Inc.">
+      <data key="weight">0.56</data>
+    </edge>
+    <edge source="Hannstar Display" target="Universal-Investment-Gesellschaft mbH">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Zeon" target="Tokio Marine Asset Management Co., Ltd.">
-      <data key="weight">0.04</data>
-    </edge>
-    <edge source="Zeon" target="Tohpe Corp">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="Zeon" target="Threadneedle Asset Management Ltd.">
+    <edge source="Hannstar Display" target="Thomas White International, Ltd.">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Zeon" target="TIAA-CREF">
-      <data key="weight">0.18</data>
+    <edge source="Hannstar Display" target="Teacher Retirement System of Texas">
+      <data key="weight">0.74</data>
     </edge>
-    <edge source="Zeon" target="Swedbank Robur AB">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Sumitomo Mitsui Trust Asset Management Co., Ltd.">
-      <data key="weight">0.04</data>
-    </edge>
-    <edge source="Zeon" target="Sumitomo Mitsui Asset Management Company, Limited">
-      <data key="weight">0.15</data>
-    </edge>
-    <edge source="Zeon" target="State Street Global Advisors Australia Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="State Street Global Advisors (US)">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Zeon" target="State Street Global Advisors (Japan) Co., Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="State Street Global Advisors (France) S.A.">
-      <data key="weight">0.07</data>
-    </edge>
-    <edge source="Zeon" target="Standard Life Investments Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Sompo Japan Insurance Inc">
-      <data key="weight">1.94</data>
-    </edge>
-    <edge source="Zeon" target="Simplex Asset Management Co., Ltd.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Zeon" target="Showa Paxxs Corp">
-      <data key="weight">0.04</data>
-    </edge>
-    <edge source="Zeon" target="Shinko Plantech Co Ltd">
-      <data key="weight">0.18</data>
-    </edge>
-    <edge source="Zeon" target="Shinko Asset Management Co., Ltd.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Zeon" target="Shinkin Asset Management Co., Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Shibusawa Warehouse Co Ltd">
-      <data key="weight">0.28</data>
-    </edge>
-    <edge source="Zeon" target="Schroder Investment Management Ltd. (SIM)">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Zeon" target="Sanwa Soko Co Ltd">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="Zeon" target="SINOPIA Asset Management">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Robeco Institutional Asset Management B.V.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Prudential Investment Management Japan Co., Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Prescient Investment Managers (Ireland) Limited">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Pictet Asset Management Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Okasan Asset Management Co., Ltd.">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Zeon" target="Okamoto Industries Inc">
-      <data key="weight">0.12</data>
-    </edge>
-    <edge source="Zeon" target="Northern Trust Global Investments Japan, KK">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Norinchukin Zenkyoren Asset Management Co., Ltd.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Zeon" target="Norges Bank Investment Management (NBIM)">
-      <data key="weight">0.55</data>
-    </edge>
-    <edge source="Zeon" target="Nomura Asset Management Co., Ltd.">
-      <data key="weight">0.69</data>
-    </edge>
-    <edge source="Zeon" target="Nissay Asset Management Corp.">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Zeon" target="Nikko Asset Management Co., Ltd.">
-      <data key="weight">0.11</data>
-    </edge>
-    <edge source="Zeon" target="Nichiban Co Ltd">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Zeon" target="NOK Corp">
-      <data key="weight">0.51</data>
-    </edge>
-    <edge source="Zeon" target="Mizuho Corporate Bank, Ltd.">
-      <data key="weight">3.62</data>
-    </edge>
-    <edge source="Zeon" target="Mizuho Bank, Ltd.">
-      <data key="weight">2.06</data>
-    </edge>
-    <edge source="Zeon" target="Mizuho Asset Management Co., Ltd.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Zeon" target="Mitsubishi UFJ Asset Management Co., Ltd.">
-      <data key="weight">0.18</data>
-    </edge>
-    <edge source="Zeon" target="Mitsubishi UFJ Asset Management (UK) Ltd.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Zeon" target="Mellon Capital Management Corporation">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="Zeon" target="Meiji Yasuda Asset Management Company Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="M &amp; G Investment Management Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Lyxor Asset Management">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Lord, Abbett &amp; Co. LLC">
-      <data key="weight">0.21</data>
-    </edge>
-    <edge source="Zeon" target="Lombard Odier Darier Hentsch Trust (Japan) Ltd.">
-      <data key="weight">0.07</data>
-    </edge>
-    <edge source="Zeon" target="Legal &amp; General Investment Management Ltd. (UK)">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="LSV Asset Management">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Kokusai Asset Management Co., Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Kleinwort Benson Investors Dublin Ltd">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Kanto Denka Kogyo Co Ltd">
-      <data key="weight">0.45</data>
-    </edge>
-    <edge source="Zeon" target="JPMorgan Asset Management (Japan) Limited">
-      <data key="weight">3.46</data>
-    </edge>
-    <edge source="Zeon" target="J.P. Morgan Whitefriars Inc.">
-      <data key="weight">0.11</data>
-    </edge>
-    <edge source="Zeon" target="Invesco PowerShares Capital Management LLC">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Insight Investment Management (Global) Limited">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Iino Kaiun Kaisha Ltd">
-      <data key="weight">0.36</data>
-    </edge>
-    <edge source="Zeon" target="INVESCO Asset Management Limited">
-      <data key="weight">0.48</data>
-    </edge>
-    <edge source="Zeon" target="Helaba Invest Kapitalanlagegesellschaft mbH">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Harima Chemicals Group Inc">
-      <data key="weight">0.08</data>
-    </edge>
-    <edge source="Zeon" target="HSBC Global Asset Management (Hong Kong) Limited (Inactive)">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Zeon" target="HANSAINVEST Hanseatische Investment GmbH">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Groupama Asset Management">
-      <data key="weight">0.04</data>
-    </edge>
-    <edge source="Zeon" target="Goldman Sachs Asset Management International">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Goldman Sachs Asset Management Co., Ltd.">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="Zeon" target="Goldman Sachs Asset Management (US)">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Global Index Advisors, Inc.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="GMO LLC">
-      <data key="weight">0.18</data>
-    </edge>
-    <edge source="Zeon" target="Första AP-Fonden">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Furukawa Electric Co Ltd">
-      <data key="weight">3.55</data>
-    </edge>
-    <edge source="Zeon" target="First Private Investment Management KAG mbH">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Fidelity Worldwide Investment (UK) Ltd.">
-      <data key="weight">0.04</data>
-    </edge>
-    <edge source="Zeon" target="FIL Investments (Japan) Limited">
-      <data key="weight">0.81</data>
-    </edge>
-    <edge source="Zeon" target="FIL Investment Management (Singapore) Limited">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="FIL Investment Management (Hong Kong) Limited">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Esemplia Emerging Markets">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Ersel Asset Management SGR S.p.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="E.Öhman J:or Fonder AB">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Driehaus Capital Management, LLC">
-      <data key="weight">0.16</data>
-    </edge>
-    <edge source="Zeon" target="Dimensional Fund Advisors, LP">
-      <data key="weight">0.35</data>
-    </edge>
-    <edge source="Zeon" target="Deutsche Asset Management Investmentgesellschaft mbH">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Zeon" target="Deka Investment GmbH">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Daiwa Asset Management Co., Ltd.">
-      <data key="weight">0.42</data>
-    </edge>
-    <edge source="Zeon" target="DIAM Co., Ltd.">
-      <data key="weight">0.11</data>
-    </edge>
-    <edge source="Zeon" target="DFA Australia Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Credit Suisse Private Banking (Switzerland)">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Chuo Mitsui Asset Management Co., Ltd.">
-      <data key="weight">0.09</data>
-    </edge>
-    <edge source="Zeon" target="Charles Schwab Investment Management, Inc.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Capital International Inc. (Singapore)">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Campbell &amp; Company, Inc.">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Zeon" target="CIBC Global Asset Management Inc.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="C I Kasei Company Ltd.">
-      <data key="weight">0.31</data>
-    </edge>
-    <edge source="Zeon" target="Brother Industries Ltd">
-      <data key="weight">0.98</data>
-    </edge>
-    <edge source="Zeon" target="BlackRock Japan Co., Ltd.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Zeon" target="BlackRock Institutional Trust Company, N.A.">
-      <data key="weight">0.09</data>
-    </edge>
-    <edge source="Zeon" target="BlackRock Financial Management, Inc.">
-      <data key="weight">1.08</data>
-    </edge>
-    <edge source="Zeon" target="BlackRock Advisors (UK) Limited">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Zeon" target="Batterymarch Financial Management, Inc.">
+    <edge source="Hannstar Display" target="TIAA-CREF">
       <data key="weight">0.1</data>
     </edge>
-    <edge source="Zeon" target="Banque Cantonale Vaudoise">
+    <edge source="Hannstar Display" target="Swedbank Robur AB">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Zeon" target="Aviva Investors Global Services Limited">
+    <edge source="Hannstar Display" target="State Street Global Advisors (US)">
+      <data key="weight">0.08</data>
+    </edge>
+    <edge source="Hannstar Display" target="SinoPac Securities Investment Trust Co., Ltd.">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Zeon" target="Asahi Mutual Life Insurance Co.">
-      <data key="weight">4.41</data>
-    </edge>
-    <edge source="Zeon" target="Asahi Kasei Chemicals Corporation">
-      <data key="weight">2.66</data>
-    </edge>
-    <edge source="Zeon" target="Amundi Japan Ltd.">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Zeon" target="Amundi Asset Management">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Zeon" target="American Independence Financial Services, LLC">
+    <edge source="Hannstar Display" target="Simplicity AB">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Zeon" target="American Century Global Investment Management, Inc.">
+    <edge source="Hannstar Display" target="Schroder Investment Management Ltd. (SIM)">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Hannstar Display" target="Schroder Investment Management (Singapore) Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Hannstar Display" target="SINOPIA Asset Management">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Hannstar Display" target="Russell Investments Limited">
+      <data key="weight">0.11</data>
+    </edge>
+    <edge source="Hannstar Display" target="Robeco Institutional Asset Management B.V.">
+      <data key="weight">0.77</data>
+    </edge>
+    <edge source="Hannstar Display" target="Polaris Int'l Sec. Inv. Trust Co.">
+      <data key="weight">0.06</data>
+    </edge>
+    <edge source="Hannstar Display" target="Pictet Asset Management S.A.">
       <data key="weight">0.05</data>
     </edge>
-    <edge source="Zeon" target="Adeka Corp">
-      <data key="weight">0.48</data>
+    <edge source="Hannstar Display" target="Pictet Asset Management Ltd.">
+      <data key="weight">0.05</data>
     </edge>
-    <edge source="Zeon" target="AXA Rosenberg Investment Management Ltd.">
+    <edge source="Hannstar Display" target="Parametric Portfolio Associates LLC">
+      <data key="weight">0.06</data>
+    </edge>
+    <edge source="Hannstar Display" target="Paradigm Asset Management Co., Ltd.">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Zeon" target="AXA Rosenberg Investment Management LLC">
+    <edge source="Hannstar Display" target="PanAgora Asset Management Inc.">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Zeon" target="AXA Investment Managers Paris">
+    <edge source="Hannstar Display" target="Northern Trust Global Investments">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Hannstar Display" target="Norges Bank Investment Management (NBIM)">
+      <data key="weight">0.42</data>
+    </edge>
+    <edge source="Hannstar Display" target="Nomura Asset Management Co., Ltd.">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Zeon" target="AXA Investment Managers Deutschland GmbH">
+    <edge source="Hannstar Display" target="Nikko Asset Management Co., Ltd.">
       <data key="weight">0.0</data>
+    </edge>
+    <edge source="Hannstar Display" target="NORD/LB Capital Management GmbH">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Hannstar Display" target="Mellon Capital Management Corporation">
+      <data key="weight">0.23</data>
+    </edge>
+    <edge source="Hannstar Display" target="Mega International Investment Trust Co., Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Hannstar Display" target="Lyxor Asset Management">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Hannstar Display" target="Legal &amp; General Investment Management Ltd. (UK)">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Hannstar Display" target="Jui Hwa Investment Company Ltd">
+      <data key="weight">0.56</data>
+    </edge>
+    <edge source="Hannstar Display" target="Insight Investment Management (Global) Limited">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Hannstar Display" target="Handelsbanken Asset Management">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Hannstar Display" target="Goldman Sachs Asset Management (US)">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Hannstar Display" target="Global Index Advisors, Inc.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Hannstar Display" target="Geode Capital Management, L.L.C.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Hannstar Display" target="GMO LLC">
+      <data key="weight">1.31</data>
+    </edge>
+    <edge source="Hannstar Display" target="Första AP-Fonden">
+      <data key="weight">0.03</data>
+    </edge>
+    <edge source="Hannstar Display" target="Fubon Asset Management Company Ltd.">
+      <data key="weight">0.04</data>
+    </edge>
+    <edge source="Hannstar Display" target="First Securities Investment Trust Co., Ltd.">
+      <data key="weight">0.03</data>
+    </edge>
+    <edge source="Hannstar Display" target="Fidelity Worldwide Investment (UK) Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Hannstar Display" target="Fidelity Management &amp; Research Company">
+      <data key="weight">1.42</data>
+    </edge>
+    <edge source="Hannstar Display" target="FIL Investment Management (Singapore) Limited">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Hannstar Display" target="FIL Investment Management (Hong Kong) Limited">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Hannstar Display" target="Eurizon Capital S.A.">
+      <data key="weight">0.03</data>
+    </edge>
+    <edge source="Hannstar Display" target="Dimensional Fund Advisors, LP">
+      <data key="weight">0.98</data>
+    </edge>
+    <edge source="Hannstar Display" target="Dexia Asset Management Belgium S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Hannstar Display" target="Daiwa Asset Management (HK) Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Hannstar Display" target="DNB Asset Management AS">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Hannstar Display" target="Credit Suisse Asset Management Funds S.p.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Hannstar Display" target="Credit Suisse Asset Management">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Hannstar Display" target="Columbia Management Investment Advisers, LLC">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Hannstar Display" target="Clairvoyance Capital Advisors Pte. Ltd.">
+      <data key="weight">2.15</data>
+    </edge>
+    <edge source="Hannstar Display" target="Cathay Securities Investment Trust Co., Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Hannstar Display" target="Caisse de Depot et Placement du Quebec">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Hannstar Display" target="CPP Investment Board">
+      <data key="weight">0.07</data>
+    </edge>
+    <edge source="Hannstar Display" target="CIBC Global Asset Management Inc.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Hannstar Display" target="CI Investments Inc.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Hannstar Display" target="BlackRock Institutional Trust Company, N.A.">
+      <data key="weight">0.79</data>
+    </edge>
+    <edge source="Hannstar Display" target="BlackRock Advisors (UK) Limited">
+      <data key="weight">0.4</data>
+    </edge>
+    <edge source="Hannstar Display" target="Aviva Investors Global Services Limited">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Hannstar Display" target="Arrowstreet Capital, Limited Partnership">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Hannstar Display" target="Anima SGR.p.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Hannstar Display" target="Anima SGR S.p.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Hannstar Display" target="AllianceBernstein Ltd. (Growth)">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Hannstar Display" target="AllianceBernstein L.P.">
+      <data key="weight">0.96</data>
+    </edge>
+    <edge source="Hannstar Display" target="Acadian Asset Management LLC">
+      <data key="weight">0.8</data>
+    </edge>
+    <edge source="Hannstar Display" target="AXA Rosenberg Investment Management Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Hannstar Display" target="AXA Rosenberg Investment Management LLC">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Hannstar Display" target="AXA Rosenberg Investment Management Asia Pacific Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Hannstar Display" target="AXA Investment Managers UK Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Hannstar Display" target="APG Asset Management">
+      <data key="weight">0.73</data>
     </edge>
   </graph>
 </graphml>

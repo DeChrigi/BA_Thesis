@@ -3,16 +3,34 @@
   <key id="weight" for="edge" attr.name="weight" attr.type="double" />
   <key id="type" for="node" attr.name="type" attr.type="string" />
   <graph edgedefault="undirected">
-    <node id="Zeon">
+    <node id="Repsol YPF">
       <data key="type">Company</data>
     </node>
-    <node id="Yokohama Rubber Co Ltd">
+    <node id="Étoile Gestion">
       <data key="type">Investor</data>
     </node>
-    <node id="Yasuda Asset Management Co., Ltd.">
+    <node id="eQ Asset Management Oy">
+      <data key="type">Investor</data>
+    </node>
+    <node id="bfw fondsleitung AG">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Zürcher Kantonalbank (Asset Management)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Zenit SGR S.p.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Wright Investors' Service Inc.">
       <data key="type">Investor</data>
     </node>
     <node id="World Asset Management, Inc.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="William Blair &amp; Company, L.L.C.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Westpeak Global Advisors, LLC.">
       <data key="type">Investor</data>
     </node>
     <node id="WestLB Mellon Asset Management Kapitalanlagegesellschaft mbH">
@@ -21,40 +39,139 @@
     <node id="Wells Capital Management Inc.">
       <data key="type">Investor</data>
     </node>
+    <node id="Wellington Management Company, LLP">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Warburg Invest Kapitalanlagegesellschaft mbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="W &amp; W Asset Management GmbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Volksbank Invest Kapitalanlagegesellschaft mbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Vital Gestion S.A., S.G.I.I.C.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Veritas Investment Trust GmbH">
+      <data key="type">Investor</data>
+    </node>
     <node id="Vanguard Group, Inc.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Van Eck Associates Corporation">
+      <data key="type">Investor</data>
+    </node>
+    <node id="VP Bank (Schweiz) AG">
+      <data key="type">Investor</data>
+    </node>
+    <node id="VG.SA Asset Management">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Urquijo Gestión, S.A., S.G.I.I.C., Sociedad Unipersonal">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Unnim Gesfons S.G.I.I.C. S.A.">
       <data key="type">Investor</data>
     </node>
     <node id="Universal-Investment-Gesellschaft mbH">
       <data key="type">Investor</data>
     </node>
+    <node id="Unipol banca S.p.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Union Investment TFI S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Union Investment Group">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Unigest, S.G.I.I.C., S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Unidos S.A. AFJP">
+      <data key="type">Investor</data>
+    </node>
+    <node id="UBS Global Asset Management (UK) Ltd.">
+      <data key="type">Investor</data>
+    </node>
     <node id="UBS Global Asset Management (Switzerland)">
       <data key="type">Investor</data>
     </node>
-    <node id="UBS Global Asset Management (Japan) Ltd.">
+    <node id="UBS Global Asset Management (Deutschland) GmbH">
       <data key="type">Investor</data>
     </node>
-    <node id="Toyota Asset Management Co., Ltd.">
+    <node id="UBS Gestión, S.G.I.I.C., S.A.">
       <data key="type">Investor</data>
     </node>
-    <node id="Tokio Marine Asset Management Co., Ltd.">
+    <node id="UBI Pramerica SGR S.p.A.">
       <data key="type">Investor</data>
     </node>
-    <node id="Tohpe Corp">
+    <node id="Tudor Capital Europe LLP">
       <data key="type">Investor</data>
     </node>
-    <node id="Threadneedle Asset Management Ltd.">
+    <node id="TrendConcept Vermögensverwaltung GmbH">
       <data key="type">Investor</data>
     </node>
-    <node id="The Nomura Trust and Banking Co., Ltd.">
+    <node id="Trea Capital Partners, S.V., S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Transatlantique Gestion">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Transamerica Investment Management, LLC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Tocqueville Finance S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Tirolinvest Kapitalanlagegesellschaft mbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Thornburg Investment Management, Inc.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Thomas White International, Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="The Empire Life Insurance Company">
+      <data key="type">Investor</data>
+    </node>
+    <node id="The Boston Company Asset Management, LLC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Templeton Investment Counsel, LLC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Templeton Asset Management (Singapore) Ltd.">
       <data key="type">Investor</data>
     </node>
     <node id="Teacher Retirement System of Texas">
       <data key="type">Investor</data>
     </node>
+    <node id="Taube, Hodson, Stonex Partners, LLP">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Tank SGR S.p.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Talanx Asset Management GmbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="TT International">
+      <data key="type">Investor</data>
+    </node>
     <node id="TIAA-CREF">
       <data key="type">Investor</data>
     </node>
+    <node id="TD Banknorth Wealth Management Group">
+      <data key="type">Investor</data>
+    </node>
     <node id="TD Asset Management Inc.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="TCW Asset Management Company">
       <data key="type">Investor</data>
     </node>
     <node id="T. Rowe Price Associates, Inc.">
@@ -63,13 +180,49 @@
     <node id="T&amp;D Asset Management Co., Ltd.">
       <data key="type">Investor</data>
     </node>
+    <node id="Symphonia SGR Spa">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Sydinvest">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Sydbank">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Swisscanto Asset Management AG">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Swiss Life Asset Management (France)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Swiss Life Asset Management">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Swiss &amp; Global Asset Management Ltd.">
+      <data key="type">Investor</data>
+    </node>
     <node id="Swedbank Robur AB">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Sutterlüty Investment Management GmbH">
       <data key="type">Investor</data>
     </node>
     <node id="Sumitomo Mitsui Trust Asset Management Co., Ltd.">
       <data key="type">Investor</data>
     </node>
     <node id="Sumitomo Mitsui Asset Management Company, Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Studio A. Ciocca S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Storebrand Kapitalforvaltning AS">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Stonebridge Capital Management, Inc.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="State Street Global Advisors Ltd. (Canada)">
       <data key="type">Investor</data>
     </node>
     <node id="State Street Global Advisors Australia Ltd.">
@@ -87,112 +240,316 @@
     <node id="State Street Global Advisors (France) S.A.">
       <data key="type">Investor</data>
     </node>
+    <node id="StarCapital AG">
+      <data key="type">Investor</data>
+    </node>
     <node id="Standard Life Investments Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Standard Life Investments Inc.(Canada)">
       <data key="type">Investor</data>
     </node>
     <node id="Standard Life Investments (USA) Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Sompo Japan Insurance Inc">
+    <node id="Spängler IQAM Invest Asset Management GmbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Spectrum Asset Management, Inc.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Sparkasse Oberösterreich Kapitalanlagegesellschaft mbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Sparinvest Fondsmæglerselskab A/S">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Solventis Gestión, S.G.C., S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Société Générale Asset Management (France)">
       <data key="type">Investor</data>
     </node>
     <node id="Sjunde AP-fonden">
       <data key="type">Investor</data>
     </node>
-    <node id="Showa Paxxs Corp">
+    <node id="Signal Iduna Asset Management GmbH">
       <data key="type">Investor</data>
     </node>
-    <node id="Shinko Plantech Co Ltd">
+    <node id="Siemens Kapitalanlagegesellschaft mbH">
       <data key="type">Investor</data>
     </node>
-    <node id="Shinko Asset Management Co., Ltd.">
+    <node id="Shin Kong Investment Trust Co., Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Shinkin Asset Management Co., Ltd.">
+    <node id="Sella Gestioni SGR SpA">
       <data key="type">Investor</data>
     </node>
-    <node id="Shibusawa Warehouse Co Ltd">
+    <node id="Seligson &amp; Co Rahastoyhtiö Oyj">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Security Kapitalanlage AG">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Scotia Asset Management L.P.">
       <data key="type">Investor</data>
     </node>
     <node id="Schroder Investment Management Ltd. (SIM)">
       <data key="type">Investor</data>
     </node>
-    <node id="Sanwa Soko Co Ltd">
+    <node id="Santander Asset Management UK Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Santander Asset Management - S.G.F.I.M., S.A">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Santander Asset Management">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Sanlam Investment Management (Pty) Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Salmann Investment Management AG">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Sacyr Vallehermoso SA">
+      <data key="type">Investor</data>
+    </node>
+    <node id="SNS Asset Management">
+      <data key="type">Investor</data>
+    </node>
+    <node id="SMA Gestion">
       <data key="type">Investor</data>
     </node>
     <node id="SINOPIA Asset Management">
       <data key="type">Investor</data>
     </node>
+    <node id="SGF - Sociedade Gestora de Fundos de Pensões S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="SGAM Alternative Investments S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="SEB Investment GmbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="SEB Gyllenberg Rahastoyhtiö Oy">
+      <data key="type">Investor</data>
+    </node>
+    <node id="SEB Asset Management (Stockholm)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="SAM Sustainable Asset Management Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Roche Brune SAS">
+      <data key="type">Investor</data>
+    </node>
     <node id="Robeco Institutional Asset Management B.V.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Riva y Garcia Gestión S.G.I.I.C., S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Reyl &amp; Cie S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Renta 4 Gestora, S.G.I.I.C., S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Raiffeisen Vermögensverwaltungsbank AG">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Raiffeisen Kapitalanlage-Gesellschaft mbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="RVT Finanz AG">
+      <data key="type">Investor</data>
+    </node>
+    <node id="RMJ SGR p.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="RJ Delta Fund Management S.A.S.G.F.C.I.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="RCM (UK) Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Quoniam Asset Management GmbH">
       <data key="type">Investor</data>
     </node>
     <node id="Quantitative Management Associates LLC">
       <data key="type">Investor</data>
     </node>
+    <node id="Pyramis Global Advisors, LLC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Putnam Investment Management, L.L.C.">
+      <data key="type">Investor</data>
+    </node>
     <node id="Prudential Investment Management Japan Co., Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Profilo Asset Management SGR, S.p.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Professionals Financial Inc.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Profesión-Auge AFJP S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Pro-Financial Asset Management, Inc.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Privat Bank Patrimonio, S.A.U., S.G.I.I.C.">
       <data key="type">Investor</data>
     </node>
     <node id="Principal Global Investors (Equity)">
       <data key="type">Investor</data>
     </node>
+    <node id="Prime Invest AG">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Prima sgr S.p.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Previsol AFJP S.A.">
+      <data key="type">Investor</data>
+    </node>
     <node id="Prescient Investment Managers (Ireland) Limited">
       <data key="type">Investor</data>
     </node>
-    <node id="Polar Capital LLP">
+    <node id="Popular Gestão de Activos - S.G.F.I., S.A">
       <data key="type">Investor</data>
     </node>
-    <node id="Plaza Asset Management Co., Ltd.">
+    <node id="Popular Gestión, S.A., S.G.I.I.C.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Popular Gestión Privada S.G.I.I.C., S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Platinum Management (NY) LLC (Sibling)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Pioneer Pekao Investment Management SA">
       <data key="type">Investor</data>
     </node>
     <node id="Pioneer Investments Kapitalanlagegesellschaft mbH">
       <data key="type">Investor</data>
     </node>
-    <node id="Pioneer Investment Management SGRpA">
+    <node id="Pioneer Investments Austria GmbH">
       <data key="type">Investor</data>
     </node>
-    <node id="Pioneer Investment Management Ltd. (Singapore)">
+    <node id="Pioneer Investment Management, Inc.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Pioneer Investment Management SGRpA">
       <data key="type">Investor</data>
     </node>
     <node id="Pioneer Investment Management Ltd.">
       <data key="type">Investor</data>
     </node>
+    <node id="Pioneer Czech Investment Company, a.s.">
+      <data key="type">Investor</data>
+    </node>
     <node id="PineBridge Investments LLC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="PineBridge Investments Europe Limited">
       <data key="type">Investor</data>
     </node>
     <node id="Pictet Asset Management Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Okasan Asset Management Co., Ltd.">
+    <node id="Petróleos de México">
       <data key="type">Investor</data>
     </node>
-    <node id="Okamoto Industries Inc">
+    <node id="Petercam S.A.">
       <data key="type">Investor</data>
     </node>
-    <node id="Northern Trust Global Investments Japan, KK">
+    <node id="PanAgora Asset Management Inc.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Palatine Asset Management">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Pactio Gestión, S.G.I.I.C., S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Pacific Investment Management Company LLC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="PKB Privat Bank AG">
+      <data key="type">Investor</data>
+    </node>
+    <node id="PEH Wertpapier AG">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Orígenes AFJP S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Optique Capital Management, Inc.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Optimix Vermogensbeheer N.V.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Oppenheim Kapitalanlagegesellschaft mbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Oppenheim Investment Managers">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Oechsle International Advisors, LLC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Odey Asset Management LLP">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Oddo Asset Management">
+      <data key="type">Investor</data>
+    </node>
+    <node id="O'Shaughnessy Asset Management, LLC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Numeric Investors LLC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Notz, Stucki Europe S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Northern Trust Investments, N.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Northern Trust Global Investments Limited">
       <data key="type">Investor</data>
     </node>
     <node id="Northern Trust Global Investments">
       <data key="type">Investor</data>
     </node>
-    <node id="Norinchukin Zenkyoren Asset Management Co., Ltd.">
+    <node id="Norges Bank Investment Management (NBIM)">
       <data key="type">Investor</data>
     </node>
-    <node id="Norges Bank Investment Management (NBIM)">
+    <node id="Nordkapp Inversiones, Sociedad de Valores, S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Nordkapp Gestión S.G.I.I.C., S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Nordea Investment Management AB, Norge">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Nordea Investment Management AB (Sweden)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Nordea Investment Management AB (Finland)">
       <data key="type">Investor</data>
     </node>
     <node id="Nordea Investment Management (Denmark)">
       <data key="type">Investor</data>
     </node>
-    <node id="Nomura Securities International, Inc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Nomura Securities Co., Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Nomura International Plc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Nomura Holding America Inc">
+    <node id="Nordea Invest Fund Management A/S">
       <data key="type">Investor</data>
     </node>
     <node id="Nomura Asset Management Deutschland KAG mbH">
@@ -201,7 +558,7 @@
     <node id="Nomura Asset Management Co., Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Nomura Asset Management (UK) Ltd.">
+    <node id="Nmás1 SYZ, SGIIC, S.A.">
       <data key="type">Investor</data>
     </node>
     <node id="Nissay Asset Management Corp.">
@@ -210,67 +567,184 @@
     <node id="Nikko Asset Management Co., Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Nichiban Co Ltd">
+    <node id="Newton Investment Management Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Neuflize OBC Investissements">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Natixis Asset Management">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Natcan Investment Management Inc.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Nación AFJP S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="NORD/LB Capital Management GmbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="NBI hf.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Münchner Kapitalanlage AG">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Mutuactivos S.A., S.G.I.I.C.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Munder Capital Management">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Morgan Stanley Investment Management Inc. (US)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Morgan Stanley Investment Management (Japan) Co., Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Montepio Gestão de Activos - SGFI, S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Monte Paschi Invest (France) S.A.S.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Monega Kapitalanlagegesellschaft mbH">
       <data key="type">Investor</data>
     </node>
     <node id="Mondrian Investment Partners Limited">
       <data key="type">Investor</data>
     </node>
-    <node id="Mizuho Trust &amp; Banking Co., Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Mizuho Securities Co., Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Mizuho Corporate Bank, Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Mizuho Bank, Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Mizuho Asset Management Co., Ltd.">
-      <data key="type">Investor</data>
-    </node>
     <node id="Mitsubishi UFJ Asset Management Co., Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Mitsubishi UFJ Asset Management (UK) Ltd.">
+    <node id="Migros Bank Asset Management">
       <data key="type">Investor</data>
     </node>
-    <node id="Mitsubishi Corp">
+    <node id="Metzler Asset Management GmbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Metropolitan Life Insurance Co. (US)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Metagestion S.A., S.G.I.I.C.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Merrill Lynch International Bank Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Merchbanc S.G.I.I.C., S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Mercados y Gestión de Valores A.V., S.A">
       <data key="type">Investor</data>
     </node>
     <node id="Mellon Capital Management Corporation">
       <data key="type">Investor</data>
     </node>
-    <node id="Meiji Yasuda Asset Management Company Ltd.">
+    <node id="Mediolanum International Funds Limited">
       <data key="type">Investor</data>
     </node>
     <node id="Mediolanum Gestione Fondi SGR p.A.">
       <data key="type">Investor</data>
     </node>
-    <node id="Matrix Funds Management">
-      <data key="type">Investor</data>
-    </node>
     <node id="Martin Currie Investment Management Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Mackenzie Financial Corporation">
+    <node id="March Gestión de Fondos, S.G.I.I.C.,S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Mapfre Inversión Dos, S.G.I.I.C., S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Manulife Asset Management Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="MainFirst Asset Management">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Maerki, Baumann &amp; Co. AG">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Madison Square Investors LLC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="MMA Finance">
+      <data key="type">Investor</data>
+    </node>
+    <node id="MIRABAUD Gestión, S.G.I.I.C., S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="MFS Investment Management">
+      <data key="type">Investor</data>
+    </node>
+    <node id="MFI Asset Management GmbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="MEAG Munich ERGO Kapitalanlagegesellschaft mbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="MB Fund Advisory GmbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="MACIF Gestion">
+      <data key="type">Investor</data>
+    </node>
+    <node id="M.M.Warburg &amp; CO Luxembourg S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="M&amp;B Capital Advisers Gestión SGIIC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="M &amp; G Investment Management Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Lyxor Asset Management">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Lupus alpha Asset Management AG">
       <data key="type">Investor</data>
     </node>
     <node id="Lord, Abbett &amp; Co. LLC">
       <data key="type">Investor</data>
     </node>
-    <node id="Lion Global Investors Limited">
+    <node id="Lombard Odier Darier Hentsch &amp; Cie">
       <data key="type">Investor</data>
     </node>
-    <node id="Leuthold Weeden Capital Management">
+    <node id="Lloyds Investment España, S.G.I.I.C., S.A.U.">
       <data key="type">Investor</data>
     </node>
-    <node id="Legg Mason Capital Management, LLC">
+    <node id="Lingohr &amp; Partner Asset Management GmbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Liberbank Gestion S.G.I.I.C. S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Les Assurances Mutuelles de Picardie">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Lemanik S.A.">
       <data key="type">Investor</data>
     </node>
     <node id="Legal &amp; General Investment Management Ltd. (UK)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Legal &amp; General Asset Management (France)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Lazard Asset Management, L.L.C.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Lazard Asset Management Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Lazard Asset Management (Deutschland) GmbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="La Mondiale Gestion d'Actifs">
+      <data key="type">Investor</data>
+    </node>
+    <node id="La Française AM Private Bank">
       <data key="type">Investor</data>
     </node>
     <node id="La Banque Postale Asset Management">
@@ -279,28 +753,70 @@
     <node id="LSV Asset Management">
       <data key="type">Investor</data>
     </node>
+    <node id="LRI Invest S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="LLB Asset Management AG">
+      <data key="type">Investor</data>
+    </node>
     <node id="LGT Capital Management Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Kokusai Asset Management Co., Ltd.">
+    <node id="LBBW Asset Management Investmentgesellschaft mbH">
       <data key="type">Investor</data>
     </node>
-    <node id="Kleinwort Benson Investors Dublin Ltd">
+    <node id="LBB-Invest">
       <data key="type">Investor</data>
     </node>
-    <node id="Kanto Denka Kogyo Co Ltd">
+    <node id="KutxaGest S.G.I.I.C., S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Kutxa Gestión Privada S.G.I.I.C., S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Kuntien Eläkevakuutus">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Kredietrust Luxembourg S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Kraus Partner Investment Solutions AG">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Keppler Asset Management, Inc.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Kepler Capital Markets (Asset Management)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Kathrein Privatbank Aktiengesellschaft">
       <data key="type">Investor</data>
     </node>
     <node id="KLP Forsikring">
       <data key="type">Investor</data>
     </node>
+    <node id="KBL Richelieu Gestion">
+      <data key="type">Investor</data>
+    </node>
     <node id="KBC Asset Management N.V.">
       <data key="type">Investor</data>
     </node>
-    <node id="JPMorgan Trust Bank Limited">
+    <node id="Jyske Invest Fund Management A/S">
       <data key="type">Investor</data>
     </node>
-    <node id="JPMorgan Private Bank (Asia)">
+    <node id="Jupiter Asset Management Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Julius Meinl Investment Gesellschaft mbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Jarislowsky Fraser, Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Janus Capital Management LLC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="JPMorgan Private Bank (France)">
       <data key="type">Investor</data>
     </node>
     <node id="JPMorgan Investment Advisors Inc.">
@@ -309,31 +825,136 @@
     <node id="JPMorgan Asset Management U.K. Limited">
       <data key="type">Investor</data>
     </node>
-    <node id="JPMorgan Asset Management (Japan) Limited">
+    <node id="JPMorgan Asset Management (Taiwan) Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="J. O. Hambro Investment Management Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Io Capital Partners GmbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Investec Asset Management Ltd.">
       <data key="type">Investor</data>
     </node>
     <node id="Invesco PowerShares Capital Management LLC">
       <data key="type">Investor</data>
     </node>
+    <node id="Inversis Gestión, S.A., SGIIC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Inverseguros Gestión S.A. SGIIC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="InverCaixa Gestión S.G.I.I.C., S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Intermoney Gestión S.G.I.I.C.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Inter Expansion S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Integral Development Asset Management (I.DE.A.M)">
+      <data key="type">Investor</data>
+    </node>
     <node id="Insight Investment Management (Global) Limited">
       <data key="type">Investor</data>
     </node>
-    <node id="Iino Kaiun Kaisha Ltd">
+    <node id="Ignis Asset Management Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Ibercaja Gestión S.G.I.I.C., S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="IPConcept Fund Management S.A.">
       <data key="type">Investor</data>
     </node>
     <node id="INVESCO Asset Management Limited">
       <data key="type">Investor</data>
     </node>
+    <node id="INVESCO Asset Management Deutschland GmbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="INTECH Investment Management LLC">
+      <data key="type">Investor</data>
+    </node>
     <node id="ING Investment Management Co. LLC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="ING Investment Management (Netherlands)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="ING Investment Management (Belgium) (Inactive)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Hyposwiss Privatbank AG">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Hypo Alpe-Adria-Bank AG">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Hof Hoorneman Bankiers N.V.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Henderson Global Investors (Singapore) Limited">
       <data key="type">Investor</data>
     </node>
     <node id="Helaba Invest Kapitalanlagegesellschaft mbH">
       <data key="type">Investor</data>
     </node>
-    <node id="Harima Chemicals Group Inc">
+    <node id="Hauck &amp; Aufhäuser Investment Gesellschaft S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Hansberger Global Investors, Inc. (Canada)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Handelsbanken Asset Management">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Halbis Capital Management (France)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="HSBC Máxima S.A. AFJP">
+      <data key="type">Investor</data>
+    </node>
+    <node id="HSBC Global Asset Management Deutschland GmbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="HSBC Global Asset Management (Taiwan) Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="HSBC Global Asset Management (International) Limited">
       <data key="type">Investor</data>
     </node>
     <node id="HANSAINVEST Hanseatische Investment GmbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Gutmann Kapitalanlage Aktiengesellschaft">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Guipuzcoano S.G.I.I.C., S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Guinness Atkinson Asset Management Inc.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Guggenheim Funds Investment Advisors, LLC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Grupo Catalana Occidente, S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Groupe MACSF">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Grossbötzl, Schmitz, Lomparski &amp; Partner International S.à">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Grossbötzl, Schmitz &amp; Partner Vermögensverwaltersozietät ">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Grohmann &amp; Weinrauter Vermögens Management GmbH">
       <data key="type">Investor</data>
     </node>
     <node id="Goldman Sachs Asset Management International">
@@ -342,43 +963,292 @@
     <node id="Goldman Sachs Asset Management (US)">
       <data key="type">Investor</data>
     </node>
+    <node id="Global Wealth Management">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Global Value Investors Ltd.">
+      <data key="type">Investor</data>
+    </node>
     <node id="Global Index Advisors, Inc.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Gestion Financière Privée S.A. (GEFIP)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Gestimed S.G.I.I.C. S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Gestifonsa S.G.I.I.C., S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Gespastor S.A.,S.G.I.I.C.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Gesnorte, S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Gesmutual S.G.I.I.C., S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Gesiuris, S.A., S.G.I.I.C.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Gesinter S.G.I.I.C., S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Gesfibanc S.G.I.I.C., S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Gesduero S.G.I.I.C., S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Gescooperativo, S.A., S.G.I.I.C.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Gesconsult S.G.I.I.C., S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Gesbusa S.A., S.G.I.I.C.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Gerente de Fondos S.A.">
       <data key="type">Investor</data>
     </node>
     <node id="Geode Capital Management, L.L.C.">
       <data key="type">Investor</data>
     </node>
+    <node id="Generali Investments Italy SGR S.p.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Generali Investments France S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Generali Investments Deutschland Kapitalanlagegesellschaft m">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Generali Fund Management S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Gartmore Investment Management Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Galicia Administradora de Fondos S.A. Sociedad Gerente">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Gaesco Gestión S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="GVC Gaesco Valores S.V. S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="GVC Gaesco Gestión SGIIC S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="GS&amp;P Kapitalanlagegesellschaft S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="GMO LLC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="GLG Partners UK Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="GDP Gestione di Patrimoni SIM S.p.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="GAM London Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="G.I.I.C. FINECO S.G.I.I.C., S.A.">
+      <data key="type">Investor</data>
+    </node>
     <node id="Första AP-Fonden">
       <data key="type">Investor</data>
     </node>
-    <node id="Furukawa Electric Co Ltd">
+    <node id="Fédéris Gestion d'Actifs">
       <data key="type">Investor</data>
     </node>
-    <node id="FuNNex Asset Management Inc.">
+    <node id="Futura AFJP S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Fundamentum Asset Management S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="FundQuest France">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Franklin Templeton Investments Corp.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Franklin Templeton Investment Management Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Franklin Templeton Fixed Income Group">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Frankfurt-Trust Investment-Gesellschaft mbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Fortis Investments France">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Fortis Gesbeta S.G.I.I.C., S.A.">
       <data key="type">Investor</data>
     </node>
     <node id="First Private Investment Management KAG mbH">
       <data key="type">Investor</data>
     </node>
-    <node id="Esemplia Emerging Markets">
+    <node id="Finter Bank Zürich Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Ersel Asset Management SGR S.p.A.">
+    <node id="Finogest S.A.">
       <data key="type">Investor</data>
     </node>
-    <node id="Eaton Vance Management">
+    <node id="Finivalor - S.G.F.M., S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Finanduero S.V.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Financiera Ponferrada S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Fifth Third Asset Management, Inc.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Fiera Capital Corporation">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Fiduka Depotverwaltung GmbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Fideuram Investimenti SGR S.p.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Fideuram Asset Management (Ireland) Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Fidelity Worldwide Investment (UK) Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Fidelity Management &amp; Research Company">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Falcon Private Bank Ltd">
+      <data key="type">Investor</data>
+    </node>
+    <node id="FUTURO - Sociedade Gestora de Fundos de Pensões, S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="FIN BROK S.A. S.G.C.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="FIM Asset Management Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="FIL Investments (Japan) Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="FIL Investment Management (Singapore) Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="FIL Investment Management (Hong Kong) Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="F&amp;C Portugal, Gestão de Patrimónios, S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="F&amp;C Asset Management plc">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Evli Fund Management Company Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Evergreen Investment Management Company, LLC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Euromobiliare Asset Management SGR S.p.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Eurobank EFG Mutual Funds Management Company S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Euroagentes Gestión S.G.I.I.C., S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Eurizon Capital SGR S.p.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Eurizon Capital S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Espírito Santo Gestión, S.G.I.I.C., S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Epsilon SGR SpA">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Egeria Activos SGIIC S.A.U">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Ecureuil Gestion FCP">
+      <data key="type">Investor</data>
+    </node>
+    <node id="ETFlab Investment GmbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="ESAF - Espírito Santo Activos Financeiros, S.G.P.S., S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="ERSTE-SPARINVEST Kapitalanlagegesellschaft mbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="ENISO Partners AG">
+      <data key="type">Investor</data>
+    </node>
+    <node id="EFG Bank (Luxembourg) S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="EDM Gestión S.A., S.G.I.I.C.">
       <data key="type">Investor</data>
     </node>
     <node id="E.Öhman J:or Fonder AB">
       <data key="type">Investor</data>
     </node>
-    <node id="Dynic Corp">
+    <node id="Dresdner Bank Luxembourg S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Dr. Kohlhase Vermögensverwaltungsgesellschaft mbH">
       <data key="type">Investor</data>
     </node>
     <node id="Dimensional Fund Advisors, LP">
       <data key="type">Investor</data>
     </node>
+    <node id="Dexia Banque Internationale à Luxembourg S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Dexia Asset Management Luxembourg S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Dexia Asset Management Belgium S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Deutsche Postbank Financial Services GmbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Deutsche Far Eastern Asset Management Co. Ltd.">
+      <data key="type">Investor</data>
+    </node>
     <node id="Deutsche Asset Management Investmentgesellschaft mbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Desjardins Global Asset Management">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Delubac Asset Management">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Delta Lloyd Asset Management N.V.">
       <data key="type">Investor</data>
     </node>
     <node id="Deka Investment GmbH">
@@ -387,52 +1257,214 @@
     <node id="Degroof Fund Management Company">
       <data key="type">Investor</data>
     </node>
+    <node id="Degroof Banque Privée S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Day Trade Asset Management">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Danske Capital (Sweden)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Danske Capital">
+      <data key="type">Investor</data>
+    </node>
     <node id="Daiwa Asset Management Co., Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="DWS Investments (Spain), S.G.I.I.C., S.A.">
       <data key="type">Investor</data>
     </node>
     <node id="DWS Investment GmbH">
       <data key="type">Investor</data>
     </node>
+    <node id="DUX Inversores, SGIIC, S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="DSI International Management, Inc.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="DNB Asset Management AS">
+      <data key="type">Investor</data>
+    </node>
+    <node id="DNB Asset Management AB">
+      <data key="type">Investor</data>
+    </node>
     <node id="DIAM Co., Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="DFA Australia Ltd.">
+    <node id="DB Platinum Advisors">
       <data key="type">Investor</data>
     </node>
-    <node id="Credit Suisse Asset Management, LLC (US)">
+    <node id="Crédito Agrícola Gest-Sociedade Gest de Fundos de Invest. ">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Crédit Suisse Gestión S.G.I.I.C., S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Crédit Agricole Luxembourg Private Bank">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Credit Suisse Private Banking (Switzerland)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Credit Suisse Asset Management Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Credit Suisse Asset Management KAG mbH">
       <data key="type">Investor</data>
     </node>
     <node id="Credit Suisse Asset Management">
       <data key="type">Investor</data>
     </node>
+    <node id="Credit Agricole Mercagestion S.A. S.G.I.I.C.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Covéa Finance S.A.S.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Consulnor Gestión S.G.I.I.C., S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Consolidar AFJP S.A.">
+      <data key="type">Investor</data>
+    </node>
     <node id="Cominvest Asset Management GmbH">
       <data key="type">Investor</data>
     </node>
-    <node id="ClearBridge Advisors, LLC">
+    <node id="Columbia Management Investment Advisers, LLC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Columbia Management Advisors, LLC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Clariden Leu">
+      <data key="type">Investor</data>
+    </node>
+    <node id="ClariVest Asset Management LLC">
       <data key="type">Investor</data>
     </node>
     <node id="Chuo Mitsui Asset Management Co., Ltd.">
       <data key="type">Investor</data>
     </node>
+    <node id="Cholet Dupont Asset Management">
+      <data key="type">Investor</data>
+    </node>
     <node id="Charles Schwab Investment Management, Inc.">
       <data key="type">Investor</data>
     </node>
-    <node id="Campbell &amp; Company, Inc.">
+    <node id="Certium Asset Management LLC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="CatalunyaCaixa Inversión">
+      <data key="type">Investor</data>
+    </node>
+    <node id="CatalunyaCaixa Inversio S.G.I.I.C. S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Cassa di Risparmio di San Miniato S.p.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Cartera Pirineo S.A.(S.I.M.)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Carige Asset Management SGR S.p.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="CapitalatWork - Foyer Group">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Capital International, Inc.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Capital International Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Capital Guardian Trust Company">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Capinordic Asset Management AB">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Cantabria Fondos S.A., S.G.I.I.C.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Canada Life Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="CamGestion">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Cajamar Gestión S.G.I.I.C., S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Caja de Ahorros y Pensiones de Barcelona (La Caixa)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Caja de Ahorros de la Inmaculada de Aragón">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Caja Laboral Gestión S.G.I.I.C., S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Caja Ingenieros Gestión, SGIIC, SAU">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Caja España Fondos, S.A., S.G.I.I.C.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Caixagest - Técnicas de Gestão de Fundos, S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Caixa Tarragona Gestió, S.G.I.I.C., S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Caisse des Dépôts et Consignations">
       <data key="type">Investor</data>
     </node>
     <node id="Caisse de Depot et Placement du Quebec">
       <data key="type">Investor</data>
     </node>
+    <node id="CPR Asset Management">
+      <data key="type">Investor</data>
+    </node>
+    <node id="CP Invest Investicni Spolecnost a.s.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="CIMB-Principal Asset Management Bhd.">
+      <data key="type">Investor</data>
+    </node>
     <node id="CIBC Global Asset Management Inc.">
       <data key="type">Investor</data>
     </node>
-    <node id="C I Kasei Company Ltd.">
+    <node id="CCR Gestion">
       <data key="type">Investor</data>
     </node>
-    <node id="Brother Industries Ltd">
+    <node id="CCR Asset Management">
       <data key="type">Investor</data>
     </node>
-    <node id="BlackRock Japan Co., Ltd.">
+    <node id="CCR Actions">
+      <data key="type">Investor</data>
+    </node>
+    <node id="CCLA Investment Management Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="CBR Privatinvest AG">
+      <data key="type">Investor</data>
+    </node>
+    <node id="C-QUADRAT Kapitalanlage AG">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Bâloise Asset Management">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Butterfield Bank (Cayman) Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Brufau Niubo (Antonio)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Brandes Investment Partners, LP">
       <data key="type">Investor</data>
     </node>
     <node id="BlackRock Investment Management, LLC">
@@ -444,19 +1476,136 @@
     <node id="BlackRock Financial Management, Inc.">
       <data key="type">Investor</data>
     </node>
+    <node id="BlackRock Asset Management Deutschland AG">
+      <data key="type">Investor</data>
+    </node>
     <node id="BlackRock Advisors (UK) Limited">
       <data key="type">Investor</data>
     </node>
-    <node id="Belgrave Capital Management Ltd.">
+    <node id="Bestinver Gestión S.G.I.I.C. S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Berenberg Bank (Schweiz) AG">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Berenberg Bank (Asset Management)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="BayernInvest Kapitalanlagegesellschaft mbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Batterymarch Financial Management, Inc.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Barclays Wealth Managers España, S.A., S.G.I.I.C.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Barclays Wealth Managers">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Banque SYZ &amp; CO SA">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Banque Degroof France SA">
       <data key="type">Investor</data>
     </node>
     <node id="Banque Cantonale Vaudoise">
       <data key="type">Investor</data>
     </node>
+    <node id="Bankoa Gestión, S.A., S.G.I.I.C.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Bankinter Gestión de Activos, SGIIC S.A.">
+      <data key="type">Investor</data>
+    </node>
     <node id="Bankia Fondos, S.G.I.I.C., S.A.">
       <data key="type">Investor</data>
     </node>
+    <node id="Bankia Banca Privada Gestion SGIIC S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="BankPyme S.G.I.I.C., S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Bank Vontobel AG (Private Banking)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Bank Julius Bär &amp; Co. AG">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Bank CIC (Schweiz) AG">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Banif Gestão de Activos S.G.F.I.M., S.A.">
+      <data key="type">Investor</data>
+    </node>
     <node id="Banif Gestión S.G.I.I.C., S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Banesto Banca Privada Gestión, SGIIC, S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Banco Privado Português S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Banco Etcheverría S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Banchile Administradora General de Fondos S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Bancaja Fondos S.G.I.I.C., S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Banca del Sempione SA">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Banca Cívica Gestión de Activos SGIIC, SA.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="BanSabadell Inversión, S.A., S.G.I.I.C., Sociedad Uniperson">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Balius Asset Management AG">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Bailard, Inc.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="BWInvest">
+      <data key="type">Investor</data>
+    </node>
+    <node id="BSI S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="BPI Vida e Pensões - Companhia de Seguros, S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="BPI Gestão de Activos - S.G.F.I.M., S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="BPA Global Funds Asset Management, S.G.I.I.C., S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="BOCI-Prudential Asset Management Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="BNP Paribas Luxembourg">
+      <data key="type">Investor</data>
+    </node>
+    <node id="BNP Paribas Investment Partners, S.G.I.I.C., S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="BNP Paribas Investment Partners UK Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="BNP Paribas Investment Partners SGR SpA">
+      <data key="type">Investor</data>
+    </node>
+    <node id="BNP Paribas Investment Partners Netherlands N.V.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="BNP Paribas Investment Partners Belgium S.A.">
       <data key="type">Investor</data>
     </node>
     <node id="BNP Paribas Investment Partners (France)">
@@ -465,40 +1614,193 @@
     <node id="BMO Asset Management Inc.">
       <data key="type">Investor</data>
     </node>
+    <node id="BMN Gestión de Activos S.G.I.I.C., S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="BG SGR S.p.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="BCEE Asset Management">
+      <data key="type">Investor</data>
+    </node>
+    <node id="BBVA Patrimonios Gestora S.G.I.I.C., S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="BBVA Asset Management, S.A., S.G.I.I.C.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="BBVA &amp; Partners Alternative Investment AV SA">
+      <data key="type">Investor</data>
+    </node>
+    <node id="BBK Gestion S.G.I.I.C., S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="B. Madrid Gestión de Activos S.G.I.I.C., S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Azimut SGR S.p.A.">
+      <data key="type">Investor</data>
+    </node>
     <node id="Aviva Investors Global Services Limited">
       <data key="type">Investor</data>
     </node>
-    <node id="Asahi Mutual Life Insurance Co.">
+    <node id="Aviva Investors France S.A.">
       <data key="type">Investor</data>
     </node>
-    <node id="Asahi Kasei Chemicals Corporation">
+    <node id="Aviva Gestión S.G.I.I.C. S.A.">
       <data key="type">Investor</data>
     </node>
-    <node id="Arakawa Chemical Industries Ltd">
+    <node id="Avenir Finance Investment Managers">
       <data key="type">Investor</data>
     </node>
-    <node id="Amundi Japan Ltd.">
+    <node id="Aureo Gestioni S.G.R.p.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Assurances du Crédit Mutuel Vie S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Asset Group St. Gallen GmbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Asset Allocation Advisors S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Ashburton (Jersey) Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Asesores y Gestores Financieros Agencia de Valores, S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Artisan Partners Limited Partnership">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Artio Global Management, L.L.C.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Arquigest S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Argonaut Capital Partners LLP">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Argenta Fund">
+      <data key="type">Investor</data>
+    </node>
+    <node id="ArcoGest, SGC, S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Arca SGR S.p.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Arbarin SICAV, S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Arauca Bit AFJP">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Anthilia Capital Partners SGR Spa">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Anima SGR.p.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Anima SGR S.p.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Amundi SGR SpA">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Amundi Hong Kong Limited">
       <data key="type">Investor</data>
     </node>
     <node id="Amundi Asset Management">
       <data key="type">Investor</data>
     </node>
+    <node id="AmpegaGerling Investment GmbH">
+      <data key="type">Investor</data>
+    </node>
     <node id="American Independence Financial Services, LLC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="American Century Investment Management, Inc.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Altrinsic Global Advisors, LLC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Alte Leipziger Trust Investment-Gesellschaft mbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Alpi Fondi S.G.R S.p.A">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Alpha Plus Gestora S.G.I.I.C. S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Alm. Brand Invest">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Allianz Mutual Fund Management, Hellas S.A.">
       <data key="type">Investor</data>
     </node>
     <node id="Allianz Global Investors Kapitalanlagegesellschaft mbH">
       <data key="type">Investor</data>
     </node>
-    <node id="Adeka Corp">
+    <node id="Allianz Global Investors Italia SGR S.p.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Allianz Global Investors France">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Allianz Gestión S.G.I.I.C., S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="AllianceBernstein Ltd. (Value)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="AllianceBernstein Ltd. (Growth)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="AllianceBernstein L.P.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="AllianceBernstein Australia Ltd. (Growth)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Alfred Berg Kapitalförvaltning AB">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Alfred Berg Kapitalforvaltning AS">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Aletti Gestielle SGR S.p.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Aleph Sicav">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Ahorro Corporación Gestión S.G.I.I.C., S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Adepa, S.G.I.I.C., S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="AcomeA SGR S.p.A.">
       <data key="type">Investor</data>
     </node>
     <node id="Acadian Asset Management LLC">
       <data key="type">Investor</data>
     </node>
-    <node id="Aberdeen Investment Management K. K.">
+    <node id="Acacia Inversión A.V., S.A.">
       <data key="type">Investor</data>
     </node>
-    <node id="Aberdeen Asset Management (Asia) Ltd.">
+    <node id="Aberdeen Asset Management (Edinburgh)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Abante Asesores Gestión, S.G.I.I.C., S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="AZ FUND Management SA">
       <data key="type">Investor</data>
     </node>
     <node id="AXA Rosenberg Investment Management Ltd.">
@@ -510,526 +1812,1894 @@
     <node id="AXA Rosenberg Investment Management (Australia)">
       <data key="type">Investor</data>
     </node>
+    <node id="AXA Investment Managers UK Ltd.">
+      <data key="type">Investor</data>
+    </node>
     <node id="AXA Investment Managers Paris">
+      <data key="type">Investor</data>
+    </node>
+    <node id="AXA Investment Managers Japan Ltd.">
       <data key="type">Investor</data>
     </node>
     <node id="AXA Investment Managers Deutschland GmbH">
       <data key="type">Investor</data>
     </node>
+    <node id="ATL 12 Capital Gestión SGIIC, S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="ANIMA Asset Management Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="AMUNDI IBERIA SGIIC SA">
+      <data key="type">Investor</data>
+    </node>
+    <node id="AMG Analysen &amp; Anlagen AG">
+      <data key="type">Investor</data>
+    </node>
     <node id="AGF Investments Inc.">
       <data key="type">Investor</data>
     </node>
-    <edge source="Zeon" target="Yokohama Rubber Co Ltd">
-      <data key="weight">6.95</data>
-    </edge>
-    <edge source="Zeon" target="Yasuda Asset Management Co., Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="World Asset Management, Inc.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="WestLB Mellon Asset Management Kapitalanlagegesellschaft mbH">
+    <node id="AGF International Advisors Company Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="AFJP Prorenta S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="ABN AMRO Asset Management Ltd. (Fortis)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="ABN AMRO Asset Management Italy SGR">
+      <data key="type">Investor</data>
+    </node>
+    <node id="A.T.E. Mutual Fund Management Co. S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <edge source="Repsol YPF" target="Étoile Gestion">
       <data key="weight">0.03</data>
     </edge>
-    <edge source="Zeon" target="Wells Capital Management Inc.">
+    <edge source="Repsol YPF" target="eQ Asset Management Oy">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Zeon" target="Vanguard Group, Inc.">
+    <edge source="Repsol YPF" target="bfw fondsleitung AG">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Zeon" target="Universal-Investment-Gesellschaft mbH">
-      <data key="weight">0.16</data>
-    </edge>
-    <edge source="Zeon" target="UBS Global Asset Management (Switzerland)">
+    <edge source="Repsol YPF" target="Zürcher Kantonalbank (Asset Management)">
       <data key="weight">0.01</data>
     </edge>
-    <edge source="Zeon" target="UBS Global Asset Management (Japan) Ltd.">
+    <edge source="Repsol YPF" target="Zenit SGR S.p.A.">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Zeon" target="Toyota Asset Management Co., Ltd.">
+    <edge source="Repsol YPF" target="Wright Investors' Service Inc.">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Zeon" target="Tokio Marine Asset Management Co., Ltd.">
+    <edge source="Repsol YPF" target="World Asset Management, Inc.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="William Blair &amp; Company, L.L.C.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="Westpeak Global Advisors, LLC.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="WestLB Mellon Asset Management Kapitalanlagegesellschaft mbH">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Repsol YPF" target="Wells Capital Management Inc.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="Wellington Management Company, LLP">
       <data key="weight">0.03</data>
     </edge>
-    <edge source="Zeon" target="Tohpe Corp">
+    <edge source="Repsol YPF" target="Warburg Invest Kapitalanlagegesellschaft mbH">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="W &amp; W Asset Management GmbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Volksbank Invest Kapitalanlagegesellschaft mbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Vital Gestion S.A., S.G.I.I.C.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Veritas Investment Trust GmbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Vanguard Group, Inc.">
+      <data key="weight">0.29</data>
+    </edge>
+    <edge source="Repsol YPF" target="Van Eck Associates Corporation">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="VP Bank (Schweiz) AG">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="VG.SA Asset Management">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Urquijo Gestión, S.A., S.G.I.I.C., Sociedad Unipersonal">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="Unnim Gesfons S.G.I.I.C. S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Universal-Investment-Gesellschaft mbH">
+      <data key="weight">0.27</data>
+    </edge>
+    <edge source="Repsol YPF" target="Unipol banca S.p.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Union Investment TFI S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Union Investment Group">
+      <data key="weight">0.7</data>
+    </edge>
+    <edge source="Repsol YPF" target="Unigest, S.G.I.I.C., S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Unidos S.A. AFJP">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="UBS Global Asset Management (UK) Ltd.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="UBS Global Asset Management (Switzerland)">
+      <data key="weight">0.04</data>
+    </edge>
+    <edge source="Repsol YPF" target="UBS Global Asset Management (Deutschland) GmbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="UBS Gestión, S.G.I.I.C., S.A.">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Repsol YPF" target="UBI Pramerica SGR S.p.A.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="Tudor Capital Europe LLP">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="TrendConcept Vermögensverwaltung GmbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Trea Capital Partners, S.V., S.A.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="Transatlantique Gestion">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Transamerica Investment Management, LLC">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="Tocqueville Finance S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Tirolinvest Kapitalanlagegesellschaft mbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Thornburg Investment Management, Inc.">
       <data key="weight">0.03</data>
     </edge>
-    <edge source="Zeon" target="Threadneedle Asset Management Ltd.">
-      <data key="weight">0.13</data>
-    </edge>
-    <edge source="Zeon" target="The Nomura Trust and Banking Co., Ltd.">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Zeon" target="Teacher Retirement System of Texas">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="TIAA-CREF">
-      <data key="weight">0.05</data>
-    </edge>
-    <edge source="Zeon" target="TD Asset Management Inc.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="T. Rowe Price Associates, Inc.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="T&amp;D Asset Management Co., Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Swedbank Robur AB">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Sumitomo Mitsui Trust Asset Management Co., Ltd.">
-      <data key="weight">0.04</data>
-    </edge>
-    <edge source="Zeon" target="Sumitomo Mitsui Asset Management Company, Limited">
-      <data key="weight">0.09</data>
-    </edge>
-    <edge source="Zeon" target="State Street Global Advisors Australia Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="State Street Global Advisors (US)">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="State Street Global Advisors (UK) Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="State Street Global Advisors (Japan) Co., Ltd.">
-      <data key="weight">0.06</data>
-    </edge>
-    <edge source="Zeon" target="State Street Global Advisors (France) S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Standard Life Investments Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Standard Life Investments (USA) Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Sompo Japan Insurance Inc">
-      <data key="weight">1.94</data>
-    </edge>
-    <edge source="Zeon" target="Sjunde AP-fonden">
-      <data key="weight">0.23</data>
-    </edge>
-    <edge source="Zeon" target="Showa Paxxs Corp">
-      <data key="weight">0.04</data>
-    </edge>
-    <edge source="Zeon" target="Shinko Plantech Co Ltd">
-      <data key="weight">0.18</data>
-    </edge>
-    <edge source="Zeon" target="Shinko Asset Management Co., Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Shinkin Asset Management Co., Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Shibusawa Warehouse Co Ltd">
-      <data key="weight">0.28</data>
-    </edge>
-    <edge source="Zeon" target="Schroder Investment Management Ltd. (SIM)">
-      <data key="weight">0.05</data>
-    </edge>
-    <edge source="Zeon" target="Sanwa Soko Co Ltd">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="Zeon" target="SINOPIA Asset Management">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Robeco Institutional Asset Management B.V.">
-      <data key="weight">0.04</data>
-    </edge>
-    <edge source="Zeon" target="Quantitative Management Associates LLC">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Prudential Investment Management Japan Co., Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Principal Global Investors (Equity)">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Prescient Investment Managers (Ireland) Limited">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Polar Capital LLP">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Plaza Asset Management Co., Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Pioneer Investments Kapitalanlagegesellschaft mbH">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Pioneer Investment Management SGRpA">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Pioneer Investment Management Ltd. (Singapore)">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Pioneer Investment Management Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="PineBridge Investments LLC">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Pictet Asset Management Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Okasan Asset Management Co., Ltd.">
-      <data key="weight">0.12</data>
-    </edge>
-    <edge source="Zeon" target="Okamoto Industries Inc">
-      <data key="weight">0.12</data>
-    </edge>
-    <edge source="Zeon" target="Northern Trust Global Investments Japan, KK">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Northern Trust Global Investments">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Norinchukin Zenkyoren Asset Management Co., Ltd.">
+    <edge source="Repsol YPF" target="Thomas White International, Ltd.">
       <data key="weight">0.01</data>
     </edge>
-    <edge source="Zeon" target="Norges Bank Investment Management (NBIM)">
-      <data key="weight">0.23</data>
+    <edge source="Repsol YPF" target="The Empire Life Insurance Company">
+      <data key="weight">0.0</data>
     </edge>
-    <edge source="Zeon" target="Nordea Investment Management (Denmark)">
+    <edge source="Repsol YPF" target="The Boston Company Asset Management, LLC">
       <data key="weight">0.01</data>
     </edge>
-    <edge source="Zeon" target="Nomura Securities International, Inc.">
-      <data key="weight">0.16</data>
-    </edge>
-    <edge source="Zeon" target="Nomura Securities Co., Ltd.">
-      <data key="weight">0.19</data>
-    </edge>
-    <edge source="Zeon" target="Nomura International Plc.">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Zeon" target="Nomura Holding America Inc">
-      <data key="weight">0.13</data>
-    </edge>
-    <edge source="Zeon" target="Nomura Asset Management Deutschland KAG mbH">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Nomura Asset Management Co., Ltd.">
-      <data key="weight">4.32</data>
-    </edge>
-    <edge source="Zeon" target="Nomura Asset Management (UK) Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Nissay Asset Management Corp.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Zeon" target="Nikko Asset Management Co., Ltd.">
-      <data key="weight">0.1</data>
-    </edge>
-    <edge source="Zeon" target="Nichiban Co Ltd">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Zeon" target="Mondrian Investment Partners Limited">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Mizuho Trust &amp; Banking Co., Ltd.">
-      <data key="weight">1.47</data>
-    </edge>
-    <edge source="Zeon" target="Mizuho Securities Co., Ltd.">
-      <data key="weight">0.04</data>
-    </edge>
-    <edge source="Zeon" target="Mizuho Corporate Bank, Ltd.">
-      <data key="weight">3.62</data>
-    </edge>
-    <edge source="Zeon" target="Mizuho Bank, Ltd.">
-      <data key="weight">2.06</data>
-    </edge>
-    <edge source="Zeon" target="Mizuho Asset Management Co., Ltd.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Zeon" target="Mitsubishi UFJ Asset Management Co., Ltd.">
-      <data key="weight">0.17</data>
-    </edge>
-    <edge source="Zeon" target="Mitsubishi UFJ Asset Management (UK) Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Mitsubishi Corp">
-      <data key="weight">0.83</data>
-    </edge>
-    <edge source="Zeon" target="Mellon Capital Management Corporation">
-      <data key="weight">0.08</data>
-    </edge>
-    <edge source="Zeon" target="Meiji Yasuda Asset Management Company Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Mediolanum Gestione Fondi SGR p.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Matrix Funds Management">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Martin Currie Investment Management Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Mackenzie Financial Corporation">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Lord, Abbett &amp; Co. LLC">
-      <data key="weight">0.25</data>
-    </edge>
-    <edge source="Zeon" target="Lion Global Investors Limited">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Leuthold Weeden Capital Management">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Legg Mason Capital Management, LLC">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Legal &amp; General Investment Management Ltd. (UK)">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Zeon" target="La Banque Postale Asset Management">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="LSV Asset Management">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Zeon" target="LGT Capital Management Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Kokusai Asset Management Co., Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Kleinwort Benson Investors Dublin Ltd">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Zeon" target="Kanto Denka Kogyo Co Ltd">
-      <data key="weight">0.45</data>
-    </edge>
-    <edge source="Zeon" target="KLP Forsikring">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="KBC Asset Management N.V.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="JPMorgan Trust Bank Limited">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="JPMorgan Private Bank (Asia)">
-      <data key="weight">0.05</data>
-    </edge>
-    <edge source="Zeon" target="JPMorgan Investment Advisors Inc.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="JPMorgan Asset Management U.K. Limited">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Zeon" target="JPMorgan Asset Management (Japan) Limited">
-      <data key="weight">7.83</data>
-    </edge>
-    <edge source="Zeon" target="Invesco PowerShares Capital Management LLC">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Insight Investment Management (Global) Limited">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Iino Kaiun Kaisha Ltd">
+    <edge source="Repsol YPF" target="Templeton Investment Counsel, LLC">
       <data key="weight">0.36</data>
     </edge>
-    <edge source="Zeon" target="INVESCO Asset Management Limited">
-      <data key="weight">1.7</data>
-    </edge>
-    <edge source="Zeon" target="ING Investment Management Co. LLC">
+    <edge source="Repsol YPF" target="Templeton Asset Management (Singapore) Ltd.">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Zeon" target="Helaba Invest Kapitalanlagegesellschaft mbH">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Zeon" target="Harima Chemicals Group Inc">
-      <data key="weight">0.08</data>
-    </edge>
-    <edge source="Zeon" target="HANSAINVEST Hanseatische Investment GmbH">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="Zeon" target="Goldman Sachs Asset Management International">
+    <edge source="Repsol YPF" target="Teacher Retirement System of Texas">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Zeon" target="Goldman Sachs Asset Management (US)">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Zeon" target="Global Index Advisors, Inc.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Geode Capital Management, L.L.C.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Första AP-Fonden">
-      <data key="weight">0.05</data>
-    </edge>
-    <edge source="Zeon" target="Furukawa Electric Co Ltd">
-      <data key="weight">3.55</data>
-    </edge>
-    <edge source="Zeon" target="FuNNex Asset Management Inc.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="First Private Investment Management KAG mbH">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Zeon" target="Esemplia Emerging Markets">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Ersel Asset Management SGR S.p.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Eaton Vance Management">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Zeon" target="E.Öhman J:or Fonder AB">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Dynic Corp">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Zeon" target="Dimensional Fund Advisors, LP">
-      <data key="weight">0.33</data>
-    </edge>
-    <edge source="Zeon" target="Deutsche Asset Management Investmentgesellschaft mbH">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Zeon" target="Deka Investment GmbH">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Degroof Fund Management Company">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Daiwa Asset Management Co., Ltd.">
-      <data key="weight">0.16</data>
-    </edge>
-    <edge source="Zeon" target="DWS Investment GmbH">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="DIAM Co., Ltd.">
+    <edge source="Repsol YPF" target="Taube, Hodson, Stonex Partners, LLP">
       <data key="weight">0.13</data>
     </edge>
-    <edge source="Zeon" target="DFA Australia Ltd.">
+    <edge source="Repsol YPF" target="Tank SGR S.p.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Talanx Asset Management GmbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="TT International">
+      <data key="weight">0.06</data>
+    </edge>
+    <edge source="Repsol YPF" target="TIAA-CREF">
+      <data key="weight">0.14</data>
+    </edge>
+    <edge source="Repsol YPF" target="TD Banknorth Wealth Management Group">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="TD Asset Management Inc.">
       <data key="weight">0.01</data>
     </edge>
-    <edge source="Zeon" target="Credit Suisse Asset Management, LLC (US)">
+    <edge source="Repsol YPF" target="TCW Asset Management Company">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Zeon" target="Credit Suisse Asset Management">
+    <edge source="Repsol YPF" target="T. Rowe Price Associates, Inc.">
+      <data key="weight">0.04</data>
+    </edge>
+    <edge source="Repsol YPF" target="T&amp;D Asset Management Co., Ltd.">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Zeon" target="Cominvest Asset Management GmbH">
+    <edge source="Repsol YPF" target="Symphonia SGR Spa">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="Sydinvest">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Zeon" target="ClearBridge Advisors, LLC">
+    <edge source="Repsol YPF" target="Sydbank">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Zeon" target="Chuo Mitsui Asset Management Co., Ltd.">
-      <data key="weight">0.07</data>
-    </edge>
-    <edge source="Zeon" target="Charles Schwab Investment Management, Inc.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Campbell &amp; Company, Inc.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Caisse de Depot et Placement du Quebec">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="CIBC Global Asset Management Inc.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="C I Kasei Company Ltd.">
-      <data key="weight">0.31</data>
-    </edge>
-    <edge source="Zeon" target="Brother Industries Ltd">
-      <data key="weight">0.81</data>
-    </edge>
-    <edge source="Zeon" target="BlackRock Japan Co., Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="BlackRock Investment Management, LLC">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="BlackRock Institutional Trust Company, N.A.">
+    <edge source="Repsol YPF" target="Swisscanto Asset Management AG">
       <data key="weight">0.05</data>
     </edge>
-    <edge source="Zeon" target="BlackRock Financial Management, Inc.">
-      <data key="weight">0.76</data>
+    <edge source="Repsol YPF" target="Swiss Life Asset Management (France)">
+      <data key="weight">0.01</data>
     </edge>
-    <edge source="Zeon" target="BlackRock Advisors (UK) Limited">
+    <edge source="Repsol YPF" target="Swiss Life Asset Management">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Swiss &amp; Global Asset Management Ltd.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="Swedbank Robur AB">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="Sutterlüty Investment Management GmbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Sumitomo Mitsui Trust Asset Management Co., Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Sumitomo Mitsui Asset Management Company, Limited">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="Studio A. Ciocca S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Storebrand Kapitalforvaltning AS">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Stonebridge Capital Management, Inc.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="State Street Global Advisors Ltd. (Canada)">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="State Street Global Advisors Australia Ltd.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="State Street Global Advisors (US)">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="State Street Global Advisors (UK) Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="State Street Global Advisors (Japan) Co., Ltd.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="State Street Global Advisors (France) S.A.">
+      <data key="weight">0.16</data>
+    </edge>
+    <edge source="Repsol YPF" target="StarCapital AG">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Standard Life Investments Ltd.">
+      <data key="weight">0.15</data>
+    </edge>
+    <edge source="Repsol YPF" target="Standard Life Investments Inc.(Canada)">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Standard Life Investments (USA) Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Spängler IQAM Invest Asset Management GmbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Spectrum Asset Management, Inc.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="Sparkasse Oberösterreich Kapitalanlagegesellschaft mbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Sparinvest Fondsmæglerselskab A/S">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Solventis Gestión, S.G.C., S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Société Générale Asset Management (France)">
+      <data key="weight">0.03</data>
+    </edge>
+    <edge source="Repsol YPF" target="Sjunde AP-fonden">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="Signal Iduna Asset Management GmbH">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="Siemens Kapitalanlagegesellschaft mbH">
+      <data key="weight">0.14</data>
+    </edge>
+    <edge source="Repsol YPF" target="Shin Kong Investment Trust Co., Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Sella Gestioni SGR SpA">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Seligson &amp; Co Rahastoyhtiö Oyj">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Security Kapitalanlage AG">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Scotia Asset Management L.P.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Schroder Investment Management Ltd. (SIM)">
       <data key="weight">0.06</data>
     </edge>
-    <edge source="Zeon" target="Belgrave Capital Management Ltd.">
+    <edge source="Repsol YPF" target="Santander Asset Management UK Limited">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Zeon" target="Banque Cantonale Vaudoise">
+    <edge source="Repsol YPF" target="Santander Asset Management - S.G.F.I.M., S.A">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Santander Asset Management">
+      <data key="weight">0.14</data>
+    </edge>
+    <edge source="Repsol YPF" target="Sanlam Investment Management (Pty) Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Salmann Investment Management AG">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Sacyr Vallehermoso SA">
+      <data key="weight">20.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="SNS Asset Management">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="SMA Gestion">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="SINOPIA Asset Management">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="SGF - Sociedade Gestora de Fundos de Pensões S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="SGAM Alternative Investments S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="SEB Investment GmbH">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="SEB Gyllenberg Rahastoyhtiö Oy">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="SEB Asset Management (Stockholm)">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Repsol YPF" target="SAM Sustainable Asset Management Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Roche Brune SAS">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Robeco Institutional Asset Management B.V.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Riva y Garcia Gestión S.G.I.I.C., S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Reyl &amp; Cie S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Renta 4 Gestora, S.G.I.I.C., S.A.">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Repsol YPF" target="Raiffeisen Vermögensverwaltungsbank AG">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Raiffeisen Kapitalanlage-Gesellschaft mbH">
+      <data key="weight">0.03</data>
+    </edge>
+    <edge source="Repsol YPF" target="RVT Finanz AG">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="RMJ SGR p.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="RJ Delta Fund Management S.A.S.G.F.C.I.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="RCM (UK) Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Quoniam Asset Management GmbH">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="Quantitative Management Associates LLC">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="Pyramis Global Advisors, LLC">
+      <data key="weight">0.04</data>
+    </edge>
+    <edge source="Repsol YPF" target="Putnam Investment Management, L.L.C.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="Prudential Investment Management Japan Co., Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Profilo Asset Management SGR, S.p.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Professionals Financial Inc.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Profesión-Auge AFJP S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Pro-Financial Asset Management, Inc.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Privat Bank Patrimonio, S.A.U., S.G.I.I.C.">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Repsol YPF" target="Principal Global Investors (Equity)">
+      <data key="weight">0.03</data>
+    </edge>
+    <edge source="Repsol YPF" target="Prime Invest AG">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Prima sgr S.p.A.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="Previsol AFJP S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Prescient Investment Managers (Ireland) Limited">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Popular Gestão de Activos - S.G.F.I., S.A">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Popular Gestión, S.A., S.G.I.I.C.">
+      <data key="weight">0.08</data>
+    </edge>
+    <edge source="Repsol YPF" target="Popular Gestión Privada S.G.I.I.C., S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Platinum Management (NY) LLC (Sibling)">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Pioneer Pekao Investment Management SA">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="Pioneer Investments Kapitalanlagegesellschaft mbH">
+      <data key="weight">0.07</data>
+    </edge>
+    <edge source="Repsol YPF" target="Pioneer Investments Austria GmbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Pioneer Investment Management, Inc.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="Pioneer Investment Management SGRpA">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Pioneer Investment Management Ltd.">
+      <data key="weight">0.36</data>
+    </edge>
+    <edge source="Repsol YPF" target="Pioneer Czech Investment Company, a.s.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="PineBridge Investments LLC">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="PineBridge Investments Europe Limited">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Pictet Asset Management Ltd.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="Petróleos de México">
+      <data key="weight">3.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Petercam S.A.">
+      <data key="weight">0.05</data>
+    </edge>
+    <edge source="Repsol YPF" target="PanAgora Asset Management Inc.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Palatine Asset Management">
+      <data key="weight">0.07</data>
+    </edge>
+    <edge source="Repsol YPF" target="Pactio Gestión, S.G.I.I.C., S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Pacific Investment Management Company LLC">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="PKB Privat Bank AG">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="PEH Wertpapier AG">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Orígenes AFJP S.A.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="Optique Capital Management, Inc.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Optimix Vermogensbeheer N.V.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="Oppenheim Kapitalanlagegesellschaft mbH">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Repsol YPF" target="Oppenheim Investment Managers">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Oechsle International Advisors, LLC">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Odey Asset Management LLP">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Oddo Asset Management">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="O'Shaughnessy Asset Management, LLC">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Repsol YPF" target="Numeric Investors LLC">
+      <data key="weight">0.03</data>
+    </edge>
+    <edge source="Repsol YPF" target="Notz, Stucki Europe S.A.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="Northern Trust Investments, N.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Northern Trust Global Investments Limited">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="Northern Trust Global Investments">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="Norges Bank Investment Management (NBIM)">
+      <data key="weight">0.81</data>
+    </edge>
+    <edge source="Repsol YPF" target="Nordkapp Inversiones, Sociedad de Valores, S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Nordkapp Gestión S.G.I.I.C., S.A.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="Nordea Investment Management AB, Norge">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Nordea Investment Management AB (Sweden)">
+      <data key="weight">0.03</data>
+    </edge>
+    <edge source="Repsol YPF" target="Nordea Investment Management AB (Finland)">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Repsol YPF" target="Nordea Investment Management (Denmark)">
+      <data key="weight">0.05</data>
+    </edge>
+    <edge source="Repsol YPF" target="Nordea Invest Fund Management A/S">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Nomura Asset Management Deutschland KAG mbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Nomura Asset Management Co., Ltd.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="Nmás1 SYZ, SGIIC, S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Nissay Asset Management Corp.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Nikko Asset Management Co., Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Newton Investment Management Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Neuflize OBC Investissements">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="Natixis Asset Management">
+      <data key="weight">0.14</data>
+    </edge>
+    <edge source="Repsol YPF" target="Natcan Investment Management Inc.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Nación AFJP S.A.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="NORD/LB Capital Management GmbH">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="NBI hf.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Münchner Kapitalanlage AG">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Mutuactivos S.A., S.G.I.I.C.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="Munder Capital Management">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="Morgan Stanley Investment Management Inc. (US)">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="Morgan Stanley Investment Management (Japan) Co., Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Montepio Gestão de Activos - SGFI, S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Monte Paschi Invest (France) S.A.S.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Monega Kapitalanlagegesellschaft mbH">
+      <data key="weight">0.04</data>
+    </edge>
+    <edge source="Repsol YPF" target="Mondrian Investment Partners Limited">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="Mitsubishi UFJ Asset Management Co., Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Migros Bank Asset Management">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Metzler Asset Management GmbH">
+      <data key="weight">0.09</data>
+    </edge>
+    <edge source="Repsol YPF" target="Metropolitan Life Insurance Co. (US)">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Metagestion S.A., S.G.I.I.C.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="Merrill Lynch International Bank Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Merchbanc S.G.I.I.C., S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Mercados y Gestión de Valores A.V., S.A">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Mellon Capital Management Corporation">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="Mediolanum International Funds Limited">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Mediolanum Gestione Fondi SGR p.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Martin Currie Investment Management Ltd.">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Repsol YPF" target="March Gestión de Fondos, S.G.I.I.C.,S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Mapfre Inversión Dos, S.G.I.I.C., S.A.">
+      <data key="weight">0.07</data>
+    </edge>
+    <edge source="Repsol YPF" target="Manulife Asset Management Limited">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="MainFirst Asset Management">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Maerki, Baumann &amp; Co. AG">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Madison Square Investors LLC">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="MMA Finance">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="MIRABAUD Gestión, S.G.I.I.C., S.A.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="MFS Investment Management">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="MFI Asset Management GmbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="MEAG Munich ERGO Kapitalanlagegesellschaft mbH">
+      <data key="weight">0.14</data>
+    </edge>
+    <edge source="Repsol YPF" target="MB Fund Advisory GmbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="MACIF Gestion">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="M.M.Warburg &amp; CO Luxembourg S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="M&amp;B Capital Advisers Gestión SGIIC">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="M &amp; G Investment Management Ltd.">
+      <data key="weight">0.1</data>
+    </edge>
+    <edge source="Repsol YPF" target="Lyxor Asset Management">
+      <data key="weight">0.03</data>
+    </edge>
+    <edge source="Repsol YPF" target="Lupus alpha Asset Management AG">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Repsol YPF" target="Lord, Abbett &amp; Co. LLC">
+      <data key="weight">0.03</data>
+    </edge>
+    <edge source="Repsol YPF" target="Lombard Odier Darier Hentsch &amp; Cie">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Lloyds Investment España, S.G.I.I.C., S.A.U.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="Lingohr &amp; Partner Asset Management GmbH">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="Liberbank Gestion S.G.I.I.C. S.A.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="Les Assurances Mutuelles de Picardie">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Lemanik S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Legal &amp; General Investment Management Ltd. (UK)">
+      <data key="weight">0.05</data>
+    </edge>
+    <edge source="Repsol YPF" target="Legal &amp; General Asset Management (France)">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Lazard Asset Management, L.L.C.">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Repsol YPF" target="Lazard Asset Management Limited">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Lazard Asset Management (Deutschland) GmbH">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="La Mondiale Gestion d'Actifs">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="La Française AM Private Bank">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="La Banque Postale Asset Management">
+      <data key="weight">0.05</data>
+    </edge>
+    <edge source="Repsol YPF" target="LSV Asset Management">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="LRI Invest S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="LLB Asset Management AG">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="LGT Capital Management Ltd.">
+      <data key="weight">0.03</data>
+    </edge>
+    <edge source="Repsol YPF" target="LBBW Asset Management Investmentgesellschaft mbH">
+      <data key="weight">0.04</data>
+    </edge>
+    <edge source="Repsol YPF" target="LBB-Invest">
+      <data key="weight">0.1</data>
+    </edge>
+    <edge source="Repsol YPF" target="KutxaGest S.G.I.I.C., S.A.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="Kutxa Gestión Privada S.G.I.I.C., S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Kuntien Eläkevakuutus">
+      <data key="weight">0.04</data>
+    </edge>
+    <edge source="Repsol YPF" target="Kredietrust Luxembourg S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Kraus Partner Investment Solutions AG">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="Keppler Asset Management, Inc.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Kepler Capital Markets (Asset Management)">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Kathrein Privatbank Aktiengesellschaft">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="KLP Forsikring">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="KBL Richelieu Gestion">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="KBC Asset Management N.V.">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Repsol YPF" target="Jyske Invest Fund Management A/S">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Jupiter Asset Management Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Julius Meinl Investment Gesellschaft mbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Jarislowsky Fraser, Ltd.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="Janus Capital Management LLC">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="JPMorgan Private Bank (France)">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="JPMorgan Investment Advisors Inc.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="JPMorgan Asset Management U.K. Limited">
+      <data key="weight">0.14</data>
+    </edge>
+    <edge source="Repsol YPF" target="JPMorgan Asset Management (Taiwan) Limited">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="J. O. Hambro Investment Management Ltd.">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Repsol YPF" target="Io Capital Partners GmbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Investec Asset Management Ltd.">
+      <data key="weight">0.07</data>
+    </edge>
+    <edge source="Repsol YPF" target="Invesco PowerShares Capital Management LLC">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Inversis Gestión, S.A., SGIIC">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="Inverseguros Gestión S.A. SGIIC">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Repsol YPF" target="InverCaixa Gestión S.G.I.I.C., S.A.">
+      <data key="weight">0.12</data>
+    </edge>
+    <edge source="Repsol YPF" target="Intermoney Gestión S.G.I.I.C.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Inter Expansion S.A.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="Integral Development Asset Management (I.DE.A.M)">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Insight Investment Management (Global) Limited">
+      <data key="weight">0.15</data>
+    </edge>
+    <edge source="Repsol YPF" target="Ignis Asset Management Limited">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Ibercaja Gestión S.G.I.I.C., S.A.">
+      <data key="weight">0.05</data>
+    </edge>
+    <edge source="Repsol YPF" target="IPConcept Fund Management S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="INVESCO Asset Management Limited">
+      <data key="weight">0.23</data>
+    </edge>
+    <edge source="Repsol YPF" target="INVESCO Asset Management Deutschland GmbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="INTECH Investment Management LLC">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="ING Investment Management Co. LLC">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="ING Investment Management (Netherlands)">
+      <data key="weight">0.25</data>
+    </edge>
+    <edge source="Repsol YPF" target="ING Investment Management (Belgium) (Inactive)">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Hyposwiss Privatbank AG">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Hypo Alpe-Adria-Bank AG">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Hof Hoorneman Bankiers N.V.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Henderson Global Investors (Singapore) Limited">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="Helaba Invest Kapitalanlagegesellschaft mbH">
+      <data key="weight">0.04</data>
+    </edge>
+    <edge source="Repsol YPF" target="Hauck &amp; Aufhäuser Investment Gesellschaft S.A.">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Repsol YPF" target="Hansberger Global Investors, Inc. (Canada)">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Handelsbanken Asset Management">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="Halbis Capital Management (France)">
+      <data key="weight">0.26</data>
+    </edge>
+    <edge source="Repsol YPF" target="HSBC Máxima S.A. AFJP">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="HSBC Global Asset Management Deutschland GmbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="HSBC Global Asset Management (Taiwan) Limited">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="HSBC Global Asset Management (International) Limited">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="HANSAINVEST Hanseatische Investment GmbH">
+      <data key="weight">0.04</data>
+    </edge>
+    <edge source="Repsol YPF" target="Gutmann Kapitalanlage Aktiengesellschaft">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Guipuzcoano S.G.I.I.C., S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Guinness Atkinson Asset Management Inc.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Guggenheim Funds Investment Advisors, LLC">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Grupo Catalana Occidente, S.A.">
+      <data key="weight">0.05</data>
+    </edge>
+    <edge source="Repsol YPF" target="Groupe MACSF">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Repsol YPF" target="Grossbötzl, Schmitz, Lomparski &amp; Partner International S.à">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Grossbötzl, Schmitz &amp; Partner Vermögensverwaltersozietät ">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Grohmann &amp; Weinrauter Vermögens Management GmbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Goldman Sachs Asset Management International">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Repsol YPF" target="Goldman Sachs Asset Management (US)">
       <data key="weight">0.06</data>
     </edge>
-    <edge source="Zeon" target="Bankia Fondos, S.G.I.I.C., S.A.">
+    <edge source="Repsol YPF" target="Global Wealth Management">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Zeon" target="Banif Gestión S.G.I.I.C., S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="BNP Paribas Investment Partners (France)">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="BMO Asset Management Inc.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Aviva Investors Global Services Limited">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Asahi Mutual Life Insurance Co.">
-      <data key="weight">4.41</data>
-    </edge>
-    <edge source="Zeon" target="Asahi Kasei Chemicals Corporation">
-      <data key="weight">2.66</data>
-    </edge>
-    <edge source="Zeon" target="Arakawa Chemical Industries Ltd">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Amundi Japan Ltd.">
+    <edge source="Repsol YPF" target="Global Value Investors Ltd.">
       <data key="weight">0.01</data>
     </edge>
-    <edge source="Zeon" target="Amundi Asset Management">
+    <edge source="Repsol YPF" target="Global Index Advisors, Inc.">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Zeon" target="American Independence Financial Services, LLC">
+    <edge source="Repsol YPF" target="Gestion Financière Privée S.A. (GEFIP)">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Zeon" target="Allianz Global Investors Kapitalanlagegesellschaft mbH">
+    <edge source="Repsol YPF" target="Gestimed S.G.I.I.C. S.A.">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Zeon" target="Adeka Corp">
-      <data key="weight">0.48</data>
+    <edge source="Repsol YPF" target="Gestifonsa S.G.I.I.C., S.A.">
+      <data key="weight">0.0</data>
     </edge>
-    <edge source="Zeon" target="Acadian Asset Management LLC">
+    <edge source="Repsol YPF" target="Gespastor S.A.,S.G.I.I.C.">
       <data key="weight">0.01</data>
     </edge>
-    <edge source="Zeon" target="Aberdeen Investment Management K. K.">
+    <edge source="Repsol YPF" target="Gesnorte, S.A.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="Gesmutual S.G.I.I.C., S.A.">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Zeon" target="Aberdeen Asset Management (Asia) Ltd.">
+    <edge source="Repsol YPF" target="Gesiuris, S.A., S.G.I.I.C.">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Zeon" target="AXA Rosenberg Investment Management Ltd.">
+    <edge source="Repsol YPF" target="Gesinter S.G.I.I.C., S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Gesfibanc S.G.I.I.C., S.A.">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Repsol YPF" target="Gesduero S.G.I.I.C., S.A.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="Gescooperativo, S.A., S.G.I.I.C.">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Repsol YPF" target="Gesconsult S.G.I.I.C., S.A.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="Gesbusa S.A., S.G.I.I.C.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Gerente de Fondos S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Geode Capital Management, L.L.C.">
+      <data key="weight">0.03</data>
+    </edge>
+    <edge source="Repsol YPF" target="Generali Investments Italy SGR S.p.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Generali Investments France S.A.">
+      <data key="weight">0.03</data>
+    </edge>
+    <edge source="Repsol YPF" target="Generali Investments Deutschland Kapitalanlagegesellschaft m">
       <data key="weight">0.04</data>
     </edge>
-    <edge source="Zeon" target="AXA Rosenberg Investment Management LLC">
-      <data key="weight">0.04</data>
-    </edge>
-    <edge source="Zeon" target="AXA Rosenberg Investment Management (Australia)">
+    <edge source="Repsol YPF" target="Generali Fund Management S.A.">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Zeon" target="AXA Investment Managers Paris">
+    <edge source="Repsol YPF" target="Gartmore Investment Management Limited">
+      <data key="weight">0.29</data>
+    </edge>
+    <edge source="Repsol YPF" target="Galicia Administradora de Fondos S.A. Sociedad Gerente">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Gaesco Gestión S.A.">
       <data key="weight">0.01</data>
     </edge>
-    <edge source="Zeon" target="AXA Investment Managers Deutschland GmbH">
+    <edge source="Repsol YPF" target="GVC Gaesco Valores S.V. S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="GVC Gaesco Gestión SGIIC S.A.">
       <data key="weight">0.01</data>
     </edge>
-    <edge source="Zeon" target="AGF Investments Inc.">
+    <edge source="Repsol YPF" target="GS&amp;P Kapitalanlagegesellschaft S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="GMO LLC">
+      <data key="weight">0.22</data>
+    </edge>
+    <edge source="Repsol YPF" target="GLG Partners UK Limited">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="GDP Gestione di Patrimoni SIM S.p.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="GAM London Limited">
+      <data key="weight">0.04</data>
+    </edge>
+    <edge source="Repsol YPF" target="G.I.I.C. FINECO S.G.I.I.C., S.A.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="Första AP-Fonden">
+      <data key="weight">0.04</data>
+    </edge>
+    <edge source="Repsol YPF" target="Fédéris Gestion d'Actifs">
+      <data key="weight">0.03</data>
+    </edge>
+    <edge source="Repsol YPF" target="Futura AFJP S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Fundamentum Asset Management S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="FundQuest France">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Repsol YPF" target="Franklin Templeton Investments Corp.">
+      <data key="weight">0.09</data>
+    </edge>
+    <edge source="Repsol YPF" target="Franklin Templeton Investment Management Ltd.">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Repsol YPF" target="Franklin Templeton Fixed Income Group">
+      <data key="weight">0.03</data>
+    </edge>
+    <edge source="Repsol YPF" target="Frankfurt-Trust Investment-Gesellschaft mbH">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Repsol YPF" target="Fortis Investments France">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Repsol YPF" target="Fortis Gesbeta S.G.I.I.C., S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="First Private Investment Management KAG mbH">
+      <data key="weight">0.06</data>
+    </edge>
+    <edge source="Repsol YPF" target="Finter Bank Zürich Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Finogest S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Finivalor - S.G.F.M., S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Finanduero S.V.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Financiera Ponferrada S.A.">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Repsol YPF" target="Fifth Third Asset Management, Inc.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="Fiera Capital Corporation">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Fiduka Depotverwaltung GmbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Fideuram Investimenti SGR S.p.A.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="Fideuram Asset Management (Ireland) Limited">
+      <data key="weight">0.04</data>
+    </edge>
+    <edge source="Repsol YPF" target="Fidelity Worldwide Investment (UK) Ltd.">
+      <data key="weight">1.07</data>
+    </edge>
+    <edge source="Repsol YPF" target="Fidelity Management &amp; Research Company">
+      <data key="weight">0.03</data>
+    </edge>
+    <edge source="Repsol YPF" target="Falcon Private Bank Ltd">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="FUTURO - Sociedade Gestora de Fundos de Pensões, S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="FIN BROK S.A. S.G.C.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="FIM Asset Management Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="FIL Investments (Japan) Limited">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="FIL Investment Management (Singapore) Limited">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="FIL Investment Management (Hong Kong) Limited">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="F&amp;C Portugal, Gestão de Patrimónios, S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="F&amp;C Asset Management plc">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="Evli Fund Management Company Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Evergreen Investment Management Company, LLC">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Euromobiliare Asset Management SGR S.p.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Eurobank EFG Mutual Funds Management Company S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Euroagentes Gestión S.G.I.I.C., S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Eurizon Capital SGR S.p.A.">
+      <data key="weight">0.04</data>
+    </edge>
+    <edge source="Repsol YPF" target="Eurizon Capital S.A.">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Repsol YPF" target="Espírito Santo Gestión, S.G.I.I.C., S.A.">
+      <data key="weight">0.04</data>
+    </edge>
+    <edge source="Repsol YPF" target="Epsilon SGR SpA">
+      <data key="weight">0.03</data>
+    </edge>
+    <edge source="Repsol YPF" target="Egeria Activos SGIIC S.A.U">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Ecureuil Gestion FCP">
+      <data key="weight">0.14</data>
+    </edge>
+    <edge source="Repsol YPF" target="ETFlab Investment GmbH">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="ESAF - Espírito Santo Activos Financeiros, S.G.P.S., S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="ERSTE-SPARINVEST Kapitalanlagegesellschaft mbH">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="ENISO Partners AG">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="EFG Bank (Luxembourg) S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="EDM Gestión S.A., S.G.I.I.C.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="E.Öhman J:or Fonder AB">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Dresdner Bank Luxembourg S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Dr. Kohlhase Vermögensverwaltungsgesellschaft mbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Dimensional Fund Advisors, LP">
+      <data key="weight">0.18</data>
+    </edge>
+    <edge source="Repsol YPF" target="Dexia Banque Internationale à Luxembourg S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Dexia Asset Management Luxembourg S.A.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="Dexia Asset Management Belgium S.A.">
+      <data key="weight">0.1</data>
+    </edge>
+    <edge source="Repsol YPF" target="Deutsche Postbank Financial Services GmbH">
+      <data key="weight">0.04</data>
+    </edge>
+    <edge source="Repsol YPF" target="Deutsche Far Eastern Asset Management Co. Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Deutsche Asset Management Investmentgesellschaft mbH">
+      <data key="weight">0.07</data>
+    </edge>
+    <edge source="Repsol YPF" target="Desjardins Global Asset Management">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Delubac Asset Management">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Delta Lloyd Asset Management N.V.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Deka Investment GmbH">
+      <data key="weight">0.15</data>
+    </edge>
+    <edge source="Repsol YPF" target="Degroof Fund Management Company">
+      <data key="weight">0.14</data>
+    </edge>
+    <edge source="Repsol YPF" target="Degroof Banque Privée S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Day Trade Asset Management">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Danske Capital (Sweden)">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Danske Capital">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="Daiwa Asset Management Co., Ltd.">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Repsol YPF" target="DWS Investments (Spain), S.G.I.I.C., S.A.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="DWS Investment GmbH">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Repsol YPF" target="DUX Inversores, SGIIC, S.A.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="DSI International Management, Inc.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="DNB Asset Management AS">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="DNB Asset Management AB">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="DIAM Co., Ltd.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="DB Platinum Advisors">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Crédito Agrícola Gest-Sociedade Gest de Fundos de Invest. ">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Crédit Suisse Gestión S.G.I.I.C., S.A.">
+      <data key="weight">0.04</data>
+    </edge>
+    <edge source="Repsol YPF" target="Crédit Agricole Luxembourg Private Bank">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Credit Suisse Private Banking (Switzerland)">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Credit Suisse Asset Management Limited">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Credit Suisse Asset Management KAG mbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Credit Suisse Asset Management">
+      <data key="weight">0.04</data>
+    </edge>
+    <edge source="Repsol YPF" target="Credit Agricole Mercagestion S.A. S.G.I.I.C.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Covéa Finance S.A.S.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="Consulnor Gestión S.G.I.I.C., S.A.">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Repsol YPF" target="Consolidar AFJP S.A.">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Repsol YPF" target="Cominvest Asset Management GmbH">
+      <data key="weight">0.05</data>
+    </edge>
+    <edge source="Repsol YPF" target="Columbia Management Investment Advisers, LLC">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="Columbia Management Advisors, LLC">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Clariden Leu">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="ClariVest Asset Management LLC">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Chuo Mitsui Asset Management Co., Ltd.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="Cholet Dupont Asset Management">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Charles Schwab Investment Management, Inc.">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Repsol YPF" target="Certium Asset Management LLC">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="CatalunyaCaixa Inversión">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="CatalunyaCaixa Inversio S.G.I.I.C. S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Cassa di Risparmio di San Miniato S.p.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Cartera Pirineo S.A.(S.I.M.)">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Carige Asset Management SGR S.p.A.">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Repsol YPF" target="CapitalatWork - Foyer Group">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Capital International, Inc.">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Repsol YPF" target="Capital International Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Capital Guardian Trust Company">
+      <data key="weight">0.04</data>
+    </edge>
+    <edge source="Repsol YPF" target="Capinordic Asset Management AB">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Cantabria Fondos S.A., S.G.I.I.C.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Canada Life Ltd.">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Repsol YPF" target="CamGestion">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Cajamar Gestión S.G.I.I.C., S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Caja de Ahorros y Pensiones de Barcelona (La Caixa)">
+      <data key="weight">14.12</data>
+    </edge>
+    <edge source="Repsol YPF" target="Caja de Ahorros de la Inmaculada de Aragón">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Caja Laboral Gestión S.G.I.I.C., S.A.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="Caja Ingenieros Gestión, SGIIC, SAU">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Caja España Fondos, S.A., S.G.I.I.C.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="Caixagest - Técnicas de Gestão de Fundos, S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Caixa Tarragona Gestió, S.G.I.I.C., S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Caisse des Dépôts et Consignations">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Caisse de Depot et Placement du Quebec">
+      <data key="weight">0.05</data>
+    </edge>
+    <edge source="Repsol YPF" target="CPR Asset Management">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="CP Invest Investicni Spolecnost a.s.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="CIMB-Principal Asset Management Bhd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="CIBC Global Asset Management Inc.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="CCR Gestion">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="CCR Asset Management">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Repsol YPF" target="CCR Actions">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Repsol YPF" target="CCLA Investment Management Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="CBR Privatinvest AG">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="C-QUADRAT Kapitalanlage AG">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Bâloise Asset Management">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Butterfield Bank (Cayman) Limited">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Brufau Niubo (Antonio)">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Repsol YPF" target="Brandes Investment Partners, LP">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="BlackRock Investment Management, LLC">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Repsol YPF" target="BlackRock Institutional Trust Company, N.A.">
+      <data key="weight">3.22</data>
+    </edge>
+    <edge source="Repsol YPF" target="BlackRock Financial Management, Inc.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="BlackRock Asset Management Deutschland AG">
+      <data key="weight">0.18</data>
+    </edge>
+    <edge source="Repsol YPF" target="BlackRock Advisors (UK) Limited">
+      <data key="weight">0.22</data>
+    </edge>
+    <edge source="Repsol YPF" target="Bestinver Gestión S.G.I.I.C. S.A.">
+      <data key="weight">0.32</data>
+    </edge>
+    <edge source="Repsol YPF" target="Berenberg Bank (Schweiz) AG">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Berenberg Bank (Asset Management)">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Repsol YPF" target="BayernInvest Kapitalanlagegesellschaft mbH">
+      <data key="weight">0.04</data>
+    </edge>
+    <edge source="Repsol YPF" target="Batterymarch Financial Management, Inc.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="Barclays Wealth Managers España, S.A., S.G.I.I.C.">
+      <data key="weight">0.06</data>
+    </edge>
+    <edge source="Repsol YPF" target="Barclays Wealth Managers">
+      <data key="weight">0.04</data>
+    </edge>
+    <edge source="Repsol YPF" target="Banque SYZ &amp; CO SA">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Banque Degroof France SA">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Banque Cantonale Vaudoise">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Bankoa Gestión, S.A., S.G.I.I.C.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Bankinter Gestión de Activos, SGIIC S.A.">
+      <data key="weight">0.06</data>
+    </edge>
+    <edge source="Repsol YPF" target="Bankia Fondos, S.G.I.I.C., S.A.">
+      <data key="weight">0.04</data>
+    </edge>
+    <edge source="Repsol YPF" target="Bankia Banca Privada Gestion SGIIC S.A.">
+      <data key="weight">0.1</data>
+    </edge>
+    <edge source="Repsol YPF" target="BankPyme S.G.I.I.C., S.A.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="Bank Vontobel AG (Private Banking)">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Bank Julius Bär &amp; Co. AG">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Bank CIC (Schweiz) AG">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Banif Gestão de Activos S.G.F.I.M., S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Banif Gestión S.G.I.I.C., S.A.">
+      <data key="weight">0.08</data>
+    </edge>
+    <edge source="Repsol YPF" target="Banesto Banca Privada Gestión, SGIIC, S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Banco Privado Português S.A.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="Banco Etcheverría S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Banchile Administradora General de Fondos S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Bancaja Fondos S.G.I.I.C., S.A.">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Repsol YPF" target="Banca del Sempione SA">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Banca Cívica Gestión de Activos SGIIC, SA.">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Repsol YPF" target="BanSabadell Inversión, S.A., S.G.I.I.C., Sociedad Uniperson">
+      <data key="weight">0.05</data>
+    </edge>
+    <edge source="Repsol YPF" target="Balius Asset Management AG">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Bailard, Inc.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="BWInvest">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Repsol YPF" target="BSI S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="BPI Vida e Pensões - Companhia de Seguros, S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="BPI Gestão de Activos - S.G.F.I.M., S.A.">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Repsol YPF" target="BPA Global Funds Asset Management, S.G.I.I.C., S.A.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="BOCI-Prudential Asset Management Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="BNP Paribas Luxembourg">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="BNP Paribas Investment Partners, S.G.I.I.C., S.A.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="BNP Paribas Investment Partners UK Limited">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="BNP Paribas Investment Partners SGR SpA">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="BNP Paribas Investment Partners Netherlands N.V.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="BNP Paribas Investment Partners Belgium S.A.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="BNP Paribas Investment Partners (France)">
+      <data key="weight">0.03</data>
+    </edge>
+    <edge source="Repsol YPF" target="BMO Asset Management Inc.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="BMN Gestión de Activos S.G.I.I.C., S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="BG SGR S.p.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="BCEE Asset Management">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="BBVA Patrimonios Gestora S.G.I.I.C., S.A.">
+      <data key="weight">0.08</data>
+    </edge>
+    <edge source="Repsol YPF" target="BBVA Asset Management, S.A., S.G.I.I.C.">
+      <data key="weight">0.17</data>
+    </edge>
+    <edge source="Repsol YPF" target="BBVA &amp; Partners Alternative Investment AV SA">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="BBK Gestion S.G.I.I.C., S.A.">
+      <data key="weight">0.03</data>
+    </edge>
+    <edge source="Repsol YPF" target="B. Madrid Gestión de Activos S.G.I.I.C., S.A.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="Azimut SGR S.p.A.">
+      <data key="weight">0.05</data>
+    </edge>
+    <edge source="Repsol YPF" target="Aviva Investors Global Services Limited">
+      <data key="weight">0.03</data>
+    </edge>
+    <edge source="Repsol YPF" target="Aviva Investors France S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Aviva Gestión S.G.I.I.C. S.A.">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Repsol YPF" target="Avenir Finance Investment Managers">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Aureo Gestioni S.G.R.p.A.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="Assurances du Crédit Mutuel Vie S.A.">
+      <data key="weight">0.09</data>
+    </edge>
+    <edge source="Repsol YPF" target="Asset Group St. Gallen GmbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Asset Allocation Advisors S.A.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="Ashburton (Jersey) Ltd.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="Asesores y Gestores Financieros Agencia de Valores, S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Artisan Partners Limited Partnership">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="Artio Global Management, L.L.C.">
+      <data key="weight">0.13</data>
+    </edge>
+    <edge source="Repsol YPF" target="Arquigest S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Argonaut Capital Partners LLP">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Argenta Fund">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="ArcoGest, SGC, S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Arca SGR S.p.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Arbarin SICAV, S.A.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="Arauca Bit AFJP">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="Anthilia Capital Partners SGR Spa">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Anima SGR.p.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Anima SGR S.p.A.">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Repsol YPF" target="Amundi SGR SpA">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Amundi Hong Kong Limited">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Amundi Asset Management">
+      <data key="weight">0.23</data>
+    </edge>
+    <edge source="Repsol YPF" target="AmpegaGerling Investment GmbH">
+      <data key="weight">0.05</data>
+    </edge>
+    <edge source="Repsol YPF" target="American Independence Financial Services, LLC">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="American Century Investment Management, Inc.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Altrinsic Global Advisors, LLC">
+      <data key="weight">0.03</data>
+    </edge>
+    <edge source="Repsol YPF" target="Alte Leipziger Trust Investment-Gesellschaft mbH">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="Alpi Fondi S.G.R S.p.A">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Alpha Plus Gestora S.G.I.I.C. S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Alm. Brand Invest">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Allianz Mutual Fund Management, Hellas S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Allianz Global Investors Kapitalanlagegesellschaft mbH">
+      <data key="weight">0.86</data>
+    </edge>
+    <edge source="Repsol YPF" target="Allianz Global Investors Italia SGR S.p.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Allianz Global Investors France">
+      <data key="weight">0.08</data>
+    </edge>
+    <edge source="Repsol YPF" target="Allianz Gestión S.G.I.I.C., S.A.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="AllianceBernstein Ltd. (Value)">
+      <data key="weight">0.06</data>
+    </edge>
+    <edge source="Repsol YPF" target="AllianceBernstein Ltd. (Growth)">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="AllianceBernstein L.P.">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Repsol YPF" target="AllianceBernstein Australia Ltd. (Growth)">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Alfred Berg Kapitalförvaltning AB">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Alfred Berg Kapitalforvaltning AS">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Aletti Gestielle SGR S.p.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Aleph Sicav">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Ahorro Corporación Gestión S.G.I.I.C., S.A.">
+      <data key="weight">0.08</data>
+    </edge>
+    <edge source="Repsol YPF" target="Adepa, S.G.I.I.C., S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="AcomeA SGR S.p.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Acadian Asset Management LLC">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="Acacia Inversión A.V., S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="Aberdeen Asset Management (Edinburgh)">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="Abante Asesores Gestión, S.G.I.I.C., S.A.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="AZ FUND Management SA">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="AXA Rosenberg Investment Management Ltd.">
+      <data key="weight">0.28</data>
+    </edge>
+    <edge source="Repsol YPF" target="AXA Rosenberg Investment Management LLC">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="AXA Rosenberg Investment Management (Australia)">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="AXA Investment Managers UK Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="AXA Investment Managers Paris">
+      <data key="weight">0.14</data>
+    </edge>
+    <edge source="Repsol YPF" target="AXA Investment Managers Japan Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="AXA Investment Managers Deutschland GmbH">
+      <data key="weight">0.13</data>
+    </edge>
+    <edge source="Repsol YPF" target="ATL 12 Capital Gestión SGIIC, S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="ANIMA Asset Management Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="AMUNDI IBERIA SGIIC SA">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="AMG Analysen &amp; Anlagen AG">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="AGF Investments Inc.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="AGF International Advisors Company Ltd.">
+      <data key="weight">0.11</data>
+    </edge>
+    <edge source="Repsol YPF" target="AFJP Prorenta S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="ABN AMRO Asset Management Ltd. (Fortis)">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Repsol YPF" target="ABN AMRO Asset Management Italy SGR">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Repsol YPF" target="A.T.E. Mutual Fund Management Co. S.A.">
       <data key="weight">0.0</data>
     </edge>
   </graph>

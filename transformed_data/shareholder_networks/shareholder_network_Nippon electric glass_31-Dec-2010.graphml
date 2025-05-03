@@ -3,10 +3,16 @@
   <key id="weight" for="edge" attr.name="weight" attr.type="double" />
   <key id="type" for="node" attr.name="type" attr.type="string" />
   <graph edgedefault="undirected">
-    <node id="Zeon">
+    <node id="Nippon electric glass">
       <data key="type">Company</data>
     </node>
-    <node id="Yokohama Rubber Co Ltd">
+    <node id="Zürcher Kantonalbank (Asset Management)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Yuanta Securities Investment Trust Co., Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Yotai Refractories Co Ltd">
       <data key="type">Investor</data>
     </node>
     <node id="Yasuda Asset Management Co., Ltd.">
@@ -15,13 +21,52 @@
     <node id="YMR Fund Services Co., Ltd.">
       <data key="type">Investor</data>
     </node>
+    <node id="Wright Investors' Service Inc.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="World Asset Management, Inc.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="William Blair &amp; Company, L.L.C.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Wells Capital Management Inc.">
+      <data key="type">Investor</data>
+    </node>
     <node id="Wellington Management Company, LLP">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Veritas Investment Trust GmbH">
       <data key="type">Investor</data>
     </node>
     <node id="Vanguard Group, Inc.">
       <data key="type">Investor</data>
     </node>
+    <node id="Universal-Investment-Gesellschaft mbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Union Investment Group">
+      <data key="type">Investor</data>
+    </node>
+    <node id="UOB Asset Management Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="UBS Hana Asset Management Company Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="UBS Global Asset Management (UK) Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="UBS Global Asset Management (Switzerland)">
+      <data key="type">Investor</data>
+    </node>
     <node id="UBS Global Asset Management (Japan) Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="UBS Global Asset Management (Americas), Inc.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="UBI Pramerica SGR S.p.A.">
       <data key="type">Investor</data>
     </node>
     <node id="Toyota Asset Management Co., Ltd.">
@@ -30,13 +75,43 @@
     <node id="Tokio Marine Asset Management Co., Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Tohpe Corp">
+    <node id="Tokai Tokyo Asset Management Co., Ltd.">
       <data key="type">Investor</data>
     </node>
     <node id="Threadneedle Asset Management Ltd.">
       <data key="type">Investor</data>
     </node>
+    <node id="Thomas White International, Ltd.">
+      <data key="type">Investor</data>
+    </node>
     <node id="TIAA-CREF">
+      <data key="type">Investor</data>
+    </node>
+    <node id="TD Asset Management Inc.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="T. Rowe Price International Limited (Japan)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="T. Rowe Price Associates, Inc.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="T&amp;D Asset Management Co., Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Symphony Asset Management LLC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Swisscanto Asset Management AG">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Swiss &amp; Global Asset Management Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Swedbank Robur AB">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Sumitomo Mitsui Trust Bank, Limited">
       <data key="type">Investor</data>
     </node>
     <node id="Sumitomo Mitsui Trust Asset Management Co., Ltd.">
@@ -45,10 +120,19 @@
     <node id="Sumitomo Mitsui Asset Management Company, Limited">
       <data key="type">Investor</data>
     </node>
+    <node id="Storebrand Kapitalforvaltning AS">
+      <data key="type">Investor</data>
+    </node>
+    <node id="State Street Global Advisors Ltd. (Canada)">
+      <data key="type">Investor</data>
+    </node>
     <node id="State Street Global Advisors (US)">
       <data key="type">Investor</data>
     </node>
     <node id="State Street Global Advisors (UK) Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="State Street Global Advisors (Japan) Co., Ltd.">
       <data key="type">Investor</data>
     </node>
     <node id="State Street Global Advisors (France) S.A.">
@@ -63,16 +147,16 @@
     <node id="Sparinvest Fondsmæglerselskab A/S">
       <data key="type">Investor</data>
     </node>
-    <node id="Sompo Japan Insurance Inc">
+    <node id="Skandia Investment Management Limited">
       <data key="type">Investor</data>
     </node>
-    <node id="Simplex Asset Management Co., Ltd.">
+    <node id="Sinfonia Technology Co Ltd">
       <data key="type">Investor</data>
     </node>
-    <node id="Showa Paxxs Corp">
+    <node id="Simplicity AB">
       <data key="type">Investor</data>
     </node>
-    <node id="Shinko Plantech Co Ltd">
+    <node id="Shinyoung Asset Management">
       <data key="type">Investor</data>
     </node>
     <node id="Shinko Asset Management Co., Ltd.">
@@ -81,19 +165,67 @@
     <node id="Shinkin Asset Management Co., Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Shibusawa Warehouse Co Ltd">
+    <node id="Shin Kong Investment Trust Co., Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Shiga Bank Ltd">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Security Kapitalanlage AG">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Scotia Asset Management L.P.">
       <data key="type">Investor</data>
     </node>
     <node id="Schroder Investment Management Ltd. (SIM)">
       <data key="type">Investor</data>
     </node>
-    <node id="Sanwa Soko Co Ltd">
+    <node id="Schroder Investment Management (Singapore) Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Schroder Investment Management (Japan) Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Santander Asset Management UK Limited">
       <data key="type">Investor</data>
     </node>
     <node id="SINOPIA Asset Management">
       <data key="type">Investor</data>
     </node>
-    <node id="Raiffeisen Kapitalanlage-Gesellschaft mbH">
+    <node id="SEI Investments Canada">
+      <data key="type">Investor</data>
+    </node>
+    <node id="SEB Asset Management (Stockholm)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Ruffer LLP">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Resona Bank, Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="RCM Japan Co., Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="RCM Capital Management LLC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="RBC Investment Management (Asia) Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Quantitative Management Associates LLC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="QS Investors, LLC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Pyrford International Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Pyramis Global Advisors, LLC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Putnam Investment Management, L.L.C.">
       <data key="type">Investor</data>
     </node>
     <node id="Prudential Investment Management Japan Co., Ltd.">
@@ -105,19 +237,61 @@
     <node id="Prescient Investment Managers (Ireland) Limited">
       <data key="type">Investor</data>
     </node>
+    <node id="Plaza Asset Management Co., Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Pioneer Investment Management, Inc.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Pioneer Investment Management Ltd. (Singapore)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Pioneer Investment Management Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="PineBridge Investments LLC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="PineBridge Investments Co., Ltd.">
+      <data key="type">Investor</data>
+    </node>
     <node id="Picton Mahoney Asset Management">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Pictet Asset Management S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Pictet Asset Management Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Philadelphia International Advisors, L.P.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Pharus Management S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Pax World Management LLC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="OppenheimerFunds, Inc.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Oppenheim Kapitalanlagegesellschaft mbH">
       <data key="type">Investor</data>
     </node>
     <node id="Okasan Asset Management Co., Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Okamoto Industries Inc">
-      <data key="type">Investor</data>
-    </node>
-    <node id="O'Shaughnessy Asset Management, LLC">
+    <node id="Nykredit Bank AS">
       <data key="type">Investor</data>
     </node>
     <node id="Northern Trust Global Investments Japan, KK">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Northern Trust Global Investments">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Noritz Corp">
       <data key="type">Investor</data>
     </node>
     <node id="Norinchukin Zenkyoren Asset Management Co., Ltd.">
@@ -126,46 +300,76 @@
     <node id="Norges Bank Investment Management (NBIM)">
       <data key="type">Investor</data>
     </node>
+    <node id="Nordea Investment Management AB (Sweden)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Nordea Investment Management (Denmark)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Nomura Asset Management Deutschland KAG mbH">
+      <data key="type">Investor</data>
+    </node>
     <node id="Nomura Asset Management Co., Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Nissin Electric Co Ltd">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Nissha Printing Co Ltd">
       <data key="type">Investor</data>
     </node>
     <node id="Nissay Asset Management Corp.">
       <data key="type">Investor</data>
     </node>
+    <node id="Nipro Medical Industries Company Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Nipro Corp">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Nippon Life Insurance Company">
+      <data key="type">Investor</data>
+    </node>
     <node id="Nikko Asset Management Co., Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Nicholas-Applegate Capital Management, LLC">
+    <node id="Nikko Asset Management Asia Limited">
       <data key="type">Investor</data>
     </node>
-    <node id="Nichiban Co Ltd">
+    <node id="Nichicon Corp">
       <data key="type">Investor</data>
     </node>
-    <node id="NORINCHUKIN BANK">
+    <node id="Neuflize OBC Investissements">
       <data key="type">Investor</data>
     </node>
-    <node id="NOK Corp">
+    <node id="Neuberger Berman, LLC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Natixis Asset Management">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Natcan Investment Management Inc.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="NORD/LB Capital Management GmbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="NEC Capital Solutions Ltd">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Mutuelle des Architectes Français Assurances">
       <data key="type">Investor</data>
     </node>
     <node id="Munder Capital Management">
       <data key="type">Investor</data>
     </node>
+    <node id="Morgan Stanley Investment Management Ltd. (UK)">
+      <data key="type">Investor</data>
+    </node>
     <node id="Morgan Stanley Investment Management Inc. (US)">
       <data key="type">Investor</data>
     </node>
-    <node id="Mizuho Corporate Bank, Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Mizuho Bank, Ltd.">
-      <data key="type">Investor</data>
-    </node>
     <node id="Mizuho Asset Management Co., Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Mitsubishi UFJ Trust and Banking Corporation">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Mitsubishi UFJ Morgan Stanley Securities Co., Ltd.">
       <data key="type">Investor</data>
     </node>
     <node id="Mitsubishi UFJ Asset Management Co., Ltd.">
@@ -174,7 +378,10 @@
     <node id="Mitsubishi UFJ Asset Management (UK) Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Metzler Asset Management GmbH">
+    <node id="Mirae Asset Global Investments Co., Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Metropolitan Life Insurance Co. (US)">
       <data key="type">Investor</data>
     </node>
     <node id="Mellon Capital Management Corporation">
@@ -183,40 +390,103 @@
     <node id="Meiji Yasuda Asset Management Company Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="McKinley Capital Management, LLC">
+    <node id="Matthews International Capital Management LLC">
       <data key="type">Investor</data>
     </node>
-    <node id="M &amp; G Investment Management Ltd.">
+    <node id="Martin Currie Investment Management Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Manulife Asset Management Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Manulife Asset Management (Japan) Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Madison Square Investors LLC">
       <data key="type">Investor</data>
     </node>
     <node id="Lyxor Asset Management">
       <data key="type">Investor</data>
     </node>
+    <node id="Lupus alpha Asset Management AG">
+      <data key="type">Investor</data>
+    </node>
     <node id="Lord, Abbett &amp; Co. LLC">
       <data key="type">Investor</data>
     </node>
-    <node id="Lombard Odier Darier Hentsch Trust (Japan) Ltd.">
+    <node id="Loomis, Sayles &amp; Company, L.P.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Lombard Odier Darier Hentsch &amp; Cie">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Lion Global Investors Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Lazard Frères Gestion S.A.S.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Lazard Asset Management, L.L.C.">
       <data key="type">Investor</data>
     </node>
     <node id="LSV Asset Management">
       <data key="type">Investor</data>
     </node>
+    <node id="LLB Asset Management AG">
+      <data key="type">Investor</data>
+    </node>
     <node id="LGT Capital Management Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="L'Auxiliaire">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Kyobo AXA Investment Managers Co., Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Kornitzer Capital Management Inc.">
       <data key="type">Investor</data>
     </node>
     <node id="Korea Investment Management Co., Ltd.">
       <data key="type">Investor</data>
     </node>
+    <node id="Kokusai Asset Management Co., Ltd.">
+      <data key="type">Investor</data>
+    </node>
     <node id="Kleinwort Benson Investors Dublin Ltd">
       <data key="type">Investor</data>
     </node>
-    <node id="Kanto Denka Kogyo Co Ltd">
+    <node id="Kajima Corp">
+      <data key="type">Investor</data>
+    </node>
+    <node id="KLP Forsikring">
+      <data key="type">Investor</data>
+    </node>
+    <node id="KEPLER-FONDS Kapitalanlagegesellschaft m.b.H.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="KCM Corp">
       <data key="type">Investor</data>
     </node>
     <node id="KBC Fund Management Limited">
       <data key="type">Investor</data>
     </node>
+    <node id="KBC Asset Management N.V.">
+      <data key="type">Investor</data>
+    </node>
     <node id="Jyske Invest Fund Management A/S">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Julius Meinl Investment Gesellschaft mbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Jabre Capital Partners S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="JPMorgan Asset Management U.K. Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="JPMorgan Asset Management (Taiwan) Limited">
       <data key="type">Investor</data>
     </node>
     <node id="JPMorgan Asset Management (Japan) Limited">
@@ -225,37 +495,88 @@
     <node id="JP Morgan Asset Management">
       <data key="type">Investor</data>
     </node>
+    <node id="J.P. Morgan Asset Management (Hong Kong) Ltd.">
+      <data key="type">Investor</data>
+    </node>
     <node id="Investec Asset Management Ltd.">
       <data key="type">Investor</data>
     </node>
     <node id="Invesco PowerShares Capital Management LLC">
       <data key="type">Investor</data>
     </node>
+    <node id="Invesco Management Group, Inc.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Invesco Advisers, Inc.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Inverseguros Gestión S.A. SGIIC">
+      <data key="type">Investor</data>
+    </node>
     <node id="Insight Investment Management (Global) Limited">
       <data key="type">Investor</data>
     </node>
-    <node id="Iino Kaiun Kaisha Ltd">
+    <node id="Inaba Denki Sangyo Co Ltd">
       <data key="type">Investor</data>
     </node>
-    <node id="INVESCO Asset Management Limited">
+    <node id="INVESCO Asset Management Deutschland GmbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="INVESCO Asset Management (Japan) Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="INTECH Investment Management LLC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="ING Mutual Funds Management Company (Japan), Ltd.">
       <data key="type">Investor</data>
     </node>
     <node id="ING Investment Management Co. LLC">
       <data key="type">Investor</data>
     </node>
-    <node id="Harima Chemicals Group Inc">
+    <node id="IKANO Fund Management S.A.">
       <data key="type">Investor</data>
     </node>
-    <node id="Hamon Investment Group Pte. Ltd.">
+    <node id="IFDC Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="HSBC Global Asset Management Deutschland GmbH">
+    <node id="ICON Advisers, Inc.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="ICBC Credit Suisse Asset Management Co. Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="I.G. Investment Management (Hong Kong) Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Hermes Fund Managers Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Henderson Global Investors Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Henderson Global Investors (Japan) Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Havenport Asset Management Pte. Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Hatteras Alternative Mutual Funds, LLC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Handelsbanken Asset Management">
       <data key="type">Investor</data>
     </node>
     <node id="HSBC Global Asset Management (Hong Kong) Limited">
       <data key="type">Investor</data>
     </node>
     <node id="HSBC Global Asset Management (France)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="HSBC Global Asset Management (Canada) Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="HANSAINVEST Hanseatische Investment GmbH">
       <data key="type">Investor</data>
     </node>
     <node id="Groupama Asset Management">
@@ -270,10 +591,40 @@
     <node id="Global Index Advisors, Inc.">
       <data key="type">Investor</data>
     </node>
+    <node id="Geode Capital Management, L.L.C.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Gartmore Investment Management Limited">
+      <data key="type">Investor</data>
+    </node>
     <node id="GMO LLC">
       <data key="type">Investor</data>
     </node>
-    <node id="Furukawa Electric Co Ltd">
+    <node id="GLG Partners LP">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Första AP-Fonden">
+      <data key="type">Investor</data>
+    </node>
+    <node id="FundQuest France">
+      <data key="type">Investor</data>
+    </node>
+    <node id="FuNNex Asset Management Inc.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Franklin Templeton Investments Japan Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Frankfurt-Trust Investment-Gesellschaft mbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Fjärde AP-Fonden">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Fideuram Investimenti SGR S.p.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Fideuram Asset Management (Ireland) Limited">
       <data key="type">Investor</data>
     </node>
     <node id="Fidelity Worldwide Investment (UK) Ltd.">
@@ -291,13 +642,19 @@
     <node id="FIL Investment Management (Hong Kong) Limited">
       <data key="type">Investor</data>
     </node>
-    <node id="Ersel Asset Management SGR S.p.A.">
+    <node id="Eurizon Capital S.A.">
       <data key="type">Investor</data>
     </node>
-    <node id="Eastspring Investments (Hong Kong) Limited">
+    <node id="Echo Point Investment Management, LLC">
       <data key="type">Investor</data>
     </node>
-    <node id="Duemme SGR">
+    <node id="ETFlab Investment GmbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="ERSTE-SPARINVEST Kapitalanlagegesellschaft mbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="E.Öhman J:or Fonder AB">
       <data key="type">Investor</data>
     </node>
     <node id="Driehaus Capital Management, LLC">
@@ -309,13 +666,64 @@
     <node id="Dimensional Fund Advisors, LP">
       <data key="type">Investor</data>
     </node>
+    <node id="Dexia Asset Management Belgium S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Deutsche Investment Management Americas, Inc.">
+      <data key="type">Investor</data>
+    </node>
     <node id="Deutsche Asset Management Investmentgesellschaft mbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Deutsche Asset Management Americas">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Deutsche Asset Management (Japan) Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Deka Investment GmbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Degroof Fund Management Company">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Danske Capital (Sweden)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Danske Capital">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Daiwa Securities Capital Markets Co. Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Daiwa SB Investments Ltd.">
       <data key="type">Investor</data>
     </node>
     <node id="Daiwa Asset Management Co., Ltd.">
       <data key="type">Investor</data>
     </node>
+    <node id="Daikin Industries Ltd">
+      <data key="type">Investor</data>
+    </node>
+    <node id="DWS Investment GmbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="DNB Asset Management AS">
+      <data key="type">Investor</data>
+    </node>
+    <node id="DNB Asset Management AB">
+      <data key="type">Investor</data>
+    </node>
+    <node id="DIC Corp">
+      <data key="type">Investor</data>
+    </node>
+    <node id="DIAM International Ltd.">
+      <data key="type">Investor</data>
+    </node>
     <node id="DIAM Co., Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="DB Platinum Advisors">
       <data key="type">Investor</data>
     </node>
     <node id="Credit Suisse Private Banking (Switzerland)">
@@ -324,25 +732,88 @@
     <node id="Credit Suisse Asset Management, LLC (US)">
       <data key="type">Investor</data>
     </node>
+    <node id="Credit Suisse Asset Management">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Covéa Finance S.A.S.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Comgest S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Comgest Far East Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Columbia Management Investment Advisers, LLC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="ClearBridge Advisors, LLC">
+      <data key="type">Investor</data>
+    </node>
     <node id="Chuo Mitsui Asset Management Co., Ltd.">
       <data key="type">Investor</data>
     </node>
     <node id="Charles Schwab Investment Management, Inc.">
       <data key="type">Investor</data>
     </node>
-    <node id="Campbell &amp; Company, Inc.">
+    <node id="Certium Asset Management LLC">
       <data key="type">Investor</data>
     </node>
-    <node id="Brother Industries Ltd">
+    <node id="Capital Research Global Investors">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Caixagest - Técnicas de Gestão de Fundos, S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Caisse de Depot et Placement du Quebec">
+      <data key="type">Investor</data>
+    </node>
+    <node id="CPP Investment Board">
+      <data key="type">Investor</data>
+    </node>
+    <node id="COMMERZBANK AG">
+      <data key="type">Investor</data>
+    </node>
+    <node id="CIBC Global Asset Management Inc.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="CATAM Asset Management AG">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Bâloise Asset Management">
+      <data key="type">Investor</data>
+    </node>
+    <node id="British Columbia Investment Management Corp.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Boston Common Asset Management, LLC">
       <data key="type">Investor</data>
     </node>
     <node id="BlackRock Japan Co., Ltd.">
       <data key="type">Investor</data>
     </node>
+    <node id="BlackRock Investments Canada Inc.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="BlackRock Investment Management, LLC">
+      <data key="type">Investor</data>
+    </node>
     <node id="BlackRock Institutional Trust Company, N.A.">
       <data key="type">Investor</data>
     </node>
-    <node id="BlackRock Financial Management, Inc.">
+    <node id="BlackRock Fund Advisors">
+      <data key="type">Investor</data>
+    </node>
+    <node id="BlackRock Asset Management Ireland Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="BlackRock Asset Management Deutschland AG">
+      <data key="type">Investor</data>
+    </node>
+    <node id="BlackRock Asset Management Australia Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="BlackRock Advisors, LLC">
       <data key="type">Investor</data>
     </node>
     <node id="BlackRock Advisors (UK) Limited">
@@ -351,22 +822,58 @@
     <node id="Belgrave Capital Management Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Batterymarch Financial Management, Inc.">
+    <node id="Baring Asset Management Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Bank of Tokyo-Mitsubishi UFJ, Ltd.">
+    <node id="Banque Morval S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Bancaja Fondos S.G.I.I.C., S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="BanSabadell Inversión, S.A., S.G.I.I.C., Sociedad Uniperson">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Bailard, Inc.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="BSI S.A.">
       <data key="type">Investor</data>
     </node>
     <node id="BNP Paribas Investment Partners Netherlands N.V.">
       <data key="type">Investor</data>
     </node>
+    <node id="BNP Paribas Investment Partners Japan Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="BNP Paribas Investment Partners Belgium S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="BNP Paribas Investment Partners Asia Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="BNP Paribas Investment Partners (France)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="BDT Invest LLP">
+      <data key="type">Investor</data>
+    </node>
     <node id="Aviva Investors Global Services Limited">
       <data key="type">Investor</data>
     </node>
-    <node id="Asahi Mutual Life Insurance Co.">
+    <node id="Atlantis Investment Research Corporation">
       <data key="type">Investor</data>
     </node>
-    <node id="Asahi Kasei Chemicals Corporation">
+    <node id="Ashburton (Jersey) Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Asahi Life Asset Management Co., Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Artemis Investment Management LLP">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Aquila &amp; Co. AG">
       <data key="type">Investor</data>
     </node>
     <node id="Amundi Japan Ltd.">
@@ -375,421 +882,982 @@
     <node id="Amundi Hong Kong Limited">
       <data key="type">Investor</data>
     </node>
+    <node id="Amundi Asset Management Singapore Ltd.">
+      <data key="type">Investor</data>
+    </node>
     <node id="Amundi Asset Management">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Amundi (UK)">
       <data key="type">Investor</data>
     </node>
     <node id="American Independence Financial Services, LLC">
       <data key="type">Investor</data>
     </node>
-    <node id="American Century Global Investment Management, Inc.">
+    <node id="American Century Investment Management, Inc.">
       <data key="type">Investor</data>
     </node>
-    <node id="Allianz Global Investors Capital LLC">
+    <node id="Allianz Global Investors Kapitalanlagegesellschaft mbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Allianz Global Investors France">
       <data key="type">Investor</data>
     </node>
     <node id="AllianceBernstein L.P.">
       <data key="type">Investor</data>
     </node>
-    <node id="AllianceBernstein Japan Ltd.">
+    <node id="Aletti Gestielle SGR S.p.A.">
       <data key="type">Investor</data>
     </node>
-    <node id="Adeka Corp">
+    <node id="Air Water Inc">
       <data key="type">Investor</data>
     </node>
-    <node id="Acadian Asset Management LLC">
+    <node id="AZ FUND Management SA">
       <data key="type">Investor</data>
     </node>
-    <edge source="Zeon" target="Yokohama Rubber Co Ltd">
-      <data key="weight">6.95</data>
+    <node id="AXA Rosenberg Investment Management (Australia)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="AXA Investment Managers UK Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="AXA Investment Managers Paris">
+      <data key="type">Investor</data>
+    </node>
+    <node id="AXA Investment Managers Japan Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="AXA Investment Managers Deutschland GmbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="AQR Capital Management, LLC">
+      <data key="type">Investor</data>
+    </node>
+    <edge source="Nippon electric glass" target="Zürcher Kantonalbank (Asset Management)">
+      <data key="weight">0.0</data>
     </edge>
-    <edge source="Zeon" target="Yasuda Asset Management Co., Ltd.">
+    <edge source="Nippon electric glass" target="Yuanta Securities Investment Trust Co., Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Yotai Refractories Co Ltd">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Yasuda Asset Management Co., Ltd.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Nippon electric glass" target="YMR Fund Services Co., Ltd.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Wright Investors' Service Inc.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Nippon electric glass" target="World Asset Management, Inc.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="William Blair &amp; Company, L.L.C.">
+      <data key="weight">0.33</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Wells Capital Management Inc.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Wellington Management Company, LLP">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Veritas Investment Trust GmbH">
       <data key="weight">0.02</data>
     </edge>
-    <edge source="Zeon" target="YMR Fund Services Co., Ltd.">
-      <data key="weight">0.06</data>
+    <edge source="Nippon electric glass" target="Vanguard Group, Inc.">
+      <data key="weight">0.44</data>
     </edge>
-    <edge source="Zeon" target="Wellington Management Company, LLP">
+    <edge source="Nippon electric glass" target="Universal-Investment-Gesellschaft mbH">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Union Investment Group">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Nippon electric glass" target="UOB Asset Management Ltd.">
+      <data key="weight">0.04</data>
+    </edge>
+    <edge source="Nippon electric glass" target="UBS Hana Asset Management Company Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="UBS Global Asset Management (UK) Ltd.">
       <data key="weight">0.03</data>
     </edge>
-    <edge source="Zeon" target="Vanguard Group, Inc.">
+    <edge source="Nippon electric glass" target="UBS Global Asset Management (Switzerland)">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Nippon electric glass" target="UBS Global Asset Management (Japan) Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="UBS Global Asset Management (Americas), Inc.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="UBI Pramerica SGR S.p.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Toyota Asset Management Co., Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Tokio Marine Asset Management Co., Ltd.">
+      <data key="weight">0.09</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Tokai Tokyo Asset Management Co., Ltd.">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Threadneedle Asset Management Ltd.">
+      <data key="weight">0.19</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Thomas White International, Ltd.">
+      <data key="weight">0.04</data>
+    </edge>
+    <edge source="Nippon electric glass" target="TIAA-CREF">
+      <data key="weight">0.65</data>
+    </edge>
+    <edge source="Nippon electric glass" target="TD Asset Management Inc.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Nippon electric glass" target="T. Rowe Price International Limited (Japan)">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Nippon electric glass" target="T. Rowe Price Associates, Inc.">
+      <data key="weight">0.35</data>
+    </edge>
+    <edge source="Nippon electric glass" target="T&amp;D Asset Management Co., Ltd.">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Symphony Asset Management LLC">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Swisscanto Asset Management AG">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Swiss &amp; Global Asset Management Ltd.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Swedbank Robur AB">
+      <data key="weight">0.05</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Sumitomo Mitsui Trust Bank, Limited">
+      <data key="weight">3.99</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Sumitomo Mitsui Trust Asset Management Co., Ltd.">
+      <data key="weight">0.07</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Sumitomo Mitsui Asset Management Company, Limited">
+      <data key="weight">0.11</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Storebrand Kapitalforvaltning AS">
+      <data key="weight">0.03</data>
+    </edge>
+    <edge source="Nippon electric glass" target="State Street Global Advisors Ltd. (Canada)">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="State Street Global Advisors (US)">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Nippon electric glass" target="State Street Global Advisors (UK) Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="State Street Global Advisors (Japan) Co., Ltd.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Nippon electric glass" target="State Street Global Advisors (France) S.A.">
+      <data key="weight">0.06</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Standard Life Investments Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Sparinvest S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Sparinvest Fondsmæglerselskab A/S">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Skandia Investment Management Limited">
+      <data key="weight">0.03</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Sinfonia Technology Co Ltd">
+      <data key="weight">0.04</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Simplicity AB">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Shinyoung Asset Management">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Shinko Asset Management Co., Ltd.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Shinkin Asset Management Co., Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Shin Kong Investment Trust Co., Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Shiga Bank Ltd">
+      <data key="weight">1.63</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Security Kapitalanlage AG">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Scotia Asset Management L.P.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Schroder Investment Management Ltd. (SIM)">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Schroder Investment Management (Singapore) Ltd.">
+      <data key="weight">0.19</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Schroder Investment Management (Japan) Ltd.">
+      <data key="weight">0.12</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Santander Asset Management UK Limited">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="SINOPIA Asset Management">
+      <data key="weight">0.04</data>
+    </edge>
+    <edge source="Nippon electric glass" target="SEI Investments Canada">
+      <data key="weight">0.12</data>
+    </edge>
+    <edge source="Nippon electric glass" target="SEB Asset Management (Stockholm)">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Ruffer LLP">
+      <data key="weight">0.08</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Resona Bank, Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="RCM Japan Co., Ltd.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Nippon electric glass" target="RCM Capital Management LLC">
       <data key="weight">0.26</data>
     </edge>
-    <edge source="Zeon" target="UBS Global Asset Management (Japan) Ltd.">
-      <data key="weight">0.02</data>
+    <edge source="Nippon electric glass" target="RBC Investment Management (Asia) Ltd.">
+      <data key="weight">0.14</data>
     </edge>
-    <edge source="Zeon" target="Toyota Asset Management Co., Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Tokio Marine Asset Management Co., Ltd.">
-      <data key="weight">0.05</data>
-    </edge>
-    <edge source="Zeon" target="Tohpe Corp">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="Zeon" target="Threadneedle Asset Management Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="TIAA-CREF">
-      <data key="weight">0.25</data>
-    </edge>
-    <edge source="Zeon" target="Sumitomo Mitsui Trust Asset Management Co., Ltd.">
-      <data key="weight">0.11</data>
-    </edge>
-    <edge source="Zeon" target="Sumitomo Mitsui Asset Management Company, Limited">
-      <data key="weight">0.2</data>
-    </edge>
-    <edge source="Zeon" target="State Street Global Advisors (US)">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Zeon" target="State Street Global Advisors (UK) Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="State Street Global Advisors (France) S.A.">
+    <edge source="Nippon electric glass" target="Quantitative Management Associates LLC">
       <data key="weight">0.01</data>
     </edge>
-    <edge source="Zeon" target="Standard Life Investments Ltd.">
+    <edge source="Nippon electric glass" target="QS Investors, LLC">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Zeon" target="Sparinvest S.A.">
+    <edge source="Nippon electric glass" target="Pyrford International Limited">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Pyramis Global Advisors, LLC">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Putnam Investment Management, L.L.C.">
+      <data key="weight">0.07</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Prudential Investment Management Japan Co., Ltd.">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Zeon" target="Sparinvest Fondsmæglerselskab A/S">
+    <edge source="Nippon electric glass" target="Principal Global Investors (Equity)">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Prescient Investment Managers (Ireland) Limited">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Zeon" target="Sompo Japan Insurance Inc">
-      <data key="weight">1.94</data>
+    <edge source="Nippon electric glass" target="Plaza Asset Management Co., Ltd.">
+      <data key="weight">0.02</data>
     </edge>
-    <edge source="Zeon" target="Simplex Asset Management Co., Ltd.">
+    <edge source="Nippon electric glass" target="Pioneer Investment Management, Inc.">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Zeon" target="Showa Paxxs Corp">
-      <data key="weight">0.04</data>
+    <edge source="Nippon electric glass" target="Pioneer Investment Management Ltd. (Singapore)">
+      <data key="weight">0.01</data>
     </edge>
-    <edge source="Zeon" target="Shinko Plantech Co Ltd">
+    <edge source="Nippon electric glass" target="Pioneer Investment Management Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="PineBridge Investments LLC">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="PineBridge Investments Co., Ltd.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Picton Mahoney Asset Management">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Pictet Asset Management S.A.">
+      <data key="weight">0.03</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Pictet Asset Management Ltd.">
+      <data key="weight">0.03</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Philadelphia International Advisors, L.P.">
+      <data key="weight">0.07</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Pharus Management S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Pax World Management LLC">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="OppenheimerFunds, Inc.">
+      <data key="weight">0.43</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Oppenheim Kapitalanlagegesellschaft mbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Okasan Asset Management Co., Ltd.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Nykredit Bank AS">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Northern Trust Global Investments Japan, KK">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Northern Trust Global Investments">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Noritz Corp">
       <data key="weight">0.18</data>
     </edge>
-    <edge source="Zeon" target="Shinko Asset Management Co., Ltd.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Zeon" target="Shinkin Asset Management Co., Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Shibusawa Warehouse Co Ltd">
-      <data key="weight">0.28</data>
-    </edge>
-    <edge source="Zeon" target="Schroder Investment Management Ltd. (SIM)">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Sanwa Soko Co Ltd">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="Zeon" target="SINOPIA Asset Management">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Raiffeisen Kapitalanlage-Gesellschaft mbH">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="Zeon" target="Prudential Investment Management Japan Co., Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Principal Global Investors (Equity)">
-      <data key="weight">0.17</data>
-    </edge>
-    <edge source="Zeon" target="Prescient Investment Managers (Ireland) Limited">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Picton Mahoney Asset Management">
-      <data key="weight">0.14</data>
-    </edge>
-    <edge source="Zeon" target="Okasan Asset Management Co., Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Okamoto Industries Inc">
-      <data key="weight">0.12</data>
-    </edge>
-    <edge source="Zeon" target="O'Shaughnessy Asset Management, LLC">
-      <data key="weight">0.13</data>
-    </edge>
-    <edge source="Zeon" target="Northern Trust Global Investments Japan, KK">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Norinchukin Zenkyoren Asset Management Co., Ltd.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Zeon" target="Norges Bank Investment Management (NBIM)">
-      <data key="weight">0.12</data>
-    </edge>
-    <edge source="Zeon" target="Nomura Asset Management Co., Ltd.">
-      <data key="weight">0.07</data>
-    </edge>
-    <edge source="Zeon" target="Nissay Asset Management Corp.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Zeon" target="Nikko Asset Management Co., Ltd.">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="Zeon" target="Nicholas-Applegate Capital Management, LLC">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Nichiban Co Ltd">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Zeon" target="NORINCHUKIN BANK">
-      <data key="weight">1.65</data>
-    </edge>
-    <edge source="Zeon" target="NOK Corp">
-      <data key="weight">0.51</data>
-    </edge>
-    <edge source="Zeon" target="Munder Capital Management">
-      <data key="weight">0.06</data>
-    </edge>
-    <edge source="Zeon" target="Morgan Stanley Investment Management Inc. (US)">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Mizuho Corporate Bank, Ltd.">
-      <data key="weight">3.62</data>
-    </edge>
-    <edge source="Zeon" target="Mizuho Bank, Ltd.">
-      <data key="weight">2.06</data>
-    </edge>
-    <edge source="Zeon" target="Mizuho Asset Management Co., Ltd.">
-      <data key="weight">0.07</data>
-    </edge>
-    <edge source="Zeon" target="Mitsubishi UFJ Trust and Banking Corporation">
-      <data key="weight">2.46</data>
-    </edge>
-    <edge source="Zeon" target="Mitsubishi UFJ Morgan Stanley Securities Co., Ltd.">
-      <data key="weight">0.13</data>
-    </edge>
-    <edge source="Zeon" target="Mitsubishi UFJ Asset Management Co., Ltd.">
-      <data key="weight">0.6</data>
-    </edge>
-    <edge source="Zeon" target="Mitsubishi UFJ Asset Management (UK) Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Metzler Asset Management GmbH">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Zeon" target="Mellon Capital Management Corporation">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Zeon" target="Meiji Yasuda Asset Management Company Ltd.">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Zeon" target="McKinley Capital Management, LLC">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="M &amp; G Investment Management Ltd.">
+    <edge source="Nippon electric glass" target="Norinchukin Zenkyoren Asset Management Co., Ltd.">
       <data key="weight">0.04</data>
     </edge>
-    <edge source="Zeon" target="Lyxor Asset Management">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Lord, Abbett &amp; Co. LLC">
-      <data key="weight">0.11</data>
-    </edge>
-    <edge source="Zeon" target="Lombard Odier Darier Hentsch Trust (Japan) Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="LSV Asset Management">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="LGT Capital Management Ltd.">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Zeon" target="Korea Investment Management Co., Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Kleinwort Benson Investors Dublin Ltd">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Kanto Denka Kogyo Co Ltd">
-      <data key="weight">0.45</data>
-    </edge>
-    <edge source="Zeon" target="KBC Fund Management Limited">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Jyske Invest Fund Management A/S">
-      <data key="weight">0.16</data>
-    </edge>
-    <edge source="Zeon" target="JPMorgan Asset Management (Japan) Limited">
-      <data key="weight">0.14</data>
-    </edge>
-    <edge source="Zeon" target="JP Morgan Asset Management">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Investec Asset Management Ltd.">
+    <edge source="Nippon electric glass" target="Norges Bank Investment Management (NBIM)">
       <data key="weight">0.39</data>
     </edge>
-    <edge source="Zeon" target="Invesco PowerShares Capital Management LLC">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Zeon" target="Insight Investment Management (Global) Limited">
+    <edge source="Nippon electric glass" target="Nordea Investment Management AB (Sweden)">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Zeon" target="Iino Kaiun Kaisha Ltd">
-      <data key="weight">0.36</data>
+    <edge source="Nippon electric glass" target="Nordea Investment Management (Denmark)">
+      <data key="weight">0.04</data>
     </edge>
-    <edge source="Zeon" target="INVESCO Asset Management Limited">
-      <data key="weight">0.0</data>
+    <edge source="Nippon electric glass" target="Nomura Asset Management Deutschland KAG mbH">
+      <data key="weight">0.02</data>
     </edge>
-    <edge source="Zeon" target="ING Investment Management Co. LLC">
-      <data key="weight">0.01</data>
+    <edge source="Nippon electric glass" target="Nomura Asset Management Co., Ltd.">
+      <data key="weight">0.34</data>
     </edge>
-    <edge source="Zeon" target="Harima Chemicals Group Inc">
-      <data key="weight">0.08</data>
+    <edge source="Nippon electric glass" target="Nissin Electric Co Ltd">
+      <data key="weight">0.05</data>
     </edge>
-    <edge source="Zeon" target="Hamon Investment Group Pte. Ltd.">
-      <data key="weight">0.0</data>
+    <edge source="Nippon electric glass" target="Nissha Printing Co Ltd">
+      <data key="weight">0.02</data>
     </edge>
-    <edge source="Zeon" target="HSBC Global Asset Management Deutschland GmbH">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Zeon" target="HSBC Global Asset Management (Hong Kong) Limited">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Zeon" target="HSBC Global Asset Management (France)">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Groupama Asset Management">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Goldman Sachs Asset Management Co., Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Goldman Sachs Asset Management (US)">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Zeon" target="Global Index Advisors, Inc.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="GMO LLC">
-      <data key="weight">1.04</data>
-    </edge>
-    <edge source="Zeon" target="Furukawa Electric Co Ltd">
-      <data key="weight">3.55</data>
-    </edge>
-    <edge source="Zeon" target="Fidelity Worldwide Investment (UK) Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Fidelity Management &amp; Research Company">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="FIL Investments (Japan) Limited">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="FIL Investment Management (Singapore) Limited">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="FIL Investment Management (Hong Kong) Limited">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Ersel Asset Management SGR S.p.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Eastspring Investments (Hong Kong) Limited">
+    <edge source="Nippon electric glass" target="Nissay Asset Management Corp.">
       <data key="weight">0.09</data>
     </edge>
-    <edge source="Zeon" target="Duemme SGR">
+    <edge source="Nippon electric glass" target="Nipro Medical Industries Company Ltd.">
+      <data key="weight">0.41</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Nipro Corp">
+      <data key="weight">4.72</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Nippon Life Insurance Company">
+      <data key="weight">1.47</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Nikko Asset Management Co., Ltd.">
+      <data key="weight">1.05</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Nikko Asset Management Asia Limited">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Nichicon Corp">
+      <data key="weight">0.06</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Neuflize OBC Investissements">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Zeon" target="Driehaus Capital Management, LLC">
+    <edge source="Nippon electric glass" target="Neuberger Berman, LLC">
+      <data key="weight">0.28</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Natixis Asset Management">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Zeon" target="Dimensional Fund Advisors, Ltd.">
+    <edge source="Nippon electric glass" target="Natcan Investment Management Inc.">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Zeon" target="Dimensional Fund Advisors, LP">
+    <edge source="Nippon electric glass" target="NORD/LB Capital Management GmbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="NEC Capital Solutions Ltd">
       <data key="weight">0.15</data>
     </edge>
-    <edge source="Zeon" target="Deutsche Asset Management Investmentgesellschaft mbH">
+    <edge source="Nippon electric glass" target="Mutuelle des Architectes Français Assurances">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Munder Capital Management">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Zeon" target="Daiwa Asset Management Co., Ltd.">
+    <edge source="Nippon electric glass" target="Morgan Stanley Investment Management Ltd. (UK)">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Morgan Stanley Investment Management Inc. (US)">
       <data key="weight">0.09</data>
     </edge>
-    <edge source="Zeon" target="DIAM Co., Ltd.">
-      <data key="weight">0.08</data>
+    <edge source="Nippon electric glass" target="Mizuho Asset Management Co., Ltd.">
+      <data key="weight">0.24</data>
     </edge>
-    <edge source="Zeon" target="Credit Suisse Private Banking (Switzerland)">
+    <edge source="Nippon electric glass" target="Mitsubishi UFJ Asset Management Co., Ltd.">
+      <data key="weight">0.41</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Mitsubishi UFJ Asset Management (UK) Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Mirae Asset Global Investments Co., Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Metropolitan Life Insurance Co. (US)">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Mellon Capital Management Corporation">
       <data key="weight">0.01</data>
     </edge>
-    <edge source="Zeon" target="Credit Suisse Asset Management, LLC (US)">
+    <edge source="Nippon electric glass" target="Meiji Yasuda Asset Management Company Ltd.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Matthews International Capital Management LLC">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Martin Currie Investment Management Ltd.">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Zeon" target="Chuo Mitsui Asset Management Co., Ltd.">
-      <data key="weight">0.08</data>
+    <edge source="Nippon electric glass" target="Manulife Asset Management Limited">
+      <data key="weight">0.01</data>
     </edge>
-    <edge source="Zeon" target="Charles Schwab Investment Management, Inc.">
+    <edge source="Nippon electric glass" target="Manulife Asset Management (Japan) Limited">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Zeon" target="Campbell &amp; Company, Inc.">
+    <edge source="Nippon electric glass" target="Madison Square Investors LLC">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Lyxor Asset Management">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Lupus alpha Asset Management AG">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Lord, Abbett &amp; Co. LLC">
+      <data key="weight">0.2</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Loomis, Sayles &amp; Company, L.P.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Lombard Odier Darier Hentsch &amp; Cie">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Lion Global Investors Limited">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Lazard Frères Gestion S.A.S.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Lazard Asset Management, L.L.C.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="LSV Asset Management">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Nippon electric glass" target="LLB Asset Management AG">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="LGT Capital Management Ltd.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Nippon electric glass" target="L'Auxiliaire">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Kyobo AXA Investment Managers Co., Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Kornitzer Capital Management Inc.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Korea Investment Management Co., Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Kokusai Asset Management Co., Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Kleinwort Benson Investors Dublin Ltd">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Kajima Corp">
+      <data key="weight">0.18</data>
+    </edge>
+    <edge source="Nippon electric glass" target="KLP Forsikring">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Nippon electric glass" target="KEPLER-FONDS Kapitalanlagegesellschaft m.b.H.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Nippon electric glass" target="KCM Corp">
+      <data key="weight">0.05</data>
+    </edge>
+    <edge source="Nippon electric glass" target="KBC Fund Management Limited">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="KBC Asset Management N.V.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Jyske Invest Fund Management A/S">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Julius Meinl Investment Gesellschaft mbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Jabre Capital Partners S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="JPMorgan Asset Management U.K. Limited">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Nippon electric glass" target="JPMorgan Asset Management (Taiwan) Limited">
       <data key="weight">0.03</data>
     </edge>
-    <edge source="Zeon" target="Brother Industries Ltd">
-      <data key="weight">0.98</data>
+    <edge source="Nippon electric glass" target="JPMorgan Asset Management (Japan) Limited">
+      <data key="weight">0.1</data>
     </edge>
-    <edge source="Zeon" target="BlackRock Japan Co., Ltd.">
+    <edge source="Nippon electric glass" target="JP Morgan Asset Management">
       <data key="weight">0.01</data>
     </edge>
-    <edge source="Zeon" target="BlackRock Institutional Trust Company, N.A.">
-      <data key="weight">0.14</data>
+    <edge source="Nippon electric glass" target="J.P. Morgan Asset Management (Hong Kong) Ltd.">
+      <data key="weight">0.09</data>
     </edge>
-    <edge source="Zeon" target="BlackRock Financial Management, Inc.">
-      <data key="weight">1.14</data>
+    <edge source="Nippon electric glass" target="Investec Asset Management Ltd.">
+      <data key="weight">0.02</data>
     </edge>
-    <edge source="Zeon" target="BlackRock Advisors (UK) Limited">
-      <data key="weight">0.05</data>
+    <edge source="Nippon electric glass" target="Invesco PowerShares Capital Management LLC">
+      <data key="weight">0.0</data>
     </edge>
-    <edge source="Zeon" target="Belgrave Capital Management Ltd.">
+    <edge source="Nippon electric glass" target="Invesco Management Group, Inc.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Invesco Advisers, Inc.">
+      <data key="weight">0.15</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Inverseguros Gestión S.A. SGIIC">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Insight Investment Management (Global) Limited">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Inaba Denki Sangyo Co Ltd">
+      <data key="weight">0.03</data>
+    </edge>
+    <edge source="Nippon electric glass" target="INVESCO Asset Management Deutschland GmbH">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Nippon electric glass" target="INVESCO Asset Management (Japan) Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="INTECH Investment Management LLC">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="ING Mutual Funds Management Company (Japan), Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="ING Investment Management Co. LLC">
+      <data key="weight">0.03</data>
+    </edge>
+    <edge source="Nippon electric glass" target="IKANO Fund Management S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="IFDC Ltd.">
       <data key="weight">0.08</data>
     </edge>
-    <edge source="Zeon" target="Batterymarch Financial Management, Inc.">
-      <data key="weight">0.11</data>
+    <edge source="Nippon electric glass" target="ICON Advisers, Inc.">
+      <data key="weight">0.0</data>
     </edge>
-    <edge source="Zeon" target="Bank of Tokyo-Mitsubishi UFJ, Ltd.">
+    <edge source="Nippon electric glass" target="ICBC Credit Suisse Asset Management Co. Ltd.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Nippon electric glass" target="I.G. Investment Management (Hong Kong) Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Hermes Fund Managers Limited">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Henderson Global Investors Ltd.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Henderson Global Investors (Japan) Limited">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Havenport Asset Management Pte. Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Hatteras Alternative Mutual Funds, LLC">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Handelsbanken Asset Management">
+      <data key="weight">0.1</data>
+    </edge>
+    <edge source="Nippon electric glass" target="HSBC Global Asset Management (Hong Kong) Limited">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="HSBC Global Asset Management (France)">
+      <data key="weight">0.04</data>
+    </edge>
+    <edge source="Nippon electric glass" target="HSBC Global Asset Management (Canada) Limited">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Nippon electric glass" target="HANSAINVEST Hanseatische Investment GmbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Groupama Asset Management">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Goldman Sachs Asset Management Co., Ltd.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Goldman Sachs Asset Management (US)">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Global Index Advisors, Inc.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Geode Capital Management, L.L.C.">
+      <data key="weight">0.07</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Gartmore Investment Management Limited">
+      <data key="weight">0.03</data>
+    </edge>
+    <edge source="Nippon electric glass" target="GMO LLC">
+      <data key="weight">0.1</data>
+    </edge>
+    <edge source="Nippon electric glass" target="GLG Partners LP">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Första AP-Fonden">
+      <data key="weight">0.03</data>
+    </edge>
+    <edge source="Nippon electric glass" target="FundQuest France">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="FuNNex Asset Management Inc.">
+      <data key="weight">0.03</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Franklin Templeton Investments Japan Ltd.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Frankfurt-Trust Investment-Gesellschaft mbH">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Fjärde AP-Fonden">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Fideuram Investimenti SGR S.p.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Fideuram Asset Management (Ireland) Limited">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Fidelity Worldwide Investment (UK) Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Fidelity Management &amp; Research Company">
+      <data key="weight">0.9</data>
+    </edge>
+    <edge source="Nippon electric glass" target="FIL Investments (Japan) Limited">
       <data key="weight">0.21</data>
     </edge>
-    <edge source="Zeon" target="BNP Paribas Investment Partners Netherlands N.V.">
-      <data key="weight">0.08</data>
-    </edge>
-    <edge source="Zeon" target="Aviva Investors Global Services Limited">
+    <edge source="Nippon electric glass" target="FIL Investment Management (Singapore) Limited">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Zeon" target="Asahi Mutual Life Insurance Co.">
-      <data key="weight">4.41</data>
+    <edge source="Nippon electric glass" target="FIL Investment Management (Hong Kong) Limited">
+      <data key="weight">0.0</data>
     </edge>
-    <edge source="Zeon" target="Asahi Kasei Chemicals Corporation">
-      <data key="weight">2.66</data>
+    <edge source="Nippon electric glass" target="Eurizon Capital S.A.">
+      <data key="weight">0.02</data>
     </edge>
-    <edge source="Zeon" target="Amundi Japan Ltd.">
+    <edge source="Nippon electric glass" target="Echo Point Investment Management, LLC">
+      <data key="weight">0.13</data>
+    </edge>
+    <edge source="Nippon electric glass" target="ETFlab Investment GmbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="ERSTE-SPARINVEST Kapitalanlagegesellschaft mbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="E.Öhman J:or Fonder AB">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Driehaus Capital Management, LLC">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Dimensional Fund Advisors, Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Dimensional Fund Advisors, LP">
       <data key="weight">0.05</data>
     </edge>
-    <edge source="Zeon" target="Amundi Hong Kong Limited">
+    <edge source="Nippon electric glass" target="Dexia Asset Management Belgium S.A.">
       <data key="weight">0.01</data>
     </edge>
-    <edge source="Zeon" target="Amundi Asset Management">
+    <edge source="Nippon electric glass" target="Deutsche Investment Management Americas, Inc.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Deutsche Asset Management Investmentgesellschaft mbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Deutsche Asset Management Americas">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Deutsche Asset Management (Japan) Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Deka Investment GmbH">
       <data key="weight">0.01</data>
     </edge>
-    <edge source="Zeon" target="American Independence Financial Services, LLC">
+    <edge source="Nippon electric glass" target="Degroof Fund Management Company">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Danske Capital (Sweden)">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Zeon" target="American Century Global Investment Management, Inc.">
+    <edge source="Nippon electric glass" target="Danske Capital">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Zeon" target="Allianz Global Investors Capital LLC">
+    <edge source="Nippon electric glass" target="Daiwa Securities Capital Markets Co. Ltd.">
+      <data key="weight">1.75</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Daiwa SB Investments Ltd.">
+      <data key="weight">0.21</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Daiwa Asset Management Co., Ltd.">
+      <data key="weight">0.66</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Daikin Industries Ltd">
+      <data key="weight">0.17</data>
+    </edge>
+    <edge source="Nippon electric glass" target="DWS Investment GmbH">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Zeon" target="AllianceBernstein L.P.">
-      <data key="weight">0.22</data>
+    <edge source="Nippon electric glass" target="DNB Asset Management AS">
+      <data key="weight">0.0</data>
     </edge>
-    <edge source="Zeon" target="AllianceBernstein Japan Ltd.">
-      <data key="weight">0.36</data>
+    <edge source="Nippon electric glass" target="DNB Asset Management AB">
+      <data key="weight">0.01</data>
     </edge>
-    <edge source="Zeon" target="Adeka Corp">
-      <data key="weight">0.48</data>
+    <edge source="Nippon electric glass" target="DIC Corp">
+      <data key="weight">0.07</data>
     </edge>
-    <edge source="Zeon" target="Acadian Asset Management LLC">
+    <edge source="Nippon electric glass" target="DIAM International Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="DIAM Co., Ltd.">
+      <data key="weight">0.18</data>
+    </edge>
+    <edge source="Nippon electric glass" target="DB Platinum Advisors">
+      <data key="weight">0.03</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Credit Suisse Private Banking (Switzerland)">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Credit Suisse Asset Management, LLC (US)">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Credit Suisse Asset Management">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Covéa Finance S.A.S.">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Comgest S.A.">
+      <data key="weight">0.04</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Comgest Far East Limited">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Columbia Management Investment Advisers, LLC">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="ClearBridge Advisors, LLC">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Chuo Mitsui Asset Management Co., Ltd.">
+      <data key="weight">0.08</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Charles Schwab Investment Management, Inc.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Certium Asset Management LLC">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Capital Research Global Investors">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Caixagest - Técnicas de Gestão de Fundos, S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Caisse de Depot et Placement du Quebec">
+      <data key="weight">0.08</data>
+    </edge>
+    <edge source="Nippon electric glass" target="CPP Investment Board">
+      <data key="weight">0.08</data>
+    </edge>
+    <edge source="Nippon electric glass" target="COMMERZBANK AG">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="CIBC Global Asset Management Inc.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="CATAM Asset Management AG">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Bâloise Asset Management">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="British Columbia Investment Management Corp.">
+      <data key="weight">0.09</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Boston Common Asset Management, LLC">
+      <data key="weight">0.04</data>
+    </edge>
+    <edge source="Nippon electric glass" target="BlackRock Japan Co., Ltd.">
+      <data key="weight">1.19</data>
+    </edge>
+    <edge source="Nippon electric glass" target="BlackRock Investments Canada Inc.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="BlackRock Investment Management, LLC">
+      <data key="weight">0.28</data>
+    </edge>
+    <edge source="Nippon electric glass" target="BlackRock Institutional Trust Company, N.A.">
+      <data key="weight">2.7</data>
+    </edge>
+    <edge source="Nippon electric glass" target="BlackRock Fund Advisors">
+      <data key="weight">0.4</data>
+    </edge>
+    <edge source="Nippon electric glass" target="BlackRock Asset Management Ireland Limited">
+      <data key="weight">0.12</data>
+    </edge>
+    <edge source="Nippon electric glass" target="BlackRock Asset Management Deutschland AG">
+      <data key="weight">0.06</data>
+    </edge>
+    <edge source="Nippon electric glass" target="BlackRock Asset Management Australia Limited">
+      <data key="weight">0.29</data>
+    </edge>
+    <edge source="Nippon electric glass" target="BlackRock Advisors, LLC">
+      <data key="weight">0.21</data>
+    </edge>
+    <edge source="Nippon electric glass" target="BlackRock Advisors (UK) Limited">
+      <data key="weight">0.53</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Belgrave Capital Management Ltd.">
+      <data key="weight">0.04</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Baring Asset Management Ltd.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Banque Morval S.A.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Bancaja Fondos S.G.I.I.C., S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="BanSabadell Inversión, S.A., S.G.I.I.C., Sociedad Uniperson">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Bailard, Inc.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Nippon electric glass" target="BSI S.A.">
+      <data key="weight">0.04</data>
+    </edge>
+    <edge source="Nippon electric glass" target="BNP Paribas Investment Partners Netherlands N.V.">
+      <data key="weight">0.05</data>
+    </edge>
+    <edge source="Nippon electric glass" target="BNP Paribas Investment Partners Japan Ltd.">
+      <data key="weight">0.12</data>
+    </edge>
+    <edge source="Nippon electric glass" target="BNP Paribas Investment Partners Belgium S.A.">
+      <data key="weight">0.03</data>
+    </edge>
+    <edge source="Nippon electric glass" target="BNP Paribas Investment Partners Asia Ltd.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Nippon electric glass" target="BNP Paribas Investment Partners (France)">
+      <data key="weight">0.18</data>
+    </edge>
+    <edge source="Nippon electric glass" target="BDT Invest LLP">
+      <data key="weight">0.03</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Aviva Investors Global Services Limited">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Atlantis Investment Research Corporation">
+      <data key="weight">0.11</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Ashburton (Jersey) Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Asahi Life Asset Management Co., Ltd.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Artemis Investment Management LLP">
+      <data key="weight">0.04</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Aquila &amp; Co. AG">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Amundi Japan Ltd.">
+      <data key="weight">0.03</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Amundi Hong Kong Limited">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Amundi Asset Management Singapore Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Amundi Asset Management">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Amundi (UK)">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Nippon electric glass" target="American Independence Financial Services, LLC">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="American Century Investment Management, Inc.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Allianz Global Investors Kapitalanlagegesellschaft mbH">
+      <data key="weight">0.19</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Allianz Global Investors France">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="AllianceBernstein L.P.">
+      <data key="weight">0.05</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Aletti Gestielle SGR S.p.A.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Nippon electric glass" target="Air Water Inc">
+      <data key="weight">0.2</data>
+    </edge>
+    <edge source="Nippon electric glass" target="AZ FUND Management SA">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="AXA Rosenberg Investment Management (Australia)">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="AXA Investment Managers UK Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="AXA Investment Managers Paris">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="AXA Investment Managers Japan Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="AXA Investment Managers Deutschland GmbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nippon electric glass" target="AQR Capital Management, LLC">
       <data key="weight">0.02</data>
     </edge>
   </graph>

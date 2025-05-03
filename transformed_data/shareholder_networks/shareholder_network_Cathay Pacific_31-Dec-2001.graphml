@@ -3,58 +3,175 @@
   <key id="weight" for="edge" attr.name="weight" attr.type="double" />
   <key id="type" for="node" attr.name="type" attr.type="string" />
   <graph edgedefault="undirected">
-    <node id="Zeon">
+    <node id="Cathay Pacific">
       <data key="type">Company</data>
     </node>
-    <node id="Yokohama Rubber Co Ltd">
+    <node id="Value Partners Limited">
       <data key="type">Investor</data>
     </node>
-    <node id="Yasuda PaineWebber Mutual Fund Company Ltd.">
+    <node id="Universal-Investment-Gesellschaft mbH">
       <data key="type">Investor</data>
     </node>
-    <node id="Yasuda Asset Management Co., Ltd.">
+    <node id="Union Investment Group">
       <data key="type">Investor</data>
     </node>
-    <node id="UFJ Trust Bank Ltd.">
+    <node id="Union Bancaire Privée">
+      <data key="type">Investor</data>
+    </node>
+    <node id="UOB Asset Management Ltd.">
       <data key="type">Investor</data>
     </node>
     <node id="UFJ Partners Asset Management Co., Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Tokio Marine Asset Management Co., Ltd.">
+    <node id="UBS Global Asset Management (Switzerland)">
       <data key="type">Investor</data>
     </node>
-    <node id="Templeton Asset Management Ltd. (Emerging Markets)">
+    <node id="UBS Global Asset Management (Singapore) Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Templeton Asset Management (Singapore) Ltd.">
+    <node id="UBS Deutschland AG">
       <data key="type">Investor</data>
     </node>
-    <node id="Sumitomo Mitsui Asset Management Company, Limited">
+    <node id="Tupelo Capital Management, L.L.C.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Threadneedle Asset Management Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="The Scottish Investment Trust PLC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Teacher Retirement System of Texas">
+      <data key="type">Investor</data>
+    </node>
+    <node id="T. Rowe Price International (UK) Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Sydinvest">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Sydbank">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Swisscanto Asset Management AG">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Swire Pacific Ltd">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Swedbank Robur AB">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Storebrand Kapitalforvaltning AS">
+      <data key="type">Investor</data>
+    </node>
+    <node id="State Street Global Advisors Ltd. (Canada)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="State Street Global Advisors Asia Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="State Street Global Advisors (UK) Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="State Street Global Advisors (Japan) Co., Ltd.">
       <data key="type">Investor</data>
     </node>
     <node id="State Street Global Advisors (France) S.A.">
       <data key="type">Investor</data>
     </node>
+    <node id="Sparinvest Fondsmæglerselskab A/S">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Société Générale Asset Management (France)">
+      <data key="type">Investor</data>
+    </node>
     <node id="Shinko Asset Management Co., Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Prigest S.A.">
+    <node id="Sella Gestioni SGR SpA">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Scottish Widows Investment Partnership Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Schoellerbank Invest AG">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Sanderson Asset Management, Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="SG Asset Management (Singapore) Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="SEI Investments Canada">
+      <data key="type">Investor</data>
+    </node>
+    <node id="SEB Asset Management (Stockholm)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="SAI Investimenti SGR S.p.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Royal London Asset Management Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Rothschild et Cie Gestion">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Robeco Institutional Asset Management B.V.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="RCM Asia Pacific Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="RBC Investment Management (Asia) Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="RBC Global Asset Management Inc.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="RBC Asset Management UK Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Professionals Financial Inc.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Prima sgr S.p.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Pioneer Investments Kapitalanlagegesellschaft mbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Pioneer Investments Austria GmbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Pioneer Investment Management Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="PineBridge Investments Asia Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Pictet &amp; Cie">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Petercam S.A.">
       <data key="type">Investor</data>
     </node>
     <node id="Perpetual Investments Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Okasan Asset Management Co., Ltd.">
+    <node id="Oppenheimer Investment Advisers">
       <data key="type">Investor</data>
     </node>
-    <node id="Norinchukin Zenkyoren Asset Management Co., Ltd.">
+    <node id="Northern Trust Global Investments Limited">
       <data key="type">Investor</data>
     </node>
     <node id="Norges Bank Investment Management (NBIM)">
       <data key="type">Investor</data>
     </node>
-    <node id="Nomura Trust &amp; Banking (Trust)">
+    <node id="Nordea Investment Management AB (Sweden)">
       <data key="type">Investor</data>
     </node>
     <node id="Nomura Asset Management Deutschland KAG mbH">
@@ -63,43 +180,193 @@
     <node id="Nikko Asset Management Co., Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Morgan Stanley Investment Management Ltd. (UK)">
+    <node id="Nikko Asset Management Asia Limited">
       <data key="type">Investor</data>
     </node>
-    <node id="Mizuho Corporate Bank, Ltd.">
+    <node id="New Star Institutional Managers Limited">
       <data key="type">Investor</data>
     </node>
-    <node id="Mizuho Bank, Ltd.">
+    <node id="National City Investment Management Co.">
       <data key="type">Investor</data>
     </node>
-    <node id="Mizuho Asset Management Co., Ltd.">
+    <node id="Natexis Asset Management">
       <data key="type">Investor</data>
     </node>
-    <node id="Mitsubishi UFJ Trust and Banking Corporation">
+    <node id="NWQ Investment Management Company, LLC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="NTUC Income Insurance Cooperative Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Münchner Kapitalanlage AG">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Morley Fund Management (Singapore) Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Morgan Stanley Investment Management (Singapore)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Morgan Stanley Investment Management (Japan) Co., Ltd.">
       <data key="type">Investor</data>
     </node>
     <node id="Mitsubishi UFJ Asset Management Co., Ltd.">
       <data key="type">Investor</data>
     </node>
+    <node id="Mitsubishi Trust Asset Management Co., Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Metzler Asset Management GmbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Mediolanum Gestione Fondi SGR p.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Manulife Asset Management (Europe) Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="MFI Asset Management GmbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Lombard Odier Darier Hentsch Asia Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Lombard Odier Darier Hentsch &amp; Cie">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Lloyds TSB International Private Banking">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Lloyd George Investment Management (Hong Kong) Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Lion Global Investors Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Legg Mason Wood Walker, Inc.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Legg Mason International Equities (Hong Kong) Ltd">
+      <data key="type">Investor</data>
+    </node>
+    <node id="LBB-Invest">
+      <data key="type">Investor</data>
+    </node>
     <node id="Kokusai Asset Management Co., Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="JADIF">
+    <node id="Kleinwort Benson Investors Dublin Ltd">
       <data key="type">Investor</data>
     </node>
-    <node id="HANSAINVEST Hanseatische Investment GmbH">
+    <node id="Kames Capital">
       <data key="type">Investor</data>
     </node>
-    <node id="Furukawa Electric Co Ltd">
+    <node id="KBL France Gestion">
       <data key="type">Investor</data>
     </node>
-    <node id="Fuji Investment Management Co., Ltd.">
+    <node id="KBC Asset Management N.V.">
       <data key="type">Investor</data>
     </node>
-    <node id="Fortis Asset Management Japan Co., Ltd.">
+    <node id="Jyske Invest Fund Management A/S">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Jupiter Asset Management Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="JPMorgan Asset Management U.K. Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="JPMorgan Asset Management (Japan) Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="J.P. Morgan Asset Management (Hong Kong) Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Investec Asset Management Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Invesco Hong Kong Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Insight Investment Management (Global) Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="ISIS Asset Management plc (Scotland)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="ISIS Asset Management p.l.c.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="INVESCO Asset Management Deutschland GmbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="INVESCO Asset Management (Japan) Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="ING Investment Management (Belgium) (Inactive)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="ICBC (Asia) Investment Management Company Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Henderson Global Investors (Japan) Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Hang Seng Investment Management Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Handelsbanken Asset Management">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Hamon Investment Group Pte. Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="HSBC Global Asset Management Deutschland GmbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="HSBC Global Asset Management (Japan) K.K.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="HSBC Global Asset Management (Hong Kong) Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Gérifonds S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Goldman Sachs Asset Management Co., Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Generali Investments Italy SGR S.p.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="GCIC Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="GAM London Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="GAM (Hong Kong) Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Fortis Investments (Hong Kong)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Folksam Asset Management">
+      <data key="type">Investor</data>
+    </node>
+    <node id="First State Investments (Singapore)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="First State Investments (HK) Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Fideuram Investimenti SGR S.p.A.">
       <data key="type">Investor</data>
     </node>
     <node id="Fidelity Worldwide Investment (UK) Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Ferrier Lullin &amp; Cie S.A.">
       <data key="type">Investor</data>
     </node>
     <node id="FIL Investments (Japan) Limited">
@@ -108,215 +375,878 @@
     <node id="FIL Investment Management (Hong Kong) Limited">
       <data key="type">Investor</data>
     </node>
-    <node id="Deutsche Trust Bank Ltd.">
+    <node id="F&amp;C Portugal, Gestão de Patrimónios, S.A.">
       <data key="type">Investor</data>
     </node>
-    <node id="Deutsche Bank Private Wealth Management Limited (Inactive)">
+    <node id="F&amp;C Asset Management plc">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Exchange Fund Investment Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Eurizon Capital SGR S.p.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Eurizon Capital S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Esemplia Emerging Markets">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Employees Retirement System of Texas">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Edmond de Rothschild Asset Management">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Eastspring Investments (Hong Kong) Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="EFG Bank AS">
+      <data key="type">Investor</data>
+    </node>
+    <node id="E.Öhman J:or Fonder AB">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Dexia Asset Management Luxembourg S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Dexia Asset Management Belgium S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Dexia Asset Management Asia Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Deutsche Postbank International S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Deutsche Asset Management Investmentgesellschaft mbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Deutsche Asset Management (Asia) Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Delta Lloyd Investment Managers GmbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Deka Investment GmbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Dao Heng Fund Management Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Danske Capital">
       <data key="type">Investor</data>
     </node>
     <node id="Daiwa Asset Management Co., Ltd.">
       <data key="type">Investor</data>
     </node>
+    <node id="DWS Polska TFI S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="DWS Investments Italy SGR S.p.A.">
+      <data key="type">Investor</data>
+    </node>
     <node id="DWS Investment GmbH">
       <data key="type">Investor</data>
     </node>
-    <node id="Credit Suisse Asset Management Limited">
+    <node id="DNB Asset Management (Asia) Limited">
       <data key="type">Investor</data>
     </node>
-    <node id="Chuo Mitsui Asset Management Co., Ltd.">
+    <node id="DIAM Co., Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Chase Manhattan Ahorro S.G.I.I.C., S.A.">
+    <node id="DB Trust AG">
       <data key="type">Investor</data>
     </node>
-    <node id="CatalunyaCaixa Inversio S.G.I.I.C. S.A.">
+    <node id="Crédit Lyonnais Asset Management S.A.">
       <data key="type">Investor</data>
     </node>
-    <node id="Bee &amp; Associates">
+    <node id="Crédit Agricole Luxembourg Private Bank">
       <data key="type">Investor</data>
     </node>
-    <node id="BNP Paribas Investment Partners Japan Ltd.">
+    <node id="Crédit Agricole Indosuez Cheuvreux Gestions S.A.">
       <data key="type">Investor</data>
     </node>
-    <node id="Ashburton (Jersey) Ltd.">
+    <node id="Credit Suisse Asset Management (France) S.A.">
       <data key="type">Investor</data>
     </node>
-    <node id="Asahi Mutual Life Insurance Co.">
+    <node id="Credit Agricole Asset Management Japan Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Asahi Life Asset Management Co., Ltd.">
+    <node id="Coutts &amp; Co.">
       <data key="type">Investor</data>
     </node>
-    <node id="Asahi Chemical">
+    <node id="Commerzbank Asset Management Asia Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Arcus Investment Ltd.">
+    <node id="Cominvest Asset Management GmbH">
       <data key="type">Investor</data>
     </node>
-    <node id="Anima SGR S.p.A.">
+    <node id="Columbia Management Investment Advisers, LLC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Clariden Leu Ltd. (Singapore)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Cititrust and Banking Corporation">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Citigroup Asset Management (Singapore)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Cavendish Asset Management Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Caixagest - Técnicas de Gestão de Fundos, S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Caisse de Depot et Placement du Quebec">
+      <data key="type">Investor</data>
+    </node>
+    <node id="CITIC Pacific Ltd">
+      <data key="type">Investor</data>
+    </node>
+    <node id="CIBC Global Asset Management Asia Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="CAAM SGR S.p.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="C.I.M. Banque">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Bowen Asia Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="BlackRock Institutional Trust Company, N.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="BayernLB">
+      <data key="type">Investor</data>
+    </node>
+    <node id="BayernInvest Kapitalanlagegesellschaft mbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Baring Asset Management (Asia) Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Barclays Wealth Managers">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Banque de Luxembourg S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Banque Degroof S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Bank Austria Private Banking">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Banco di Napoli Asset Management SGR.p.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Banca del Gottardo">
+      <data key="type">Investor</data>
+    </node>
+    <node id="BT Investment Management Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="BSI S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="BNP Paribas Investment Partners Singapore Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="BNP Paribas Investment Partners Belgium S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="BNP Paribas Investment Partners Asia Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="BNP Paribas Investment Partners (France)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Aviva Investors Global Services Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Aviva Investors France S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Amundi Hong Kong Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Amundi Asset Management Singapore Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Amundi Asset Management">
       <data key="type">Investor</data>
     </node>
     <node id="American Express Asset Management Ltd.">
       <data key="type">Investor</data>
     </node>
+    <node id="Alte Leipziger Trust Investment-Gesellschaft mbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Allianz Nederland Asset Management B.V.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Allianz Global Investors Singapore Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Allianz Dresdner Asset Management (ex Pimco)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="AllianceBernstein Ltd. (Growth)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="AllianceBernstein Japan Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="AllianceBernstein Hong Kong Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="AllianceBernstein (Singapore) Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Absolute Asia Asset Management Ltd.">
+      <data key="type">Investor</data>
+    </node>
     <node id="Aberdeen Investment Management K. K.">
       <data key="type">Investor</data>
     </node>
-    <edge source="Zeon" target="Yokohama Rubber Co Ltd">
-      <data key="weight">4.8</data>
-    </edge>
-    <edge source="Zeon" target="Yasuda PaineWebber Mutual Fund Company Ltd.">
+    <node id="Aberdeen Asset Management (Asia) Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="AXA Rosenberg Investment Management Asia Pacific Ltd. (Hong">
+      <data key="type">Investor</data>
+    </node>
+    <node id="AXA Investment Managers UK Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="AXA Investment Managers Deutschland GmbH">
+      <data key="type">Investor</data>
+    </node>
+    <edge source="Cathay Pacific" target="Value Partners Limited">
       <data key="weight">0.01</data>
     </edge>
-    <edge source="Zeon" target="Yasuda Asset Management Co., Ltd.">
-      <data key="weight">0.07</data>
-    </edge>
-    <edge source="Zeon" target="UFJ Trust Bank Ltd.">
-      <data key="weight">4.43</data>
-    </edge>
-    <edge source="Zeon" target="UFJ Partners Asset Management Co., Ltd.">
-      <data key="weight">0.14</data>
-    </edge>
-    <edge source="Zeon" target="Tokio Marine Asset Management Co., Ltd.">
+    <edge source="Cathay Pacific" target="Universal-Investment-Gesellschaft mbH">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Zeon" target="Templeton Asset Management Ltd. (Emerging Markets)">
+    <edge source="Cathay Pacific" target="Union Investment Group">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Zeon" target="Templeton Asset Management (Singapore) Ltd.">
+    <edge source="Cathay Pacific" target="Union Bancaire Privée">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Zeon" target="Sumitomo Mitsui Asset Management Company, Limited">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Zeon" target="State Street Global Advisors (France) S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Shinko Asset Management Co., Ltd.">
-      <data key="weight">0.06</data>
-    </edge>
-    <edge source="Zeon" target="Prigest S.A.">
+    <edge source="Cathay Pacific" target="UOB Asset Management Ltd.">
       <data key="weight">0.01</data>
     </edge>
-    <edge source="Zeon" target="Perpetual Investments Ltd.">
+    <edge source="Cathay Pacific" target="UFJ Partners Asset Management Co., Ltd.">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Zeon" target="Okasan Asset Management Co., Ltd.">
+    <edge source="Cathay Pacific" target="UBS Global Asset Management (Switzerland)">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Zeon" target="Norinchukin Zenkyoren Asset Management Co., Ltd.">
-      <data key="weight">0.1</data>
+    <edge source="Cathay Pacific" target="UBS Global Asset Management (Singapore) Ltd.">
+      <data key="weight">0.01</data>
     </edge>
-    <edge source="Zeon" target="Norges Bank Investment Management (NBIM)">
-      <data key="weight">0.1</data>
+    <edge source="Cathay Pacific" target="UBS Deutschland AG">
+      <data key="weight">0.01</data>
     </edge>
-    <edge source="Zeon" target="Nomura Trust &amp; Banking (Trust)">
-      <data key="weight">2.69</data>
+    <edge source="Cathay Pacific" target="Tupelo Capital Management, L.L.C.">
+      <data key="weight">0.05</data>
     </edge>
-    <edge source="Zeon" target="Nomura Asset Management Deutschland KAG mbH">
-      <data key="weight">0.12</data>
-    </edge>
-    <edge source="Zeon" target="Nikko Asset Management Co., Ltd.">
+    <edge source="Cathay Pacific" target="Threadneedle Asset Management Ltd.">
       <data key="weight">0.03</data>
     </edge>
-    <edge source="Zeon" target="Morgan Stanley Investment Management Ltd. (UK)">
-      <data key="weight">0.51</data>
-    </edge>
-    <edge source="Zeon" target="Mizuho Corporate Bank, Ltd.">
-      <data key="weight">4.19</data>
-    </edge>
-    <edge source="Zeon" target="Mizuho Bank, Ltd.">
-      <data key="weight">4.3</data>
-    </edge>
-    <edge source="Zeon" target="Mizuho Asset Management Co., Ltd.">
-      <data key="weight">0.19</data>
-    </edge>
-    <edge source="Zeon" target="Mitsubishi UFJ Trust and Banking Corporation">
+    <edge source="Cathay Pacific" target="The Scottish Investment Trust PLC">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Zeon" target="Mitsubishi UFJ Asset Management Co., Ltd.">
-      <data key="weight">0.0</data>
+    <edge source="Cathay Pacific" target="Teacher Retirement System of Texas">
+      <data key="weight">0.1</data>
     </edge>
-    <edge source="Zeon" target="Kokusai Asset Management Co., Ltd.">
-      <data key="weight">0.06</data>
-    </edge>
-    <edge source="Zeon" target="JADIF">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="HANSAINVEST Hanseatische Investment GmbH">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Furukawa Electric Co Ltd">
-      <data key="weight">6.2</data>
-    </edge>
-    <edge source="Zeon" target="Fuji Investment Management Co., Ltd.">
+    <edge source="Cathay Pacific" target="T. Rowe Price International (UK) Ltd.">
       <data key="weight">0.01</data>
     </edge>
-    <edge source="Zeon" target="Fortis Asset Management Japan Co., Ltd.">
+    <edge source="Cathay Pacific" target="Sydinvest">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Zeon" target="Fidelity Worldwide Investment (UK) Ltd.">
-      <data key="weight">0.12</data>
-    </edge>
-    <edge source="Zeon" target="FIL Investments (Japan) Limited">
-      <data key="weight">0.65</data>
-    </edge>
-    <edge source="Zeon" target="FIL Investment Management (Hong Kong) Limited">
+    <edge source="Cathay Pacific" target="Sydbank">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Zeon" target="Deutsche Trust Bank Ltd.">
-      <data key="weight">2.3</data>
+    <edge source="Cathay Pacific" target="Swisscanto Asset Management AG">
+      <data key="weight">0.02</data>
     </edge>
-    <edge source="Zeon" target="Deutsche Bank Private Wealth Management Limited (Inactive)">
-      <data key="weight">0.0</data>
+    <edge source="Cathay Pacific" target="Swire Pacific Ltd">
+      <data key="weight">45.85</data>
     </edge>
-    <edge source="Zeon" target="Daiwa Asset Management Co., Ltd.">
-      <data key="weight">0.29</data>
-    </edge>
-    <edge source="Zeon" target="DWS Investment GmbH">
-      <data key="weight">0.17</data>
-    </edge>
-    <edge source="Zeon" target="Credit Suisse Asset Management Limited">
-      <data key="weight">0.11</data>
-    </edge>
-    <edge source="Zeon" target="Chuo Mitsui Asset Management Co., Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Zeon" target="Chase Manhattan Ahorro S.G.I.I.C., S.A.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Zeon" target="CatalunyaCaixa Inversio S.G.I.I.C. S.A.">
+    <edge source="Cathay Pacific" target="Swedbank Robur AB">
       <data key="weight">0.04</data>
     </edge>
-    <edge source="Zeon" target="Bee &amp; Associates">
-      <data key="weight">0.15</data>
+    <edge source="Cathay Pacific" target="Storebrand Kapitalforvaltning AS">
+      <data key="weight">0.0</data>
     </edge>
-    <edge source="Zeon" target="BNP Paribas Investment Partners Japan Ltd.">
+    <edge source="Cathay Pacific" target="State Street Global Advisors Ltd. (Canada)">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="State Street Global Advisors Asia Ltd.">
+      <data key="weight">1.67</data>
+    </edge>
+    <edge source="Cathay Pacific" target="State Street Global Advisors (UK) Ltd.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Cathay Pacific" target="State Street Global Advisors (Japan) Co., Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="State Street Global Advisors (France) S.A.">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Sparinvest Fondsmæglerselskab A/S">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Société Générale Asset Management (France)">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Shinko Asset Management Co., Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Sella Gestioni SGR SpA">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Scottish Widows Investment Partnership Ltd.">
+      <data key="weight">0.04</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Schoellerbank Invest AG">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Sanderson Asset Management, Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="SG Asset Management (Singapore) Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="SEI Investments Canada">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="SEB Asset Management (Stockholm)">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="SAI Investimenti SGR S.p.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Royal London Asset Management Ltd.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Rothschild et Cie Gestion">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Robeco Institutional Asset Management B.V.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="RCM Asia Pacific Limited">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="RBC Investment Management (Asia) Ltd.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Cathay Pacific" target="RBC Global Asset Management Inc.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Cathay Pacific" target="RBC Asset Management UK Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Professionals Financial Inc.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Prima sgr S.p.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Pioneer Investments Kapitalanlagegesellschaft mbH">
+      <data key="weight">0.09</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Pioneer Investments Austria GmbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Pioneer Investment Management Ltd.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Cathay Pacific" target="PineBridge Investments Asia Limited">
+      <data key="weight">0.06</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Pictet &amp; Cie">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Petercam S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Perpetual Investments Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Oppenheimer Investment Advisers">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Northern Trust Global Investments Limited">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Norges Bank Investment Management (NBIM)">
+      <data key="weight">0.06</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Nordea Investment Management AB (Sweden)">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Nomura Asset Management Deutschland KAG mbH">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Nikko Asset Management Co., Ltd.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Nikko Asset Management Asia Limited">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="New Star Institutional Managers Limited">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="National City Investment Management Co.">
+      <data key="weight">0.06</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Natexis Asset Management">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Cathay Pacific" target="NWQ Investment Management Company, LLC">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="NTUC Income Insurance Cooperative Ltd.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Münchner Kapitalanlage AG">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Morley Fund Management (Singapore) Ltd.">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Morgan Stanley Investment Management (Singapore)">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Morgan Stanley Investment Management (Japan) Co., Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Mitsubishi UFJ Asset Management Co., Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Mitsubishi Trust Asset Management Co., Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Metzler Asset Management GmbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Mediolanum Gestione Fondi SGR p.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Manulife Asset Management (Europe) Limited">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="MFI Asset Management GmbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Lombard Odier Darier Hentsch Asia Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Lombard Odier Darier Hentsch &amp; Cie">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Lloyds TSB International Private Banking">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Lloyd George Investment Management (Hong Kong) Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Lion Global Investors Limited">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Legg Mason Wood Walker, Inc.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Legg Mason International Equities (Hong Kong) Ltd">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Cathay Pacific" target="LBB-Invest">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Kokusai Asset Management Co., Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Kleinwort Benson Investors Dublin Ltd">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Kames Capital">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Cathay Pacific" target="KBL France Gestion">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="KBC Asset Management N.V.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Jyske Invest Fund Management A/S">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Jupiter Asset Management Ltd.">
+      <data key="weight">0.05</data>
+    </edge>
+    <edge source="Cathay Pacific" target="JPMorgan Asset Management U.K. Limited">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Cathay Pacific" target="JPMorgan Asset Management (Japan) Limited">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="J.P. Morgan Asset Management (Hong Kong) Ltd.">
       <data key="weight">0.07</data>
     </edge>
-    <edge source="Zeon" target="Ashburton (Jersey) Ltd.">
+    <edge source="Cathay Pacific" target="Investec Asset Management Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Invesco Hong Kong Limited">
+      <data key="weight">0.09</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Insight Investment Management (Global) Limited">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="ISIS Asset Management plc (Scotland)">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="ISIS Asset Management p.l.c.">
+      <data key="weight">0.03</data>
+    </edge>
+    <edge source="Cathay Pacific" target="INVESCO Asset Management Deutschland GmbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="INVESCO Asset Management (Japan) Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="ING Investment Management (Belgium) (Inactive)">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="ICBC (Asia) Investment Management Company Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Henderson Global Investors (Japan) Limited">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Hang Seng Investment Management Ltd.">
+      <data key="weight">0.04</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Handelsbanken Asset Management">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Hamon Investment Group Pte. Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="HSBC Global Asset Management Deutschland GmbH">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Cathay Pacific" target="HSBC Global Asset Management (Japan) K.K.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Cathay Pacific" target="HSBC Global Asset Management (Hong Kong) Limited">
+      <data key="weight">0.15</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Gérifonds S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Goldman Sachs Asset Management Co., Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Generali Investments Italy SGR S.p.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="GCIC Ltd.">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Cathay Pacific" target="GAM London Limited">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="GAM (Hong Kong) Ltd.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Fortis Investments (Hong Kong)">
       <data key="weight">0.08</data>
     </edge>
-    <edge source="Zeon" target="Asahi Mutual Life Insurance Co.">
-      <data key="weight">6.34</data>
+    <edge source="Cathay Pacific" target="Folksam Asset Management">
+      <data key="weight">0.01</data>
     </edge>
-    <edge source="Zeon" target="Asahi Life Asset Management Co., Ltd.">
+    <edge source="Cathay Pacific" target="First State Investments (Singapore)">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Cathay Pacific" target="First State Investments (HK) Ltd.">
+      <data key="weight">0.05</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Fideuram Investimenti SGR S.p.A.">
+      <data key="weight">0.04</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Fidelity Worldwide Investment (UK) Ltd.">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Ferrier Lullin &amp; Cie S.A.">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Zeon" target="Asahi Chemical">
-      <data key="weight">2.65</data>
-    </edge>
-    <edge source="Zeon" target="Arcus Investment Ltd.">
-      <data key="weight">0.16</data>
-    </edge>
-    <edge source="Zeon" target="Anima SGR S.p.A.">
-      <data key="weight">0.14</data>
-    </edge>
-    <edge source="Zeon" target="American Express Asset Management Ltd.">
+    <edge source="Cathay Pacific" target="FIL Investments (Japan) Limited">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Zeon" target="Aberdeen Investment Management K. K.">
+    <edge source="Cathay Pacific" target="FIL Investment Management (Hong Kong) Limited">
+      <data key="weight">0.03</data>
+    </edge>
+    <edge source="Cathay Pacific" target="F&amp;C Portugal, Gestão de Patrimónios, S.A.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Cathay Pacific" target="F&amp;C Asset Management plc">
+      <data key="weight">0.07</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Exchange Fund Investment Ltd.">
       <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Eurizon Capital SGR S.p.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Eurizon Capital S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Esemplia Emerging Markets">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Employees Retirement System of Texas">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Edmond de Rothschild Asset Management">
+      <data key="weight">0.04</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Eastspring Investments (Hong Kong) Limited">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Cathay Pacific" target="EFG Bank AS">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="E.Öhman J:or Fonder AB">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Dexia Asset Management Luxembourg S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Dexia Asset Management Belgium S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Dexia Asset Management Asia Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Deutsche Postbank International S.A.">
+      <data key="weight">0.06</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Deutsche Asset Management Investmentgesellschaft mbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Deutsche Asset Management (Asia) Ltd.">
+      <data key="weight">0.09</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Delta Lloyd Investment Managers GmbH">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Deka Investment GmbH">
+      <data key="weight">0.04</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Dao Heng Fund Management Ltd.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Danske Capital">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Daiwa Asset Management Co., Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="DWS Polska TFI S.A.">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Cathay Pacific" target="DWS Investments Italy SGR S.p.A.">
+      <data key="weight">0.03</data>
+    </edge>
+    <edge source="Cathay Pacific" target="DWS Investment GmbH">
+      <data key="weight">0.32</data>
+    </edge>
+    <edge source="Cathay Pacific" target="DNB Asset Management (Asia) Limited">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Cathay Pacific" target="DIAM Co., Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="DB Trust AG">
+      <data key="weight">0.05</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Crédit Lyonnais Asset Management S.A.">
+      <data key="weight">0.05</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Crédit Agricole Luxembourg Private Bank">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Crédit Agricole Indosuez Cheuvreux Gestions S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Credit Suisse Asset Management (France) S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Credit Agricole Asset Management Japan Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Coutts &amp; Co.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Commerzbank Asset Management Asia Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Cominvest Asset Management GmbH">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Columbia Management Investment Advisers, LLC">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Clariden Leu Ltd. (Singapore)">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Cititrust and Banking Corporation">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Citigroup Asset Management (Singapore)">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Cavendish Asset Management Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Caixagest - Técnicas de Gestão de Fundos, S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Caisse de Depot et Placement du Quebec">
+      <data key="weight">0.07</data>
+    </edge>
+    <edge source="Cathay Pacific" target="CITIC Pacific Ltd">
+      <data key="weight">25.81</data>
+    </edge>
+    <edge source="Cathay Pacific" target="CIBC Global Asset Management Asia Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="CAAM SGR S.p.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="C.I.M. Banque">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Bowen Asia Limited">
+      <data key="weight">0.08</data>
+    </edge>
+    <edge source="Cathay Pacific" target="BlackRock Institutional Trust Company, N.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="BayernLB">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="BayernInvest Kapitalanlagegesellschaft mbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Baring Asset Management (Asia) Limited">
+      <data key="weight">0.08</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Barclays Wealth Managers">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Banque de Luxembourg S.A.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Banque Degroof S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Bank Austria Private Banking">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Banco di Napoli Asset Management SGR.p.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Banca del Gottardo">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="BT Investment Management Limited">
+      <data key="weight">0.04</data>
+    </edge>
+    <edge source="Cathay Pacific" target="BSI S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="BNP Paribas Investment Partners Singapore Limited">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="BNP Paribas Investment Partners Belgium S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="BNP Paribas Investment Partners Asia Ltd.">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Cathay Pacific" target="BNP Paribas Investment Partners (France)">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Aviva Investors Global Services Limited">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Aviva Investors France S.A.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Amundi Hong Kong Limited">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Amundi Asset Management Singapore Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Amundi Asset Management">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="American Express Asset Management Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Alte Leipziger Trust Investment-Gesellschaft mbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Allianz Nederland Asset Management B.V.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Allianz Global Investors Singapore Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Allianz Dresdner Asset Management (ex Pimco)">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Cathay Pacific" target="AllianceBernstein Ltd. (Growth)">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="AllianceBernstein Japan Ltd.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Cathay Pacific" target="AllianceBernstein Hong Kong Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="AllianceBernstein (Singapore) Ltd.">
+      <data key="weight">0.08</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Absolute Asia Asset Management Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Aberdeen Investment Management K. K.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="Aberdeen Asset Management (Asia) Ltd.">
+      <data key="weight">0.18</data>
+    </edge>
+    <edge source="Cathay Pacific" target="AXA Rosenberg Investment Management Asia Pacific Ltd. (Hong">
+      <data key="weight">0.07</data>
+    </edge>
+    <edge source="Cathay Pacific" target="AXA Investment Managers UK Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Cathay Pacific" target="AXA Investment Managers Deutschland GmbH">
+      <data key="weight">0.02</data>
     </edge>
   </graph>
 </graphml>
