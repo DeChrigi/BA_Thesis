@@ -3,115 +3,37 @@
   <key id="weight" for="edge" attr.name="weight" attr.type="double" />
   <key id="type" for="node" attr.name="type" attr.type="string" />
   <graph edgedefault="undirected">
-    <node id="Infineon">
+    <node id="Zeon">
       <data key="type">Company</data>
     </node>
-    <node id="Étoile Gestion">
+    <node id="Yokohama Rubber Co Ltd">
       <data key="type">Investor</data>
     </node>
-    <node id="Zenit SGR S.p.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="WestLB Mellon Asset Management Kapitalanlagegesellschaft mbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Weisenhorn &amp; Partner Financial Services GmbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Warburg Invest Kapitalanlagegesellschaft mbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Walser Privatbank AG">
-      <data key="type">Investor</data>
-    </node>
-    <node id="VidaCaixa, S.A. de Seguros y Reaseguros">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Veritas Investment Trust GmbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Vegagest SGR SpA">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Value Management &amp; Research AG (VMR)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Urquijo Gestión, S.A., S.G.I.I.C., Sociedad Unipersonal">
+    <node id="Yasuda Asset Management Co., Ltd.">
       <data key="type">Investor</data>
     </node>
     <node id="Universal-Investment-Gesellschaft mbH">
       <data key="type">Investor</data>
     </node>
-    <node id="Union Investment Group">
+    <node id="UOB Asset Management Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="UOB Asset Management Ltd.">
+    <node id="UFJ Trust Bank (Trust A)">
       <data key="type">Investor</data>
     </node>
     <node id="UFJ Partners Asset Management Co., Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="UEB (Switzerland)">
+    <node id="Toyota Asset Management Co., Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="UBS Global Asset Management (Switzerland)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="UBS Global Asset Management (Deutschland) GmbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="UBS Gestión, S.G.I.I.C., S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="UBS Deutschland AG">
-      <data key="type">Investor</data>
-    </node>
-    <node id="UBI Pramerica SGR S.p.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Tudor Capital Europe LLP">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Tressis, S.V.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Tredje AP Fonden">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Transatlantique Gestion">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Tirolinvest Kapitalanlagegesellschaft mbH">
+    <node id="Tokio Marine Asset Management Co., Ltd.">
       <data key="type">Investor</data>
     </node>
     <node id="Threadneedle Asset Management Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Teacher Retirement System of Texas">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Systema Asset Management SGR S.p.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Symphonia SGR Spa">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Sydinvest">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Sydbank">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Swisscanto Asset Management AG">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Swiss Life France">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Swiss &amp; Global Asset Management Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Swedbank Robur AB">
+    <node id="T&amp;D Asset Management Co., Ltd.">
       <data key="type">Investor</data>
     </node>
     <node id="Sumitomo Mitsui Trust Asset Management Co., Ltd.">
@@ -120,55 +42,25 @@
     <node id="Sumitomo Mitsui Asset Management Company, Limited">
       <data key="type">Investor</data>
     </node>
-    <node id="Storebrand Kapitalforvaltning AS">
-      <data key="type">Investor</data>
-    </node>
-    <node id="State Street Global Advisors AG">
-      <data key="type">Investor</data>
-    </node>
     <node id="State Street Global Advisors (UK) Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="State Street Global Advisors (Japan) Co., Ltd.">
       <data key="type">Investor</data>
     </node>
     <node id="State Street Global Advisors (France) S.A.">
       <data key="type">Investor</data>
     </node>
-    <node id="Standard Life Investments Inc.(Canada)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Sparkasse Oberösterreich Kapitalanlagegesellschaft mbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Société Monégasque de Banque Privée">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Société Générale Bank &amp; Trust (Luxembourg)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Société Générale Asset Management (France)">
+    <node id="Sompo Japan Insurance Inc">
       <data key="type">Investor</data>
     </node>
     <node id="Sjunde AP-fonden">
       <data key="type">Investor</data>
     </node>
-    <node id="Siemens Kapitalanlagegesellschaft mbH">
+    <node id="Shinko Asset Management Co., Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Siemens AG">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Seligson &amp; Co Rahastoyhtiö Oyj">
+    <node id="Shinkin Asset Management Co., Ltd.">
       <data key="type">Investor</data>
     </node>
     <node id="Scottish Widows Investment Partnership Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Sceptre Investment Counsel Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Santander Asset Management - S.G.F.I.M., S.A">
       <data key="type">Investor</data>
     </node>
     <node id="Santander Asset Management">
@@ -177,73 +69,19 @@
     <node id="STANLIB Asset Management Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="SINOPIA Asset Management">
+    <node id="Robeco Institutional Asset Management B.V.">
       <data key="type">Investor</data>
     </node>
-    <node id="SGF - Sociedade Gestora de Fundos de Pensões S.A.">
+    <node id="RBC Investment Management (Asia) Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="SEB Investment GmbH">
+    <node id="RBC Asset Management UK Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Russell Investments Limited">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Royal London Asset Management Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Rothschild et Cie Gestion">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Reichmuth &amp; Co.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Raiffeisen Kapitalanlage-Gesellschaft mbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Raiffeisen Befektetési Alpakezelö Rt.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="RCM (UK) Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Quoniam Asset Management GmbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Quilter">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Prudential Fixed Income">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Popular Gestión, S.A., S.G.I.I.C.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Popular Gestión Privada S.G.I.I.C., S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Pohjola Rahastoyhtiö Oy">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Pohjola Asset Management Limited">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Platinum Investment Management Ltd.">
+    <node id="Polar Capital LLP">
       <data key="type">Investor</data>
     </node>
     <node id="Pioneer Investments Kapitalanlagegesellschaft mbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Pioneer Investments Austria GmbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Pioneer Investment Management Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="PineBridge Investments Europe Limited">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Pictet Asset Management Ltd.">
       <data key="type">Investor</data>
     </node>
     <node id="Pictet &amp; Cie">
@@ -252,238 +90,82 @@
     <node id="Phillip Capital Management (S) Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Philippe Investment Management, Inc.">
+    <node id="Palatine Asset Management">
       <data key="type">Investor</data>
     </node>
-    <node id="Petercam S.A.">
+    <node id="Okasan Asset Management Co., Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Petercam (Luxembourg) S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Pan Holding S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="PROTON Asset Management S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="PKB Privat Bank AG">
-      <data key="type">Investor</data>
-    </node>
-    <node id="P. &amp; K. Portfolio Investment Co. S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Oppenheim Kapitalanlagegesellschaft mbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Oppenheim Investment Managers">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Old Mutual Investment Group (South Africa) (Pty) Limited">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Oddo Asset Management">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Oberbank AG">
+    <node id="Norinchukin Zenkyoren Asset Management Co., Ltd.">
       <data key="type">Investor</data>
     </node>
     <node id="Norges Bank Investment Management (NBIM)">
       <data key="type">Investor</data>
     </node>
-    <node id="Nordinvest Norddeutsche Investment-Gesellschaft mbH">
+    <node id="Nomura Asset Management Deutschland KAG mbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Nomura Asset Management (UK) Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Nissay Asset Management Corp.">
       <data key="type">Investor</data>
     </node>
     <node id="Nikko Asset Management Co., Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Nikko Asset Management Asia Limited">
-      <data key="type">Investor</data>
-    </node>
     <node id="New Star Institutional Managers Limited">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Neuflize OBC Investissements">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Natixis Private Banking International">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Natixis Asset Management">
-      <data key="type">Investor</data>
-    </node>
-    <node id="National Bank of Greece (Capital Markets)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Natexis Asset Management">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Natcan Investment Management Inc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="NORD/LB Capital Management GmbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="NBG Asset Management Mutual Funds Management Company S.A.">
       <data key="type">Investor</data>
     </node>
     <node id="Münchner Kapitalanlage AG">
       <data key="type">Investor</data>
     </node>
+    <node id="Morgan Stanley Investment Management Ltd. (UK)">
+      <data key="type">Investor</data>
+    </node>
     <node id="Morgan Stanley Investment Management (Japan) Co., Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Monte Paschi Invest (France) S.A.S.">
+    <node id="Mizuho Corporate Bank, Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Monega Kapitalanlagegesellschaft mbH">
+    <node id="Mizuho Bank, Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Mondrian Investment Partners Limited">
+    <node id="Mizuho Asset Management Co., Ltd.">
       <data key="type">Investor</data>
     </node>
     <node id="Mitsubishi UFJ Asset Management Co., Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Mitsubishi Trust Asset Management Co., Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Metzler Equity Research">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Metzler Asset Management GmbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Merrion Investment Managers">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Meridio Vermögensverwaltung AG">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Mediolanum Gestione Fondi SGR p.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Mapfre Inversión Dos, S.G.I.I.C., S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Manticore Capital AB">
-      <data key="type">Investor</data>
-    </node>
-    <node id="MainFirst Asset Management">
-      <data key="type">Investor</data>
-    </node>
-    <node id="MIRABAUD Gestión, S.G.I.I.C., S.A.">
+    <node id="Meiji Yasuda Asset Management Company Ltd.">
       <data key="type">Investor</data>
     </node>
     <node id="MEAG Munich ERGO Kapitalanlagegesellschaft mbH">
       <data key="type">Investor</data>
     </node>
-    <node id="MAAF Gestion S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="M &amp; G Investment Management Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Lupus alpha Asset Management AG">
-      <data key="type">Investor</data>
-    </node>
     <node id="Lombard Odier Darier Hentsch &amp; Cie">
       <data key="type">Investor</data>
     </node>
-    <node id="Lloyds TSB International Private Banking">
+    <node id="Lion Global Investors Limited">
       <data key="type">Investor</data>
     </node>
     <node id="Liechtensteinische Landesbank AG">
       <data key="type">Investor</data>
     </node>
-    <node id="Leumi Private Bank Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Lemanik S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Lazard Asset Management (Deutschland) GmbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="La Caixa Gestión de Activos S.G.I.I.C., S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="La Banque Postale Asset Management">
-      <data key="type">Investor</data>
-    </node>
-    <node id="LRI Invest S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="LGT Capital Management Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="LBBW Asset Management Investmentgesellschaft mbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="LBB-Invest">
-      <data key="type">Investor</data>
-    </node>
-    <node id="KutxaGest S.G.I.I.C., S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Kutxa Gestión Privada S.G.I.I.C., S.A.">
-      <data key="type">Investor</data>
-    </node>
     <node id="Kredietrust Luxembourg S.A.">
       <data key="type">Investor</data>
     </node>
-    <node id="Kleinwort Benson Investors Dublin Ltd">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Kaupthing Forvaltning AS">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Kames Capital">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Kaiser Partner Privatbank AG">
-      <data key="type">Investor</data>
-    </node>
-    <node id="KEPLER-FONDS Kapitalanlagegesellschaft m.b.H.">
+    <node id="Kokusai Asset Management Co., Ltd.">
       <data key="type">Investor</data>
     </node>
     <node id="KBC Asset Management N.V.">
       <data key="type">Investor</data>
     </node>
-    <node id="Jyske Invest Fund Management A/S">
+    <node id="JPMorgan Asset Management (Japan) Limited">
       <data key="type">Investor</data>
     </node>
-    <node id="Julius Meinl Investment Gesellschaft mbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Investeringsforeningen Handelsinvest">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Investec Asset Management Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Invest Gestão de Activos, S.G.F.I.M., S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Inversis Gestión, S.A., SGIIC">
-      <data key="type">Investor</data>
-    </node>
-    <node id="International Mutual Fund Management S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="International Capital Gestion">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Insight Investment Management (Global) Limited">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Ibercaja Gestión S.G.I.I.C., S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="INVESCO Asset Management (Japan) Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="ING Mutual Funds Management Company (Japan), Ltd.">
+    <node id="J.P. Morgan Asset Management (Hong Kong) Ltd.">
       <data key="type">Investor</data>
     </node>
     <node id="ING Investment Management (Netherlands)">
@@ -492,298 +174,67 @@
     <node id="ING Investment Management (Belgium) (Inactive)">
       <data key="type">Investor</data>
     </node>
-    <node id="ING Bank N.V.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="IBRC Wealth Management">
-      <data key="type">Investor</data>
-    </node>
-    <node id="IAM Independent Asset Management S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Hornblower Fischer AG">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Henderson Global Investors Ltd.">
-      <data key="type">Investor</data>
-    </node>
     <node id="Helaba Invest Kapitalanlagegesellschaft mbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Hauck &amp; Aufhäuser Investment Gesellschaft S.A.">
       <data key="type">Investor</data>
     </node>
     <node id="Hang Seng Investment Management Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Handelsbanken Asset Management">
+    <node id="HSBC Bank Bermuda Limited">
       <data key="type">Investor</data>
     </node>
-    <node id="Halbis Capital Management (France)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="HWB Capital Management S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="HSBC Trinkaus &amp; Burkhardt (International) S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="HSBC Private Wealth Managers">
-      <data key="type">Investor</data>
-    </node>
-    <node id="HSBC Global Asset Management Deutschland GmbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="HSBC Global Asset Management (France)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="HDF Finance S.A. (U.S.A.)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="HANSAINVEST Hanseatische Investment GmbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Gutmann Kapitalanlage Aktiengesellschaft">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Guipuzcoano S.G.I.I.C., S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Grossbötzl, Schmitz, Lomparski &amp; Partner International S.à">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Grifogest SGR S.p.A.">
+    <node id="Gérifonds S.A.">
       <data key="type">Investor</data>
     </node>
     <node id="Goldman Sachs Asset Management Co., Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Gestion Financière Privée S.A. (GEFIP)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Gestifondo S.G.I.I.C. S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Gespastor S.A.,S.G.I.I.C.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Gesnorte, S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Gesinter S.G.I.I.C., S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Gesfibanc S.G.I.I.C., S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Gesduero S.G.I.I.C., S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Gescooperativo, S.A., S.G.I.I.C.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Gerling-Konzern Gesellschaft für Vermögensmanagement mbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Geode Capital Management, L.L.C.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Generali Personenversicherungen AG">
-      <data key="type">Investor</data>
-    </node>
     <node id="Generali Investments Italy SGR S.p.A.">
       <data key="type">Investor</data>
     </node>
-    <node id="Generali Investments France S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Generali Investments Deutschland Kapitalanlagegesellschaft m">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Gebser &amp; Partner AG">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Gaesco Gestión S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="GLG Partners UK Limited">
-      <data key="type">Investor</data>
-    </node>
-    <node id="GAM London Limited">
-      <data key="type">Investor</data>
-    </node>
-    <node id="G.I.I.C. FINECO S.G.I.I.C., S.A.">
+    <node id="GMO UK Limited">
       <data key="type">Investor</data>
     </node>
     <node id="Första AP-Fonden">
       <data key="type">Investor</data>
     </node>
-    <node id="Futuris Asset Management AB">
+    <node id="Furukawa Electric Co Ltd">
       <data key="type">Investor</data>
     </node>
-    <node id="Frankfurt-Trust Investment-Gesellschaft mbH">
+    <node id="Fuji Investment Management Co., Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Fortis Investments France">
+    <node id="Fortis Investments (Hong Kong)">
       <data key="type">Investor</data>
     </node>
-    <node id="Fortis Gesbeta S.G.I.I.C., S.A.">
+    <node id="First State Investments (Singapore)">
       <data key="type">Investor</data>
     </node>
-    <node id="Fondsfinans Kapitalforvaltning ASA">
+    <node id="First State Investments (HK) Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Folksam Asset Management">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Fisch Asset Management AG">
-      <data key="type">Investor</data>
-    </node>
-    <node id="First Private Investment Management KAG mbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Finter Bank Zürich Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Finivalor - S.G.F.M., S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Fifth Third Asset Management (Michigan)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Fideuram Investimenti SGR S.p.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Fidelity Worldwide Investment (UK) Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Fidelity Management &amp; Research Company">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Falcon Private Bank Ltd">
-      <data key="type">Investor</data>
-    </node>
-    <node id="FIM Asset Management Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="FIL Investments (Japan) Limited">
-      <data key="type">Investor</data>
-    </node>
-    <node id="F. van Lanschot Bankiers N.V.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="F&amp;C Asset Management plc">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Evli Fund Management Company Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Euromobiliare Asset Management SGR S.p.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Eurobank EFG Mutual Funds Management Company S.A.">
+    <node id="FIL Investment Management (Hong Kong) Limited">
       <data key="type">Investor</data>
     </node>
     <node id="Eurizon Capital S.A.">
       <data key="type">Investor</data>
     </node>
-    <node id="Espírito Santo Gestión, S.G.I.I.C., S.A.">
-      <data key="type">Investor</data>
-    </node>
     <node id="Esemplia Emerging Markets">
       <data key="type">Investor</data>
     </node>
-    <node id="Egeria Activos SGIIC S.A.U">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Edmond de Rothschild Asset Management">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Edinburgh Partners Limited">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Ecureuil Gestion FCP">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Ecofi Investissements S.A">
-      <data key="type">Investor</data>
-    </node>
-    <node id="ERSTE-SPARINVEST Kapitalanlagegesellschaft mbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="E.Öhman J:or Fonder AB">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Dr. Kohlhase Vermögensverwaltungsgesellschaft mbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Dexia Banque Internationale à Luxembourg S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Dexia Asset Management S.A. (France)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Dexia Asset Management Luxembourg S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Dexia Asset Management Belgium S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Deutsche Postbank Financial Services GmbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Deutsche Bank (Suisse) SA">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Deutsche Asset Management (Asia) Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Delta Lloyd Investment Managers GmbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Delta Lloyd Bank">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Deka Investment GmbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Degroof Fund Management Company">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Degroof Banque Privée S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Dearborn Partners L.L.C.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Danske Capital">
+    <node id="Ersel Asset Management SGR S.p.A.">
       <data key="type">Investor</data>
     </node>
     <node id="Daiwa Asset Management Co., Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="DZ PRIVATBANK S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="DWS Investments Italy SGR S.p.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="DWS Investments (Spain), S.G.I.I.C., S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="DWS Investments (France) S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="DNB Asset Management AS">
-      <data key="type">Investor</data>
-    </node>
     <node id="DNB Asset Management AB">
       <data key="type">Investor</data>
     </node>
-    <node id="Crédito Agrícola Gest-Sociedade Gest de Fundos de Invest. ">
+    <node id="Crédit Agricole Luxembourg Private Bank">
       <data key="type">Investor</data>
     </node>
-    <node id="Crédit Mutuel Finance">
+    <node id="Credit Suisse Trust &amp; Banking Co., Ltd.">
       <data key="type">Investor</data>
     </node>
     <node id="Credit Suisse Asset Management KAG mbH">
@@ -792,1547 +243,362 @@
     <node id="Credit Suisse Asset Management">
       <data key="type">Investor</data>
     </node>
-    <node id="Credit Suisse (Deutschland) AG">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Credit Agricole Mercagestion S.A. S.G.I.I.C.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Crediges S.A.U. S.G.I.I.C.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Confederación Española de Cajas de Ahorros">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Commodities Asset Management">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Commerzbank Asset Management Asia Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Cominvest Asset Management GmbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Co-operative Asset Management">
-      <data key="type">Investor</data>
-    </node>
     <node id="Citibank International Plc. Luxembourg Branch">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Citibank (Switzerland)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Citi Investment Research (US)">
       <data key="type">Investor</data>
     </node>
     <node id="Chuo Mitsui Asset Management Co., Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Challenger Managed Investments Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="CatalunyaCaixa Inversión">
-      <data key="type">Investor</data>
-    </node>
-    <node id="CatalunyaCaixa Inversio S.G.I.I.C. S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Carnegie Rahastoyhtiö Oyj">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Capitalia Asset Management SGR S.p.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Capitalgest SGR S.p.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Capital World Investors">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Capital International K.K.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Capital International Inc. (Singapore)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Cantabria Fondos S.A., S.G.I.I.C.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Caja Ingenieros Gestión, SGIIC, SAU">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Caja España Fondos, S.A., S.G.I.I.C.">
-      <data key="type">Investor</data>
-    </node>
     <node id="Caixagest - Técnicas de Gestão de Fundos, S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Caixa Girona Gestió, S.A.U., SGIIC">
       <data key="type">Investor</data>
     </node>
     <node id="Caisse de Depot et Placement du Quebec">
       <data key="type">Investor</data>
     </node>
-    <node id="CPR Asset Management">
-      <data key="type">Investor</data>
-    </node>
-    <node id="CPP Investment Board">
-      <data key="type">Investor</data>
-    </node>
-    <node id="CP Invest Investicni Spolecnost a.s.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="COVASYS Wyttenbach &amp; Zenger">
-      <data key="type">Investor</data>
-    </node>
-    <node id="CM-CIC Asset Management">
-      <data key="type">Investor</data>
-    </node>
-    <node id="CCR Actions">
-      <data key="type">Investor</data>
-    </node>
-    <node id="CCLA Investment Management Ltd.">
-      <data key="type">Investor</data>
-    </node>
     <node id="CAAM SGR S.p.A.">
       <data key="type">Investor</data>
     </node>
-    <node id="C.I.M. Banque">
+    <node id="Banque Cantonale Vaudoise">
       <data key="type">Investor</data>
     </node>
-    <node id="Butterfield Private Bank">
-      <data key="type">Investor</data>
-    </node>
-    <node id="BlackRock International Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="BlackRock Asset Management Deutschland AG">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Bethmann Bank A.G.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="BayernLB">
-      <data key="type">Investor</data>
-    </node>
-    <node id="BayernInvest Kapitalanlagegesellschaft mbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Baring Asset Management Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Barclays Wealth Managers España, S.A., S.G.I.I.C.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Barclays Wealth Managers">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Barclays Global Investors Japan Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Banque et Caisse d'Epargne de l'Etat Luxembourg">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Banque de Luxembourg S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Banque Safdié S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Banque SYZ &amp; CO SA">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Banque Privée Edmond de Rothschild S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Banque Privée Edmond de Rothschild Europe">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Banque Degroof S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Banque Degroof France SA">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Bankinter Gestión de Activos, SGIIC S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Bankia Banca Privada Gestion SGIIC S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="BankPyme S.G.I.I.C., S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Bank Vontobel Österreich AG">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Bank Vontobel AG (Private Banking)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Bank Sarasin &amp; Cie AG">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Bank Morgan Stanley AG">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Bank Leu AG">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Bank Corluy Effectenbankiers N.V.">
+    <node id="Bankia Fondos, S.G.I.I.C., S.A.">
       <data key="type">Investor</data>
     </node>
     <node id="Banif Gestión S.G.I.I.C., S.A.">
       <data key="type">Investor</data>
     </node>
-    <node id="Banesto Banca Privada Gestión, SGIIC, S.A.">
+    <node id="BMO Asset Management Inc.">
       <data key="type">Investor</data>
     </node>
-    <node id="Banco Fonder AB">
+    <node id="BFT Gestion S.A.">
       <data key="type">Investor</data>
     </node>
-    <node id="Bancaja Fondos S.G.I.I.C., S.A.">
+    <node id="Azimut SGR S.p.A.">
       <data key="type">Investor</data>
     </node>
-    <node id="Banca del Gottardo">
+    <node id="Asahi Mutual Life Insurance Co.">
       <data key="type">Investor</data>
     </node>
-    <node id="Banca Finnat Euramerica S.p.A.">
+    <node id="Asahi Kasei Corp">
       <data key="type">Investor</data>
     </node>
-    <node id="Banca Albertini Syz &amp; C. S.p.A">
-      <data key="type">Investor</data>
-    </node>
-    <node id="BanSabadell Inversión, S.A., S.G.I.I.C., Sociedad Uniperson">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Baden-Württembergische Asset Consult GmbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="BWInvest">
-      <data key="type">Investor</data>
-    </node>
-    <node id="BT Investment Management Limited">
-      <data key="type">Investor</data>
-    </node>
-    <node id="BPI Vida e Pensões - Companhia de Seguros, S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="BNP Paribas Investment Partners Netherlands N.V.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="BNP Paribas Investment Partners Belgium S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="BNP Paribas Fortis Private Banking (Belgium)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="BNP Paribas Asset Management, Inc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="BMN Gestión de Activos S.G.I.I.C., S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="BIG Fundos - S.G.F.I.M., S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="BHW Invest GmbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="BCGE Asset Management">
-      <data key="type">Investor</data>
-    </node>
-    <node id="BBVA Patrimonios Gestora S.G.I.I.C., S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="BBVA Asset Management, S.A., S.G.I.I.C.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="BAWAG P.S.K. Invest GmbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Aviva Gestión S.G.I.I.C. S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Avenir Finance Investment Managers">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Aureo Gestioni S.G.R.p.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Ashcourt Rowan Asset Management Limited">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Asesores y Gestores Financieros Agencia de Valores, S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Artemis Investment Management LLP">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Arion Banki hf">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Argenta Fund">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Arcalia Patrimonios Agencia de Valores, S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Arca SGR S.p.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Arca BIM S.p.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Anima SGR.p.A.">
+    <node id="Asahi Kasei Chemicals Corporation">
       <data key="type">Investor</data>
     </node>
     <node id="Andra AP-Fonden">
       <data key="type">Investor</data>
     </node>
-    <node id="Amundi Asset Management">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Amundi (UK)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="AmpegaGerling Investment GmbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Ampega Investment AG">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Amistra SGIIC S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="American Heritage Management Corp.">
+    <node id="Amundi Japan Ltd.">
       <data key="type">Investor</data>
     </node>
     <node id="American Express Asset Management Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="American Century Global Investment Management, Inc.">
+    <node id="Allianz Nederland Asset Management B.V.">
       <data key="type">Investor</data>
     </node>
-    <node id="American Beacon Advisors, Inc.">
+    <node id="Aberdeen Investment Management K. K.">
       <data key="type">Investor</data>
     </node>
-    <node id="Alte Leipziger Trust Investment-Gesellschaft mbH">
+    <node id="AEGON Investment Management B.V.">
       <data key="type">Investor</data>
     </node>
-    <node id="Alpha Asset Management A.E.D.A.K.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Allianz Invest Kapitalanlagegesellschaft mbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Allianz Global Investors Italia SGR S.p.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Allianz Global Investors France">
-      <data key="type">Investor</data>
-    </node>
-    <node id="AllianceBernstein Ltd. (Value)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="AllianceBernstein Ltd. (Growth)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="AllianceBernstein Australia Ltd. (Growth)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Alfred Berg Kapitalförvaltning AB">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Ahorro Corporación Gestión S.G.I.I.C., S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Advisory Invest GmbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Advantus Capital Management, Inc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="AXA Rosenberg Investment Management Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="AXA Investment Managers UK Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="AXA Investment Managers Deutschland GmbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="AMUNDI IBERIA SGIIC SA">
-      <data key="type">Investor</data>
-    </node>
-    <node id="ABN AMRO Asset Management Ltd. (Fortis)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="ABN AMRO Asset Management (Netherlands) B.V.">
-      <data key="type">Investor</data>
-    </node>
-    <edge source="Infineon" target="Étoile Gestion">
+    <edge source="Zeon" target="Yokohama Rubber Co Ltd">
+      <data key="weight">4.81</data>
+    </edge>
+    <edge source="Zeon" target="Yasuda Asset Management Co., Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Zeon" target="Universal-Investment-Gesellschaft mbH">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Zeon" target="UOB Asset Management Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Zeon" target="UFJ Trust Bank (Trust A)">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Zeon" target="UFJ Partners Asset Management Co., Ltd.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Zeon" target="Toyota Asset Management Co., Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Zeon" target="Tokio Marine Asset Management Co., Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Zeon" target="Threadneedle Asset Management Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Zeon" target="T&amp;D Asset Management Co., Ltd.">
       <data key="weight">0.02</data>
     </edge>
-    <edge source="Infineon" target="Zenit SGR S.p.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="WestLB Mellon Asset Management Kapitalanlagegesellschaft mbH">
-      <data key="weight">0.08</data>
-    </edge>
-    <edge source="Infineon" target="Weisenhorn &amp; Partner Financial Services GmbH">
+    <edge source="Zeon" target="Sumitomo Mitsui Trust Asset Management Co., Ltd.">
       <data key="weight">0.01</data>
     </edge>
-    <edge source="Infineon" target="Warburg Invest Kapitalanlagegesellschaft mbH">
+    <edge source="Zeon" target="Sumitomo Mitsui Asset Management Company, Limited">
       <data key="weight">0.02</data>
     </edge>
-    <edge source="Infineon" target="Walser Privatbank AG">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="VidaCaixa, S.A. de Seguros y Reaseguros">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Veritas Investment Trust GmbH">
-      <data key="weight">0.14</data>
-    </edge>
-    <edge source="Infineon" target="Vegagest SGR SpA">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Value Management &amp; Research AG (VMR)">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Urquijo Gestión, S.A., S.G.I.I.C., Sociedad Unipersonal">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Universal-Investment-Gesellschaft mbH">
-      <data key="weight">0.51</data>
-    </edge>
-    <edge source="Infineon" target="Union Investment Group">
-      <data key="weight">1.07</data>
-    </edge>
-    <edge source="Infineon" target="UOB Asset Management Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="UFJ Partners Asset Management Co., Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="UEB (Switzerland)">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="UBS Global Asset Management (Switzerland)">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="UBS Global Asset Management (Deutschland) GmbH">
-      <data key="weight">0.1</data>
-    </edge>
-    <edge source="Infineon" target="UBS Gestión, S.G.I.I.C., S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="UBS Deutschland AG">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="UBI Pramerica SGR S.p.A.">
-      <data key="weight">0.06</data>
-    </edge>
-    <edge source="Infineon" target="Tudor Capital Europe LLP">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Tressis, S.V.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Tredje AP Fonden">
+    <edge source="Zeon" target="State Street Global Advisors (UK) Ltd.">
       <data key="weight">0.02</data>
     </edge>
-    <edge source="Infineon" target="Transatlantique Gestion">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Tirolinvest Kapitalanlagegesellschaft mbH">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Threadneedle Asset Management Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Teacher Retirement System of Texas">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Infineon" target="Systema Asset Management SGR S.p.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Symphonia SGR Spa">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Sydinvest">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Sydbank">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Swisscanto Asset Management AG">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="Infineon" target="Swiss Life France">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Swiss &amp; Global Asset Management Ltd.">
-      <data key="weight">0.06</data>
-    </edge>
-    <edge source="Infineon" target="Swedbank Robur AB">
-      <data key="weight">0.05</data>
-    </edge>
-    <edge source="Infineon" target="Sumitomo Mitsui Trust Asset Management Co., Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Sumitomo Mitsui Asset Management Company, Limited">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Storebrand Kapitalforvaltning AS">
-      <data key="weight">0.04</data>
-    </edge>
-    <edge source="Infineon" target="State Street Global Advisors AG">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="State Street Global Advisors (UK) Ltd.">
-      <data key="weight">0.04</data>
-    </edge>
-    <edge source="Infineon" target="State Street Global Advisors (Japan) Co., Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="State Street Global Advisors (France) S.A.">
-      <data key="weight">0.05</data>
-    </edge>
-    <edge source="Infineon" target="Standard Life Investments Inc.(Canada)">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Sparkasse Oberösterreich Kapitalanlagegesellschaft mbH">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Société Monégasque de Banque Privée">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Société Générale Bank &amp; Trust (Luxembourg)">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Société Générale Asset Management (France)">
-      <data key="weight">0.05</data>
-    </edge>
-    <edge source="Infineon" target="Sjunde AP-fonden">
+    <edge source="Zeon" target="State Street Global Advisors (France) S.A.">
       <data key="weight">0.01</data>
     </edge>
-    <edge source="Infineon" target="Siemens Kapitalanlagegesellschaft mbH">
-      <data key="weight">0.03</data>
+    <edge source="Zeon" target="Sompo Japan Insurance Inc">
+      <data key="weight">1.94</data>
     </edge>
-    <edge source="Infineon" target="Siemens AG">
-      <data key="weight">18.23</data>
+    <edge source="Zeon" target="Sjunde AP-fonden">
+      <data key="weight">0.11</data>
     </edge>
-    <edge source="Infineon" target="Seligson &amp; Co Rahastoyhtiö Oyj">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Scottish Widows Investment Partnership Ltd.">
-      <data key="weight">0.4</data>
-    </edge>
-    <edge source="Infineon" target="Sceptre Investment Counsel Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Santander Asset Management - S.G.F.I.M., S.A">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Santander Asset Management">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="Infineon" target="STANLIB Asset Management Ltd.">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Infineon" target="SINOPIA Asset Management">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Infineon" target="SGF - Sociedade Gestora de Fundos de Pensões S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="SEB Investment GmbH">
-      <data key="weight">0.13</data>
-    </edge>
-    <edge source="Infineon" target="Russell Investments Limited">
-      <data key="weight">0.07</data>
-    </edge>
-    <edge source="Infineon" target="Royal London Asset Management Ltd.">
-      <data key="weight">0.07</data>
-    </edge>
-    <edge source="Infineon" target="Rothschild et Cie Gestion">
-      <data key="weight">0.04</data>
-    </edge>
-    <edge source="Infineon" target="Reichmuth &amp; Co.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Raiffeisen Kapitalanlage-Gesellschaft mbH">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Infineon" target="Raiffeisen Befektetési Alpakezelö Rt.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="RCM (UK) Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Quoniam Asset Management GmbH">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Infineon" target="Quilter">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Prudential Fixed Income">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Popular Gestión, S.A., S.G.I.I.C.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Infineon" target="Popular Gestión Privada S.G.I.I.C., S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Pohjola Rahastoyhtiö Oy">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Infineon" target="Pohjola Asset Management Limited">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Infineon" target="Platinum Investment Management Ltd.">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Infineon" target="Pioneer Investments Kapitalanlagegesellschaft mbH">
-      <data key="weight">0.41</data>
-    </edge>
-    <edge source="Infineon" target="Pioneer Investments Austria GmbH">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Infineon" target="Pioneer Investment Management Ltd.">
-      <data key="weight">0.05</data>
-    </edge>
-    <edge source="Infineon" target="PineBridge Investments Europe Limited">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Pictet Asset Management Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Pictet &amp; Cie">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Infineon" target="Phillip Capital Management (S) Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Philippe Investment Management, Inc.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Petercam S.A.">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="Infineon" target="Petercam (Luxembourg) S.A.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Infineon" target="Pan Holding S.A.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Infineon" target="PROTON Asset Management S.A.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Infineon" target="PKB Privat Bank AG">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Infineon" target="P. &amp; K. Portfolio Investment Co. S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Oppenheim Kapitalanlagegesellschaft mbH">
-      <data key="weight">0.04</data>
-    </edge>
-    <edge source="Infineon" target="Oppenheim Investment Managers">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Old Mutual Investment Group (South Africa) (Pty) Limited">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Oddo Asset Management">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Oberbank AG">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Norges Bank Investment Management (NBIM)">
-      <data key="weight">0.84</data>
-    </edge>
-    <edge source="Infineon" target="Nordinvest Norddeutsche Investment-Gesellschaft mbH">
-      <data key="weight">0.04</data>
-    </edge>
-    <edge source="Infineon" target="Nikko Asset Management Co., Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Nikko Asset Management Asia Limited">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="New Star Institutional Managers Limited">
-      <data key="weight">0.04</data>
-    </edge>
-    <edge source="Infineon" target="Neuflize OBC Investissements">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Natixis Private Banking International">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Natixis Asset Management">
-      <data key="weight">0.18</data>
-    </edge>
-    <edge source="Infineon" target="National Bank of Greece (Capital Markets)">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Natexis Asset Management">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Natcan Investment Management Inc.">
-      <data key="weight">0.09</data>
-    </edge>
-    <edge source="Infineon" target="NORD/LB Capital Management GmbH">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Infineon" target="NBG Asset Management Mutual Funds Management Company S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Münchner Kapitalanlage AG">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Morgan Stanley Investment Management (Japan) Co., Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Monte Paschi Invest (France) S.A.S.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Monega Kapitalanlagegesellschaft mbH">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Infineon" target="Mondrian Investment Partners Limited">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Infineon" target="Mitsubishi UFJ Asset Management Co., Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Mitsubishi Trust Asset Management Co., Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Metzler Equity Research">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Metzler Asset Management GmbH">
-      <data key="weight">0.1</data>
-    </edge>
-    <edge source="Infineon" target="Merrion Investment Managers">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Meridio Vermögensverwaltung AG">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Mediolanum Gestione Fondi SGR p.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Mapfre Inversión Dos, S.G.I.I.C., S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Manticore Capital AB">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="MainFirst Asset Management">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="MIRABAUD Gestión, S.G.I.I.C., S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="MEAG Munich ERGO Kapitalanlagegesellschaft mbH">
-      <data key="weight">0.34</data>
-    </edge>
-    <edge source="Infineon" target="MAAF Gestion S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="M &amp; G Investment Management Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Lupus alpha Asset Management AG">
-      <data key="weight">0.09</data>
-    </edge>
-    <edge source="Infineon" target="Lombard Odier Darier Hentsch &amp; Cie">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Lloyds TSB International Private Banking">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Liechtensteinische Landesbank AG">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Leumi Private Bank Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Lemanik S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Lazard Asset Management (Deutschland) GmbH">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="Infineon" target="La Caixa Gestión de Activos S.G.I.I.C., S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="La Banque Postale Asset Management">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Infineon" target="LRI Invest S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="LGT Capital Management Ltd.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Infineon" target="LBBW Asset Management Investmentgesellschaft mbH">
-      <data key="weight">0.27</data>
-    </edge>
-    <edge source="Infineon" target="LBB-Invest">
-      <data key="weight">0.04</data>
-    </edge>
-    <edge source="Infineon" target="KutxaGest S.G.I.I.C., S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Kutxa Gestión Privada S.G.I.I.C., S.A.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Infineon" target="Kredietrust Luxembourg S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Kleinwort Benson Investors Dublin Ltd">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Infineon" target="Kaupthing Forvaltning AS">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Kames Capital">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Infineon" target="Kaiser Partner Privatbank AG">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="KEPLER-FONDS Kapitalanlagegesellschaft m.b.H.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Infineon" target="KBC Asset Management N.V.">
-      <data key="weight">0.04</data>
-    </edge>
-    <edge source="Infineon" target="Jyske Invest Fund Management A/S">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Infineon" target="Julius Meinl Investment Gesellschaft mbH">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Investeringsforeningen Handelsinvest">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Investec Asset Management Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Invest Gestão de Activos, S.G.F.I.M., S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Inversis Gestión, S.A., SGIIC">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="International Mutual Fund Management S.A.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Infineon" target="International Capital Gestion">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Insight Investment Management (Global) Limited">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Ibercaja Gestión S.G.I.I.C., S.A.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Infineon" target="INVESCO Asset Management (Japan) Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="ING Mutual Funds Management Company (Japan), Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="ING Investment Management (Netherlands)">
+    <edge source="Zeon" target="Shinko Asset Management Co., Ltd.">
       <data key="weight">0.22</data>
     </edge>
-    <edge source="Infineon" target="ING Investment Management (Belgium) (Inactive)">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="Infineon" target="ING Bank N.V.">
+    <edge source="Zeon" target="Shinkin Asset Management Co., Ltd.">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Infineon" target="IBRC Wealth Management">
+    <edge source="Zeon" target="Scottish Widows Investment Partnership Ltd.">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Infineon" target="IAM Independent Asset Management S.A.">
+    <edge source="Zeon" target="Santander Asset Management">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Infineon" target="Hornblower Fischer AG">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Infineon" target="Henderson Global Investors Ltd.">
-      <data key="weight">0.28</data>
-    </edge>
-    <edge source="Infineon" target="Helaba Invest Kapitalanlagegesellschaft mbH">
-      <data key="weight">0.11</data>
-    </edge>
-    <edge source="Infineon" target="Hauck &amp; Aufhäuser Investment Gesellschaft S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Hang Seng Investment Management Ltd.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Infineon" target="Handelsbanken Asset Management">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Infineon" target="Halbis Capital Management (France)">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="HWB Capital Management S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="HSBC Trinkaus &amp; Burkhardt (International) S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="HSBC Private Wealth Managers">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="HSBC Global Asset Management Deutschland GmbH">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="Infineon" target="HSBC Global Asset Management (France)">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="HDF Finance S.A. (U.S.A.)">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="HANSAINVEST Hanseatische Investment GmbH">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Infineon" target="Gutmann Kapitalanlage Aktiengesellschaft">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Guipuzcoano S.G.I.I.C., S.A.">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="Infineon" target="Grossbötzl, Schmitz, Lomparski &amp; Partner International S.à">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Grifogest SGR S.p.A.">
+    <edge source="Zeon" target="STANLIB Asset Management Ltd.">
       <data key="weight">0.04</data>
     </edge>
-    <edge source="Infineon" target="Goldman Sachs Asset Management Co., Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Gestion Financière Privée S.A. (GEFIP)">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Gestifondo S.G.I.I.C. S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Gespastor S.A.,S.G.I.I.C.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Gesnorte, S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Gesinter S.G.I.I.C., S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Gesfibanc S.G.I.I.C., S.A.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Infineon" target="Gesduero S.G.I.I.C., S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Gescooperativo, S.A., S.G.I.I.C.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Gerling-Konzern Gesellschaft für Vermögensmanagement mbH">
-      <data key="weight">0.11</data>
-    </edge>
-    <edge source="Infineon" target="Geode Capital Management, L.L.C.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Generali Personenversicherungen AG">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Generali Investments Italy SGR S.p.A.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Infineon" target="Generali Investments France S.A.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Infineon" target="Generali Investments Deutschland Kapitalanlagegesellschaft m">
-      <data key="weight">0.04</data>
-    </edge>
-    <edge source="Infineon" target="Gebser &amp; Partner AG">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Gaesco Gestión S.A.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Infineon" target="GLG Partners UK Limited">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="GAM London Limited">
-      <data key="weight">0.23</data>
-    </edge>
-    <edge source="Infineon" target="G.I.I.C. FINECO S.G.I.I.C., S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Första AP-Fonden">
+    <edge source="Zeon" target="Robeco Institutional Asset Management B.V.">
       <data key="weight">0.03</data>
     </edge>
-    <edge source="Infineon" target="Futuris Asset Management AB">
+    <edge source="Zeon" target="RBC Investment Management (Asia) Ltd.">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Infineon" target="Frankfurt-Trust Investment-Gesellschaft mbH">
-      <data key="weight">0.63</data>
-    </edge>
-    <edge source="Infineon" target="Fortis Investments France">
-      <data key="weight">0.17</data>
-    </edge>
-    <edge source="Infineon" target="Fortis Gesbeta S.G.I.I.C., S.A.">
+    <edge source="Zeon" target="RBC Asset Management UK Ltd.">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Infineon" target="Fondsfinans Kapitalforvaltning ASA">
+    <edge source="Zeon" target="Polar Capital LLP">
+      <data key="weight">0.5</data>
+    </edge>
+    <edge source="Zeon" target="Pioneer Investments Kapitalanlagegesellschaft mbH">
+      <data key="weight">0.33</data>
+    </edge>
+    <edge source="Zeon" target="Pictet &amp; Cie">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Infineon" target="Folksam Asset Management">
+    <edge source="Zeon" target="Phillip Capital Management (S) Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Zeon" target="Palatine Asset Management">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Zeon" target="Okasan Asset Management Co., Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Zeon" target="Norinchukin Zenkyoren Asset Management Co., Ltd.">
       <data key="weight">0.01</data>
     </edge>
-    <edge source="Infineon" target="Fisch Asset Management AG">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="First Private Investment Management KAG mbH">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Finter Bank Zürich Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Finivalor - S.G.F.M., S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Fifth Third Asset Management (Michigan)">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Fideuram Investimenti SGR S.p.A.">
-      <data key="weight">0.12</data>
-    </edge>
-    <edge source="Infineon" target="Fidelity Worldwide Investment (UK) Ltd.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Infineon" target="Fidelity Management &amp; Research Company">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Falcon Private Bank Ltd">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="FIM Asset Management Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="FIL Investments (Japan) Limited">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Infineon" target="F. van Lanschot Bankiers N.V.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="F&amp;C Asset Management plc">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Infineon" target="Evli Fund Management Company Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Euromobiliare Asset Management SGR S.p.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Eurobank EFG Mutual Funds Management Company S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Eurizon Capital S.A.">
-      <data key="weight">0.04</data>
-    </edge>
-    <edge source="Infineon" target="Espírito Santo Gestión, S.G.I.I.C., S.A.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Infineon" target="Esemplia Emerging Markets">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Egeria Activos SGIIC S.A.U">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Edmond de Rothschild Asset Management">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Edinburgh Partners Limited">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Infineon" target="Ecureuil Gestion FCP">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Ecofi Investissements S.A">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="Infineon" target="ERSTE-SPARINVEST Kapitalanlagegesellschaft mbH">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="E.Öhman J:or Fonder AB">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Dr. Kohlhase Vermögensverwaltungsgesellschaft mbH">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Dexia Banque Internationale à Luxembourg S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Dexia Asset Management S.A. (France)">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Infineon" target="Dexia Asset Management Luxembourg S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Dexia Asset Management Belgium S.A.">
-      <data key="weight">0.24</data>
-    </edge>
-    <edge source="Infineon" target="Deutsche Postbank Financial Services GmbH">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Infineon" target="Deutsche Bank (Suisse) SA">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Infineon" target="Deutsche Asset Management (Asia) Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Delta Lloyd Investment Managers GmbH">
-      <data key="weight">0.04</data>
-    </edge>
-    <edge source="Infineon" target="Delta Lloyd Bank">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Deka Investment GmbH">
-      <data key="weight">1.53</data>
-    </edge>
-    <edge source="Infineon" target="Degroof Fund Management Company">
-      <data key="weight">0.06</data>
-    </edge>
-    <edge source="Infineon" target="Degroof Banque Privée S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Dearborn Partners L.L.C.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Infineon" target="Danske Capital">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Daiwa Asset Management Co., Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="DZ PRIVATBANK S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="DWS Investments Italy SGR S.p.A.">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Infineon" target="DWS Investments (Spain), S.G.I.I.C., S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="DWS Investments (France) S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="DNB Asset Management AS">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="Infineon" target="DNB Asset Management AB">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Crédito Agrícola Gest-Sociedade Gest de Fundos de Invest. ">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Crédit Mutuel Finance">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Credit Suisse Asset Management KAG mbH">
+    <edge source="Zeon" target="Norges Bank Investment Management (NBIM)">
       <data key="weight">0.07</data>
     </edge>
-    <edge source="Infineon" target="Credit Suisse Asset Management">
-      <data key="weight">0.08</data>
-    </edge>
-    <edge source="Infineon" target="Credit Suisse (Deutschland) AG">
+    <edge source="Zeon" target="Nomura Asset Management Deutschland KAG mbH">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Infineon" target="Credit Agricole Mercagestion S.A. S.G.I.I.C.">
+    <edge source="Zeon" target="Nomura Asset Management (UK) Ltd.">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Infineon" target="Crediges S.A.U. S.G.I.I.C.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Confederación Española de Cajas de Ahorros">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Commodities Asset Management">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Commerzbank Asset Management Asia Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Cominvest Asset Management GmbH">
-      <data key="weight">0.68</data>
-    </edge>
-    <edge source="Infineon" target="Co-operative Asset Management">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Infineon" target="Citibank International Plc. Luxembourg Branch">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Citibank (Switzerland)">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Citi Investment Research (US)">
-      <data key="weight">0.98</data>
-    </edge>
-    <edge source="Infineon" target="Chuo Mitsui Asset Management Co., Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Challenger Managed Investments Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="CatalunyaCaixa Inversión">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="CatalunyaCaixa Inversio S.G.I.I.C. S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Carnegie Rahastoyhtiö Oyj">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Capitalia Asset Management SGR S.p.A.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Infineon" target="Capitalgest SGR S.p.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Capital World Investors">
-      <data key="weight">9.33</data>
-    </edge>
-    <edge source="Infineon" target="Capital International K.K.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Capital International Inc. (Singapore)">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Cantabria Fondos S.A., S.G.I.I.C.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Caja Ingenieros Gestión, SGIIC, SAU">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Caja España Fondos, S.A., S.G.I.I.C.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Caixagest - Técnicas de Gestão de Fundos, S.A.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Infineon" target="Caixa Girona Gestió, S.A.U., SGIIC">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Caisse de Depot et Placement du Quebec">
+    <edge source="Zeon" target="Nissay Asset Management Corp.">
       <data key="weight">0.03</data>
     </edge>
-    <edge source="Infineon" target="CPR Asset Management">
+    <edge source="Zeon" target="Nikko Asset Management Co., Ltd.">
+      <data key="weight">0.48</data>
+    </edge>
+    <edge source="Zeon" target="New Star Institutional Managers Limited">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Zeon" target="Münchner Kapitalanlage AG">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Zeon" target="Morgan Stanley Investment Management Ltd. (UK)">
+      <data key="weight">0.85</data>
+    </edge>
+    <edge source="Zeon" target="Morgan Stanley Investment Management (Japan) Co., Ltd.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Zeon" target="Mizuho Corporate Bank, Ltd.">
+      <data key="weight">2.12</data>
+    </edge>
+    <edge source="Zeon" target="Mizuho Bank, Ltd.">
+      <data key="weight">2.06</data>
+    </edge>
+    <edge source="Zeon" target="Mizuho Asset Management Co., Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Zeon" target="Mitsubishi UFJ Asset Management Co., Ltd.">
       <data key="weight">0.04</data>
     </edge>
-    <edge source="Infineon" target="CPP Investment Board">
+    <edge source="Zeon" target="Meiji Yasuda Asset Management Company Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Zeon" target="MEAG Munich ERGO Kapitalanlagegesellschaft mbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Zeon" target="Lombard Odier Darier Hentsch &amp; Cie">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Zeon" target="Lion Global Investors Limited">
       <data key="weight">0.02</data>
     </edge>
-    <edge source="Infineon" target="CP Invest Investicni Spolecnost a.s.">
+    <edge source="Zeon" target="Liechtensteinische Landesbank AG">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Infineon" target="COVASYS Wyttenbach &amp; Zenger">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="CM-CIC Asset Management">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Infineon" target="CCR Actions">
-      <data key="weight">0.1</data>
-    </edge>
-    <edge source="Infineon" target="CCLA Investment Management Ltd.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Infineon" target="CAAM SGR S.p.A.">
-      <data key="weight">0.6</data>
-    </edge>
-    <edge source="Infineon" target="C.I.M. Banque">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Butterfield Private Bank">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="BlackRock International Ltd.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Infineon" target="BlackRock Asset Management Deutschland AG">
-      <data key="weight">0.31</data>
-    </edge>
-    <edge source="Infineon" target="Bethmann Bank A.G.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="BayernLB">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="Infineon" target="BayernInvest Kapitalanlagegesellschaft mbH">
-      <data key="weight">0.08</data>
-    </edge>
-    <edge source="Infineon" target="Baring Asset Management Ltd.">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Infineon" target="Barclays Wealth Managers España, S.A., S.G.I.I.C.">
-      <data key="weight">0.05</data>
-    </edge>
-    <edge source="Infineon" target="Barclays Wealth Managers">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Barclays Global Investors Japan Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Banque et Caisse d'Epargne de l'Etat Luxembourg">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Banque de Luxembourg S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Banque Safdié S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Banque SYZ &amp; CO SA">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Banque Privée Edmond de Rothschild S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Banque Privée Edmond de Rothschild Europe">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Banque Degroof S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Banque Degroof France SA">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Bankinter Gestión de Activos, SGIIC S.A.">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="Infineon" target="Bankia Banca Privada Gestion SGIIC S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="BankPyme S.G.I.I.C., S.A.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Infineon" target="Bank Vontobel Österreich AG">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Bank Vontobel AG (Private Banking)">
-      <data key="weight">0.08</data>
-    </edge>
-    <edge source="Infineon" target="Bank Sarasin &amp; Cie AG">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Infineon" target="Bank Morgan Stanley AG">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Bank Leu AG">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Bank Corluy Effectenbankiers N.V.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Infineon" target="Banif Gestión S.G.I.I.C., S.A.">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Infineon" target="Banesto Banca Privada Gestión, SGIIC, S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Banco Fonder AB">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Bancaja Fondos S.G.I.I.C., S.A.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Infineon" target="Banca del Gottardo">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Banca Finnat Euramerica S.p.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Banca Albertini Syz &amp; C. S.p.A">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="BanSabadell Inversión, S.A., S.G.I.I.C., Sociedad Uniperson">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Baden-Württembergische Asset Consult GmbH">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Infineon" target="BWInvest">
-      <data key="weight">0.12</data>
-    </edge>
-    <edge source="Infineon" target="BT Investment Management Limited">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="BPI Vida e Pensões - Companhia de Seguros, S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="BNP Paribas Investment Partners Netherlands N.V.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="BNP Paribas Investment Partners Belgium S.A.">
-      <data key="weight">0.11</data>
-    </edge>
-    <edge source="Infineon" target="BNP Paribas Fortis Private Banking (Belgium)">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="BNP Paribas Asset Management, Inc.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="BMN Gestión de Activos S.G.I.I.C., S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="BIG Fundos - S.G.F.I.M., S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="BHW Invest GmbH">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="BCGE Asset Management">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="BBVA Patrimonios Gestora S.G.I.I.C., S.A.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Infineon" target="BBVA Asset Management, S.A., S.G.I.I.C.">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Infineon" target="BAWAG P.S.K. Invest GmbH">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Aviva Gestión S.G.I.I.C. S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Avenir Finance Investment Managers">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Aureo Gestioni S.G.R.p.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Ashcourt Rowan Asset Management Limited">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Asesores y Gestores Financieros Agencia de Valores, S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Artemis Investment Management LLP">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Infineon" target="Arion Banki hf">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Argenta Fund">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Infineon" target="Arcalia Patrimonios Agencia de Valores, S.A.">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Infineon" target="Arca SGR S.p.A.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Infineon" target="Arca BIM S.p.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Anima SGR.p.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Andra AP-Fonden">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Amundi Asset Management">
+    <edge source="Zeon" target="Kredietrust Luxembourg S.A.">
       <data key="weight">0.06</data>
     </edge>
-    <edge source="Infineon" target="Amundi (UK)">
-      <data key="weight">0.05</data>
-    </edge>
-    <edge source="Infineon" target="AmpegaGerling Investment GmbH">
-      <data key="weight">0.05</data>
-    </edge>
-    <edge source="Infineon" target="Ampega Investment AG">
+    <edge source="Zeon" target="Kokusai Asset Management Co., Ltd.">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Infineon" target="Amistra SGIIC S.A.">
+    <edge source="Zeon" target="KBC Asset Management N.V.">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Infineon" target="American Heritage Management Corp.">
+    <edge source="Zeon" target="JPMorgan Asset Management (Japan) Limited">
+      <data key="weight">0.26</data>
+    </edge>
+    <edge source="Zeon" target="J.P. Morgan Asset Management (Hong Kong) Ltd.">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Infineon" target="American Express Asset Management Ltd.">
+    <edge source="Zeon" target="ING Investment Management (Netherlands)">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Infineon" target="American Century Global Investment Management, Inc.">
+    <edge source="Zeon" target="ING Investment Management (Belgium) (Inactive)">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Infineon" target="American Beacon Advisors, Inc.">
+    <edge source="Zeon" target="Helaba Invest Kapitalanlagegesellschaft mbH">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Zeon" target="Hang Seng Investment Management Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Zeon" target="HSBC Bank Bermuda Limited">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Zeon" target="Gérifonds S.A.">
+      <data key="weight">0.06</data>
+    </edge>
+    <edge source="Zeon" target="Goldman Sachs Asset Management Co., Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Zeon" target="Generali Investments Italy SGR S.p.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Zeon" target="GMO UK Limited">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Zeon" target="Första AP-Fonden">
+      <data key="weight">0.13</data>
+    </edge>
+    <edge source="Zeon" target="Furukawa Electric Co Ltd">
+      <data key="weight">6.21</data>
+    </edge>
+    <edge source="Zeon" target="Fuji Investment Management Co., Ltd.">
       <data key="weight">0.01</data>
     </edge>
-    <edge source="Infineon" target="Alte Leipziger Trust Investment-Gesellschaft mbH">
+    <edge source="Zeon" target="Fortis Investments (Hong Kong)">
+      <data key="weight">0.03</data>
+    </edge>
+    <edge source="Zeon" target="First State Investments (Singapore)">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Zeon" target="First State Investments (HK) Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Zeon" target="FIL Investment Management (Hong Kong) Limited">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Zeon" target="Eurizon Capital S.A.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Zeon" target="Esemplia Emerging Markets">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Zeon" target="Ersel Asset Management SGR S.p.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Zeon" target="Daiwa Asset Management Co., Ltd.">
+      <data key="weight">0.16</data>
+    </edge>
+    <edge source="Zeon" target="DNB Asset Management AB">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Zeon" target="Crédit Agricole Luxembourg Private Bank">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Zeon" target="Credit Suisse Trust &amp; Banking Co., Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Zeon" target="Credit Suisse Asset Management KAG mbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Zeon" target="Credit Suisse Asset Management">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Zeon" target="Citibank International Plc. Luxembourg Branch">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Zeon" target="Chuo Mitsui Asset Management Co., Ltd.">
+      <data key="weight">0.03</data>
+    </edge>
+    <edge source="Zeon" target="Caixagest - Técnicas de Gestão de Fundos, S.A.">
+      <data key="weight">0.03</data>
+    </edge>
+    <edge source="Zeon" target="Caisse de Depot et Placement du Quebec">
+      <data key="weight">0.05</data>
+    </edge>
+    <edge source="Zeon" target="CAAM SGR S.p.A.">
       <data key="weight">0.04</data>
     </edge>
-    <edge source="Infineon" target="Alpha Asset Management A.E.D.A.K.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Allianz Invest Kapitalanlagegesellschaft mbH">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Allianz Global Investors Italia SGR S.p.A.">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="Infineon" target="Allianz Global Investors France">
-      <data key="weight">0.15</data>
-    </edge>
-    <edge source="Infineon" target="AllianceBernstein Ltd. (Value)">
-      <data key="weight">0.11</data>
-    </edge>
-    <edge source="Infineon" target="AllianceBernstein Ltd. (Growth)">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="AllianceBernstein Australia Ltd. (Growth)">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Alfred Berg Kapitalförvaltning AB">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Infineon" target="Ahorro Corporación Gestión S.G.I.I.C., S.A.">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="Infineon" target="Advisory Invest GmbH">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="Advantus Capital Management, Inc.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Infineon" target="AXA Rosenberg Investment Management Ltd.">
+    <edge source="Zeon" target="Banque Cantonale Vaudoise">
       <data key="weight">0.06</data>
     </edge>
-    <edge source="Infineon" target="AXA Investment Managers UK Ltd.">
-      <data key="weight">0.01</data>
+    <edge source="Zeon" target="Bankia Fondos, S.G.I.I.C., S.A.">
+      <data key="weight">0.04</data>
     </edge>
-    <edge source="Infineon" target="AXA Investment Managers Deutschland GmbH">
-      <data key="weight">0.06</data>
-    </edge>
-    <edge source="Infineon" target="AMUNDI IBERIA SGIIC SA">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Infineon" target="ABN AMRO Asset Management Ltd. (Fortis)">
+    <edge source="Zeon" target="Banif Gestión S.G.I.I.C., S.A.">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Infineon" target="ABN AMRO Asset Management (Netherlands) B.V.">
-      <data key="weight">0.07</data>
+    <edge source="Zeon" target="BMO Asset Management Inc.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Zeon" target="BFT Gestion S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Zeon" target="Azimut SGR S.p.A.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Zeon" target="Asahi Mutual Life Insurance Co.">
+      <data key="weight">3.17</data>
+    </edge>
+    <edge source="Zeon" target="Asahi Kasei Corp">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Zeon" target="Asahi Kasei Chemicals Corporation">
+      <data key="weight">2.66</data>
+    </edge>
+    <edge source="Zeon" target="Andra AP-Fonden">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Zeon" target="Amundi Japan Ltd.">
+      <data key="weight">0.05</data>
+    </edge>
+    <edge source="Zeon" target="American Express Asset Management Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Zeon" target="Allianz Nederland Asset Management B.V.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Zeon" target="Aberdeen Investment Management K. K.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Zeon" target="AEGON Investment Management B.V.">
+      <data key="weight">0.0</data>
     </edge>
   </graph>
 </graphml>

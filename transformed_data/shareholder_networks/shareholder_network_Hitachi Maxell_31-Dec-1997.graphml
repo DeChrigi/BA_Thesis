@@ -3,170 +3,206 @@
   <key id="weight" for="edge" attr.name="weight" attr.type="double" />
   <key id="type" for="node" attr.name="type" attr.type="string" />
   <graph edgedefault="undirected">
-    <node id="Hitachi Maxell">
+    <node id="Zeon">
       <data key="type">Company</data>
     </node>
-    <node id="United Assurance, Plc.">
+    <node id="Yokohama Rubber Co Ltd">
       <data key="type">Investor</data>
     </node>
-    <node id="UFJ Trust Bank Ltd.">
+    <node id="US Trust Bk of Amer Private Wealth Mgmt LaSalle">
       <data key="type">Investor</data>
     </node>
-    <node id="UFJ Bank Limited">
+    <node id="Trustus Capital Management B.V.">
       <data key="type">Investor</data>
     </node>
-    <node id="Standard Life Investments (USA) Ltd.">
+    <node id="Tokio Marine &amp; Nichido Fire Insurance Co., Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Société Générale Asset Management (France)">
+    <node id="Sumitomo Mitsui Trust Bank, Limited">
       <data key="type">Investor</data>
     </node>
-    <node id="Resona Bank, Ltd.">
+    <node id="Scottish Widows Investment Partnership Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="RCM Asia Pacific Limited">
+    <node id="Santander Asset Management UK Limited">
       <data key="type">Investor</data>
     </node>
-    <node id="Nomura Asset Management Co., Ltd.">
+    <node id="Prigest S.A.">
       <data key="type">Investor</data>
     </node>
-    <node id="Nitto Denko Corp">
+    <node id="Oppenheim Kapitalanlagegesellschaft mbH">
       <data key="type">Investor</data>
     </node>
     <node id="Nikko Asset Management Co., Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Natixis Asset Management">
+    <node id="Morley Fund Management (Singapore) Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Münchner Kapitalanlage AG">
+    <node id="Morley Fund Management (Japan) Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Mizuho Trust &amp; Banking Co., Ltd.">
+    <node id="Morgan Stanley Investment Management (Japan) Co., Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Mitsui Trust &amp; Banking Company Limited">
+    <node id="Mizuho Corporate Bank, Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Mizuho Bank, Ltd.">
       <data key="type">Investor</data>
     </node>
     <node id="Mitsubishi UFJ Trust and Banking Corporation">
       <data key="type">Investor</data>
     </node>
-    <node id="Lloyds TSB International Private Banking">
-      <data key="type">Investor</data>
-    </node>
     <node id="Kames Capital">
       <data key="type">Investor</data>
     </node>
-    <node id="JPMorgan Asset Management U.K. Limited">
+    <node id="Insight Investment Management (Global) Limited">
       <data key="type">Investor</data>
     </node>
-    <node id="Hitachi Ltd">
+    <node id="ISIS Asset Management p.l.c.">
       <data key="type">Investor</data>
     </node>
-    <node id="Fidelity Worldwide Investment (UK) Ltd.">
+    <node id="INVESCO Asset Management Deutschland GmbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Guardian Asset Management Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Furukawa Electric Co Ltd">
       <data key="type">Investor</data>
     </node>
     <node id="FIL Investments (Japan) Limited">
       <data key="type">Investor</data>
     </node>
-    <node id="FIL Investment Management (Hong Kong) Limited">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Dexia Asset Management Luxembourg S.A.">
-      <data key="type">Investor</data>
-    </node>
     <node id="Deutsche Bank Private Wealth Management Limited (Inactive)">
       <data key="type">Investor</data>
     </node>
-    <node id="Columbia Management Company">
+    <node id="Crédit Lyonnais Asset Management S.A.">
       <data key="type">Investor</data>
     </node>
-    <node id="Chase Asset Management (London) Ltd.">
+    <node id="Cazenove Capital Management Limited">
       <data key="type">Investor</data>
     </node>
-    <node id="Baring Asset Management (Japan) Ltd.">
+    <node id="CAAM SGR S.p.A.">
       <data key="type">Investor</data>
     </node>
-    <edge source="Hitachi Maxell" target="United Assurance, Plc.">
+    <node id="Barclays Wealth">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Banco Fonder AB">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Aviva Investors Global Services Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Asahi Mutual Life Insurance Co.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Asahi Chemical">
+      <data key="type">Investor</data>
+    </node>
+    <node id="AEGON Investment Management B.V.">
+      <data key="type">Investor</data>
+    </node>
+    <edge source="Zeon" target="Yokohama Rubber Co Ltd">
+      <data key="weight">6.2</data>
+    </edge>
+    <edge source="Zeon" target="US Trust Bk of Amer Private Wealth Mgmt LaSalle">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Zeon" target="Trustus Capital Management B.V.">
       <data key="weight">0.01</data>
     </edge>
-    <edge source="Hitachi Maxell" target="UFJ Trust Bank Ltd.">
-      <data key="weight">2.66</data>
+    <edge source="Zeon" target="Tokio Marine &amp; Nichido Fire Insurance Co., Ltd.">
+      <data key="weight">1.6</data>
     </edge>
-    <edge source="Hitachi Maxell" target="UFJ Bank Limited">
-      <data key="weight">2.47</data>
+    <edge source="Zeon" target="Sumitomo Mitsui Trust Bank, Limited">
+      <data key="weight">2.4</data>
     </edge>
-    <edge source="Hitachi Maxell" target="Standard Life Investments (USA) Ltd.">
-      <data key="weight">0.17</data>
+    <edge source="Zeon" target="Scottish Widows Investment Partnership Ltd.">
+      <data key="weight">0.03</data>
     </edge>
-    <edge source="Hitachi Maxell" target="Société Générale Asset Management (France)">
+    <edge source="Zeon" target="Santander Asset Management UK Limited">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Zeon" target="Prigest S.A.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Zeon" target="Oppenheim Kapitalanlagegesellschaft mbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Zeon" target="Nikko Asset Management Co., Ltd.">
       <data key="weight">0.04</data>
     </edge>
-    <edge source="Hitachi Maxell" target="Resona Bank, Ltd.">
-      <data key="weight">1.81</data>
-    </edge>
-    <edge source="Hitachi Maxell" target="RCM Asia Pacific Limited">
+    <edge source="Zeon" target="Morley Fund Management (Singapore) Ltd.">
       <data key="weight">0.02</data>
     </edge>
-    <edge source="Hitachi Maxell" target="Nomura Asset Management Co., Ltd.">
+    <edge source="Zeon" target="Morley Fund Management (Japan) Ltd.">
+      <data key="weight">0.18</data>
+    </edge>
+    <edge source="Zeon" target="Morgan Stanley Investment Management (Japan) Co., Ltd.">
+      <data key="weight">0.11</data>
+    </edge>
+    <edge source="Zeon" target="Mizuho Corporate Bank, Ltd.">
+      <data key="weight">4.1</data>
+    </edge>
+    <edge source="Zeon" target="Mizuho Bank, Ltd.">
+      <data key="weight">4.3</data>
+    </edge>
+    <edge source="Zeon" target="Mitsubishi UFJ Trust and Banking Corporation">
+      <data key="weight">2.5</data>
+    </edge>
+    <edge source="Zeon" target="Kames Capital">
+      <data key="weight">0.03</data>
+    </edge>
+    <edge source="Zeon" target="Insight Investment Management (Global) Limited">
+      <data key="weight">0.17</data>
+    </edge>
+    <edge source="Zeon" target="ISIS Asset Management p.l.c.">
       <data key="weight">0.01</data>
     </edge>
-    <edge source="Hitachi Maxell" target="Nitto Denko Corp">
-      <data key="weight">2.57</data>
-    </edge>
-    <edge source="Hitachi Maxell" target="Nikko Asset Management Co., Ltd.">
+    <edge source="Zeon" target="INVESCO Asset Management Deutschland GmbH">
       <data key="weight">0.01</data>
     </edge>
-    <edge source="Hitachi Maxell" target="Natixis Asset Management">
+    <edge source="Zeon" target="Guardian Asset Management Limited">
+      <data key="weight">0.13</data>
+    </edge>
+    <edge source="Zeon" target="Furukawa Electric Co Ltd">
+      <data key="weight">6.2</data>
+    </edge>
+    <edge source="Zeon" target="FIL Investments (Japan) Limited">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Hitachi Maxell" target="Münchner Kapitalanlage AG">
+    <edge source="Zeon" target="Deutsche Bank Private Wealth Management Limited (Inactive)">
       <data key="weight">0.02</data>
     </edge>
-    <edge source="Hitachi Maxell" target="Mizuho Trust &amp; Banking Co., Ltd.">
-      <data key="weight">2.76</data>
+    <edge source="Zeon" target="Crédit Lyonnais Asset Management S.A.">
+      <data key="weight">0.08</data>
     </edge>
-    <edge source="Hitachi Maxell" target="Mitsui Trust &amp; Banking Company Limited">
-      <data key="weight">3.04</data>
+    <edge source="Zeon" target="Cazenove Capital Management Limited">
+      <data key="weight">0.12</data>
     </edge>
-    <edge source="Hitachi Maxell" target="Mitsubishi UFJ Trust and Banking Corporation">
-      <data key="weight">1.71</data>
+    <edge source="Zeon" target="CAAM SGR S.p.A.">
+      <data key="weight">0.2</data>
     </edge>
-    <edge source="Hitachi Maxell" target="Lloyds TSB International Private Banking">
-      <data key="weight">0.05</data>
+    <edge source="Zeon" target="Barclays Wealth">
+      <data key="weight">0.07</data>
     </edge>
-    <edge source="Hitachi Maxell" target="Kames Capital">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="Hitachi Maxell" target="JPMorgan Asset Management U.K. Limited">
+    <edge source="Zeon" target="Banco Fonder AB">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Hitachi Maxell" target="Hitachi Ltd">
-      <data key="weight">49.55</data>
+    <edge source="Zeon" target="Aviva Investors Global Services Limited">
+      <data key="weight">0.02</data>
     </edge>
-    <edge source="Hitachi Maxell" target="Fidelity Worldwide Investment (UK) Ltd.">
-      <data key="weight">0.01</data>
+    <edge source="Zeon" target="Asahi Mutual Life Insurance Co.">
+      <data key="weight">7.3</data>
     </edge>
-    <edge source="Hitachi Maxell" target="FIL Investments (Japan) Limited">
-      <data key="weight">0.56</data>
+    <edge source="Zeon" target="Asahi Chemical">
+      <data key="weight">2.6</data>
     </edge>
-    <edge source="Hitachi Maxell" target="FIL Investment Management (Hong Kong) Limited">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Hitachi Maxell" target="Dexia Asset Management Luxembourg S.A.">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="Hitachi Maxell" target="Deutsche Bank Private Wealth Management Limited (Inactive)">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Hitachi Maxell" target="Columbia Management Company">
+    <edge source="Zeon" target="AEGON Investment Management B.V.">
       <data key="weight">0.06</data>
-    </edge>
-    <edge source="Hitachi Maxell" target="Chase Asset Management (London) Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Hitachi Maxell" target="Baring Asset Management (Japan) Ltd.">
-      <data key="weight">0.01</data>
     </edge>
   </graph>
 </graphml>

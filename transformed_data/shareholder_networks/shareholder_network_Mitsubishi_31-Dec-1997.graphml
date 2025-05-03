@@ -3,130 +3,73 @@
   <key id="weight" for="edge" attr.name="weight" attr.type="double" />
   <key id="type" for="node" attr.name="type" attr.type="string" />
   <graph edgedefault="undirected">
-    <node id="Mitsubishi">
+    <node id="Zeon">
       <data key="type">Company</data>
     </node>
-    <node id="Étoile Gestion">
+    <node id="Yokohama Rubber Co Ltd">
       <data key="type">Investor</data>
     </node>
-    <node id="Warburg Invest Kapitalanlagegesellschaft mbH">
+    <node id="US Trust Bk of Amer Private Wealth Mgmt LaSalle">
       <data key="type">Investor</data>
     </node>
-    <node id="Universal-Investment-Gesellschaft mbH">
+    <node id="Trustus Capital Management B.V.">
       <data key="type">Investor</data>
     </node>
-    <node id="Union Investment Group">
-      <data key="type">Investor</data>
-    </node>
-    <node id="UBS Global Asset Management (Switzerland)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Teacher Retirement System of Texas">
-      <data key="type">Investor</data>
-    </node>
-    <node id="T. Rowe Price Associates, Inc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Swisscanto Asset Management AG">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Swiss &amp; Global Asset Management Ltd.">
+    <node id="Tokio Marine &amp; Nichido Fire Insurance Co., Ltd.">
       <data key="type">Investor</data>
     </node>
     <node id="Sumitomo Mitsui Trust Bank, Limited">
       <data key="type">Investor</data>
     </node>
-    <node id="Siemens Kapitalanlagegesellschaft mbH">
+    <node id="Scottish Widows Investment Partnership Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Schroder Investment Management Ltd. (SIM)">
+    <node id="Santander Asset Management UK Limited">
       <data key="type">Investor</data>
     </node>
-    <node id="Schoellerbank Invest AG">
+    <node id="Prigest S.A.">
       <data key="type">Investor</data>
     </node>
-    <node id="Pioneer Investments Austria GmbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Pioneer Investment Management Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Petercam S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Oppenheim Investment Managers">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Nordinvest Norddeutsche Investment-Gesellschaft mbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Nordea Invest Fund Management A/S">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Nippon Life Insurance Company">
+    <node id="Oppenheim Kapitalanlagegesellschaft mbH">
       <data key="type">Investor</data>
     </node>
     <node id="Nikko Asset Management Co., Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Natixis Asset Management">
+    <node id="Morley Fund Management (Singapore) Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Morgan Stanley Investment Management Ltd. (UK)">
+    <node id="Morley Fund Management (Japan) Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Mitsui Trust &amp; Banking Company Limited">
+    <node id="Morgan Stanley Investment Management (Japan) Co., Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Mizuho Corporate Bank, Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Mizuho Bank, Ltd.">
       <data key="type">Investor</data>
     </node>
     <node id="Mitsubishi UFJ Trust and Banking Corporation">
       <data key="type">Investor</data>
     </node>
-    <node id="Mitsubishi Electric Corporation Group Employees">
+    <node id="Kames Capital">
       <data key="type">Investor</data>
     </node>
-    <node id="Metzler Asset Management GmbH">
+    <node id="Insight Investment Management (Global) Limited">
       <data key="type">Investor</data>
     </node>
-    <node id="Meiji Yasuda Life Insurance Company">
-      <data key="type">Investor</data>
-    </node>
-    <node id="MFI Asset Management GmbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Kredietrust Luxembourg S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Jyske Invest Fund Management A/S">
-      <data key="type">Investor</data>
-    </node>
-    <node id="JPMorgan Asset Management (Europe)">
+    <node id="ISIS Asset Management p.l.c.">
       <data key="type">Investor</data>
     </node>
     <node id="INVESCO Asset Management Deutschland GmbH">
       <data key="type">Investor</data>
     </node>
-    <node id="HANSAINVEST Hanseatische Investment GmbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Gutmann Kapitalanlage Aktiengesellschaft">
-      <data key="type">Investor</data>
-    </node>
     <node id="Guardian Asset Management Limited">
       <data key="type">Investor</data>
     </node>
-    <node id="Frankfurt-Trust Investment-Gesellschaft mbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Folksam Asset Management">
-      <data key="type">Investor</data>
-    </node>
-    <node id="First Private Investment Management KAG mbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Fideuram Investimenti SGR S.p.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Farrell-SL Investment Mgmt., Inc.">
+    <node id="Furukawa Electric Co Ltd">
       <data key="type">Investor</data>
     </node>
     <node id="FIL Investments (Japan) Limited">
@@ -135,272 +78,131 @@
     <node id="Deutsche Bank Private Wealth Management Limited (Inactive)">
       <data key="type">Investor</data>
     </node>
-    <node id="Deutsche Asset Management Investmentgesellschaft mbH">
+    <node id="Crédit Lyonnais Asset Management S.A.">
       <data key="type">Investor</data>
     </node>
-    <node id="Danske Capital">
+    <node id="Cazenove Capital Management Limited">
       <data key="type">Investor</data>
     </node>
-    <node id="DWS Investment GmbH">
+    <node id="CAAM SGR S.p.A.">
       <data key="type">Investor</data>
     </node>
-    <node id="DSI International Management, Inc.">
+    <node id="Barclays Wealth">
       <data key="type">Investor</data>
     </node>
-    <node id="DNB Asset Management AB">
+    <node id="Banco Fonder AB">
       <data key="type">Investor</data>
     </node>
-    <node id="DIAM Co., Ltd.">
+    <node id="Aviva Investors Global Services Limited">
       <data key="type">Investor</data>
     </node>
-    <node id="Credit Suisse Asset Management">
+    <node id="Asahi Mutual Life Insurance Co.">
       <data key="type">Investor</data>
     </node>
-    <node id="Bearbull Belgium S.A.">
+    <node id="Asahi Chemical">
       <data key="type">Investor</data>
     </node>
-    <node id="Baring Asset Management Ltd.">
+    <node id="AEGON Investment Management B.V.">
       <data key="type">Investor</data>
     </node>
-    <node id="Baring Asset Management (Japan) Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Baring Asset Management (Asia) Limited">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Banque Degroof S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Bank of Tokyo-Mitsubishi UFJ, Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="BSI S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="BNP Paribas Investment Partners SGR SpA">
-      <data key="type">Investor</data>
-    </node>
-    <node id="BNP Paribas Investment Partners Belgium S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="BFT Gestion S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Aureo Gestioni S.G.R.p.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Amundi Asset Management">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Allianz Dresdner Asset Management (ex Pimco)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="AllianceBernstein Ltd. (Growth)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Alecta pensionsförsäkring, ömsesidigt">
-      <data key="type">Investor</data>
-    </node>
-    <node id="AXA Investment Managers Deutschland GmbH">
-      <data key="type">Investor</data>
-    </node>
-    <edge source="Mitsubishi" target="Étoile Gestion">
+    <edge source="Zeon" target="Yokohama Rubber Co Ltd">
+      <data key="weight">6.2</data>
+    </edge>
+    <edge source="Zeon" target="US Trust Bk of Amer Private Wealth Mgmt LaSalle">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Mitsubishi" target="Warburg Invest Kapitalanlagegesellschaft mbH">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Mitsubishi" target="Universal-Investment-Gesellschaft mbH">
+    <edge source="Zeon" target="Trustus Capital Management B.V.">
       <data key="weight">0.01</data>
     </edge>
-    <edge source="Mitsubishi" target="Union Investment Group">
+    <edge source="Zeon" target="Tokio Marine &amp; Nichido Fire Insurance Co., Ltd.">
+      <data key="weight">1.6</data>
+    </edge>
+    <edge source="Zeon" target="Sumitomo Mitsui Trust Bank, Limited">
+      <data key="weight">2.4</data>
+    </edge>
+    <edge source="Zeon" target="Scottish Widows Investment Partnership Ltd.">
+      <data key="weight">0.03</data>
+    </edge>
+    <edge source="Zeon" target="Santander Asset Management UK Limited">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Zeon" target="Prigest S.A.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Zeon" target="Oppenheim Kapitalanlagegesellschaft mbH">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Mitsubishi" target="UBS Global Asset Management (Switzerland)">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Mitsubishi" target="Teacher Retirement System of Texas">
+    <edge source="Zeon" target="Nikko Asset Management Co., Ltd.">
       <data key="weight">0.04</data>
     </edge>
-    <edge source="Mitsubishi" target="T. Rowe Price Associates, Inc.">
-      <data key="weight">0.01</data>
+    <edge source="Zeon" target="Morley Fund Management (Singapore) Ltd.">
+      <data key="weight">0.02</data>
     </edge>
-    <edge source="Mitsubishi" target="Swisscanto Asset Management AG">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Mitsubishi" target="Swiss &amp; Global Asset Management Ltd.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Mitsubishi" target="Sumitomo Mitsui Trust Bank, Limited">
-      <data key="weight">2.5</data>
-    </edge>
-    <edge source="Mitsubishi" target="Siemens Kapitalanlagegesellschaft mbH">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Mitsubishi" target="Schroder Investment Management Ltd. (SIM)">
+    <edge source="Zeon" target="Morley Fund Management (Japan) Ltd.">
       <data key="weight">0.18</data>
     </edge>
-    <edge source="Mitsubishi" target="Schoellerbank Invest AG">
-      <data key="weight">0.0</data>
+    <edge source="Zeon" target="Morgan Stanley Investment Management (Japan) Co., Ltd.">
+      <data key="weight">0.11</data>
     </edge>
-    <edge source="Mitsubishi" target="Pioneer Investments Austria GmbH">
-      <data key="weight">0.0</data>
+    <edge source="Zeon" target="Mizuho Corporate Bank, Ltd.">
+      <data key="weight">4.1</data>
     </edge>
-    <edge source="Mitsubishi" target="Pioneer Investment Management Ltd.">
-      <data key="weight">0.01</data>
+    <edge source="Zeon" target="Mizuho Bank, Ltd.">
+      <data key="weight">4.3</data>
     </edge>
-    <edge source="Mitsubishi" target="Petercam S.A.">
-      <data key="weight">0.0</data>
+    <edge source="Zeon" target="Mitsubishi UFJ Trust and Banking Corporation">
+      <data key="weight">2.5</data>
     </edge>
-    <edge source="Mitsubishi" target="Oppenheim Investment Managers">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Mitsubishi" target="Nordinvest Norddeutsche Investment-Gesellschaft mbH">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Mitsubishi" target="Nordea Invest Fund Management A/S">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Mitsubishi" target="Nippon Life Insurance Company">
-      <data key="weight">3.8</data>
-    </edge>
-    <edge source="Mitsubishi" target="Nikko Asset Management Co., Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Mitsubishi" target="Natixis Asset Management">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Mitsubishi" target="Morgan Stanley Investment Management Ltd. (UK)">
-      <data key="weight">0.66</data>
-    </edge>
-    <edge source="Mitsubishi" target="Mitsui Trust &amp; Banking Company Limited">
-      <data key="weight">3.0</data>
-    </edge>
-    <edge source="Mitsubishi" target="Mitsubishi UFJ Trust and Banking Corporation">
-      <data key="weight">2.7</data>
-    </edge>
-    <edge source="Mitsubishi" target="Mitsubishi Electric Corporation Group Employees">
-      <data key="weight">3.7</data>
-    </edge>
-    <edge source="Mitsubishi" target="Metzler Asset Management GmbH">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Mitsubishi" target="Meiji Yasuda Life Insurance Company">
-      <data key="weight">4.2</data>
-    </edge>
-    <edge source="Mitsubishi" target="MFI Asset Management GmbH">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Mitsubishi" target="Kredietrust Luxembourg S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Mitsubishi" target="Jyske Invest Fund Management A/S">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Mitsubishi" target="JPMorgan Asset Management (Europe)">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Mitsubishi" target="INVESCO Asset Management Deutschland GmbH">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Mitsubishi" target="HANSAINVEST Hanseatische Investment GmbH">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Mitsubishi" target="Gutmann Kapitalanlage Aktiengesellschaft">
+    <edge source="Zeon" target="Kames Capital">
       <data key="weight">0.03</data>
     </edge>
-    <edge source="Mitsubishi" target="Guardian Asset Management Limited">
+    <edge source="Zeon" target="Insight Investment Management (Global) Limited">
+      <data key="weight">0.17</data>
+    </edge>
+    <edge source="Zeon" target="ISIS Asset Management p.l.c.">
       <data key="weight">0.01</data>
     </edge>
-    <edge source="Mitsubishi" target="Frankfurt-Trust Investment-Gesellschaft mbH">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="Mitsubishi" target="Folksam Asset Management">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Mitsubishi" target="First Private Investment Management KAG mbH">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Mitsubishi" target="Fideuram Investimenti SGR S.p.A.">
-      <data key="weight">0.05</data>
-    </edge>
-    <edge source="Mitsubishi" target="Farrell-SL Investment Mgmt., Inc.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Mitsubishi" target="FIL Investments (Japan) Limited">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Mitsubishi" target="Deutsche Bank Private Wealth Management Limited (Inactive)">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Mitsubishi" target="Deutsche Asset Management Investmentgesellschaft mbH">
+    <edge source="Zeon" target="INVESCO Asset Management Deutschland GmbH">
       <data key="weight">0.01</data>
     </edge>
-    <edge source="Mitsubishi" target="Danske Capital">
+    <edge source="Zeon" target="Guardian Asset Management Limited">
+      <data key="weight">0.13</data>
+    </edge>
+    <edge source="Zeon" target="Furukawa Electric Co Ltd">
+      <data key="weight">6.2</data>
+    </edge>
+    <edge source="Zeon" target="FIL Investments (Japan) Limited">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Mitsubishi" target="DWS Investment GmbH">
+    <edge source="Zeon" target="Deutsche Bank Private Wealth Management Limited (Inactive)">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Zeon" target="Crédit Lyonnais Asset Management S.A.">
+      <data key="weight">0.08</data>
+    </edge>
+    <edge source="Zeon" target="Cazenove Capital Management Limited">
+      <data key="weight">0.12</data>
+    </edge>
+    <edge source="Zeon" target="CAAM SGR S.p.A.">
+      <data key="weight">0.2</data>
+    </edge>
+    <edge source="Zeon" target="Barclays Wealth">
+      <data key="weight">0.07</data>
+    </edge>
+    <edge source="Zeon" target="Banco Fonder AB">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Mitsubishi" target="DSI International Management, Inc.">
-      <data key="weight">0.01</data>
+    <edge source="Zeon" target="Aviva Investors Global Services Limited">
+      <data key="weight">0.02</data>
     </edge>
-    <edge source="Mitsubishi" target="DNB Asset Management AB">
-      <data key="weight">0.0</data>
+    <edge source="Zeon" target="Asahi Mutual Life Insurance Co.">
+      <data key="weight">7.3</data>
     </edge>
-    <edge source="Mitsubishi" target="DIAM Co., Ltd.">
-      <data key="weight">1.8</data>
+    <edge source="Zeon" target="Asahi Chemical">
+      <data key="weight">2.6</data>
     </edge>
-    <edge source="Mitsubishi" target="Credit Suisse Asset Management">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Mitsubishi" target="Bearbull Belgium S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Mitsubishi" target="Baring Asset Management Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Mitsubishi" target="Baring Asset Management (Japan) Ltd.">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="Mitsubishi" target="Baring Asset Management (Asia) Limited">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Mitsubishi" target="Banque Degroof S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Mitsubishi" target="Bank of Tokyo-Mitsubishi UFJ, Ltd.">
-      <data key="weight">4.0</data>
-    </edge>
-    <edge source="Mitsubishi" target="BSI S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Mitsubishi" target="BNP Paribas Investment Partners SGR SpA">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Mitsubishi" target="BNP Paribas Investment Partners Belgium S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Mitsubishi" target="BFT Gestion S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Mitsubishi" target="Aureo Gestioni S.G.R.p.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Mitsubishi" target="Amundi Asset Management">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Mitsubishi" target="Allianz Dresdner Asset Management (ex Pimco)">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Mitsubishi" target="AllianceBernstein Ltd. (Growth)">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Mitsubishi" target="Alecta pensionsförsäkring, ömsesidigt">
-      <data key="weight">0.05</data>
-    </edge>
-    <edge source="Mitsubishi" target="AXA Investment Managers Deutschland GmbH">
-      <data key="weight">0.0</data>
+    <edge source="Zeon" target="AEGON Investment Management B.V.">
+      <data key="weight">0.06</data>
     </edge>
   </graph>
 </graphml>

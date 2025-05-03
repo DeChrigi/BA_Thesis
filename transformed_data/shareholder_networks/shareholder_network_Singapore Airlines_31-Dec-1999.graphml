@@ -3,394 +3,76 @@
   <key id="weight" for="edge" attr.name="weight" attr.type="double" />
   <key id="type" for="node" attr.name="type" attr.type="string" />
   <graph edgedefault="undirected">
-    <node id="Singapore Airlines">
+    <node id="Zeon">
       <data key="type">Company</data>
     </node>
-    <node id="WestAM (USA) Ltd.">
+    <node id="Yokohama Rubber Co Ltd">
       <data key="type">Investor</data>
     </node>
-    <node id="Volksbank Invest Kapitalanlagegesellschaft mbH">
+    <node id="Wells Capital Management (Strong)">
       <data key="type">Investor</data>
     </node>
-    <node id="Universal-Investment-Gesellschaft mbH">
+    <node id="UFJ Partners Asset Management Co., Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Union Investment Group">
+    <node id="Sumitomo Mitsui Trust Bank, Limited">
       <data key="type">Investor</data>
     </node>
-    <node id="UOB Asset Management Ltd.">
+    <node id="Resona Asset Management Co., Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="UBS Wealth Management AG (Switzerland)">
+    <node id="Prigest S.A.">
       <data key="type">Investor</data>
     </node>
-    <node id="UBS Global Asset Management (Switzerland)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="UBS Deutschland AG">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Threadneedle Asset Management Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Templeton Asset Management Ltd. (Emerging Markets)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Temasek Holdings Pte. Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Teacher Retirement System of Texas">
-      <data key="type">Investor</data>
-    </node>
-    <node id="TT International">
-      <data key="type">Investor</data>
-    </node>
-    <node id="TD Asset Management Inc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="T. Rowe Price International (UK) Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Synergy Asset Management Inc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Swisscanto Asset Management AG">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Swedbank Robur AB">
-      <data key="type">Investor</data>
-    </node>
-    <node id="State Street Global Advisors Ltd. (Canada)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="State Street Global Advisors (UK) Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="State Street Global Advisors (France) S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Standard Life Investments (USA) Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Sprucegrove Investment Management, Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Société d'Analyses Economiques et Financières">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Société Générale Asset Management (France)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Singer &amp; Friedlander Investment Management Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Singapore Unit Trusts Limited">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Siemens Kapitalanlagegesellschaft mbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Shell Asset Management Company B.V.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Sella Gestioni SGR SpA">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Scottish Widows Investment Partnership Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Santander Global Advisors">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Santander Gestion SGIIC, S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Santander Asset Management UK Limited">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Santander Asset Management">
-      <data key="type">Investor</data>
-    </node>
-    <node id="SWISS International Air Lines">
-      <data key="type">Investor</data>
-    </node>
-    <node id="SG Asset Management (Singapore) Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="SEI Investments Canada">
-      <data key="type">Investor</data>
-    </node>
-    <node id="SEB Asset Management (Stockholm)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Rothschild et Cie Gestion">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Robeco Institutional Asset Management B.V.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Raiffeisen Kapitalanlage-Gesellschaft mbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="RCM Asia Pacific Limited">
-      <data key="type">Investor</data>
-    </node>
-    <node id="RCM (UK) Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="RBC Global Asset Management Inc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="RBC Asset Management UK Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Prima sgr S.p.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Pioneer Investment Management Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="PineBridge Investments Asia Limited">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Pictet &amp; Cie">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Philippe Investment Management, Inc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Petercam S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Paladin Investment Associates">
-      <data key="type">Investor</data>
-    </node>
-    <node id="PMG Fonds Management AG">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Oppenheimer Asset Management Inc.">
+    <node id="Plaza Asset Management Co., Ltd.">
       <data key="type">Investor</data>
     </node>
     <node id="Oppenheim Kapitalanlagegesellschaft mbH">
       <data key="type">Investor</data>
     </node>
-    <node id="Oppenheim Investment Managers">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Ontario Teachers' Pension Plan Board">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Northwestern Mutual Capital, LLC">
-      <data key="type">Investor</data>
-    </node>
     <node id="Norges Bank Investment Management (NBIM)">
       <data key="type">Investor</data>
     </node>
-    <node id="Nordea Investment Management AB, Norge">
+    <node id="Nikko Asset Management Co., Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Nordea Investment Management AB (Sweden)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Nordea Invest Fund Management A/S">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Nomura Asset Management Deutschland KAG mbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Nikko Asset Management Asia Limited">
-      <data key="type">Investor</data>
-    </node>
-    <node id="New Jersey Division of Investment (Int'l)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Neuflize OBC Investissements">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Natixis Asset Management">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Natexis Asset Management">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Morley Fund Management (Singapore) Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Morgan Stanley Investment Management Ltd. (UK)">
+    <node id="Morley Fund Management (Japan) Ltd.">
       <data key="type">Investor</data>
     </node>
     <node id="Morgan Stanley Investment Management (Singapore)">
       <data key="type">Investor</data>
     </node>
-    <node id="Morgan Stanley Investment Management (Japan) Co., Ltd.">
+    <node id="Mizuho Corporate Bank, Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Mondrian Investment Partners Limited">
+    <node id="Mizuho Bank, Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Mizuho Asset Management Co., Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Mitsubishi UFJ Trust and Banking Corporation">
       <data key="type">Investor</data>
     </node>
     <node id="Mediolanum Gestione Fondi SGR p.A.">
       <data key="type">Investor</data>
     </node>
-    <node id="Manulife Asset Management (Europe) Limited">
-      <data key="type">Investor</data>
-    </node>
-    <node id="MFI Asset Management GmbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="M &amp; G Investment Management Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="London Capital Management Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Lloyds TSB International Private Banking">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Lloyd George Investment Management (Hong Kong) Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Lion Global Investors Limited">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Lazard Asset Management Limited">
-      <data key="type">Investor</data>
-    </node>
-    <node id="La Banque Postale Asset Management">
-      <data key="type">Investor</data>
-    </node>
-    <node id="LBBW Asset Management Investmentgesellschaft mbH">
-      <data key="type">Investor</data>
-    </node>
     <node id="Kokusai Asset Management Co., Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="King &amp; Shaxson Asset Management Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Kames Capital">
-      <data key="type">Investor</data>
-    </node>
-    <node id="KBL France Gestion">
-      <data key="type">Investor</data>
-    </node>
-    <node id="KBC Asset Management N.V.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Jyske Invest Fund Management A/S">
-      <data key="type">Investor</data>
-    </node>
-    <node id="JPMorgan Asset Management U.K. Limited">
-      <data key="type">Investor</data>
-    </node>
-    <node id="J.P. Morgan Asset Management (Hong Kong) Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Investec Asset Management Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Invesco Hong Kong Limited">
+    <node id="Jupiter Asset Management Ltd.">
       <data key="type">Investor</data>
     </node>
     <node id="Insight Investment Management (Global) Limited">
       <data key="type">Investor</data>
     </node>
-    <node id="Ignis Asset Management Limited">
+    <node id="Furukawa Electric Co Ltd">
       <data key="type">Investor</data>
     </node>
-    <node id="ISIS Asset Management plc (Scotland)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="ISIS Asset Management p.l.c.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="INVESCO Asset Management Deutschland GmbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="INVESCO Asset Management (Singapore) Pte. Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="INVESCO Asset Management (Japan) Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="ING Investment Management (France) S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="ING Investment Management (Belgium) (Inactive)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="ICBC (Asia) Investment Management Company Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Hill Samuel Asset Management Group Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Handelsbanken Asset Management">
-      <data key="type">Investor</data>
-    </node>
-    <node id="HSBC Global Asset Management Deutschland GmbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="HSBC Global Asset Management (Taiwan) Limited">
-      <data key="type">Investor</data>
-    </node>
-    <node id="HSBC Global Asset Management (Japan) K.K.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="HSBC Global Asset Management (Hong Kong) Limited">
-      <data key="type">Investor</data>
-    </node>
-    <node id="HSBC Global Asset Management (France)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="HSBC Asset Management Australia Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Guardian Asset Management Limited">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Goldman Sachs Asset Management International">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Goldman Sachs Asset Management Co., Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Goldman Sachs Asset Management (Singapore) Pte. Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Gesellschaft für Wertpapieranlagen mbH (GWA)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Genus Capital Management Inc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="GAM London Limited">
-      <data key="type">Investor</data>
-    </node>
-    <node id="GAM (Hong Kong) Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Fortis Investments (Hong Kong)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Folksam Asset Management">
-      <data key="type">Investor</data>
-    </node>
-    <node id="First State Investments (Singapore)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="First State Investments (HK) Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Fiera Capital Corporation">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Fideuram Investimenti SGR S.p.A.">
+    <node id="First State Investments (U.K.) Ltd.">
       <data key="type">Investor</data>
     </node>
     <node id="Fidelity Worldwide Investment (UK) Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Federal Finance Gestion">
       <data key="type">Investor</data>
     </node>
     <node id="FIL Investments (Japan) Limited">
@@ -399,908 +81,164 @@
     <node id="FIL Investment Management (Hong Kong) Limited">
       <data key="type">Investor</data>
     </node>
-    <node id="FIL Investment Management (Australia) Limited">
-      <data key="type">Investor</data>
-    </node>
-    <node id="F&amp;C Asset Management plc">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Eurizon Capital SGR S.p.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Esemplia Emerging Markets">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Equitable Life Assurance Society">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Employees Retirement System of Texas">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Ecureuil Gestion FCP">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Eastspring Investments (Hong Kong) Limited">
-      <data key="type">Investor</data>
-    </node>
-    <node id="EGNS-INVEST Capital Fondsmæglerselskab A/S">
-      <data key="type">Investor</data>
-    </node>
-    <node id="EFG Bank AS">
-      <data key="type">Investor</data>
-    </node>
-    <node id="EDM Gestión S.A., S.G.I.I.C.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="DnB Investor A/S">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Dexia Asset Management Luxembourg S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Dexia Asset Management Belgium S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Deutsche Postbank Financial Services GmbH">
-      <data key="type">Investor</data>
-    </node>
     <node id="Deutsche Bank Private Wealth Management Limited (Inactive)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Deutsche Asset Management Investmentgesellschaft mbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Deutsche Asset Management (Asia) Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Delta Lloyd Asset Management N.V.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Deka Investment GmbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Danske Capital">
       <data key="type">Investor</data>
     </node>
     <node id="Daiwa SB Investments Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Daiwa SB Investments (HK) Ltd.">
-      <data key="type">Investor</data>
-    </node>
     <node id="Daiwa Asset Management Co., Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="DWS Investment GmbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="DSI International Management, Inc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Crédit Lyonnais Asset Management S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Crédit Agricole Luxembourg Private Bank">
       <data key="type">Investor</data>
     </node>
     <node id="Credit Suisse Asset Management Limited">
       <data key="type">Investor</data>
     </node>
-    <node id="Credit Suisse Asset Management">
+    <node id="Credit Agricole Asset Management Japan Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Coutts &amp; Co.">
+    <node id="Coutts">
       <data key="type">Investor</data>
     </node>
-    <node id="Cominvest Asset Management GmbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Clariden Leu Ltd. (Singapore)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Citigroup Asset Management (Singapore)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Citibank International Plc. Luxembourg Branch">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Citibank (Switzerland)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Carlson Capital, L.P.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Capitalia Asset Management SGR S.p.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Caisse de Depot et Placement du Quebec">
-      <data key="type">Investor</data>
-    </node>
-    <node id="CT Private Investment Counsel Inc.">
+    <node id="Cazenove Capital Management Limited">
       <data key="type">Investor</data>
     </node>
     <node id="CM-CIC Asset Management">
       <data key="type">Investor</data>
     </node>
-    <node id="CIBC Global Asset Management Asia Ltd.">
-      <data key="type">Investor</data>
-    </node>
     <node id="CAAM SGR S.p.A.">
       <data key="type">Investor</data>
     </node>
-    <node id="Bowen Asia Limited">
-      <data key="type">Investor</data>
-    </node>
-    <node id="BlackRock International Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="BlackRock Financial Management (SSR&amp;M)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Bipitalia Gestioni SGR S.p.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Bearbull Belgium S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="BayernLB">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Baring Asset Management Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Baring Asset Management (Asia) Limited">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Banque de Luxembourg S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Banque Degroof S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Bankhaus Carl Spängler &amp; Co. AG">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Bank Vontobel AG (Private Banking)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Banca del Gottardo">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Baillie Gifford &amp; Co.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="BNP Paribas Investment Partners Singapore Limited">
-      <data key="type">Investor</data>
-    </node>
-    <node id="BNP Paribas Investment Partners Belgium S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="BNP Paribas Investment Partners (France)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="BNP Paribas Fortis Private Banking (Belgium)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="BI Asset Management Fondsmæglerselskab A/S">
-      <data key="type">Investor</data>
-    </node>
-    <node id="BFT Gestion S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Azimut SGR S.p.A.">
+    <node id="Banco Fonder AB">
       <data key="type">Investor</data>
     </node>
     <node id="Aviva Investors Global Services Limited">
       <data key="type">Investor</data>
     </node>
-    <node id="Aviva Investors France S.A.">
+    <node id="Asahi Mutual Life Insurance Co.">
       <data key="type">Investor</data>
     </node>
-    <node id="Austin Investment Management, Inc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Associated Investment Management, LLC">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Amundi Hong Kong Limited">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Amundi Asset Management">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Altamira Management Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Alpha Asset Management A.E.D.A.K.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Allianz Dresdner Asset Management (ex Pimco)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="AllianceBernstein Australia Ltd. (Growth)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Alecta pensionsförsäkring, ömsesidigt">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Aberdeen Asset Management (Asia) Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="AXA Rosenberg Investment Management Asia Pacific Ltd. (Hong">
-      <data key="type">Investor</data>
-    </node>
-    <node id="AXA Investment Managers Paris">
-      <data key="type">Investor</data>
-    </node>
-    <node id="AXA Investment Managers Deutschland GmbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="AXA Framlington Investment Management Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="AR Asset Management, Inc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="AIB Govett Asia Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="AGF Investments Inc.">
+    <node id="Asahi Chemical">
       <data key="type">Investor</data>
     </node>
     <node id="AEGON Investment Management B.V.">
       <data key="type">Investor</data>
     </node>
-    <node id="ABN AMRO Asset Management (Netherlands) B.V.">
-      <data key="type">Investor</data>
-    </node>
-    <edge source="Singapore Airlines" target="WestAM (USA) Ltd.">
+    <edge source="Zeon" target="Yokohama Rubber Co Ltd">
+      <data key="weight">6.2</data>
+    </edge>
+    <edge source="Zeon" target="Wells Capital Management (Strong)">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Singapore Airlines" target="Volksbank Invest Kapitalanlagegesellschaft mbH">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Universal-Investment-Gesellschaft mbH">
-      <data key="weight">0.04</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Union Investment Group">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Singapore Airlines" target="UOB Asset Management Ltd.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Singapore Airlines" target="UBS Wealth Management AG (Switzerland)">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="Singapore Airlines" target="UBS Global Asset Management (Switzerland)">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="Singapore Airlines" target="UBS Deutschland AG">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Threadneedle Asset Management Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Templeton Asset Management Ltd. (Emerging Markets)">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Temasek Holdings Pte. Ltd.">
-      <data key="weight">52.0</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Teacher Retirement System of Texas">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="Singapore Airlines" target="TT International">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Singapore Airlines" target="TD Asset Management Inc.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Singapore Airlines" target="T. Rowe Price International (UK) Ltd.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Synergy Asset Management Inc.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Swisscanto Asset Management AG">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Swedbank Robur AB">
-      <data key="weight">0.05</data>
-    </edge>
-    <edge source="Singapore Airlines" target="State Street Global Advisors Ltd. (Canada)">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Singapore Airlines" target="State Street Global Advisors (UK) Ltd.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Singapore Airlines" target="State Street Global Advisors (France) S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Standard Life Investments (USA) Ltd.">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Sprucegrove Investment Management, Ltd.">
-      <data key="weight">0.28</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Société d'Analyses Economiques et Financières">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Société Générale Asset Management (France)">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Singer &amp; Friedlander Investment Management Ltd.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Singapore Unit Trusts Limited">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Siemens Kapitalanlagegesellschaft mbH">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Shell Asset Management Company B.V.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Sella Gestioni SGR SpA">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Scottish Widows Investment Partnership Ltd.">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Santander Global Advisors">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Santander Gestion SGIIC, S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Santander Asset Management UK Limited">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Santander Asset Management">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Singapore Airlines" target="SWISS International Air Lines">
-      <data key="weight">0.6</data>
-    </edge>
-    <edge source="Singapore Airlines" target="SG Asset Management (Singapore) Ltd.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Singapore Airlines" target="SEI Investments Canada">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Singapore Airlines" target="SEB Asset Management (Stockholm)">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Rothschild et Cie Gestion">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Robeco Institutional Asset Management B.V.">
-      <data key="weight">0.3</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Raiffeisen Kapitalanlage-Gesellschaft mbH">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Singapore Airlines" target="RCM Asia Pacific Limited">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Singapore Airlines" target="RCM (UK) Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Singapore Airlines" target="RBC Global Asset Management Inc.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Singapore Airlines" target="RBC Asset Management UK Ltd.">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Prima sgr S.p.A.">
-      <data key="weight">0.05</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Pioneer Investment Management Ltd.">
-      <data key="weight">0.06</data>
-    </edge>
-    <edge source="Singapore Airlines" target="PineBridge Investments Asia Limited">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Pictet &amp; Cie">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Philippe Investment Management, Inc.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Petercam S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Paladin Investment Associates">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Singapore Airlines" target="PMG Fonds Management AG">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Oppenheimer Asset Management Inc.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Oppenheim Kapitalanlagegesellschaft mbH">
-      <data key="weight">0.06</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Oppenheim Investment Managers">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Ontario Teachers' Pension Plan Board">
-      <data key="weight">0.29</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Northwestern Mutual Capital, LLC">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Norges Bank Investment Management (NBIM)">
-      <data key="weight">0.06</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Nordea Investment Management AB, Norge">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Nordea Investment Management AB (Sweden)">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Nordea Invest Fund Management A/S">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Nomura Asset Management Deutschland KAG mbH">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Nikko Asset Management Asia Limited">
-      <data key="weight">0.06</data>
-    </edge>
-    <edge source="Singapore Airlines" target="New Jersey Division of Investment (Int'l)">
-      <data key="weight">0.1</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Neuflize OBC Investissements">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Natixis Asset Management">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Natexis Asset Management">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Morley Fund Management (Singapore) Ltd.">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Morgan Stanley Investment Management Ltd. (UK)">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Morgan Stanley Investment Management (Singapore)">
+    <edge source="Zeon" target="UFJ Partners Asset Management Co., Ltd.">
       <data key="weight">0.07</data>
     </edge>
-    <edge source="Singapore Airlines" target="Morgan Stanley Investment Management (Japan) Co., Ltd.">
+    <edge source="Zeon" target="Sumitomo Mitsui Trust Bank, Limited">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Zeon" target="Resona Asset Management Co., Ltd.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Zeon" target="Prigest S.A.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Zeon" target="Plaza Asset Management Co., Ltd.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Zeon" target="Oppenheim Kapitalanlagegesellschaft mbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Zeon" target="Norges Bank Investment Management (NBIM)">
+      <data key="weight">0.14</data>
+    </edge>
+    <edge source="Zeon" target="Nikko Asset Management Co., Ltd.">
+      <data key="weight">0.24</data>
+    </edge>
+    <edge source="Zeon" target="Morley Fund Management (Japan) Ltd.">
       <data key="weight">0.04</data>
     </edge>
-    <edge source="Singapore Airlines" target="Mondrian Investment Partners Limited">
+    <edge source="Zeon" target="Morgan Stanley Investment Management (Singapore)">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Zeon" target="Mizuho Corporate Bank, Ltd.">
+      <data key="weight">4.1</data>
+    </edge>
+    <edge source="Zeon" target="Mizuho Bank, Ltd.">
+      <data key="weight">4.3</data>
+    </edge>
+    <edge source="Zeon" target="Mizuho Asset Management Co., Ltd.">
       <data key="weight">0.03</data>
     </edge>
-    <edge source="Singapore Airlines" target="Mediolanum Gestione Fondi SGR p.A.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Manulife Asset Management (Europe) Limited">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Singapore Airlines" target="MFI Asset Management GmbH">
+    <edge source="Zeon" target="Mitsubishi UFJ Trust and Banking Corporation">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Singapore Airlines" target="M &amp; G Investment Management Ltd.">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="Singapore Airlines" target="London Capital Management Ltd.">
+    <edge source="Zeon" target="Mediolanum Gestione Fondi SGR p.A.">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Singapore Airlines" target="Lloyds TSB International Private Banking">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Lloyd George Investment Management (Hong Kong) Ltd.">
+    <edge source="Zeon" target="Kokusai Asset Management Co., Ltd.">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Singapore Airlines" target="Lion Global Investors Limited">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Lazard Asset Management Limited">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Singapore Airlines" target="La Banque Postale Asset Management">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Singapore Airlines" target="LBBW Asset Management Investmentgesellschaft mbH">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Kokusai Asset Management Co., Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Singapore Airlines" target="King &amp; Shaxson Asset Management Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Kames Capital">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="Singapore Airlines" target="KBL France Gestion">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Singapore Airlines" target="KBC Asset Management N.V.">
-      <data key="weight">0.16</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Jyske Invest Fund Management A/S">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Singapore Airlines" target="JPMorgan Asset Management U.K. Limited">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Singapore Airlines" target="J.P. Morgan Asset Management (Hong Kong) Ltd.">
-      <data key="weight">0.07</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Investec Asset Management Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Invesco Hong Kong Limited">
-      <data key="weight">0.05</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Insight Investment Management (Global) Limited">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Ignis Asset Management Limited">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Singapore Airlines" target="ISIS Asset Management plc (Scotland)">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Singapore Airlines" target="ISIS Asset Management p.l.c.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Singapore Airlines" target="INVESCO Asset Management Deutschland GmbH">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Singapore Airlines" target="INVESCO Asset Management (Singapore) Pte. Ltd.">
+    <edge source="Zeon" target="Jupiter Asset Management Ltd.">
       <data key="weight">0.04</data>
     </edge>
-    <edge source="Singapore Airlines" target="INVESCO Asset Management (Japan) Ltd.">
+    <edge source="Zeon" target="Insight Investment Management (Global) Limited">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Singapore Airlines" target="ING Investment Management (France) S.A.">
-      <data key="weight">0.0</data>
+    <edge source="Zeon" target="Furukawa Electric Co Ltd">
+      <data key="weight">6.2</data>
     </edge>
-    <edge source="Singapore Airlines" target="ING Investment Management (Belgium) (Inactive)">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Singapore Airlines" target="ICBC (Asia) Investment Management Company Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Hill Samuel Asset Management Group Ltd.">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Handelsbanken Asset Management">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Singapore Airlines" target="HSBC Global Asset Management Deutschland GmbH">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Singapore Airlines" target="HSBC Global Asset Management (Taiwan) Limited">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Singapore Airlines" target="HSBC Global Asset Management (Japan) K.K.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Singapore Airlines" target="HSBC Global Asset Management (Hong Kong) Limited">
-      <data key="weight">0.12</data>
-    </edge>
-    <edge source="Singapore Airlines" target="HSBC Global Asset Management (France)">
+    <edge source="Zeon" target="First State Investments (U.K.) Ltd.">
       <data key="weight">0.01</data>
     </edge>
-    <edge source="Singapore Airlines" target="HSBC Asset Management Australia Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Guardian Asset Management Limited">
+    <edge source="Zeon" target="Fidelity Worldwide Investment (UK) Ltd.">
       <data key="weight">0.02</data>
     </edge>
-    <edge source="Singapore Airlines" target="Goldman Sachs Asset Management International">
+    <edge source="Zeon" target="FIL Investments (Japan) Limited">
+      <data key="weight">0.79</data>
+    </edge>
+    <edge source="Zeon" target="FIL Investment Management (Hong Kong) Limited">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Singapore Airlines" target="Goldman Sachs Asset Management Co., Ltd.">
+    <edge source="Zeon" target="Deutsche Bank Private Wealth Management Limited (Inactive)">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Singapore Airlines" target="Goldman Sachs Asset Management (Singapore) Pte. Ltd.">
+    <edge source="Zeon" target="Daiwa SB Investments Ltd.">
+      <data key="weight">0.19</data>
+    </edge>
+    <edge source="Zeon" target="Daiwa Asset Management Co., Ltd.">
+      <data key="weight">0.54</data>
+    </edge>
+    <edge source="Zeon" target="Credit Suisse Asset Management Limited">
+      <data key="weight">0.34</data>
+    </edge>
+    <edge source="Zeon" target="Credit Agricole Asset Management Japan Ltd.">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Singapore Airlines" target="Gesellschaft für Wertpapieranlagen mbH (GWA)">
+    <edge source="Zeon" target="Coutts">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Singapore Airlines" target="Genus Capital Management Inc.">
+    <edge source="Zeon" target="Cazenove Capital Management Limited">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Singapore Airlines" target="GAM London Limited">
-      <data key="weight">0.07</data>
-    </edge>
-    <edge source="Singapore Airlines" target="GAM (Hong Kong) Ltd.">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Fortis Investments (Hong Kong)">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Folksam Asset Management">
+    <edge source="Zeon" target="CM-CIC Asset Management">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Singapore Airlines" target="First State Investments (Singapore)">
-      <data key="weight">0.04</data>
+    <edge source="Zeon" target="CAAM SGR S.p.A.">
+      <data key="weight">0.33</data>
     </edge>
-    <edge source="Singapore Airlines" target="First State Investments (HK) Ltd.">
-      <data key="weight">0.04</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Fiera Capital Corporation">
+    <edge source="Zeon" target="Banco Fonder AB">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Singapore Airlines" target="Fideuram Investimenti SGR S.p.A.">
-      <data key="weight">0.08</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Fidelity Worldwide Investment (UK) Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Federal Finance Gestion">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Singapore Airlines" target="FIL Investments (Japan) Limited">
+    <edge source="Zeon" target="Aviva Investors Global Services Limited">
       <data key="weight">0.01</data>
     </edge>
-    <edge source="Singapore Airlines" target="FIL Investment Management (Hong Kong) Limited">
-      <data key="weight">0.39</data>
+    <edge source="Zeon" target="Asahi Mutual Life Insurance Co.">
+      <data key="weight">7.3</data>
     </edge>
-    <edge source="Singapore Airlines" target="FIL Investment Management (Australia) Limited">
-      <data key="weight">0.04</data>
+    <edge source="Zeon" target="Asahi Chemical">
+      <data key="weight">2.6</data>
     </edge>
-    <edge source="Singapore Airlines" target="F&amp;C Asset Management plc">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Eurizon Capital SGR S.p.A.">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Esemplia Emerging Markets">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Equitable Life Assurance Society">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Employees Retirement System of Texas">
-      <data key="weight">0.04</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Ecureuil Gestion FCP">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Eastspring Investments (Hong Kong) Limited">
+    <edge source="Zeon" target="AEGON Investment Management B.V.">
       <data key="weight">0.09</data>
-    </edge>
-    <edge source="Singapore Airlines" target="EGNS-INVEST Capital Fondsmæglerselskab A/S">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Singapore Airlines" target="EFG Bank AS">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Singapore Airlines" target="EDM Gestión S.A., S.G.I.I.C.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Singapore Airlines" target="DnB Investor A/S">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Dexia Asset Management Luxembourg S.A.">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Dexia Asset Management Belgium S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Deutsche Postbank Financial Services GmbH">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Deutsche Bank Private Wealth Management Limited (Inactive)">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Deutsche Asset Management Investmentgesellschaft mbH">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Deutsche Asset Management (Asia) Ltd.">
-      <data key="weight">0.21</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Delta Lloyd Asset Management N.V.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Deka Investment GmbH">
-      <data key="weight">0.1</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Danske Capital">
-      <data key="weight">0.04</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Daiwa SB Investments Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Daiwa SB Investments (HK) Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Daiwa Asset Management Co., Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Singapore Airlines" target="DWS Investment GmbH">
-      <data key="weight">0.15</data>
-    </edge>
-    <edge source="Singapore Airlines" target="DSI International Management, Inc.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Crédit Lyonnais Asset Management S.A.">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Crédit Agricole Luxembourg Private Bank">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Credit Suisse Asset Management Limited">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Credit Suisse Asset Management">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Coutts &amp; Co.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Cominvest Asset Management GmbH">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Clariden Leu Ltd. (Singapore)">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Citigroup Asset Management (Singapore)">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Citibank International Plc. Luxembourg Branch">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Citibank (Switzerland)">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Carlson Capital, L.P.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Capitalia Asset Management SGR S.p.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Caisse de Depot et Placement du Quebec">
-      <data key="weight">0.05</data>
-    </edge>
-    <edge source="Singapore Airlines" target="CT Private Investment Counsel Inc.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Singapore Airlines" target="CM-CIC Asset Management">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Singapore Airlines" target="CIBC Global Asset Management Asia Ltd.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Singapore Airlines" target="CAAM SGR S.p.A.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Bowen Asia Limited">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Singapore Airlines" target="BlackRock International Ltd.">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Singapore Airlines" target="BlackRock Financial Management (SSR&amp;M)">
-      <data key="weight">0.04</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Bipitalia Gestioni SGR S.p.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Bearbull Belgium S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Singapore Airlines" target="BayernLB">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Baring Asset Management Ltd.">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Baring Asset Management (Asia) Limited">
-      <data key="weight">0.05</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Banque de Luxembourg S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Banque Degroof S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Bankhaus Carl Spängler &amp; Co. AG">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Bank Vontobel AG (Private Banking)">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Banca del Gottardo">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Baillie Gifford &amp; Co.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Singapore Airlines" target="BNP Paribas Investment Partners Singapore Limited">
-      <data key="weight">0.06</data>
-    </edge>
-    <edge source="Singapore Airlines" target="BNP Paribas Investment Partners Belgium S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Singapore Airlines" target="BNP Paribas Investment Partners (France)">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Singapore Airlines" target="BNP Paribas Fortis Private Banking (Belgium)">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Singapore Airlines" target="BI Asset Management Fondsmæglerselskab A/S">
-      <data key="weight">0.04</data>
-    </edge>
-    <edge source="Singapore Airlines" target="BFT Gestion S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Azimut SGR S.p.A.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Aviva Investors Global Services Limited">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Aviva Investors France S.A.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Austin Investment Management, Inc.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Associated Investment Management, LLC">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Amundi Hong Kong Limited">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Amundi Asset Management">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Altamira Management Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Alpha Asset Management A.E.D.A.K.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Allianz Dresdner Asset Management (ex Pimco)">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Singapore Airlines" target="AllianceBernstein Australia Ltd. (Growth)">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Alecta pensionsförsäkring, ömsesidigt">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Singapore Airlines" target="Aberdeen Asset Management (Asia) Ltd.">
-      <data key="weight">0.06</data>
-    </edge>
-    <edge source="Singapore Airlines" target="AXA Rosenberg Investment Management Asia Pacific Ltd. (Hong">
-      <data key="weight">0.07</data>
-    </edge>
-    <edge source="Singapore Airlines" target="AXA Investment Managers Paris">
-      <data key="weight">0.04</data>
-    </edge>
-    <edge source="Singapore Airlines" target="AXA Investment Managers Deutschland GmbH">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Singapore Airlines" target="AXA Framlington Investment Management Ltd.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Singapore Airlines" target="AR Asset Management, Inc.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Singapore Airlines" target="AIB Govett Asia Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Singapore Airlines" target="AGF Investments Inc.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Singapore Airlines" target="AEGON Investment Management B.V.">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Singapore Airlines" target="ABN AMRO Asset Management (Netherlands) B.V.">
-      <data key="weight">0.0</data>
     </edge>
   </graph>
 </graphml>

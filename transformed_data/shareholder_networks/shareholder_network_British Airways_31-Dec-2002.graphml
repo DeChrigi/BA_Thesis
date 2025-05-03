@@ -3,382 +3,76 @@
   <key id="weight" for="edge" attr.name="weight" attr.type="double" />
   <key id="type" for="node" attr.name="type" attr.type="string" />
   <graph edgedefault="undirected">
-    <node id="British Airways">
+    <node id="Zeon">
       <data key="type">Company</data>
     </node>
-    <node id="Étoile Gestion">
+    <node id="Yokohama Rubber Co Ltd">
       <data key="type">Investor</data>
     </node>
-    <node id="Williams de Broë Private Investment Management Limited">
+    <node id="Yasuda PaineWebber Mutual Fund Company Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="WestLB Mellon Asset Management Kapitalanlagegesellschaft mbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="West Midlands Pension Fund">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Wesleyan Assurance Society">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Wellington Management Company, LLP">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Wellington International Management Company Pte. Ltd.">
+    <node id="Yasuda Asset Management Co., Ltd.">
       <data key="type">Investor</data>
     </node>
     <node id="Warburg Invest Kapitalanlagegesellschaft mbH">
       <data key="type">Investor</data>
     </node>
-    <node id="Vontobel Asset Management, Inc.">
+    <node id="UOB Asset Management Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Veritas Investment Trust GmbH">
+    <node id="UFJ Trust Bank Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Vanguard Group, Inc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="University of Toronto Asset Management Corporation">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Universities Superannuation Scheme Ltd. (USS)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Universal-Investment-Gesellschaft mbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Union Investment Institutional GmbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Union Investment Group">
+    <node id="UFJ Trust Bank (Trust A)">
       <data key="type">Investor</data>
     </node>
     <node id="UFJ Partners Asset Management Co., Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="UBS Wealth Management Ltd.">
+    <node id="Tokio Marine Asset Management Co., Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="UBS Global Asset Management (UK) Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="UBS Global Asset Management (Switzerland)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="UBS Global Asset Management (Japan) Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="UBS Global Asset Management (Americas), Inc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="UBS Gestión, S.G.I.I.C., S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="UBS Deutschland AG">
-      <data key="type">Investor</data>
-    </node>
-    <node id="UBS (Luxembourg) S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Troy Asset Management Limited">
-      <data key="type">Investor</data>
-    </node>
-    <node id="TrendConcept Vermögensverwaltung GmbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Trailfinders Limited">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Threadneedle Asset Management Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="The Retirement Systems of Alabama">
-      <data key="type">Investor</data>
-    </node>
-    <node id="The National Farmers Union Mutual Insurance Society Limited">
-      <data key="type">Investor</data>
-    </node>
-    <node id="The Glenmede Trust Company, N.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="The Boston Company Asset Management, LLC">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Templeton Investment Counsel, LLC">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Teachers Investment Management Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Teacher Retirement System of Texas">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Taube, Hodson, Stonex Partners, LLP">
-      <data key="type">Investor</data>
-    </node>
-    <node id="TT International">
-      <data key="type">Investor</data>
-    </node>
-    <node id="TRW Investment Management Company Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="TIAA-CREF">
-      <data key="type">Investor</data>
-    </node>
-    <node id="TD Asset Management USA, Inc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="T. Rowe Price International (UK) Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Swisscanto Asset Management AG">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Swiss Life Asset Management">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Swiss &amp; Global Asset Management Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Sumitomo Mitsui Trust Bank, Limited">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Street (Mike)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Storebrand Kapitalforvaltning AS">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Stevens (Derek Maurice)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Stevens (Clare)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="State Street Global Advisors Ireland Limited">
-      <data key="type">Investor</data>
-    </node>
-    <node id="State Street Global Advisors AG">
-      <data key="type">Investor</data>
-    </node>
-    <node id="State Street Global Advisors (US)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="State Street Global Advisors (UK) Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="State Street Global Advisors (Japan) Co., Ltd.">
+    <node id="Sumitomo Mitsui Asset Management Company, Limited">
       <data key="type">Investor</data>
     </node>
     <node id="State Street Global Advisors (France) S.A.">
       <data key="type">Investor</data>
     </node>
-    <node id="Standish Mellon Asset Management Company LLC">
+    <node id="Shinko Asset Management Co., Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Standard Life Investments Ltd.">
+    <node id="STANLIB Asset Management Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Sparkasse Oberösterreich Kapitalanlagegesellschaft mbH">
+    <node id="Resona Asset Management Co., Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="South Yorkshire Pensions Authority">
+    <node id="Prigest S.A.">
       <data key="type">Investor</data>
     </node>
-    <node id="Société Générale Asset Management (France)">
+    <node id="Okasan Asset Management Co., Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Shell Asset Management Company B.V.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Sharepeople Limited">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Semper Constantia Invest GmbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Seitz Raymond George Hardenbergh">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Seguros Bilbao Fondos S.G.I.I.C., S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Scottish Widows Investment Partnership Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Schroder Investment Management Ltd. (SIM)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Schroder Investment Management (Japan) Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Scale Venture Partners">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Saudi Arabian Monetary Agency">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Santander Asset Management UK Limited">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Santander Asset Management">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Sanlam Life &amp; Pensions UK Limited">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Sanderson Asset Management, Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Sampo Rahastoyhtiö Oy">
-      <data key="type">Investor</data>
-    </node>
-    <node id="SVM Asset Management Limited">
-      <data key="type">Investor</data>
-    </node>
-    <node id="SOMPO JAPAN NIPPONKOA Asset Management Co., Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="SINOPIA Asset Management">
-      <data key="type">Investor</data>
-    </node>
-    <node id="SEI Investments Canada">
-      <data key="type">Investor</data>
-    </node>
-    <node id="SAM Sustainable Asset Management Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Russell Investments">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Rothschild et Cie Gestion">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Robeco Institutional Asset Management B.V.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Rishton Mike">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Rio Tinto Pension Investments Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Resona Bank, Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Rensburg Sheppards Investment Management Limited">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Reliance Mutual Insurance Society Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Read (Martin Peter)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Rabobank Nederland">
-      <data key="type">Investor</data>
-    </node>
-    <node id="RCM Capital Management LLC">
-      <data key="type">Investor</data>
-    </node>
-    <node id="RCM (UK) Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="RBC Asset Management UK Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="RAB Capital Limited">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Quoniam Asset Management GmbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Quilter">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Putnam Investment Management, L.L.C.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Prudential Fixed Income">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Professionals Financial Inc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Prima sgr S.p.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Police Mutual Assurance Society Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Pioneer Investments Kapitalanlagegesellschaft mbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Pictet Asset Management Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Pictet &amp; Cie">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Philadelphia International Advisors, L.P.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Petercam S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Pavilion Asset Management">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Orbis Investment Management Limited">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Oppenheim Kapitalanlagegesellschaft mbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Ontario Power Generation Pension Fund">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Old Mutual Asset Managers (UK) Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Oaktree Capital Management Limited">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Nottinghamshire County Council Pension Fund">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Northern Trust Global Investments Limited">
+    <node id="Norinchukin Zenkyoren Asset Management Co., Ltd.">
       <data key="type">Investor</data>
     </node>
     <node id="Norges Bank Investment Management (NBIM)">
       <data key="type">Investor</data>
     </node>
+    <node id="Nomura Trust &amp; Banking (Trust)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Nomura Asset Management Deutschland KAG mbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Nissay Asset Management Corp.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Nippon Life Insurance Company">
+      <data key="type">Investor</data>
+    </node>
     <node id="Nikko Asset Management Co., Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Nicholas-Applegate Capital Management, LLC">
-      <data key="type">Investor</data>
-    </node>
-    <node id="New Jersey Division of Investment (Int'l)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="New Jersey Division of Investment">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Neuflize OBC Investissements">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Natixis Asset Management">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Nationwide Funds Group">
-      <data key="type">Investor</data>
-    </node>
-    <node id="National Bank Trust">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Natexis Asset Management">
       <data key="type">Investor</data>
     </node>
     <node id="Münchner Kapitalanlage AG">
@@ -387,1784 +81,290 @@
     <node id="Morgan Stanley Investment Management Ltd. (UK)">
       <data key="type">Investor</data>
     </node>
-    <node id="Morgan Stanley Investment Management Inc. (US)">
+    <node id="Mizuho Corporate Bank, Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Morgan Stanley Investment Management (Japan) Co., Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Mondrian Investment Partners Limited">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Mizuho Trust &amp; Banking Co., Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Mizuho Trust &amp; Banking (Luxembourg) S.A.">
+    <node id="Mizuho Bank, Ltd.">
       <data key="type">Investor</data>
     </node>
     <node id="Mizuho Asset Management Co., Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Mitsubishi UFJ Trust and Banking Corporation">
+    <node id="Mitsubishi UFJ Asset Management Co., Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Mitsubishi UFJ Asset Management (UK) Ltd.">
+    <node id="Mandatum Omaisuudenhoito Oy">
       <data key="type">Investor</data>
     </node>
-    <node id="Metzler Asset Management GmbH">
+    <node id="Lemanik S.A.">
       <data key="type">Investor</data>
     </node>
-    <node id="MetLife Alico M.F.C.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Merseyside Pension Fund">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Mercator Asset Management, L.P.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Meditor Capital Management Limited">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Mastholm Asset Management, L.L.C.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Martin Currie Investment Management Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Marsico Capital Management, L.L.C.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Mars Asset Management Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Marathon Asset Management LLP">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Mackenzie Financial Corporation">
-      <data key="type">Investor</data>
-    </node>
-    <node id="MFS Investment Management">
-      <data key="type">Investor</data>
-    </node>
-    <node id="MFI Asset Management GmbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="MFC Global Investment Management (Canada)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="MEAG Securities Management GmbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="MEAG Munich ERGO Kapitalanlagegesellschaft mbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="M &amp; G Investment Management Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Lord Robin William Renwick of Clifton">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Lord Marshall Of Knightsbridge (Colin)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Lombard Odier Darier Hentsch &amp; Cie">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Liverpool Victoria Asset Management Limited">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Lion Global Investors Limited">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Legal &amp; General Investment Management Ltd. (UK)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Lafarge Investment Management Limited">
-      <data key="type">Investor</data>
-    </node>
-    <node id="LBB-Invest">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Kvaerner Pensions Investment Management Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Kuwait Investment Office">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Kuntien Eläkevakuutus">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Kredietrust Luxembourg S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="King &amp; Shaxson Asset Management Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Killik Asset Management">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Kames Capital">
-      <data key="type">Investor</data>
-    </node>
-    <node id="KP Pension &amp; Försäkring">
-      <data key="type">Investor</data>
-    </node>
-    <node id="KBC Asset Management N.V.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Jupiter Asset Management Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Julius Meinl Investment Gesellschaft mbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Jeffrey (Michael)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="James Brearley &amp; Sons Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="JPMorgan Gestión, S.G.I.I.C., S.A.">
+    <node id="Kokusai Asset Management Co., Ltd.">
       <data key="type">Investor</data>
     </node>
     <node id="JPMorgan Asset Management U.K. Limited">
       <data key="type">Investor</data>
     </node>
-    <node id="JPMorgan Asset Management (Europe)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="JP Morgan Asset Management">
-      <data key="type">Investor</data>
-    </node>
-    <node id="J.P. Morgan Investment Management (Japan) Inc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="J.P. Morgan Asset Management (Hong Kong) Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Iveagh Trustees Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Irish Life Investment Managers Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Investec Wealth &amp; Investment Limited">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Investec Asset Management Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Inversis Gestión, S.A., SGIIC">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Inverseguros Gestión S.A. SGIIC">
-      <data key="type">Investor</data>
-    </node>
-    <node id="InverCaixa Gestión S.G.I.I.C., S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Insight Investment Management (Global) Limited">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Ibercaja Gestión S.G.I.I.C., S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="ISIS Asset Management p.l.c.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="INVESCO Asset Management Limited">
-      <data key="type">Investor</data>
-    </node>
-    <node id="INVESCO Asset Management Deutschland GmbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="ING Investment Management (Belgium) (Inactive)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="IBM Retirement Fund">
-      <data key="type">Investor</data>
-    </node>
-    <node id="IAG Asset Management Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Hermes Fund Managers Limited">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Henderson Global Investors Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Havenport Asset Management Pte. Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Harvard Management Company, Inc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Hargreaves Lansdown Asset Management">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Hansberger Global Investors, Inc. (US)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Handelsbanken Asset Management">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Haggas (John Brian)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="HSBC Global Asset Management (UK) Limited">
+    <node id="JPMorgan Asset Management (Japan) Limited">
       <data key="type">Investor</data>
     </node>
     <node id="HSBC Global Asset Management (France)">
       <data key="type">Investor</data>
     </node>
-    <node id="HSBC Bank Bermuda Limited">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Gulf International Bank (UK) Limited">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Government of Singapore Investment Corporation Pte Ltd">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Government of Singapore Investment Corp. (UK) Private Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Goldman Sachs Asset Management International">
+    <node id="HANSAINVEST Hanseatische Investment GmbH">
       <data key="type">Investor</data>
     </node>
     <node id="Goldman Sachs Asset Management Co., Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Glasgow Investment Managers Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Generali Investments Italy SGR S.p.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Generali Investments Deutschland Kapitalanlagegesellschaft m">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Gartmore Investment Management Limited">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Ganguly (Ashok S)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Gaesco Gestión S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="GMO UK Limited">
-      <data key="type">Investor</data>
-    </node>
-    <node id="GM Asset Management">
-      <data key="type">Investor</data>
-    </node>
-    <node id="GLG Partners UK Limited">
-      <data key="type">Investor</data>
-    </node>
-    <node id="GLG Partners LP">
-      <data key="type">Investor</data>
-    </node>
-    <node id="GAM London Limited">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Första AP-Fonden">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Fullerton Fund Management Company Ltd.">
+    <node id="Furukawa Electric Co Ltd">
       <data key="type">Investor</data>
     </node>
     <node id="Fuji Investment Management Co., Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Franklin Templeton Investment Management Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Franklin Equity Group">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Fortis Gesbeta S.G.I.I.C., S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="First State Investments (UK) Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="First State Investments (U.K.) Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="First State Investments (HK) Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Fifth Third Asset Management, Inc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Fifth Third Asset Management (Michigan)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Fideuram Investimenti SGR S.p.A.">
-      <data key="type">Investor</data>
-    </node>
     <node id="Fidelity Worldwide Investment (UK) Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Fidelity Management &amp; Research Company">
-      <data key="type">Investor</data>
-    </node>
-    <node id="FIL Investment Management (Hong Kong) Limited">
-      <data key="type">Investor</data>
-    </node>
-    <node id="F&amp;C Asset Management plc">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Eurobank EFG Mutual Funds Management Company S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Eurizon Capital SGR S.p.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Eurizon Capital S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Esemplia Emerging Markets">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Edmond de Rothschild Asset Management">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Ecclesiastical Investment Management Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="EMA Textiles Ltd">
-      <data key="type">Investor</data>
-    </node>
-    <node id="EFG Harris Allday">
-      <data key="type">Investor</data>
-    </node>
-    <node id="EFG Bank AS">
-      <data key="type">Investor</data>
-    </node>
-    <node id="E.Öhman J:or Fonder AB">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Dresdner Bank Luxembourg S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Dorset County Pension Fund">
-      <data key="type">Investor</data>
-    </node>
-    <node id="DnB NOR Asset Management (UK) Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Dexia Asset Management Luxembourg S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Dexia Asset Management Belgium S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Deutsche Postbank Financial Services GmbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Deutsche Investment Management Americas, Inc.">
+    <node id="FIL Investments (Japan) Limited">
       <data key="type">Investor</data>
     </node>
     <node id="Deutsche Bank Private Wealth Management Limited (Inactive)">
       <data key="type">Investor</data>
     </node>
-    <node id="Deutsche Bank Private Wealth Management Limited">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Deutsche Asset Management Investmentgesellschaft mbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Deutsche Asset Management Americas">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Delta Lloyd Investment Managers GmbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Delaware Investments">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Deka Investment GmbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Davies (Angie Michael)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Daiwa SB Investments (UK) Ltd.">
-      <data key="type">Investor</data>
-    </node>
     <node id="Daiwa Asset Management Co., Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="DZ Capital Management GmbH">
+    <node id="DWS Investments Italy SGR S.p.A.">
       <data key="type">Investor</data>
     </node>
-    <node id="Crédit Suisse Gestión S.G.I.I.C., S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Crédit Lyonnais Asset Management S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Crédit Foncier de Monaco SAM">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Credit Suisse Asset Management, LLC (US)">
+    <node id="DWS Investment GmbH">
       <data key="type">Investor</data>
     </node>
     <node id="Credit Suisse Asset Management Limited">
       <data key="type">Investor</data>
     </node>
-    <node id="Credit Suisse Asset Management">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Credit Suisse (Luxembourg) S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Credit Lyonnais International Asset Mgmt (Japan) Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Cominvest Asset Management GmbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Comerica, Inc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Columbia Management Investment Advisers, LLC">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Co-operative Asset Management">
-      <data key="type">Investor</data>
-    </node>
-    <node id="City of Edinburgh Council">
-      <data key="type">Investor</data>
-    </node>
-    <node id="City Financial Asset Management Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Chuo Mitsui Asset Trust and Banking Company, Limited">
+    <node id="Chuo Mitsui Asset Management Co., Ltd.">
       <data key="type">Investor</data>
     </node>
     <node id="Chase Manhattan Ahorro S.G.I.I.C., S.A.">
       <data key="type">Investor</data>
     </node>
-    <node id="Charles Schwab Investment Management, Inc.">
+    <node id="CatalunyaCaixa Inversio S.G.I.I.C. S.A.">
       <data key="type">Investor</data>
     </node>
-    <node id="Causeway Capital Management LLC">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Caterpillar Investment Management Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Capitalia Asset Management SGR S.p.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Capital World Investors">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Capital Research Global Investors">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Capital Research &amp; Management Company">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Capital International S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Capital International Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Capital Guardian Trust Company">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Caisse de Depot et Placement du Quebec">
-      <data key="type">Investor</data>
-    </node>
-    <node id="CPP Investment Board">
-      <data key="type">Investor</data>
-    </node>
-    <node id="CIBC Global Asset Management Asia Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="CI Investments Inc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="CAAM SGR S.p.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="CA Cheuvreux Ltd. (UK)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Brown Brothers Harriman &amp; Company">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Broughton (Sir Martin Faulkner)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="British Airways Employee Benefit Trustees (Jersey) Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Brewin Dolphin Limited">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Brandes Investment Partners, LP">
-      <data key="type">Investor</data>
-    </node>
-    <node id="BlackRock Investment Management (UK) Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="BlackRock Institutional Trust Company, N.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="BlackRock Asset Management Deutschland AG">
-      <data key="type">Investor</data>
-    </node>
-    <node id="BlackRock Advisors (UK) Limited">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Bissett Investment Management Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Bessemer Trust Company, N.A. (US)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="BayernLB">
-      <data key="type">Investor</data>
-    </node>
-    <node id="BayernInvest Kapitalanlagegesellschaft mbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Baroness O'Cathain">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Barnes (Colin Edward)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Baring Asset Management Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Barclays Wealth">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Barclays Private Bank (U.K.)">
+    <node id="Bee &amp; Associates">
       <data key="type">Investor</data>
     </node>
     <node id="Barclays Global Investors Japan Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Banque et Caisse d'Epargne de l'Etat Luxembourg">
+    <node id="BNP Paribas Investment Partners Japan Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Banque Privée Edmond de Rothschild Europe">
+    <node id="Ashburton (Jersey) Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Banque Degroof S.A.">
+    <node id="Asahi Mutual Life Insurance Co.">
       <data key="type">Investor</data>
     </node>
-    <node id="Bank of Scotland Portfolio Management Service">
+    <node id="Asahi Kasei Corp">
       <data key="type">Investor</data>
     </node>
-    <node id="Bank Vontobel AG (Private Banking)">
+    <node id="Asahi Chemical">
       <data key="type">Investor</data>
     </node>
-    <node id="Banif Gestión S.G.I.I.C., S.A.">
+    <node id="Arcus Investment Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Banca Albertini Syz &amp; C. S.p.A">
-      <data key="type">Investor</data>
-    </node>
-    <node id="BWInvest">
-      <data key="type">Investor</data>
-    </node>
-    <node id="BP Investment Management Limited">
-      <data key="type">Investor</data>
-    </node>
-    <node id="BNP Paribas Investment Partners UK Limited">
-      <data key="type">Investor</data>
-    </node>
-    <node id="BNP Paribas Investment Partners (France)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="BMO Asset Management U.S.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="BGL BNP Paribas">
-      <data key="type">Investor</data>
-    </node>
-    <node id="BBVA Patrimonios Gestora S.G.I.I.C., S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="BAE Systems Pension Funds Investment Management Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Aviva Investors Global Services Limited">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Avanse Forvaltning A/S">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Assurant Asset Management">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Artemis Investment Management LLP">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Argenta Fund">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Arca SGR S.p.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Arca BIM S.p.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Anima SGR.p.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Andra AP-Fonden">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Anchor Investment Advisors Inc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Amundi Japan Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Amundi (UK)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Ampega Investment AG">
+    <node id="Anima SGR S.p.A.">
       <data key="type">Investor</data>
     </node>
     <node id="American Express Asset Management Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Allianz Global Investors France">
+    <node id="AXA Framlington Investment Management Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Allianz Dresdner Asset Management (ex Pimco)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Alliance Trust Savings Limited">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Alecta pensionsförsäkring, ömsesidigt">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Aktia Asset Management Oy Ab">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Aerion Fund Management Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Acadian Asset Management LLC">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Aberdeen Asset Management (Edinburgh)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="AXA Investment Managers UK Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="AXA Investment Managers Schweiz AG">
-      <data key="type">Investor</data>
-    </node>
-    <node id="AXA Bank Belgium S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="AQR Capital Management, LLC">
-      <data key="type">Investor</data>
-    </node>
-    <node id="APG Asset Management">
-      <data key="type">Investor</data>
-    </node>
-    <node id="ABN AMRO Asset Management Ltd. (Fortis)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="3C Asset Management Ab">
-      <data key="type">Investor</data>
-    </node>
-    <edge source="British Airways" target="Étoile Gestion">
+    <edge source="Zeon" target="Yokohama Rubber Co Ltd">
+      <data key="weight">4.8</data>
+    </edge>
+    <edge source="Zeon" target="Yasuda PaineWebber Mutual Fund Company Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Zeon" target="Yasuda Asset Management Co., Ltd.">
       <data key="weight">0.01</data>
     </edge>
-    <edge source="British Airways" target="Williams de Broë Private Investment Management Limited">
+    <edge source="Zeon" target="Warburg Invest Kapitalanlagegesellschaft mbH">
       <data key="weight">0.02</data>
     </edge>
-    <edge source="British Airways" target="WestLB Mellon Asset Management Kapitalanlagegesellschaft mbH">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="British Airways" target="West Midlands Pension Fund">
-      <data key="weight">0.14</data>
-    </edge>
-    <edge source="British Airways" target="Wesleyan Assurance Society">
-      <data key="weight">0.09</data>
-    </edge>
-    <edge source="British Airways" target="Wellington Management Company, LLP">
-      <data key="weight">6.34</data>
-    </edge>
-    <edge source="British Airways" target="Wellington International Management Company Pte. Ltd.">
+    <edge source="Zeon" target="UOB Asset Management Ltd.">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="British Airways" target="Warburg Invest Kapitalanlagegesellschaft mbH">
+    <edge source="Zeon" target="UFJ Trust Bank Ltd.">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="British Airways" target="Vontobel Asset Management, Inc.">
-      <data key="weight">0.0</data>
+    <edge source="Zeon" target="UFJ Trust Bank (Trust A)">
+      <data key="weight">4.08</data>
     </edge>
-    <edge source="British Airways" target="Veritas Investment Trust GmbH">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="Vanguard Group, Inc.">
-      <data key="weight">0.06</data>
-    </edge>
-    <edge source="British Airways" target="University of Toronto Asset Management Corporation">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="British Airways" target="Universities Superannuation Scheme Ltd. (USS)">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="British Airways" target="Universal-Investment-Gesellschaft mbH">
-      <data key="weight">0.06</data>
-    </edge>
-    <edge source="British Airways" target="Union Investment Institutional GmbH">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="Union Investment Group">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="UFJ Partners Asset Management Co., Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="UBS Wealth Management Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="UBS Global Asset Management (UK) Ltd.">
-      <data key="weight">0.19</data>
-    </edge>
-    <edge source="British Airways" target="UBS Global Asset Management (Switzerland)">
+    <edge source="Zeon" target="UFJ Partners Asset Management Co., Ltd.">
       <data key="weight">0.02</data>
     </edge>
-    <edge source="British Airways" target="UBS Global Asset Management (Japan) Ltd.">
+    <edge source="Zeon" target="Tokio Marine Asset Management Co., Ltd.">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="British Airways" target="UBS Global Asset Management (Americas), Inc.">
+    <edge source="Zeon" target="Sumitomo Mitsui Asset Management Company, Limited">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="British Airways" target="UBS Gestión, S.G.I.I.C., S.A.">
+    <edge source="Zeon" target="State Street Global Advisors (France) S.A.">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="British Airways" target="UBS Deutschland AG">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="UBS (Luxembourg) S.A.">
-      <data key="weight">0.04</data>
-    </edge>
-    <edge source="British Airways" target="Troy Asset Management Limited">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="British Airways" target="TrendConcept Vermögensverwaltung GmbH">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="British Airways" target="Trailfinders Limited">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="Threadneedle Asset Management Ltd.">
-      <data key="weight">0.68</data>
-    </edge>
-    <edge source="British Airways" target="The Retirement Systems of Alabama">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="British Airways" target="The National Farmers Union Mutual Insurance Society Limited">
-      <data key="weight">0.17</data>
-    </edge>
-    <edge source="British Airways" target="The Glenmede Trust Company, N.A.">
-      <data key="weight">0.57</data>
-    </edge>
-    <edge source="British Airways" target="The Boston Company Asset Management, LLC">
-      <data key="weight">1.26</data>
-    </edge>
-    <edge source="British Airways" target="Templeton Investment Counsel, LLC">
-      <data key="weight">0.74</data>
-    </edge>
-    <edge source="British Airways" target="Teachers Investment Management Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="Teacher Retirement System of Texas">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="British Airways" target="Taube, Hodson, Stonex Partners, LLP">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="TT International">
-      <data key="weight">0.19</data>
-    </edge>
-    <edge source="British Airways" target="TRW Investment Management Company Ltd.">
-      <data key="weight">0.06</data>
-    </edge>
-    <edge source="British Airways" target="TIAA-CREF">
-      <data key="weight">0.12</data>
-    </edge>
-    <edge source="British Airways" target="TD Asset Management USA, Inc.">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="British Airways" target="T. Rowe Price International (UK) Ltd.">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="British Airways" target="Swisscanto Asset Management AG">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="Swiss Life Asset Management">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="British Airways" target="Swiss &amp; Global Asset Management Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="Sumitomo Mitsui Trust Bank, Limited">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="Street (Mike)">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="Storebrand Kapitalforvaltning AS">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="British Airways" target="Stevens (Derek Maurice)">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="British Airways" target="Stevens (Clare)">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="British Airways" target="State Street Global Advisors Ireland Limited">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="British Airways" target="State Street Global Advisors AG">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="State Street Global Advisors (US)">
-      <data key="weight">0.19</data>
-    </edge>
-    <edge source="British Airways" target="State Street Global Advisors (UK) Ltd.">
-      <data key="weight">0.12</data>
-    </edge>
-    <edge source="British Airways" target="State Street Global Advisors (Japan) Co., Ltd.">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="British Airways" target="State Street Global Advisors (France) S.A.">
-      <data key="weight">0.06</data>
-    </edge>
-    <edge source="British Airways" target="Standish Mellon Asset Management Company LLC">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="British Airways" target="Standard Life Investments Ltd.">
-      <data key="weight">1.79</data>
-    </edge>
-    <edge source="British Airways" target="Sparkasse Oberösterreich Kapitalanlagegesellschaft mbH">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="British Airways" target="South Yorkshire Pensions Authority">
+    <edge source="Zeon" target="Shinko Asset Management Co., Ltd.">
       <data key="weight">0.08</data>
     </edge>
-    <edge source="British Airways" target="Société Générale Asset Management (France)">
-      <data key="weight">0.1</data>
-    </edge>
-    <edge source="British Airways" target="Shell Asset Management Company B.V.">
-      <data key="weight">0.14</data>
-    </edge>
-    <edge source="British Airways" target="Sharepeople Limited">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="British Airways" target="Semper Constantia Invest GmbH">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="British Airways" target="Seitz Raymond George Hardenbergh">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="Seguros Bilbao Fondos S.G.I.I.C., S.A.">
+    <edge source="Zeon" target="STANLIB Asset Management Ltd.">
       <data key="weight">0.01</data>
     </edge>
-    <edge source="British Airways" target="Scottish Widows Investment Partnership Ltd.">
-      <data key="weight">0.2</data>
-    </edge>
-    <edge source="British Airways" target="Schroder Investment Management Ltd. (SIM)">
-      <data key="weight">0.54</data>
-    </edge>
-    <edge source="British Airways" target="Schroder Investment Management (Japan) Ltd.">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="British Airways" target="Scale Venture Partners">
+    <edge source="Zeon" target="Resona Asset Management Co., Ltd.">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="British Airways" target="Saudi Arabian Monetary Agency">
-      <data key="weight">0.04</data>
+    <edge source="Zeon" target="Prigest S.A.">
+      <data key="weight">0.01</data>
     </edge>
-    <edge source="British Airways" target="Santander Asset Management UK Limited">
-      <data key="weight">0.05</data>
+    <edge source="Zeon" target="Okasan Asset Management Co., Ltd.">
+      <data key="weight">0.19</data>
     </edge>
-    <edge source="British Airways" target="Santander Asset Management">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="Sanlam Life &amp; Pensions UK Limited">
+    <edge source="Zeon" target="Norinchukin Zenkyoren Asset Management Co., Ltd.">
       <data key="weight">0.03</data>
     </edge>
-    <edge source="British Airways" target="Sanderson Asset Management, Ltd.">
-      <data key="weight">0.0</data>
+    <edge source="Zeon" target="Norges Bank Investment Management (NBIM)">
+      <data key="weight">0.06</data>
     </edge>
-    <edge source="British Airways" target="Sampo Rahastoyhtiö Oy">
-      <data key="weight">0.0</data>
+    <edge source="Zeon" target="Nomura Trust &amp; Banking (Trust)">
+      <data key="weight">2.0</data>
     </edge>
-    <edge source="British Airways" target="SVM Asset Management Limited">
-      <data key="weight">0.05</data>
-    </edge>
-    <edge source="British Airways" target="SOMPO JAPAN NIPPONKOA Asset Management Co., Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="SINOPIA Asset Management">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="SEI Investments Canada">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="SAM Sustainable Asset Management Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="Russell Investments">
-      <data key="weight">0.35</data>
-    </edge>
-    <edge source="British Airways" target="Rothschild et Cie Gestion">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="Robeco Institutional Asset Management B.V.">
-      <data key="weight">0.22</data>
-    </edge>
-    <edge source="British Airways" target="Rishton Mike">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="Rio Tinto Pension Investments Ltd.">
-      <data key="weight">0.05</data>
-    </edge>
-    <edge source="British Airways" target="Resona Bank, Ltd.">
-      <data key="weight">0.12</data>
-    </edge>
-    <edge source="British Airways" target="Rensburg Sheppards Investment Management Limited">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="Reliance Mutual Insurance Society Ltd.">
-      <data key="weight">0.07</data>
-    </edge>
-    <edge source="British Airways" target="Read (Martin Peter)">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="Rabobank Nederland">
-      <data key="weight">0.14</data>
-    </edge>
-    <edge source="British Airways" target="RCM Capital Management LLC">
-      <data key="weight">0.1</data>
-    </edge>
-    <edge source="British Airways" target="RCM (UK) Ltd.">
-      <data key="weight">0.05</data>
-    </edge>
-    <edge source="British Airways" target="RBC Asset Management UK Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="RAB Capital Limited">
-      <data key="weight">0.04</data>
-    </edge>
-    <edge source="British Airways" target="Quoniam Asset Management GmbH">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="Quilter">
-      <data key="weight">0.04</data>
-    </edge>
-    <edge source="British Airways" target="Putnam Investment Management, L.L.C.">
-      <data key="weight">0.04</data>
-    </edge>
-    <edge source="British Airways" target="Prudential Fixed Income">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="Professionals Financial Inc.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="Prima sgr S.p.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="Police Mutual Assurance Society Ltd.">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="British Airways" target="Pioneer Investments Kapitalanlagegesellschaft mbH">
+    <edge source="Zeon" target="Nomura Asset Management Deutschland KAG mbH">
       <data key="weight">0.15</data>
     </edge>
-    <edge source="British Airways" target="Pictet Asset Management Ltd.">
-      <data key="weight">0.17</data>
-    </edge>
-    <edge source="British Airways" target="Pictet &amp; Cie">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="British Airways" target="Philadelphia International Advisors, L.P.">
-      <data key="weight">0.57</data>
-    </edge>
-    <edge source="British Airways" target="Petercam S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="Pavilion Asset Management">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="Orbis Investment Management Limited">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="Oppenheim Kapitalanlagegesellschaft mbH">
-      <data key="weight">0.12</data>
-    </edge>
-    <edge source="British Airways" target="Ontario Power Generation Pension Fund">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="British Airways" target="Old Mutual Asset Managers (UK) Ltd.">
-      <data key="weight">0.06</data>
-    </edge>
-    <edge source="British Airways" target="Oaktree Capital Management Limited">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="Nottinghamshire County Council Pension Fund">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="British Airways" target="Northern Trust Global Investments Limited">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="Norges Bank Investment Management (NBIM)">
-      <data key="weight">0.12</data>
-    </edge>
-    <edge source="British Airways" target="Nikko Asset Management Co., Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="Nicholas-Applegate Capital Management, LLC">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="New Jersey Division of Investment (Int'l)">
-      <data key="weight">0.18</data>
-    </edge>
-    <edge source="British Airways" target="New Jersey Division of Investment">
-      <data key="weight">0.18</data>
-    </edge>
-    <edge source="British Airways" target="Neuflize OBC Investissements">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="Natixis Asset Management">
-      <data key="weight">0.04</data>
-    </edge>
-    <edge source="British Airways" target="Nationwide Funds Group">
-      <data key="weight">0.1</data>
-    </edge>
-    <edge source="British Airways" target="National Bank Trust">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="British Airways" target="Natexis Asset Management">
-      <data key="weight">0.05</data>
-    </edge>
-    <edge source="British Airways" target="Münchner Kapitalanlage AG">
-      <data key="weight">0.09</data>
-    </edge>
-    <edge source="British Airways" target="Morgan Stanley Investment Management Ltd. (UK)">
-      <data key="weight">0.58</data>
-    </edge>
-    <edge source="British Airways" target="Morgan Stanley Investment Management Inc. (US)">
-      <data key="weight">0.11</data>
-    </edge>
-    <edge source="British Airways" target="Morgan Stanley Investment Management (Japan) Co., Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="Mondrian Investment Partners Limited">
-      <data key="weight">1.2</data>
-    </edge>
-    <edge source="British Airways" target="Mizuho Trust &amp; Banking Co., Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="Mizuho Trust &amp; Banking (Luxembourg) S.A.">
-      <data key="weight">0.09</data>
-    </edge>
-    <edge source="British Airways" target="Mizuho Asset Management Co., Ltd.">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="British Airways" target="Mitsubishi UFJ Trust and Banking Corporation">
-      <data key="weight">0.2</data>
-    </edge>
-    <edge source="British Airways" target="Mitsubishi UFJ Asset Management (UK) Ltd.">
-      <data key="weight">0.12</data>
-    </edge>
-    <edge source="British Airways" target="Metzler Asset Management GmbH">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="MetLife Alico M.F.C.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="Merseyside Pension Fund">
-      <data key="weight">0.17</data>
-    </edge>
-    <edge source="British Airways" target="Mercator Asset Management, L.P.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="Meditor Capital Management Limited">
-      <data key="weight">0.25</data>
-    </edge>
-    <edge source="British Airways" target="Mastholm Asset Management, L.L.C.">
-      <data key="weight">0.06</data>
-    </edge>
-    <edge source="British Airways" target="Martin Currie Investment Management Ltd.">
-      <data key="weight">0.12</data>
-    </edge>
-    <edge source="British Airways" target="Marsico Capital Management, L.L.C.">
-      <data key="weight">0.09</data>
-    </edge>
-    <edge source="British Airways" target="Mars Asset Management Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="Marathon Asset Management LLP">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="Mackenzie Financial Corporation">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="MFS Investment Management">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="MFI Asset Management GmbH">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="MFC Global Investment Management (Canada)">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="MEAG Securities Management GmbH">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="MEAG Munich ERGO Kapitalanlagegesellschaft mbH">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="M &amp; G Investment Management Ltd.">
-      <data key="weight">0.48</data>
-    </edge>
-    <edge source="British Airways" target="Lord Robin William Renwick of Clifton">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="Lord Marshall Of Knightsbridge (Colin)">
+    <edge source="Zeon" target="Nissay Asset Management Corp.">
       <data key="weight">0.01</data>
     </edge>
-    <edge source="British Airways" target="Lombard Odier Darier Hentsch &amp; Cie">
-      <data key="weight">0.14</data>
+    <edge source="Zeon" target="Nippon Life Insurance Company">
+      <data key="weight">2.6</data>
     </edge>
-    <edge source="British Airways" target="Liverpool Victoria Asset Management Limited">
-      <data key="weight">0.68</data>
-    </edge>
-    <edge source="British Airways" target="Lion Global Investors Limited">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="Legal &amp; General Investment Management Ltd. (UK)">
-      <data key="weight">3.02</data>
-    </edge>
-    <edge source="British Airways" target="Lafarge Investment Management Limited">
-      <data key="weight">0.06</data>
-    </edge>
-    <edge source="British Airways" target="LBB-Invest">
-      <data key="weight">0.12</data>
-    </edge>
-    <edge source="British Airways" target="Kvaerner Pensions Investment Management Ltd.">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="British Airways" target="Kuwait Investment Office">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="Kuntien Eläkevakuutus">
-      <data key="weight">0.13</data>
-    </edge>
-    <edge source="British Airways" target="Kredietrust Luxembourg S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="King &amp; Shaxson Asset Management Ltd.">
-      <data key="weight">0.3</data>
-    </edge>
-    <edge source="British Airways" target="Killik Asset Management">
-      <data key="weight">0.04</data>
-    </edge>
-    <edge source="British Airways" target="Kames Capital">
-      <data key="weight">1.98</data>
-    </edge>
-    <edge source="British Airways" target="KP Pension &amp; Försäkring">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="British Airways" target="KBC Asset Management N.V.">
-      <data key="weight">0.04</data>
-    </edge>
-    <edge source="British Airways" target="Jupiter Asset Management Ltd.">
-      <data key="weight">0.12</data>
-    </edge>
-    <edge source="British Airways" target="Julius Meinl Investment Gesellschaft mbH">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="Jeffrey (Michael)">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="James Brearley &amp; Sons Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="JPMorgan Gestión, S.G.I.I.C., S.A.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="British Airways" target="JPMorgan Asset Management U.K. Limited">
-      <data key="weight">2.89</data>
-    </edge>
-    <edge source="British Airways" target="JPMorgan Asset Management (Europe)">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="British Airways" target="JP Morgan Asset Management">
-      <data key="weight">0.07</data>
-    </edge>
-    <edge source="British Airways" target="J.P. Morgan Investment Management (Japan) Inc.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="J.P. Morgan Asset Management (Hong Kong) Ltd.">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="British Airways" target="Iveagh Trustees Ltd.">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="British Airways" target="Irish Life Investment Managers Ltd.">
-      <data key="weight">0.06</data>
-    </edge>
-    <edge source="British Airways" target="Investec Wealth &amp; Investment Limited">
-      <data key="weight">0.27</data>
-    </edge>
-    <edge source="British Airways" target="Investec Asset Management Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="Inversis Gestión, S.A., SGIIC">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="Inverseguros Gestión S.A. SGIIC">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="InverCaixa Gestión S.G.I.I.C., S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="Insight Investment Management (Global) Limited">
-      <data key="weight">0.12</data>
-    </edge>
-    <edge source="British Airways" target="Ibercaja Gestión S.G.I.I.C., S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="ISIS Asset Management p.l.c.">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="British Airways" target="INVESCO Asset Management Limited">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="INVESCO Asset Management Deutschland GmbH">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="British Airways" target="ING Investment Management (Belgium) (Inactive)">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="British Airways" target="IBM Retirement Fund">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="British Airways" target="IAG Asset Management Ltd.">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="British Airways" target="Hermes Fund Managers Limited">
-      <data key="weight">0.71</data>
-    </edge>
-    <edge source="British Airways" target="Henderson Global Investors Ltd.">
-      <data key="weight">0.43</data>
-    </edge>
-    <edge source="British Airways" target="Havenport Asset Management Pte. Ltd.">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="British Airways" target="Harvard Management Company, Inc.">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="British Airways" target="Hargreaves Lansdown Asset Management">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="British Airways" target="Hansberger Global Investors, Inc. (US)">
-      <data key="weight">0.09</data>
-    </edge>
-    <edge source="British Airways" target="Handelsbanken Asset Management">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="Haggas (John Brian)">
-      <data key="weight">0.04</data>
-    </edge>
-    <edge source="British Airways" target="HSBC Global Asset Management (UK) Limited">
-      <data key="weight">0.25</data>
-    </edge>
-    <edge source="British Airways" target="HSBC Global Asset Management (France)">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="HSBC Bank Bermuda Limited">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="Gulf International Bank (UK) Limited">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="British Airways" target="Government of Singapore Investment Corporation Pte Ltd">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="Government of Singapore Investment Corp. (UK) Private Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="Goldman Sachs Asset Management International">
+    <edge source="Zeon" target="Nikko Asset Management Co., Ltd.">
       <data key="weight">0.54</data>
     </edge>
-    <edge source="British Airways" target="Goldman Sachs Asset Management Co., Ltd.">
-      <data key="weight">0.23</data>
-    </edge>
-    <edge source="British Airways" target="Glasgow Investment Managers Ltd.">
-      <data key="weight">0.04</data>
-    </edge>
-    <edge source="British Airways" target="Generali Investments Italy SGR S.p.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="Generali Investments Deutschland Kapitalanlagegesellschaft m">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="British Airways" target="Gartmore Investment Management Limited">
-      <data key="weight">0.38</data>
-    </edge>
-    <edge source="British Airways" target="Ganguly (Ashok S)">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="Gaesco Gestión S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="GMO UK Limited">
-      <data key="weight">0.14</data>
-    </edge>
-    <edge source="British Airways" target="GM Asset Management">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="British Airways" target="GLG Partners UK Limited">
-      <data key="weight">0.34</data>
-    </edge>
-    <edge source="British Airways" target="GLG Partners LP">
-      <data key="weight">1.29</data>
-    </edge>
-    <edge source="British Airways" target="GAM London Limited">
-      <data key="weight">0.99</data>
-    </edge>
-    <edge source="British Airways" target="Första AP-Fonden">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="British Airways" target="Fullerton Fund Management Company Ltd.">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="British Airways" target="Fuji Investment Management Co., Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="Franklin Templeton Investment Management Ltd.">
-      <data key="weight">6.9</data>
-    </edge>
-    <edge source="British Airways" target="Franklin Equity Group">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="British Airways" target="Fortis Gesbeta S.G.I.I.C., S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="First State Investments (UK) Ltd.">
-      <data key="weight">0.1</data>
-    </edge>
-    <edge source="British Airways" target="First State Investments (U.K.) Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="First State Investments (HK) Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="Fifth Third Asset Management, Inc.">
-      <data key="weight">0.05</data>
-    </edge>
-    <edge source="British Airways" target="Fifth Third Asset Management (Michigan)">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="Fideuram Investimenti SGR S.p.A.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="British Airways" target="Fidelity Worldwide Investment (UK) Ltd.">
-      <data key="weight">2.83</data>
-    </edge>
-    <edge source="British Airways" target="Fidelity Management &amp; Research Company">
-      <data key="weight">0.65</data>
-    </edge>
-    <edge source="British Airways" target="FIL Investment Management (Hong Kong) Limited">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="F&amp;C Asset Management plc">
-      <data key="weight">2.28</data>
-    </edge>
-    <edge source="British Airways" target="Eurobank EFG Mutual Funds Management Company S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="Eurizon Capital SGR S.p.A.">
+    <edge source="Zeon" target="Münchner Kapitalanlage AG">
       <data key="weight">0.03</data>
     </edge>
-    <edge source="British Airways" target="Eurizon Capital S.A.">
-      <data key="weight">0.03</data>
+    <edge source="Zeon" target="Morgan Stanley Investment Management Ltd. (UK)">
+      <data key="weight">0.73</data>
     </edge>
-    <edge source="British Airways" target="Esemplia Emerging Markets">
-      <data key="weight">0.02</data>
+    <edge source="Zeon" target="Mizuho Corporate Bank, Ltd.">
+      <data key="weight">4.99</data>
     </edge>
-    <edge source="British Airways" target="Edmond de Rothschild Asset Management">
-      <data key="weight">0.0</data>
+    <edge source="Zeon" target="Mizuho Bank, Ltd.">
+      <data key="weight">3.68</data>
     </edge>
-    <edge source="British Airways" target="Ecclesiastical Investment Management Ltd.">
-      <data key="weight">0.02</data>
+    <edge source="Zeon" target="Mizuho Asset Management Co., Ltd.">
+      <data key="weight">0.16</data>
     </edge>
-    <edge source="British Airways" target="EMA Textiles Ltd">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="EFG Harris Allday">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="EFG Bank AS">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="E.Öhman J:or Fonder AB">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="Dresdner Bank Luxembourg S.A.">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="British Airways" target="Dorset County Pension Fund">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="British Airways" target="DnB NOR Asset Management (UK) Ltd.">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="British Airways" target="Dexia Asset Management Luxembourg S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="Dexia Asset Management Belgium S.A.">
+    <edge source="Zeon" target="Mitsubishi UFJ Asset Management Co., Ltd.">
       <data key="weight">0.01</data>
     </edge>
-    <edge source="British Airways" target="Deutsche Postbank Financial Services GmbH">
-      <data key="weight">0.0</data>
+    <edge source="Zeon" target="Mandatum Omaisuudenhoito Oy">
+      <data key="weight">0.12</data>
     </edge>
-    <edge source="British Airways" target="Deutsche Investment Management Americas, Inc.">
-      <data key="weight">0.04</data>
-    </edge>
-    <edge source="British Airways" target="Deutsche Bank Private Wealth Management Limited (Inactive)">
-      <data key="weight">0.19</data>
-    </edge>
-    <edge source="British Airways" target="Deutsche Bank Private Wealth Management Limited">
-      <data key="weight">0.18</data>
-    </edge>
-    <edge source="British Airways" target="Deutsche Asset Management Investmentgesellschaft mbH">
-      <data key="weight">0.11</data>
-    </edge>
-    <edge source="British Airways" target="Deutsche Asset Management Americas">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="British Airways" target="Delta Lloyd Investment Managers GmbH">
-      <data key="weight">0.09</data>
-    </edge>
-    <edge source="British Airways" target="Delaware Investments">
-      <data key="weight">0.27</data>
-    </edge>
-    <edge source="British Airways" target="Deka Investment GmbH">
-      <data key="weight">0.07</data>
-    </edge>
-    <edge source="British Airways" target="Davies (Angie Michael)">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="Daiwa SB Investments (UK) Ltd.">
+    <edge source="Zeon" target="Lemanik S.A.">
       <data key="weight">0.02</data>
     </edge>
-    <edge source="British Airways" target="Daiwa Asset Management Co., Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="DZ Capital Management GmbH">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="Crédit Suisse Gestión S.G.I.I.C., S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="Crédit Lyonnais Asset Management S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="Crédit Foncier de Monaco SAM">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="British Airways" target="Credit Suisse Asset Management, LLC (US)">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="Credit Suisse Asset Management Limited">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="Credit Suisse Asset Management">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="Credit Suisse (Luxembourg) S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="Credit Lyonnais International Asset Mgmt (Japan) Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="Cominvest Asset Management GmbH">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="Comerica, Inc.">
-      <data key="weight">0.05</data>
-    </edge>
-    <edge source="British Airways" target="Columbia Management Investment Advisers, LLC">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="Co-operative Asset Management">
-      <data key="weight">0.13</data>
-    </edge>
-    <edge source="British Airways" target="City of Edinburgh Council">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="City Financial Asset Management Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="Chuo Mitsui Asset Trust and Banking Company, Limited">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="Chase Manhattan Ahorro S.G.I.I.C., S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="Charles Schwab Investment Management, Inc.">
-      <data key="weight">0.48</data>
-    </edge>
-    <edge source="British Airways" target="Causeway Capital Management LLC">
-      <data key="weight">0.23</data>
-    </edge>
-    <edge source="British Airways" target="Caterpillar Investment Management Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="Capitalia Asset Management SGR S.p.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="Capital World Investors">
-      <data key="weight">0.42</data>
-    </edge>
-    <edge source="British Airways" target="Capital Research Global Investors">
-      <data key="weight">0.44</data>
-    </edge>
-    <edge source="British Airways" target="Capital Research &amp; Management Company">
-      <data key="weight">7.34</data>
-    </edge>
-    <edge source="British Airways" target="Capital International S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="Capital International Ltd.">
-      <data key="weight">6.98</data>
-    </edge>
-    <edge source="British Airways" target="Capital Guardian Trust Company">
-      <data key="weight">0.2</data>
-    </edge>
-    <edge source="British Airways" target="Caisse de Depot et Placement du Quebec">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="British Airways" target="CPP Investment Board">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="British Airways" target="CIBC Global Asset Management Asia Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="CI Investments Inc.">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="British Airways" target="CAAM SGR S.p.A.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="British Airways" target="CA Cheuvreux Ltd. (UK)">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="Brown Brothers Harriman &amp; Company">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="British Airways" target="Broughton (Sir Martin Faulkner)">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="British Airways Employee Benefit Trustees (Jersey) Ltd.">
-      <data key="weight">1.19</data>
-    </edge>
-    <edge source="British Airways" target="Brewin Dolphin Limited">
-      <data key="weight">0.08</data>
-    </edge>
-    <edge source="British Airways" target="Brandes Investment Partners, LP">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="British Airways" target="BlackRock Investment Management (UK) Ltd.">
-      <data key="weight">0.49</data>
-    </edge>
-    <edge source="British Airways" target="BlackRock Institutional Trust Company, N.A.">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="British Airways" target="BlackRock Asset Management Deutschland AG">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="BlackRock Advisors (UK) Limited">
-      <data key="weight">4.16</data>
-    </edge>
-    <edge source="British Airways" target="Bissett Investment Management Ltd.">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="British Airways" target="Bessemer Trust Company, N.A. (US)">
-      <data key="weight">0.15</data>
-    </edge>
-    <edge source="British Airways" target="BayernLB">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="British Airways" target="BayernInvest Kapitalanlagegesellschaft mbH">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="British Airways" target="Baroness O'Cathain">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="Barnes (Colin Edward)">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="Baring Asset Management Ltd.">
-      <data key="weight">0.29</data>
-    </edge>
-    <edge source="British Airways" target="Barclays Wealth">
-      <data key="weight">0.08</data>
-    </edge>
-    <edge source="British Airways" target="Barclays Private Bank (U.K.)">
+    <edge source="Zeon" target="Kokusai Asset Management Co., Ltd.">
       <data key="weight">0.06</data>
     </edge>
-    <edge source="British Airways" target="Barclays Global Investors Japan Ltd.">
+    <edge source="Zeon" target="JPMorgan Asset Management U.K. Limited">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="British Airways" target="Banque et Caisse d'Epargne de l'Etat Luxembourg">
+    <edge source="Zeon" target="JPMorgan Asset Management (Japan) Limited">
+      <data key="weight">0.03</data>
+    </edge>
+    <edge source="Zeon" target="HSBC Global Asset Management (France)">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="British Airways" target="Banque Privée Edmond de Rothschild Europe">
-      <data key="weight">0.0</data>
+    <edge source="Zeon" target="HANSAINVEST Hanseatische Investment GmbH">
+      <data key="weight">0.03</data>
     </edge>
-    <edge source="British Airways" target="Banque Degroof S.A.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="British Airways" target="Bank of Scotland Portfolio Management Service">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="Bank Vontobel AG (Private Banking)">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="Banif Gestión S.G.I.I.C., S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="Banca Albertini Syz &amp; C. S.p.A">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="BWInvest">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="BP Investment Management Limited">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="BNP Paribas Investment Partners UK Limited">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="BNP Paribas Investment Partners (France)">
-      <data key="weight">0.05</data>
-    </edge>
-    <edge source="British Airways" target="BMO Asset Management U.S.">
-      <data key="weight">0.05</data>
-    </edge>
-    <edge source="British Airways" target="BGL BNP Paribas">
+    <edge source="Zeon" target="Goldman Sachs Asset Management Co., Ltd.">
       <data key="weight">0.02</data>
     </edge>
-    <edge source="British Airways" target="BBVA Patrimonios Gestora S.G.I.I.C., S.A.">
-      <data key="weight">0.0</data>
+    <edge source="Zeon" target="Furukawa Electric Co Ltd">
+      <data key="weight">6.2</data>
     </edge>
-    <edge source="British Airways" target="BAE Systems Pension Funds Investment Management Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="Aviva Investors Global Services Limited">
-      <data key="weight">0.94</data>
-    </edge>
-    <edge source="British Airways" target="Avanse Forvaltning A/S">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="British Airways" target="Assurant Asset Management">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="Artemis Investment Management LLP">
+    <edge source="Zeon" target="Fuji Investment Management Co., Ltd.">
       <data key="weight">0.02</data>
     </edge>
-    <edge source="British Airways" target="Argenta Fund">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="Arca SGR S.p.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="Arca BIM S.p.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="Anima SGR.p.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="Andra AP-Fonden">
+    <edge source="Zeon" target="Fidelity Worldwide Investment (UK) Ltd.">
       <data key="weight">0.01</data>
     </edge>
-    <edge source="British Airways" target="Anchor Investment Advisors Inc.">
-      <data key="weight">0.03</data>
+    <edge source="Zeon" target="FIL Investments (Japan) Limited">
+      <data key="weight">0.13</data>
     </edge>
-    <edge source="British Airways" target="Amundi Japan Ltd.">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="British Airways" target="Amundi (UK)">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="British Airways" target="Ampega Investment AG">
+    <edge source="Zeon" target="Deutsche Bank Private Wealth Management Limited (Inactive)">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="British Airways" target="American Express Asset Management Ltd.">
-      <data key="weight">0.63</data>
+    <edge source="Zeon" target="Daiwa Asset Management Co., Ltd.">
+      <data key="weight">0.26</data>
     </edge>
-    <edge source="British Airways" target="Allianz Global Investors France">
-      <data key="weight">0.03</data>
+    <edge source="Zeon" target="DWS Investments Italy SGR S.p.A.">
+      <data key="weight">0.1</data>
     </edge>
-    <edge source="British Airways" target="Allianz Dresdner Asset Management (ex Pimco)">
-      <data key="weight">0.0</data>
+    <edge source="Zeon" target="DWS Investment GmbH">
+      <data key="weight">0.17</data>
     </edge>
-    <edge source="British Airways" target="Alliance Trust Savings Limited">
-      <data key="weight">0.04</data>
-    </edge>
-    <edge source="British Airways" target="Alecta pensionsförsäkring, ömsesidigt">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="Aktia Asset Management Oy Ab">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="British Airways" target="Aerion Fund Management Ltd.">
-      <data key="weight">0.05</data>
-    </edge>
-    <edge source="British Airways" target="Acadian Asset Management LLC">
+    <edge source="Zeon" target="Credit Suisse Asset Management Limited">
       <data key="weight">0.11</data>
     </edge>
-    <edge source="British Airways" target="Aberdeen Asset Management (Edinburgh)">
+    <edge source="Zeon" target="Chuo Mitsui Asset Management Co., Ltd.">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="British Airways" target="AXA Investment Managers UK Ltd.">
-      <data key="weight">0.14</data>
-    </edge>
-    <edge source="British Airways" target="AXA Investment Managers Schweiz AG">
+    <edge source="Zeon" target="Chase Manhattan Ahorro S.G.I.I.C., S.A.">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="British Airways" target="AXA Bank Belgium S.A.">
+    <edge source="Zeon" target="CatalunyaCaixa Inversio S.G.I.I.C. S.A.">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="British Airways" target="AQR Capital Management, LLC">
+    <edge source="Zeon" target="Bee &amp; Associates">
+      <data key="weight">0.15</data>
+    </edge>
+    <edge source="Zeon" target="Barclays Global Investors Japan Ltd.">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="British Airways" target="APG Asset Management">
-      <data key="weight">0.02</data>
+    <edge source="Zeon" target="BNP Paribas Investment Partners Japan Ltd.">
+      <data key="weight">0.08</data>
     </edge>
-    <edge source="British Airways" target="ABN AMRO Asset Management Ltd. (Fortis)">
+    <edge source="Zeon" target="Ashburton (Jersey) Ltd.">
+      <data key="weight">0.12</data>
+    </edge>
+    <edge source="Zeon" target="Asahi Mutual Life Insurance Co.">
+      <data key="weight">3.17</data>
+    </edge>
+    <edge source="Zeon" target="Asahi Kasei Corp">
+      <data key="weight">2.65</data>
+    </edge>
+    <edge source="Zeon" target="Asahi Chemical">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="British Airways" target="3C Asset Management Ab">
+    <edge source="Zeon" target="Arcus Investment Ltd.">
+      <data key="weight">0.08</data>
+    </edge>
+    <edge source="Zeon" target="Anima SGR S.p.A.">
       <data key="weight">0.0</data>
+    </edge>
+    <edge source="Zeon" target="American Express Asset Management Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Zeon" target="AXA Framlington Investment Management Ltd.">
+      <data key="weight">0.03</data>
     </edge>
   </graph>
 </graphml>

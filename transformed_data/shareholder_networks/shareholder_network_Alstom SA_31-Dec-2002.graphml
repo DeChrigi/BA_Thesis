@@ -3,295 +3,88 @@
   <key id="weight" for="edge" attr.name="weight" attr.type="double" />
   <key id="type" for="node" attr.name="type" attr.type="string" />
   <graph edgedefault="undirected">
-    <node id="Alstom SA">
+    <node id="Zeon">
       <data key="type">Company</data>
     </node>
-    <node id="Étoile Gestion">
+    <node id="Yokohama Rubber Co Ltd">
       <data key="type">Investor</data>
     </node>
-    <node id="Zürcher Kantonalbank (Asset Management)">
+    <node id="Yasuda PaineWebber Mutual Fund Company Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Zurich France">
-      <data key="type">Investor</data>
-    </node>
-    <node id="WestLB Mellon Asset Management Kapitalanlagegesellschaft mbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Wesleyan Assurance Society">
+    <node id="Yasuda Asset Management Co., Ltd.">
       <data key="type">Investor</data>
     </node>
     <node id="Warburg Invest Kapitalanlagegesellschaft mbH">
       <data key="type">Investor</data>
     </node>
-    <node id="Vital Gestion S.A., S.G.I.I.C.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Van Lanschot Bankiers (Luxembourg) S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Value Management &amp; Research AG (VMR)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Urquijo Gestión, S.A., S.G.I.I.C., Sociedad Unipersonal">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Universal-Investment-Gesellschaft mbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Union Investment Institutional GmbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Union Investment Group">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Union Bancaire Privée">
-      <data key="type">Investor</data>
-    </node>
     <node id="UOB Asset Management Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="UFJ Trust Bank Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="UFJ Trust Bank (Trust A)">
       <data key="type">Investor</data>
     </node>
     <node id="UFJ Partners Asset Management Co., Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="UBS Global Asset Management (Switzerland)">
+    <node id="Tokio Marine Asset Management Co., Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="UBS Gestión, S.G.I.I.C., S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Trusteam Finance">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Trident Investment Management, L.L.C.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Transatlantique Gestion">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Threadneedle Asset Management Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Templeton Asset Management Ltd. (Emerging Markets)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Templeton Asset Management (Singapore) Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Swisscanto Asset Management AG">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Swiss Life France">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Swiss Life Deutschland">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Swiss Life Asset Management">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Swiss Life (España) S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Swiss &amp; Global Asset Management Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Swedbank Robur AB">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Suravenir Assurances Vie">
-      <data key="type">Investor</data>
-    </node>
-    <node id="State Street Global Advisors AG">
-      <data key="type">Investor</data>
-    </node>
-    <node id="State Street Global Advisors (UK) Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="State Street Global Advisors (Japan) Co., Ltd.">
+    <node id="Sumitomo Mitsui Asset Management Company, Limited">
       <data key="type">Investor</data>
     </node>
     <node id="State Street Global Advisors (France) S.A.">
       <data key="type">Investor</data>
     </node>
-    <node id="Société Générale Asset Management (France)">
+    <node id="Shinko Asset Management Co., Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Sionna Investment Managers Inc.">
+    <node id="STANLIB Asset Management Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Singer &amp; Friedlander Investment Management Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Seamark Asset Management Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Scottish Widows Investment Partnership Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Sceptre Investment Counsel Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Sarasin &amp; Partners LLP">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Santander Asset Management - S.G.F.I.M., S.A">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Santander Asset Management">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Sanlam Investment Management (Pty) Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="SOMPO JAPAN NIPPONKOA Asset Management Co., Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="SMA Gestion">
-      <data key="type">Investor</data>
-    </node>
-    <node id="SINOPIA Asset Management">
-      <data key="type">Investor</data>
-    </node>
-    <node id="SEB Investment GmbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="SCOR Global Investments">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Russell Investments Limited">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Rothschild et Cie Gestion">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Renta 4 Gestora, S.G.I.I.C., S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="RCM (UK) Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="RBC Investment Solutions (CI) Limited">
-      <data key="type">Investor</data>
-    </node>
-    <node id="RBC Global Asset Management Inc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="RBC Asset Management UK Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="R. C. Brown Investment Management PLC">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Quoniam Asset Management GmbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Prudential Fixed Income">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Privat Bank Patrimonio, S.A.U., S.G.I.I.C.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Prime Capital S.A.">
+    <node id="Resona Asset Management Co., Ltd.">
       <data key="type">Investor</data>
     </node>
     <node id="Prigest S.A.">
       <data key="type">Investor</data>
     </node>
-    <node id="Premium Select Lux S.A.">
+    <node id="Okasan Asset Management Co., Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Porter Orlin LLC">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Pioneer Investments Kapitalanlagegesellschaft mbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Pioneer Investment Management Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="PineBridge Investments Europe Limited">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Pictet Asset Management Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Pictet &amp; Cie">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Petercam S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Petercam (Luxembourg) S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Pavilion Asset Management">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Palatine Asset Management">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Oudart Gestion">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Orsay Asset Management S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Optimum Gestion Financière">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Ontario Teachers' Pension Plan Board">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Oddo Asset Management">
-      <data key="type">Investor</data>
-    </node>
-    <node id="OBC Gestion">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Northern Trust Global Investments Limited">
+    <node id="Norinchukin Zenkyoren Asset Management Co., Ltd.">
       <data key="type">Investor</data>
     </node>
     <node id="Norges Bank Investment Management (NBIM)">
       <data key="type">Investor</data>
     </node>
-    <node id="Nordinvest Norddeutsche Investment-Gesellschaft mbH">
+    <node id="Nomura Trust &amp; Banking (Trust)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Nomura Asset Management Deutschland KAG mbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Nissay Asset Management Corp.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Nippon Life Insurance Company">
       <data key="type">Investor</data>
     </node>
     <node id="Nikko Asset Management Co., Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Neuflize OBC Investissements">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Natixis Private Banking International">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Natixis Asset Management">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Natexis Asset Management">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Natcan Investment Management Inc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Mutuelle des Architectes Français Assurances">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Mutuelle de Poitiers Assurances">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Mutual Funds Leader, Inc.">
+    <node id="Münchner Kapitalanlage AG">
       <data key="type">Investor</data>
     </node>
     <node id="Morgan Stanley Investment Management Ltd. (UK)">
       <data key="type">Investor</data>
     </node>
-    <node id="Morgan Stanley Investment Management (Japan) Co., Ltd.">
+    <node id="Mizuho Corporate Bank, Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Monte Paschi Invest (France) S.A.S.">
+    <node id="Mizuho Bank, Ltd.">
       <data key="type">Investor</data>
     </node>
     <node id="Mizuho Asset Management Co., Ltd.">
@@ -300,1649 +93,278 @@
     <node id="Mitsubishi UFJ Asset Management Co., Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Metzler Asset Management GmbH">
+    <node id="Mandatum Omaisuudenhoito Oy">
       <data key="type">Investor</data>
     </node>
-    <node id="MetLife Alico M.F.C.">
+    <node id="Lemanik S.A.">
       <data key="type">Investor</data>
     </node>
-    <node id="Mercator Asset Management, L.P.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Meiji Yasuda Asset Management Company Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Marly Gestion">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Manulife Asset Management (Europe) Limited">
-      <data key="type">Investor</data>
-    </node>
-    <node id="MMA Finance">
-      <data key="type">Investor</data>
-    </node>
-    <node id="MFI Asset Management GmbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="MFC Global Investment Management (Canada)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="MEAG Securities Management GmbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="MEAG Munich ERGO Kapitalanlagegesellschaft mbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="M &amp; G Investment Management Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Lombard Odier Darier Hentsch &amp; Cie">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Lion Global Investors Limited">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Legal &amp; General Asset Management (France)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Le Continent">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Lazard Frères Gestion S.A.S.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Lazard Asset Management (Deutschland) GmbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="La REMA Assurances Mutuelles d'Eure-et-Loir">
-      <data key="type">Investor</data>
-    </node>
-    <node id="La Mondiale Gestion d'Actifs">
-      <data key="type">Investor</data>
-    </node>
-    <node id="La Banque Postale Asset Management">
-      <data key="type">Investor</data>
-    </node>
-    <node id="LBBW Asset Management Investmentgesellschaft mbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="KutxaGest S.G.I.I.C., S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Kempen Capital Management N.V.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Kempen Capital Management (UK) Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Kames Capital">
-      <data key="type">Investor</data>
-    </node>
-    <node id="KBL France Gestion">
-      <data key="type">Investor</data>
-    </node>
-    <node id="KBC Asset Management N.V.">
+    <node id="Kokusai Asset Management Co., Ltd.">
       <data key="type">Investor</data>
     </node>
     <node id="JPMorgan Asset Management U.K. Limited">
       <data key="type">Investor</data>
     </node>
-    <node id="JCF Group">
-      <data key="type">Investor</data>
-    </node>
-    <node id="J. O. Hambro Investment Management Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Investec Asset Management Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Invesco Canada Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Inverseguros Gestión S.A. SGIIC">
-      <data key="type">Investor</data>
-    </node>
-    <node id="InverCaixa Gestión S.G.I.I.C., S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="International Capital Gestion">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Inter Expansion S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Insight Investment Management (Global) Limited">
-      <data key="type">Investor</data>
-    </node>
-    <node id="ISIS Asset Management p.l.c.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="INVESCO Asset Management S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="INVESCO Asset Management Deutschland GmbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="ING Investment Management (France) S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="ING Investment Management (Belgium) (Inactive)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="ING Bank N.V.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Henderson Global Investors Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Helaba Invest Kapitalanlagegesellschaft mbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Handelsbanken Asset Management">
-      <data key="type">Investor</data>
-    </node>
-    <node id="HSBC Private Bank France">
-      <data key="type">Investor</data>
-    </node>
-    <node id="HSBC Global Asset Management Deutschland GmbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="HSBC Global Asset Management (Hong Kong) Limited">
+    <node id="JPMorgan Asset Management (Japan) Limited">
       <data key="type">Investor</data>
     </node>
     <node id="HSBC Global Asset Management (France)">
       <data key="type">Investor</data>
     </node>
-    <node id="Gérifonds S.A.">
+    <node id="HANSAINVEST Hanseatische Investment GmbH">
       <data key="type">Investor</data>
     </node>
-    <node id="Gérer Conseil S.A.">
+    <node id="Goldman Sachs Asset Management Co., Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Guipuzcoano S.G.I.I.C., S.A.">
+    <node id="Furukawa Electric Co Ltd">
       <data key="type">Investor</data>
     </node>
-    <node id="Groupama Asset Management">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Goldman Sachs Asset Management International">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Gestion Financière Privée S.A. (GEFIP)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Gestifondo S.G.I.I.C. S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Gescapital Gestión S.G.I.I.C., S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Gesalcalá S.G.I.I.C., S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Gerling-Konzern Gesellschaft für Vermögensmanagement mbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Generali Investments France S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Generali Investments Deutschland Kapitalanlagegesellschaft m">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Gaesco Gestión S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="GLG Partners UK Limited">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Första AP-Fonden">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Fédéris Gestion d'Actifs">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Franklin Templeton Investment Management Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Franklin Mutual Advisers, LLC">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Frankfurt-Trust Investment-Gesellschaft mbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Fortis Investments France">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Fortis Gesbeta S.G.I.I.C., S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Fortis Asset Management Japan Co., Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Fipagest">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Fideuram Investimenti SGR S.p.A.">
+    <node id="Fuji Investment Management Co., Ltd.">
       <data key="type">Investor</data>
     </node>
     <node id="Fidelity Worldwide Investment (UK) Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Federal Finance Gestion">
+    <node id="FIL Investments (Japan) Limited">
       <data key="type">Investor</data>
     </node>
-    <node id="FIM Asset Management Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="F. van Lanschot Bankiers N.V.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="F&amp;C Asset Management plc">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Eurizon Capital SGR S.p.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Eurizon Capital S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Espírito Santo Gestión, S.G.I.I.C., S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Ecureuil Gestion FCP">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Ecofi Investissements S.A">
-      <data key="type">Investor</data>
-    </node>
-    <node id="ESAF - Espírito Santo Activos Financeiros, S.G.P.S., S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="ERSTE-SPARINVEST Kapitalanlagegesellschaft mbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="EFG Bank AS">
-      <data key="type">Investor</data>
-    </node>
-    <node id="E.Öhman J:or Fonder AB">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Dr. Kohlhase Vermögensverwaltungsgesellschaft mbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Dexia Asset Management S.A. (France)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Dexia Asset Management Luxembourg S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Dexia Asset Management Belgium S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Deutsche Bank Private Wealth Management Limited">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Deutsche Asset Management Investmentgesellschaft mbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Delta Lloyd Investment Managers GmbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Delen Capfi Private Bank">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Deka Investment GmbH">
+    <node id="Deutsche Bank Private Wealth Management Limited (Inactive)">
       <data key="type">Investor</data>
     </node>
     <node id="Daiwa Asset Management Co., Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="DZ Capital Management GmbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="DWS Investments (Spain), S.G.I.I.C., S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="DWS Investments (France) S.A.">
+    <node id="DWS Investments Italy SGR S.p.A.">
       <data key="type">Investor</data>
     </node>
     <node id="DWS Investment GmbH">
       <data key="type">Investor</data>
     </node>
-    <node id="Crédit Mutuel Finance">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Crédit Maritime Gestion S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Crédit Lyonnais Asset Management S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Crédit Agricole Luxembourg Private Bank">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Crédit Agricole Indosuez Cheuvreux Gestions S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Crédit Agricole Asset Management SGR S.p.A.">
-      <data key="type">Investor</data>
-    </node>
     <node id="Credit Suisse Asset Management Limited">
       <data key="type">Investor</data>
     </node>
-    <node id="Credit Suisse Asset Management KAG mbH">
+    <node id="Chuo Mitsui Asset Management Co., Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Credit Suisse Asset Management Funds S.p.A.">
+    <node id="Chase Manhattan Ahorro S.G.I.I.C., S.A.">
       <data key="type">Investor</data>
     </node>
-    <node id="Credit Suisse Asset Management (France) S.A.">
+    <node id="CatalunyaCaixa Inversio S.G.I.I.C. S.A.">
       <data key="type">Investor</data>
     </node>
-    <node id="Credit Suisse Asset Management">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Credit Suisse (Deutschland) AG">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Crediges S.A.U. S.G.I.I.C.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Covéa Finance S.A.S.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Continent IARD">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Compagnie Européenne de Représentation Financière">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Cominvest Asset Management GmbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Collins Stewart Wealth Management">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Co-operative Asset Management">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Catella Fondförvaltning AB">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Carmignac Gestion">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Capfi Delen Asset Management">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Canada Life Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Cambiar Investors LLC">
-      <data key="type">Investor</data>
-    </node>
-    <node id="CamGestion">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Caixagest - Técnicas de Gestão de Fundos, S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Caisse de Depot et Placement du Quebec">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Caisse d'Assurance Mutuelle du B.T.P.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Caisse Centrale de Réassurance (CCR)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="CPR Asset Management">
-      <data key="type">Investor</data>
-    </node>
-    <node id="CPP Investment Board">
-      <data key="type">Investor</data>
-    </node>
-    <node id="CM-CIC Asset Management">
-      <data key="type">Investor</data>
-    </node>
-    <node id="CIC Nord Ouest Gestion">
-      <data key="type">Investor</data>
-    </node>
-    <node id="CIBC Global Asset Management Asia Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="CGA (Caisse Generale d'Assurances Mutuelles)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="CCR Chevrillon-Philippe">
-      <data key="type">Investor</data>
-    </node>
-    <node id="CCR Actions">
-      <data key="type">Investor</data>
-    </node>
-    <node id="CAI Cheuvreux Gestion">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Butterfield Bank (Guernsey) Limited">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Brown Capital Management, LLC">
-      <data key="type">Investor</data>
-    </node>
-    <node id="BlackRock Asset Management Deutschland AG">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Bissett Investment Management Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Bishop Street Capital Management Corp">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Bestinver Gestión S.G.I.I.C. S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="BayernLB">
-      <data key="type">Investor</data>
-    </node>
-    <node id="BayernInvest Kapitalanlagegesellschaft mbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Baring Asset Management Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Barclays Wealth Managers España, S.A., S.G.I.I.C.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Barclays Wealth Managers">
+    <node id="Bee &amp; Associates">
       <data key="type">Investor</data>
     </node>
     <node id="Barclays Global Investors Japan Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Banque et Caisse d'Epargne de l'Etat Luxembourg">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Banque SYZ &amp; CO SA">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Banque Privée Edmond de Rothschild S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Banque Leonardo">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Banque Degroof S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Banque Degroof Luxembourg S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Banque Degroof France SA">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Banque Cantonale Vaudoise">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Banque CIC Est">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Bankia Fondos, S.G.I.I.C., S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Bankia Banca Privada Gestion SGIIC S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Bankhaus Schelhammer &amp; Schattera KAG mbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="BankPyme S.G.I.I.C., S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Bank Leu AG">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Bank Julius Bär Europe AG">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Bank Hofmann AG">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Banif Gestión S.G.I.I.C., S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Banco Espirito Santo de Investimento, S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Banca del Gottardo">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Banca Cívica Gestión de Activos SGIIC, SA.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Baden-Württembergische Asset Consult GmbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="BWInvest">
-      <data key="type">Investor</data>
-    </node>
-    <node id="BNP Paribas Investment Partners Netherlands N.V.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="BNP Paribas Investment Partners Belgium S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="BNP Paribas Investment Partners (France)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="BNP Paribas Fortis Private Banking (Belgium)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="BNP Paribas Asset Management, Inc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="BMN Gestión de Activos S.G.I.I.C., S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="BLC Gestion">
-      <data key="type">Investor</data>
-    </node>
-    <node id="BGL BNP Paribas">
-      <data key="type">Investor</data>
-    </node>
-    <node id="BFT Gestion S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="BCGE Asset Management">
-      <data key="type">Investor</data>
-    </node>
-    <node id="BBVA Patrimonios Gestora S.G.I.I.C., S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="BBVA Gest - Sociedade Gestora de Fundos de Investimento Mobi">
-      <data key="type">Investor</data>
-    </node>
-    <node id="BBVA Asset Management, S.A., S.G.I.I.C.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="B*Capital S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Aviva Investors France S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Aurel Leven Gestion S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Assurances du Crédit Mutuel Vie S.A.">
+    <node id="BNP Paribas Investment Partners Japan Ltd.">
       <data key="type">Investor</data>
     </node>
     <node id="Ashburton (Jersey) Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Argenta Fund">
+    <node id="Asahi Mutual Life Insurance Co.">
       <data key="type">Investor</data>
     </node>
-    <node id="Anima SGR.p.A.">
+    <node id="Asahi Kasei Corp">
       <data key="type">Investor</data>
     </node>
-    <node id="Andra AP-Fonden">
+    <node id="Asahi Chemical">
       <data key="type">Investor</data>
     </node>
-    <node id="Amundi Hellas Mutual Funds Management Company">
+    <node id="Arcus Investment Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Amundi Asset Management">
-      <data key="type">Investor</data>
-    </node>
-    <node id="AmpegaGerling Investment GmbH">
+    <node id="Anima SGR S.p.A.">
       <data key="type">Investor</data>
     </node>
     <node id="American Express Asset Management Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="American Century Global Investment Management, Inc.">
+    <node id="AXA Framlington Investment Management Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Altrinsic Global Advisors, LLC">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Alte Leipziger Trust Investment-Gesellschaft mbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Alstom Employees">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Allianz Global Investors France">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Allianz Dresdner Asset Management (ex Pimco)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Alleanza Assicurazioni S.p.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Alcyone Finance S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Aktia Asset Management Oy Ab">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Ahorro Corporación Gestión S.G.I.I.C., S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Aguilar y de la Fuente Gestión S.G.I.I.C. S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Aberdeen Investment Management K. K.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="AXA Rosenberg Investment Management Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="AXA Investment Managers Schweiz AG">
-      <data key="type">Investor</data>
-    </node>
-    <node id="AXA Investment Managers Deutschland GmbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="AXA Bank Belgium S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="AREAS Assurances">
-      <data key="type">Investor</data>
-    </node>
-    <node id="AMUNDI IBERIA SGIIC SA">
-      <data key="type">Investor</data>
-    </node>
-    <node id="AGF International Advisors Company Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="AFI ESCA">
-      <data key="type">Investor</data>
-    </node>
-    <node id="AEGON Investment Management B.V.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="ABN AMRO Bank (Luxembourg) S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="ABN AMRO Asset Management (Netherlands) B.V.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="ABN AMRO Asset Management (Deutschland) GmbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="1818 Gestion">
-      <data key="type">Investor</data>
-    </node>
-    <edge source="Alstom SA" target="Étoile Gestion">
-      <data key="weight">0.34</data>
+    <edge source="Zeon" target="Yokohama Rubber Co Ltd">
+      <data key="weight">4.8</data>
     </edge>
-    <edge source="Alstom SA" target="Zürcher Kantonalbank (Asset Management)">
+    <edge source="Zeon" target="Yasuda PaineWebber Mutual Fund Company Ltd.">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Alstom SA" target="Zurich France">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="WestLB Mellon Asset Management Kapitalanlagegesellschaft mbH">
+    <edge source="Zeon" target="Yasuda Asset Management Co., Ltd.">
       <data key="weight">0.01</data>
     </edge>
-    <edge source="Alstom SA" target="Wesleyan Assurance Society">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Warburg Invest Kapitalanlagegesellschaft mbH">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Alstom SA" target="Vital Gestion S.A., S.G.I.I.C.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Van Lanschot Bankiers (Luxembourg) S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Value Management &amp; Research AG (VMR)">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Urquijo Gestión, S.A., S.G.I.I.C., Sociedad Unipersonal">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Universal-Investment-Gesellschaft mbH">
-      <data key="weight">0.1</data>
-    </edge>
-    <edge source="Alstom SA" target="Union Investment Institutional GmbH">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Union Investment Group">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Union Bancaire Privée">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="UOB Asset Management Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="UFJ Partners Asset Management Co., Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="UBS Global Asset Management (Switzerland)">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="Alstom SA" target="UBS Gestión, S.G.I.I.C., S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Trusteam Finance">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Trident Investment Management, L.L.C.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Transatlantique Gestion">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Alstom SA" target="Threadneedle Asset Management Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Templeton Asset Management Ltd. (Emerging Markets)">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Templeton Asset Management (Singapore) Ltd.">
-      <data key="weight">0.27</data>
-    </edge>
-    <edge source="Alstom SA" target="Swisscanto Asset Management AG">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Alstom SA" target="Swiss Life France">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Swiss Life Deutschland">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Swiss Life Asset Management">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Alstom SA" target="Swiss Life (España) S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Swiss &amp; Global Asset Management Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Swedbank Robur AB">
-      <data key="weight">0.05</data>
-    </edge>
-    <edge source="Alstom SA" target="Suravenir Assurances Vie">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="State Street Global Advisors AG">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="State Street Global Advisors (UK) Ltd.">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="Alstom SA" target="State Street Global Advisors (Japan) Co., Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="State Street Global Advisors (France) S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Société Générale Asset Management (France)">
-      <data key="weight">0.75</data>
-    </edge>
-    <edge source="Alstom SA" target="Sionna Investment Managers Inc.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Singer &amp; Friedlander Investment Management Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Seamark Asset Management Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Scottish Widows Investment Partnership Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Sceptre Investment Counsel Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Sarasin &amp; Partners LLP">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Santander Asset Management - S.G.F.I.M., S.A">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Santander Asset Management">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Sanlam Investment Management (Pty) Ltd.">
+    <edge source="Zeon" target="Warburg Invest Kapitalanlagegesellschaft mbH">
       <data key="weight">0.02</data>
     </edge>
-    <edge source="Alstom SA" target="SOMPO JAPAN NIPPONKOA Asset Management Co., Ltd.">
+    <edge source="Zeon" target="UOB Asset Management Ltd.">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Alstom SA" target="SMA Gestion">
-      <data key="weight">0.09</data>
-    </edge>
-    <edge source="Alstom SA" target="SINOPIA Asset Management">
+    <edge source="Zeon" target="UFJ Trust Bank Ltd.">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Alstom SA" target="SEB Investment GmbH">
-      <data key="weight">0.09</data>
+    <edge source="Zeon" target="UFJ Trust Bank (Trust A)">
+      <data key="weight">4.08</data>
     </edge>
-    <edge source="Alstom SA" target="SCOR Global Investments">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Russell Investments Limited">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Rothschild et Cie Gestion">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Alstom SA" target="Renta 4 Gestora, S.G.I.I.C., S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="RCM (UK) Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="RBC Investment Solutions (CI) Limited">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="RBC Global Asset Management Inc.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="RBC Asset Management UK Ltd.">
-      <data key="weight">0.04</data>
-    </edge>
-    <edge source="Alstom SA" target="R. C. Brown Investment Management PLC">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Alstom SA" target="Quoniam Asset Management GmbH">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Prudential Fixed Income">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Privat Bank Patrimonio, S.A.U., S.G.I.I.C.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Alstom SA" target="Prime Capital S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Prigest S.A.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Alstom SA" target="Premium Select Lux S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Porter Orlin LLC">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Pioneer Investments Kapitalanlagegesellschaft mbH">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Pioneer Investment Management Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="PineBridge Investments Europe Limited">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Pictet Asset Management Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Pictet &amp; Cie">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Alstom SA" target="Petercam S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Petercam (Luxembourg) S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Pavilion Asset Management">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Palatine Asset Management">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Oudart Gestion">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Orsay Asset Management S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Optimum Gestion Financière">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Alstom SA" target="Ontario Teachers' Pension Plan Board">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Oddo Asset Management">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="Alstom SA" target="OBC Gestion">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Northern Trust Global Investments Limited">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Norges Bank Investment Management (NBIM)">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Nordinvest Norddeutsche Investment-Gesellschaft mbH">
+    <edge source="Zeon" target="UFJ Partners Asset Management Co., Ltd.">
       <data key="weight">0.02</data>
     </edge>
-    <edge source="Alstom SA" target="Nikko Asset Management Co., Ltd.">
+    <edge source="Zeon" target="Tokio Marine Asset Management Co., Ltd.">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Alstom SA" target="Neuflize OBC Investissements">
-      <data key="weight">0.05</data>
-    </edge>
-    <edge source="Alstom SA" target="Natixis Private Banking International">
+    <edge source="Zeon" target="Sumitomo Mitsui Asset Management Company, Limited">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Alstom SA" target="Natixis Asset Management">
-      <data key="weight">0.25</data>
-    </edge>
-    <edge source="Alstom SA" target="Natexis Asset Management">
-      <data key="weight">1.02</data>
-    </edge>
-    <edge source="Alstom SA" target="Natcan Investment Management Inc.">
+    <edge source="Zeon" target="State Street Global Advisors (France) S.A.">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Alstom SA" target="Mutuelle des Architectes Français Assurances">
-      <data key="weight">0.04</data>
+    <edge source="Zeon" target="Shinko Asset Management Co., Ltd.">
+      <data key="weight">0.08</data>
     </edge>
-    <edge source="Alstom SA" target="Mutuelle de Poitiers Assurances">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="Alstom SA" target="Mutual Funds Leader, Inc.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Morgan Stanley Investment Management Ltd. (UK)">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Morgan Stanley Investment Management (Japan) Co., Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Monte Paschi Invest (France) S.A.S.">
+    <edge source="Zeon" target="STANLIB Asset Management Ltd.">
       <data key="weight">0.01</data>
     </edge>
-    <edge source="Alstom SA" target="Mizuho Asset Management Co., Ltd.">
+    <edge source="Zeon" target="Resona Asset Management Co., Ltd.">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Alstom SA" target="Mitsubishi UFJ Asset Management Co., Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Metzler Asset Management GmbH">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Alstom SA" target="MetLife Alico M.F.C.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Mercator Asset Management, L.P.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Meiji Yasuda Asset Management Company Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Marly Gestion">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Manulife Asset Management (Europe) Limited">
+    <edge source="Zeon" target="Prigest S.A.">
       <data key="weight">0.01</data>
     </edge>
-    <edge source="Alstom SA" target="MMA Finance">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Alstom SA" target="MFI Asset Management GmbH">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Alstom SA" target="MFC Global Investment Management (Canada)">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="MEAG Securities Management GmbH">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="MEAG Munich ERGO Kapitalanlagegesellschaft mbH">
+    <edge source="Zeon" target="Okasan Asset Management Co., Ltd.">
       <data key="weight">0.19</data>
     </edge>
-    <edge source="Alstom SA" target="M &amp; G Investment Management Ltd.">
-      <data key="weight">0.0</data>
+    <edge source="Zeon" target="Norinchukin Zenkyoren Asset Management Co., Ltd.">
+      <data key="weight">0.03</data>
     </edge>
-    <edge source="Alstom SA" target="Lombard Odier Darier Hentsch &amp; Cie">
+    <edge source="Zeon" target="Norges Bank Investment Management (NBIM)">
+      <data key="weight">0.06</data>
+    </edge>
+    <edge source="Zeon" target="Nomura Trust &amp; Banking (Trust)">
+      <data key="weight">2.0</data>
+    </edge>
+    <edge source="Zeon" target="Nomura Asset Management Deutschland KAG mbH">
+      <data key="weight">0.15</data>
+    </edge>
+    <edge source="Zeon" target="Nissay Asset Management Corp.">
       <data key="weight">0.01</data>
     </edge>
-    <edge source="Alstom SA" target="Lion Global Investors Limited">
-      <data key="weight">0.0</data>
+    <edge source="Zeon" target="Nippon Life Insurance Company">
+      <data key="weight">2.6</data>
     </edge>
-    <edge source="Alstom SA" target="Legal &amp; General Asset Management (France)">
-      <data key="weight">0.0</data>
+    <edge source="Zeon" target="Nikko Asset Management Co., Ltd.">
+      <data key="weight">0.54</data>
     </edge>
-    <edge source="Alstom SA" target="Le Continent">
+    <edge source="Zeon" target="Münchner Kapitalanlage AG">
+      <data key="weight">0.03</data>
+    </edge>
+    <edge source="Zeon" target="Morgan Stanley Investment Management Ltd. (UK)">
+      <data key="weight">0.73</data>
+    </edge>
+    <edge source="Zeon" target="Mizuho Corporate Bank, Ltd.">
+      <data key="weight">4.99</data>
+    </edge>
+    <edge source="Zeon" target="Mizuho Bank, Ltd.">
+      <data key="weight">3.68</data>
+    </edge>
+    <edge source="Zeon" target="Mizuho Asset Management Co., Ltd.">
+      <data key="weight">0.16</data>
+    </edge>
+    <edge source="Zeon" target="Mitsubishi UFJ Asset Management Co., Ltd.">
       <data key="weight">0.01</data>
     </edge>
-    <edge source="Alstom SA" target="Lazard Frères Gestion S.A.S.">
+    <edge source="Zeon" target="Mandatum Omaisuudenhoito Oy">
+      <data key="weight">0.12</data>
+    </edge>
+    <edge source="Zeon" target="Lemanik S.A.">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Zeon" target="Kokusai Asset Management Co., Ltd.">
+      <data key="weight">0.06</data>
+    </edge>
+    <edge source="Zeon" target="JPMorgan Asset Management U.K. Limited">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Alstom SA" target="Lazard Asset Management (Deutschland) GmbH">
+    <edge source="Zeon" target="JPMorgan Asset Management (Japan) Limited">
+      <data key="weight">0.03</data>
+    </edge>
+    <edge source="Zeon" target="HSBC Global Asset Management (France)">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Alstom SA" target="La REMA Assurances Mutuelles d'Eure-et-Loir">
-      <data key="weight">0.0</data>
+    <edge source="Zeon" target="HANSAINVEST Hanseatische Investment GmbH">
+      <data key="weight">0.03</data>
     </edge>
-    <edge source="Alstom SA" target="La Mondiale Gestion d'Actifs">
-      <data key="weight">0.07</data>
+    <edge source="Zeon" target="Goldman Sachs Asset Management Co., Ltd.">
+      <data key="weight">0.02</data>
     </edge>
-    <edge source="Alstom SA" target="La Banque Postale Asset Management">
-      <data key="weight">0.41</data>
+    <edge source="Zeon" target="Furukawa Electric Co Ltd">
+      <data key="weight">6.2</data>
     </edge>
-    <edge source="Alstom SA" target="LBBW Asset Management Investmentgesellschaft mbH">
+    <edge source="Zeon" target="Fuji Investment Management Co., Ltd.">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Zeon" target="Fidelity Worldwide Investment (UK) Ltd.">
       <data key="weight">0.01</data>
     </edge>
-    <edge source="Alstom SA" target="KutxaGest S.G.I.I.C., S.A.">
-      <data key="weight">0.01</data>
+    <edge source="Zeon" target="FIL Investments (Japan) Limited">
+      <data key="weight">0.13</data>
     </edge>
-    <edge source="Alstom SA" target="Kempen Capital Management N.V.">
+    <edge source="Zeon" target="Deutsche Bank Private Wealth Management Limited (Inactive)">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Alstom SA" target="Kempen Capital Management (UK) Ltd.">
-      <data key="weight">0.0</data>
+    <edge source="Zeon" target="Daiwa Asset Management Co., Ltd.">
+      <data key="weight">0.26</data>
     </edge>
-    <edge source="Alstom SA" target="Kames Capital">
-      <data key="weight">0.04</data>
+    <edge source="Zeon" target="DWS Investments Italy SGR S.p.A.">
+      <data key="weight">0.1</data>
     </edge>
-    <edge source="Alstom SA" target="KBL France Gestion">
-      <data key="weight">0.11</data>
-    </edge>
-    <edge source="Alstom SA" target="KBC Asset Management N.V.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Alstom SA" target="JPMorgan Asset Management U.K. Limited">
+    <edge source="Zeon" target="DWS Investment GmbH">
       <data key="weight">0.17</data>
     </edge>
-    <edge source="Alstom SA" target="JCF Group">
+    <edge source="Zeon" target="Credit Suisse Asset Management Limited">
+      <data key="weight">0.11</data>
+    </edge>
+    <edge source="Zeon" target="Chuo Mitsui Asset Management Co., Ltd.">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Alstom SA" target="J. O. Hambro Investment Management Ltd.">
+    <edge source="Zeon" target="Chase Manhattan Ahorro S.G.I.I.C., S.A.">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Alstom SA" target="Investec Asset Management Ltd.">
+    <edge source="Zeon" target="CatalunyaCaixa Inversio S.G.I.I.C. S.A.">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Alstom SA" target="Invesco Canada Ltd.">
+    <edge source="Zeon" target="Bee &amp; Associates">
+      <data key="weight">0.15</data>
+    </edge>
+    <edge source="Zeon" target="Barclays Global Investors Japan Ltd.">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Alstom SA" target="Inverseguros Gestión S.A. SGIIC">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="InverCaixa Gestión S.G.I.I.C., S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="International Capital Gestion">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Inter Expansion S.A.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Alstom SA" target="Insight Investment Management (Global) Limited">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="ISIS Asset Management p.l.c.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="INVESCO Asset Management S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="INVESCO Asset Management Deutschland GmbH">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Alstom SA" target="ING Investment Management (France) S.A.">
-      <data key="weight">0.05</data>
-    </edge>
-    <edge source="Alstom SA" target="ING Investment Management (Belgium) (Inactive)">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Alstom SA" target="ING Bank N.V.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Henderson Global Investors Ltd.">
-      <data key="weight">0.09</data>
-    </edge>
-    <edge source="Alstom SA" target="Helaba Invest Kapitalanlagegesellschaft mbH">
-      <data key="weight">0.07</data>
-    </edge>
-    <edge source="Alstom SA" target="Handelsbanken Asset Management">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="HSBC Private Bank France">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="HSBC Global Asset Management Deutschland GmbH">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="HSBC Global Asset Management (Hong Kong) Limited">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="HSBC Global Asset Management (France)">
-      <data key="weight">0.32</data>
-    </edge>
-    <edge source="Alstom SA" target="Gérifonds S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Gérer Conseil S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Guipuzcoano S.G.I.I.C., S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Groupama Asset Management">
-      <data key="weight">0.71</data>
-    </edge>
-    <edge source="Alstom SA" target="Goldman Sachs Asset Management International">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Gestion Financière Privée S.A. (GEFIP)">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Gestifondo S.G.I.I.C. S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Gescapital Gestión S.G.I.I.C., S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Gesalcalá S.G.I.I.C., S.A.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Alstom SA" target="Gerling-Konzern Gesellschaft für Vermögensmanagement mbH">
-      <data key="weight">0.23</data>
-    </edge>
-    <edge source="Alstom SA" target="Generali Investments France S.A.">
-      <data key="weight">1.32</data>
-    </edge>
-    <edge source="Alstom SA" target="Generali Investments Deutschland Kapitalanlagegesellschaft m">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Gaesco Gestión S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="GLG Partners UK Limited">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Första AP-Fonden">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Alstom SA" target="Fédéris Gestion d'Actifs">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Franklin Templeton Investment Management Ltd.">
-      <data key="weight">0.6</data>
-    </edge>
-    <edge source="Alstom SA" target="Franklin Mutual Advisers, LLC">
-      <data key="weight">13.9</data>
-    </edge>
-    <edge source="Alstom SA" target="Frankfurt-Trust Investment-Gesellschaft mbH">
-      <data key="weight">0.6</data>
-    </edge>
-    <edge source="Alstom SA" target="Fortis Investments France">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Alstom SA" target="Fortis Gesbeta S.G.I.I.C., S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Fortis Asset Management Japan Co., Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Fipagest">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Fideuram Investimenti SGR S.p.A.">
-      <data key="weight">0.1</data>
-    </edge>
-    <edge source="Alstom SA" target="Fidelity Worldwide Investment (UK) Ltd.">
-      <data key="weight">0.34</data>
-    </edge>
-    <edge source="Alstom SA" target="Federal Finance Gestion">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="FIM Asset Management Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="F. van Lanschot Bankiers N.V.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="F&amp;C Asset Management plc">
-      <data key="weight">0.05</data>
-    </edge>
-    <edge source="Alstom SA" target="Eurizon Capital SGR S.p.A.">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Alstom SA" target="Eurizon Capital S.A.">
-      <data key="weight">0.05</data>
-    </edge>
-    <edge source="Alstom SA" target="Espírito Santo Gestión, S.G.I.I.C., S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Ecureuil Gestion FCP">
-      <data key="weight">0.34</data>
-    </edge>
-    <edge source="Alstom SA" target="Ecofi Investissements S.A">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="ESAF - Espírito Santo Activos Financeiros, S.G.P.S., S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="ERSTE-SPARINVEST Kapitalanlagegesellschaft mbH">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="EFG Bank AS">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="E.Öhman J:or Fonder AB">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Dr. Kohlhase Vermögensverwaltungsgesellschaft mbH">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Dexia Asset Management S.A. (France)">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Alstom SA" target="Dexia Asset Management Luxembourg S.A.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Alstom SA" target="Dexia Asset Management Belgium S.A.">
-      <data key="weight">0.04</data>
-    </edge>
-    <edge source="Alstom SA" target="Deutsche Bank Private Wealth Management Limited">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Deutsche Asset Management Investmentgesellschaft mbH">
+    <edge source="Zeon" target="BNP Paribas Investment Partners Japan Ltd.">
       <data key="weight">0.08</data>
     </edge>
-    <edge source="Alstom SA" target="Delta Lloyd Investment Managers GmbH">
+    <edge source="Zeon" target="Ashburton (Jersey) Ltd.">
+      <data key="weight">0.12</data>
+    </edge>
+    <edge source="Zeon" target="Asahi Mutual Life Insurance Co.">
+      <data key="weight">3.17</data>
+    </edge>
+    <edge source="Zeon" target="Asahi Kasei Corp">
+      <data key="weight">2.65</data>
+    </edge>
+    <edge source="Zeon" target="Asahi Chemical">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Alstom SA" target="Delen Capfi Private Bank">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Deka Investment GmbH">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Alstom SA" target="Daiwa Asset Management Co., Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="DZ Capital Management GmbH">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="DWS Investments (Spain), S.G.I.I.C., S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="DWS Investments (France) S.A.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Alstom SA" target="DWS Investment GmbH">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="Alstom SA" target="Crédit Mutuel Finance">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Alstom SA" target="Crédit Maritime Gestion S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Crédit Lyonnais Asset Management S.A.">
-      <data key="weight">0.16</data>
-    </edge>
-    <edge source="Alstom SA" target="Crédit Agricole Luxembourg Private Bank">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Crédit Agricole Indosuez Cheuvreux Gestions S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Crédit Agricole Asset Management SGR S.p.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Credit Suisse Asset Management Limited">
-      <data key="weight">0.1</data>
-    </edge>
-    <edge source="Alstom SA" target="Credit Suisse Asset Management KAG mbH">
+    <edge source="Zeon" target="Arcus Investment Ltd.">
       <data key="weight">0.08</data>
     </edge>
-    <edge source="Alstom SA" target="Credit Suisse Asset Management Funds S.p.A.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Alstom SA" target="Credit Suisse Asset Management (France) S.A.">
+    <edge source="Zeon" target="Anima SGR S.p.A.">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Alstom SA" target="Credit Suisse Asset Management">
-      <data key="weight">0.04</data>
-    </edge>
-    <edge source="Alstom SA" target="Credit Suisse (Deutschland) AG">
+    <edge source="Zeon" target="American Express Asset Management Ltd.">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Alstom SA" target="Crediges S.A.U. S.G.I.I.C.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Covéa Finance S.A.S.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Continent IARD">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Alstom SA" target="Compagnie Européenne de Représentation Financière">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Cominvest Asset Management GmbH">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Collins Stewart Wealth Management">
-      <data key="weight">0.04</data>
-    </edge>
-    <edge source="Alstom SA" target="Co-operative Asset Management">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Catella Fondförvaltning AB">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Carmignac Gestion">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Capfi Delen Asset Management">
-      <data key="weight">0.05</data>
-    </edge>
-    <edge source="Alstom SA" target="Canada Life Ltd.">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Alstom SA" target="Cambiar Investors LLC">
+    <edge source="Zeon" target="AXA Framlington Investment Management Ltd.">
       <data key="weight">0.03</data>
-    </edge>
-    <edge source="Alstom SA" target="CamGestion">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Alstom SA" target="Caixagest - Técnicas de Gestão de Fundos, S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Caisse de Depot et Placement du Quebec">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Caisse d'Assurance Mutuelle du B.T.P.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Caisse Centrale de Réassurance (CCR)">
-      <data key="weight">0.05</data>
-    </edge>
-    <edge source="Alstom SA" target="CPR Asset Management">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Alstom SA" target="CPP Investment Board">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="Alstom SA" target="CM-CIC Asset Management">
-      <data key="weight">0.14</data>
-    </edge>
-    <edge source="Alstom SA" target="CIC Nord Ouest Gestion">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="CIBC Global Asset Management Asia Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="CGA (Caisse Generale d'Assurances Mutuelles)">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="CCR Chevrillon-Philippe">
-      <data key="weight">0.16</data>
-    </edge>
-    <edge source="Alstom SA" target="CCR Actions">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Alstom SA" target="CAI Cheuvreux Gestion">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Alstom SA" target="Butterfield Bank (Guernsey) Limited">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Alstom SA" target="Brown Capital Management, LLC">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Alstom SA" target="BlackRock Asset Management Deutschland AG">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Bissett Investment Management Ltd.">
-      <data key="weight">0.04</data>
-    </edge>
-    <edge source="Alstom SA" target="Bishop Street Capital Management Corp">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Alstom SA" target="Bestinver Gestión S.G.I.I.C. S.A.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Alstom SA" target="BayernLB">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="BayernInvest Kapitalanlagegesellschaft mbH">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Baring Asset Management Ltd.">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="Alstom SA" target="Barclays Wealth Managers España, S.A., S.G.I.I.C.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Barclays Wealth Managers">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Alstom SA" target="Barclays Global Investors Japan Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Banque et Caisse d'Epargne de l'Etat Luxembourg">
-      <data key="weight">0.1</data>
-    </edge>
-    <edge source="Alstom SA" target="Banque SYZ &amp; CO SA">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Banque Privée Edmond de Rothschild S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Banque Leonardo">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Banque Degroof S.A.">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="Alstom SA" target="Banque Degroof Luxembourg S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Banque Degroof France SA">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Banque Cantonale Vaudoise">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Banque CIC Est">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Bankia Fondos, S.G.I.I.C., S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Bankia Banca Privada Gestion SGIIC S.A.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Alstom SA" target="Bankhaus Schelhammer &amp; Schattera KAG mbH">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="BankPyme S.G.I.I.C., S.A.">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Alstom SA" target="Bank Leu AG">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Bank Julius Bär Europe AG">
-      <data key="weight">0.39</data>
-    </edge>
-    <edge source="Alstom SA" target="Bank Hofmann AG">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Alstom SA" target="Banif Gestión S.G.I.I.C., S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Banco Espirito Santo de Investimento, S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Banca del Gottardo">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Banca Cívica Gestión de Activos SGIIC, SA.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Baden-Württembergische Asset Consult GmbH">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="BWInvest">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="BNP Paribas Investment Partners Netherlands N.V.">
-      <data key="weight">0.28</data>
-    </edge>
-    <edge source="Alstom SA" target="BNP Paribas Investment Partners Belgium S.A.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Alstom SA" target="BNP Paribas Investment Partners (France)">
-      <data key="weight">0.35</data>
-    </edge>
-    <edge source="Alstom SA" target="BNP Paribas Fortis Private Banking (Belgium)">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="BNP Paribas Asset Management, Inc.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="BMN Gestión de Activos S.G.I.I.C., S.A.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Alstom SA" target="BLC Gestion">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="BGL BNP Paribas">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="BFT Gestion S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="BCGE Asset Management">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="BBVA Patrimonios Gestora S.G.I.I.C., S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="BBVA Gest - Sociedade Gestora de Fundos de Investimento Mobi">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="BBVA Asset Management, S.A., S.G.I.I.C.">
-      <data key="weight">0.04</data>
-    </edge>
-    <edge source="Alstom SA" target="B*Capital S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Aviva Investors France S.A.">
-      <data key="weight">0.53</data>
-    </edge>
-    <edge source="Alstom SA" target="Aurel Leven Gestion S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Assurances du Crédit Mutuel Vie S.A.">
-      <data key="weight">0.14</data>
-    </edge>
-    <edge source="Alstom SA" target="Ashburton (Jersey) Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Argenta Fund">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Anima SGR.p.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Andra AP-Fonden">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="Alstom SA" target="Amundi Hellas Mutual Funds Management Company">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Amundi Asset Management">
-      <data key="weight">4.12</data>
-    </edge>
-    <edge source="Alstom SA" target="AmpegaGerling Investment GmbH">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="Alstom SA" target="American Express Asset Management Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="American Century Global Investment Management, Inc.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Altrinsic Global Advisors, LLC">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Alte Leipziger Trust Investment-Gesellschaft mbH">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Alstom Employees">
-      <data key="weight">1.5</data>
-    </edge>
-    <edge source="Alstom SA" target="Allianz Global Investors France">
-      <data key="weight">0.36</data>
-    </edge>
-    <edge source="Alstom SA" target="Allianz Dresdner Asset Management (ex Pimco)">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Alleanza Assicurazioni S.p.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Alcyone Finance S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Aktia Asset Management Oy Ab">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Ahorro Corporación Gestión S.G.I.I.C., S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Aguilar y de la Fuente Gestión S.G.I.I.C. S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="Aberdeen Investment Management K. K.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="AXA Rosenberg Investment Management Ltd.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Alstom SA" target="AXA Investment Managers Schweiz AG">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Alstom SA" target="AXA Investment Managers Deutschland GmbH">
-      <data key="weight">0.06</data>
-    </edge>
-    <edge source="Alstom SA" target="AXA Bank Belgium S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="AREAS Assurances">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="AMUNDI IBERIA SGIIC SA">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Alstom SA" target="AGF International Advisors Company Ltd.">
-      <data key="weight">0.06</data>
-    </edge>
-    <edge source="Alstom SA" target="AFI ESCA">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Alstom SA" target="AEGON Investment Management B.V.">
-      <data key="weight">0.34</data>
-    </edge>
-    <edge source="Alstom SA" target="ABN AMRO Bank (Luxembourg) S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="ABN AMRO Asset Management (Netherlands) B.V.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="ABN AMRO Asset Management (Deutschland) GmbH">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Alstom SA" target="1818 Gestion">
-      <data key="weight">0.0</data>
     </edge>
   </graph>
 </graphml>

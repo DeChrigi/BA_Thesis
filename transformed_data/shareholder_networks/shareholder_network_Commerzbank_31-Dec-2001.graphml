@@ -3,1867 +3,319 @@
   <key id="weight" for="edge" attr.name="weight" attr.type="double" />
   <key id="type" for="node" attr.name="type" attr.type="string" />
   <graph edgedefault="undirected">
-    <node id="Commerzbank">
+    <node id="Zeon">
       <data key="type">Company</data>
     </node>
-    <node id="Étoile Gestion">
+    <node id="Yokohama Rubber Co Ltd">
       <data key="type">Investor</data>
     </node>
-    <node id="Zürcher Kantonalbank (Asset Management)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Zurich Scudder Investments Japan, Inc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="ZB Asset Management">
+    <node id="Yasuda PaineWebber Mutual Fund Company Ltd.">
       <data key="type">Investor</data>
     </node>
     <node id="Yasuda Asset Management Co., Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="WestLB Mellon Asset Management Kapitalanlagegesellschaft mbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Warburg Invest Kapitalanlagegesellschaft mbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Volksbank Invest Kapitalanlagegesellschaft mbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Veritas Investment Trust GmbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Value Management &amp; Research AG (VMR)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Uzès Gestion">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Urquijo Gestión, S.A., S.G.I.I.C., Sociedad Unipersonal">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Universal-Investment-Gesellschaft mbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Union Investment Institutional GmbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Union Investment Group">
+    <node id="UFJ Trust Bank Ltd.">
       <data key="type">Investor</data>
     </node>
     <node id="UFJ Partners Asset Management Co., Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="UEB (Switzerland)">
+    <node id="Tokio Marine Asset Management Co., Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="UBS Wealth Management AG (Switzerland)">
+    <node id="Templeton Asset Management Ltd. (Emerging Markets)">
       <data key="type">Investor</data>
     </node>
-    <node id="UBS Global Asset Management (Switzerland)">
+    <node id="Templeton Asset Management (Singapore) Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="UBS Global Asset Management (Deutschland) GmbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="UBS Deutschland AG">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Tirolinvest Kapitalanlagegesellschaft mbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Threadneedle Asset Management Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Teacher Retirement System of Texas">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Taube, Hodson, Stonex Partners, LLP">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Sydbank">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Swisscanto Asset Management AG">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Swiss Life Deutschland">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Swiss Life Asset Management">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Swiss Life (España) S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Swiss &amp; Global Asset Management Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Storebrand Kapitalforvaltning AS">
+    <node id="Sumitomo Mitsui Asset Management Company, Limited">
       <data key="type">Investor</data>
     </node>
     <node id="State Street Global Advisors (France) S.A.">
       <data key="type">Investor</data>
     </node>
-    <node id="Standard Life Investments (USA) Ltd.">
+    <node id="Shinko Asset Management Co., Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Sprucegrove Investment Management, Ltd.">
+    <node id="Prigest S.A.">
       <data key="type">Investor</data>
     </node>
-    <node id="Sogepo SGR S.p.A.">
+    <node id="Perpetual Investments Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Société de Gestion Prévoir">
+    <node id="Okasan Asset Management Co., Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Société Générale Asset Management (France)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Societe Suisse Banque France">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Societe Generale Private Banking Belgium">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Semper Constantia Invest GmbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Scottish Widows Investment Partnership Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Scotia Asset Management L.P.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Schoellerbank Invest AG">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Sarasin &amp; Partners LLP">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Santander Central Hispano Fondos, S.G.I.I.C., S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Santander Asset Management - S.G.F.I.M., S.A">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Santander Asset Management">
-      <data key="type">Investor</data>
-    </node>
-    <node id="SINOPIA Asset Management">
-      <data key="type">Investor</data>
-    </node>
-    <node id="SEB Investment GmbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="SEB Asset Management (Stockholm)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="SEB Asset Management (Denmark)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="SAI Investimenti SGR S.p.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Rothschild et Cie Gestion">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Renta 4 Gestora, S.G.I.I.C., S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Rebon B.V.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Raiffeisen Kapitalanlage-Gesellschaft mbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="RCM (UK) Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Quoniam Asset Management GmbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="ProFund Advisors LLC">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Privat Bank Patrimonio, S.A.U., S.G.I.I.C.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Prime Capital S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Prima sgr S.p.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Premier Asset Management Ltd">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Pioneer Investments Kapitalanlagegesellschaft mbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Pioneer Investments Austria GmbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Pictet &amp; Cie">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Petercam S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Pavilion Asset Management">
-      <data key="type">Investor</data>
-    </node>
-    <node id="PEH Wertpapier AG">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Orsay Asset Management S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Oppenheim Kapitalanlagegesellschaft mbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Oppenheim Investment Managers">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Ofi Asset Management">
+    <node id="Norinchukin Zenkyoren Asset Management Co., Ltd.">
       <data key="type">Investor</data>
     </node>
     <node id="Norges Bank Investment Management (NBIM)">
       <data key="type">Investor</data>
     </node>
-    <node id="Nordinvest Norddeutsche Investment-Gesellschaft mbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Nordea Investment Management AB, Norge">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Norbolsa, Sociedad de Valores y Bolsa, S.A.">
+    <node id="Nomura Trust &amp; Banking (Trust)">
       <data key="type">Investor</data>
     </node>
     <node id="Nomura Asset Management Deutschland KAG mbH">
       <data key="type">Investor</data>
     </node>
-    <node id="New Jersey Division of Investment (Int'l)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Neuflize OBC Investissements">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Natixis Private Banking International">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Natixis Asset Management">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Natexis Asset Management">
-      <data key="type">Investor</data>
-    </node>
-    <node id="NORD/LB Capital Management GmbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Münchner Kapitalanlage AG">
+    <node id="Nikko Asset Management Co., Ltd.">
       <data key="type">Investor</data>
     </node>
     <node id="Morgan Stanley Investment Management Ltd. (UK)">
       <data key="type">Investor</data>
     </node>
-    <node id="Monte Paschi Invest (France) S.A.S.">
+    <node id="Mizuho Corporate Bank, Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Monega Kapitalanlagegesellschaft mbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Momentum Group">
+    <node id="Mizuho Bank, Ltd.">
       <data key="type">Investor</data>
     </node>
     <node id="Mizuho Asset Management Co., Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Metzler Asset Management GmbH">
+    <node id="Mitsubishi UFJ Trust and Banking Corporation">
       <data key="type">Investor</data>
     </node>
-    <node id="Mediolanum Gestione Fondi SGR p.A.">
+    <node id="Mitsubishi UFJ Asset Management Co., Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Mannheimer Asset Management Kapitalanlage GmbH">
+    <node id="Kokusai Asset Management Co., Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Mandatum Omaisuudenhoito Oy">
-      <data key="type">Investor</data>
-    </node>
-    <node id="MFI Asset Management GmbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="MEAG Securities Management GmbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="MEAG Munich ERGO Kapitalanlagegesellschaft mbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="M. M. Warburg &amp; CO KGaA">
-      <data key="type">Investor</data>
-    </node>
-    <node id="M &amp; G Investment Management Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Lloyds TSB International Private Banking">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Leumi Private Bank Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Lazard Frères Gestion S.A.S.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Lazard Asset Management Limited">
-      <data key="type">Investor</data>
-    </node>
-    <node id="La Mondiale Gestion d'Actifs">
-      <data key="type">Investor</data>
-    </node>
-    <node id="La Caixa Gestión de Activos S.G.I.I.C., S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="La Banque Postale Asset Management">
-      <data key="type">Investor</data>
-    </node>
-    <node id="LBBW Asset Management Investmentgesellschaft mbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="LBB-Invest">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Kredietrust Luxembourg S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Kleinwort Benson Investors Dublin Ltd">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Keppler Asset Management, Inc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Kempen Capital Management N.V.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Kames Capital">
-      <data key="type">Investor</data>
-    </node>
-    <node id="KBC Asset Management N.V.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Jyske Invest Fund Management A/S">
-      <data key="type">Investor</data>
-    </node>
-    <node id="JPMorgan Asset Management U.K. Limited">
-      <data key="type">Investor</data>
-    </node>
-    <node id="JPMorgan Asset Management (Europe)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="JCF Group">
-      <data key="type">Investor</data>
-    </node>
-    <node id="J. O. Hambro Investment Management Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="J&amp;T Bank Schweiz AG">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Inversis Gestión, S.A., SGIIC">
-      <data key="type">Investor</data>
-    </node>
-    <node id="InverCaixa Gestión S.G.I.I.C., S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Insight Investment Management (Global) Limited">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Ignis Asset Management Limited">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Ibercaja Gestión S.G.I.I.C., S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Iberagentes Popular Banca Privada S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="INVESCO Asset Management Deutschland GmbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="ING Mutual Funds Management Company (Japan), Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="ING Investment Management (Belgium) (Inactive)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="ING Bank N.V.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="IAM Independent Asset Management S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="I.M. Administración S.A., S.G.I.I.C.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Hof Hoorneman Bankiers N.V.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Hermes Gestion, S.G.I.I.C., S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Helaba Invest Kapitalanlagegesellschaft mbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Hauck &amp; Aufhäuser Investment Gesellschaft S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Handelsbanken Asset Management">
-      <data key="type">Investor</data>
-    </node>
-    <node id="HSBC Trinkaus &amp; Burkhardt (International) S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="HSBC Global Asset Management Deutschland GmbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="HSBC Global Asset Management (France)">
+    <node id="JADIF">
       <data key="type">Investor</data>
     </node>
     <node id="HANSAINVEST Hanseatische Investment GmbH">
       <data key="type">Investor</data>
     </node>
-    <node id="Gutmann Kapitalanlage Aktiengesellschaft">
+    <node id="Furukawa Electric Co Ltd">
       <data key="type">Investor</data>
     </node>
-    <node id="Groupe MACSF">
+    <node id="Fuji Investment Management Co., Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Groupama Asset Management">
+    <node id="Fortis Asset Management Japan Co., Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Goldman Sachs Asset Management International">
+    <node id="Fidelity Worldwide Investment (UK) Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Goldman Sachs Asset Management Co., Ltd.">
+    <node id="FIL Investments (Japan) Limited">
       <data key="type">Investor</data>
     </node>
-    <node id="Gestion Financière Privée S.A. (GEFIP)">
+    <node id="FIL Investment Management (Hong Kong) Limited">
       <data key="type">Investor</data>
     </node>
-    <node id="Gestifonsa S.G.I.I.C., S.A.">
+    <node id="Deutsche Trust Bank Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Gespastor S.A.,S.G.I.I.C.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Gesnorte, S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Gesfibanc S.G.I.I.C., S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Gesellschaft für Wertpapieranlagen mbH (GWA)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Gesduero S.G.I.I.C., S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Gescapital Gestión S.G.I.I.C., S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Generali Investments Italy SGR S.p.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Generali Investments France S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Generali Investments Deutschland Kapitalanlagegesellschaft m">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Gebser &amp; Partner AG">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Gaesco Gestión S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="GLG Partners UK Limited">
-      <data key="type">Investor</data>
-    </node>
-    <node id="G.I.I.C. FINECO S.G.I.I.C., S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Första AP-Fonden">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Frankfurter Bankgesellschaft (Schweiz) AG">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Frankfurt-Trust Investment-Gesellschaft mbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Fortis Gesbeta S.G.I.I.C., S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Fortis Assurances S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Folksam Asset Management">
-      <data key="type">Investor</data>
-    </node>
-    <node id="First Private Investment Management KAG mbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Finter Bank Zürich Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Federal Finance Gestion">
-      <data key="type">Investor</data>
-    </node>
-    <node id="FIM Asset Management Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="F&amp;C Portugal, Gestão de Patrimónios, S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="F&amp;C Asset Management plc">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Evli Fund Management Company Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Euromobiliare Asset Management SGR S.p.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Eurobank EFG Mutual Funds Management Company S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Eurizon Capital SGR S.p.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Euler Hermes SFAC">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Espírito Santo Gestión, S.G.I.I.C., S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Ersel Asset Management SGR S.p.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Edmond de Rothschild Asset Management">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Ecureuil Gestion FCP">
-      <data key="type">Investor</data>
-    </node>
-    <node id="ERSTE-SPARINVEST Kapitalanlagegesellschaft mbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="E.Öhman J:or Fonder AB">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Duemme SGR">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Dresdner Bank AG">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Dr. Kohlhase Vermögensverwaltungsgesellschaft mbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Dexia Asset Management S.A. (France)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Dexia Asset Management Luxembourg S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Dexia Asset Management Belgium S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Deutsche Postbank International S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Deutsche Postbank Financial Services GmbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Deutsche Asset Management Investmentgesellschaft mbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Delen Capfi Private Bank">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Deka Investment GmbH">
+    <node id="Deutsche Bank Private Wealth Management Limited (Inactive)">
       <data key="type">Investor</data>
     </node>
     <node id="Daiwa Asset Management Co., Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="DZ Capital Management GmbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="DZ Bank AG - Deutsche Zentral-Genossenschaftbank">
-      <data key="type">Investor</data>
-    </node>
-    <node id="DWS Investments Italy SGR S.p.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="DWS Investments (Spain), S.G.I.I.C., S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="DWS Investments (France) S.A.">
-      <data key="type">Investor</data>
-    </node>
     <node id="DWS Investment GmbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Crédit Suisse Gestión S.G.I.I.C., S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Crédit Mutuel Finance">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Crédit Lyonnais Asset Management S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Crédit Agricole Luxembourg Private Bank">
       <data key="type">Investor</data>
     </node>
     <node id="Credit Suisse Asset Management Limited">
       <data key="type">Investor</data>
     </node>
-    <node id="Credit Suisse Asset Management KAG mbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Credit Suisse Asset Management">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Credit Lyonnais International Asset Mgmt (Japan) Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Crediges S.A.U. S.G.I.I.C.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Commerzbank AG Employees">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Cominvest Asset Management S.A., Luxembourg">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Cominvest Asset Management GmbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Citibank (Switzerland)">
+    <node id="Chuo Mitsui Asset Management Co., Ltd.">
       <data key="type">Investor</data>
     </node>
     <node id="Chase Manhattan Ahorro S.G.I.I.C., S.A.">
       <data key="type">Investor</data>
     </node>
-    <node id="Catella Fondförvaltning AB">
-      <data key="type">Investor</data>
-    </node>
     <node id="CatalunyaCaixa Inversio S.G.I.I.C. S.A.">
       <data key="type">Investor</data>
     </node>
-    <node id="Capitalia Asset Management SGR S.p.A.">
+    <node id="Bee &amp; Associates">
       <data key="type">Investor</data>
     </node>
-    <node id="Canada Life Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="CajaSur Gestión">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Caja España Fondos, S.A., S.G.I.I.C.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Caixagest - Técnicas de Gestão de Fundos, S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Caixa Girona Gestió, S.A.U., SGIIC">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Caixa Econômica Federal">
-      <data key="type">Investor</data>
-    </node>
-    <node id="CM-CIC Asset Management">
-      <data key="type">Investor</data>
-    </node>
-    <node id="CEROS Vermögensverwaltung AG">
-      <data key="type">Investor</data>
-    </node>
-    <node id="CCR Chevrillon-Philippe">
-      <data key="type">Investor</data>
-    </node>
-    <node id="CCR Actions">
-      <data key="type">Investor</data>
-    </node>
-    <node id="CAAM SGR S.p.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="C.I.M. Banque">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Brewin Dolphin Limited">
-      <data key="type">Investor</data>
-    </node>
-    <node id="BlackRock Asset Management Deutschland AG">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Bestinver Gestión S.G.I.I.C. S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="BayernLB">
-      <data key="type">Investor</data>
-    </node>
-    <node id="BayernInvest Kapitalanlagegesellschaft mbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Baring Asset Management Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Barclays Wealth Managers España, S.A., S.G.I.I.C.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Barclays Wealth Managers">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Barclays Wealth">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Banque et Caisse d'Epargne de l'Etat Luxembourg">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Banque SYZ &amp; CO SA">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Banque Privée Edmond de Rothschild Europe">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Banque Populaire Atlantique">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Banque Degroof Luxembourg S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Bankinter Gestión de Activos, SGIIC S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Bankia Fondos, S.G.I.I.C., S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="BankPyme S.G.I.I.C., S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Bank Vontobel AG (Private Banking)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Bank Leu AG">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Bank Julius Bär Europe AG">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Bank Corluy Effectenbankiers N.V.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Banif Gestión S.G.I.I.C., S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Banco di Napoli Asset Management SGR.p.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Banco Santander SA">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Bancaja Fondos S.G.I.I.C., S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Banca del Gottardo">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Baden-Württembergische Asset Consult GmbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="BZ Gestión S.A., S.G.I.I.C.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="BWInvest">
-      <data key="type">Investor</data>
-    </node>
-    <node id="BPVi Fondi SGR S.p.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="BNP Paribas Investment Partners SGR SpA">
-      <data key="type">Investor</data>
-    </node>
-    <node id="BNP Paribas Investment Partners Belgium S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="BNP Paribas Investment Partners (France)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="BMO Asset Management Inc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="BMN Gestión de Activos S.G.I.I.C., S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="BIM Intermobiliare SGR S.p.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="BHF-Bank Aktiengesellschaft">
-      <data key="type">Investor</data>
-    </node>
-    <node id="BGL BNP Paribas">
-      <data key="type">Investor</data>
-    </node>
-    <node id="BFT Gestion S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="BCGE Asset Management">
-      <data key="type">Investor</data>
-    </node>
-    <node id="BBVA Patrimonios Gestora S.G.I.I.C., S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="BAWAG P.S.K. Invest GmbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Azimut SGR S.p.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Aviva Investors Global Services Limited">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Aviva Investors France S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Austin Investment Management, Inc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Assicurazioni Generali SpA">
+    <node id="BNP Paribas Investment Partners Japan Ltd.">
       <data key="type">Investor</data>
     </node>
     <node id="Ashburton (Jersey) Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Argenta Fund">
+    <node id="Asahi Mutual Life Insurance Co.">
       <data key="type">Investor</data>
     </node>
-    <node id="Arcalia Patrimonios Agencia de Valores, S.A.">
+    <node id="Asahi Life Asset Management Co., Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Arca SGR S.p.A.">
+    <node id="Asahi Chemical">
       <data key="type">Investor</data>
     </node>
-    <node id="Arca BIM S.p.A.">
+    <node id="Arcus Investment Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Amundi Asset Management">
-      <data key="type">Investor</data>
-    </node>
-    <node id="AmpegaGerling Investment GmbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Ampega Investment AG">
+    <node id="Anima SGR S.p.A.">
       <data key="type">Investor</data>
     </node>
     <node id="American Express Asset Management Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Altrinsic Global Advisors, LLC">
+    <node id="Aberdeen Investment Management K. K.">
       <data key="type">Investor</data>
     </node>
-    <node id="Alte Leipziger Trust Investment-Gesellschaft mbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Alpha Asset Management A.E.D.A.K.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Allianz Invest Kapitalanlagegesellschaft mbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Allianz Global Investors France">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Allianz Dresdner Asset Management (ex Pimco)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Aletti Gestielle SGR S.p.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Alecta pensionsförsäkring, ömsesidigt">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Aktia Asset Management Oy Ab">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Ahorro Corporación Gestión S.G.I.I.C., S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Activgest S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Acacia Inversión A.V., S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="AXA Investment Managers UK Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="AXA Investment Managers Paris">
-      <data key="type">Investor</data>
-    </node>
-    <node id="AXA Investment Managers Deutschland GmbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="AXA Framlington Investment Management Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="AXA Asset Managers Deutschland GmbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="AIBC Anglo Irish Bank (Austria) Kapitalanlageges.m.b.H.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="AGF International Advisors Company Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="AEGON Investment Management B.V.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="ABN AMRO Asset Management (Netherlands) B.V.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="ABN AMRO Asset Management (Deutschland) GmbH">
-      <data key="type">Investor</data>
-    </node>
-    <edge source="Commerzbank" target="Étoile Gestion">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Zürcher Kantonalbank (Asset Management)">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Zurich Scudder Investments Japan, Inc.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="ZB Asset Management">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Yasuda Asset Management Co., Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="WestLB Mellon Asset Management Kapitalanlagegesellschaft mbH">
-      <data key="weight">0.04</data>
-    </edge>
-    <edge source="Commerzbank" target="Warburg Invest Kapitalanlagegesellschaft mbH">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="Commerzbank" target="Volksbank Invest Kapitalanlagegesellschaft mbH">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Veritas Investment Trust GmbH">
-      <data key="weight">0.09</data>
-    </edge>
-    <edge source="Commerzbank" target="Value Management &amp; Research AG (VMR)">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Commerzbank" target="Uzès Gestion">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Urquijo Gestión, S.A., S.G.I.I.C., Sociedad Unipersonal">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Universal-Investment-Gesellschaft mbH">
-      <data key="weight">0.26</data>
-    </edge>
-    <edge source="Commerzbank" target="Union Investment Institutional GmbH">
-      <data key="weight">0.08</data>
-    </edge>
-    <edge source="Commerzbank" target="Union Investment Group">
-      <data key="weight">0.62</data>
-    </edge>
-    <edge source="Commerzbank" target="UFJ Partners Asset Management Co., Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="UEB (Switzerland)">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="UBS Wealth Management AG (Switzerland)">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="UBS Global Asset Management (Switzerland)">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Commerzbank" target="UBS Global Asset Management (Deutschland) GmbH">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Commerzbank" target="UBS Deutschland AG">
-      <data key="weight">0.05</data>
-    </edge>
-    <edge source="Commerzbank" target="Tirolinvest Kapitalanlagegesellschaft mbH">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Threadneedle Asset Management Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Teacher Retirement System of Texas">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Taube, Hodson, Stonex Partners, LLP">
-      <data key="weight">0.15</data>
-    </edge>
-    <edge source="Commerzbank" target="Sydbank">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Swisscanto Asset Management AG">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Commerzbank" target="Swiss Life Deutschland">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Commerzbank" target="Swiss Life Asset Management">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Swiss Life (España) S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Swiss &amp; Global Asset Management Ltd.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Commerzbank" target="Storebrand Kapitalforvaltning AS">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Commerzbank" target="State Street Global Advisors (France) S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Standard Life Investments (USA) Ltd.">
-      <data key="weight">0.04</data>
-    </edge>
-    <edge source="Commerzbank" target="Sprucegrove Investment Management, Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Sogepo SGR S.p.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Société de Gestion Prévoir">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Commerzbank" target="Société Générale Asset Management (France)">
-      <data key="weight">0.04</data>
-    </edge>
-    <edge source="Commerzbank" target="Societe Suisse Banque France">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Societe Generale Private Banking Belgium">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Commerzbank" target="Semper Constantia Invest GmbH">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Scottish Widows Investment Partnership Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Scotia Asset Management L.P.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Commerzbank" target="Schoellerbank Invest AG">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Sarasin &amp; Partners LLP">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Santander Central Hispano Fondos, S.G.I.I.C., S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Santander Asset Management - S.G.F.I.M., S.A">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Santander Asset Management">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="SINOPIA Asset Management">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="SEB Investment GmbH">
-      <data key="weight">0.13</data>
-    </edge>
-    <edge source="Commerzbank" target="SEB Asset Management (Stockholm)">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="SEB Asset Management (Denmark)">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="SAI Investimenti SGR S.p.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Rothschild et Cie Gestion">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Commerzbank" target="Renta 4 Gestora, S.G.I.I.C., S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Rebon B.V.">
-      <data key="weight">6.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Raiffeisen Kapitalanlage-Gesellschaft mbH">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="RCM (UK) Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Quoniam Asset Management GmbH">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="ProFund Advisors LLC">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Privat Bank Patrimonio, S.A.U., S.G.I.I.C.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Prime Capital S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Prima sgr S.p.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Premier Asset Management Ltd">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Pioneer Investments Kapitalanlagegesellschaft mbH">
-      <data key="weight">0.12</data>
-    </edge>
-    <edge source="Commerzbank" target="Pioneer Investments Austria GmbH">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Pictet &amp; Cie">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Commerzbank" target="Petercam S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Pavilion Asset Management">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="PEH Wertpapier AG">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Orsay Asset Management S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Oppenheim Kapitalanlagegesellschaft mbH">
-      <data key="weight">0.14</data>
-    </edge>
-    <edge source="Commerzbank" target="Oppenheim Investment Managers">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Commerzbank" target="Ofi Asset Management">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Commerzbank" target="Norges Bank Investment Management (NBIM)">
-      <data key="weight">0.08</data>
-    </edge>
-    <edge source="Commerzbank" target="Nordinvest Norddeutsche Investment-Gesellschaft mbH">
-      <data key="weight">0.14</data>
-    </edge>
-    <edge source="Commerzbank" target="Nordea Investment Management AB, Norge">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Norbolsa, Sociedad de Valores y Bolsa, S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Nomura Asset Management Deutschland KAG mbH">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="New Jersey Division of Investment (Int'l)">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Neuflize OBC Investissements">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Commerzbank" target="Natixis Private Banking International">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Natixis Asset Management">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Commerzbank" target="Natexis Asset Management">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="NORD/LB Capital Management GmbH">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Commerzbank" target="Münchner Kapitalanlage AG">
-      <data key="weight">0.12</data>
-    </edge>
-    <edge source="Commerzbank" target="Morgan Stanley Investment Management Ltd. (UK)">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Monte Paschi Invest (France) S.A.S.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Monega Kapitalanlagegesellschaft mbH">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Commerzbank" target="Momentum Group">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Mizuho Asset Management Co., Ltd.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Commerzbank" target="Metzler Asset Management GmbH">
-      <data key="weight">0.05</data>
-    </edge>
-    <edge source="Commerzbank" target="Mediolanum Gestione Fondi SGR p.A.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Commerzbank" target="Mannheimer Asset Management Kapitalanlage GmbH">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Mandatum Omaisuudenhoito Oy">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="MFI Asset Management GmbH">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="Commerzbank" target="MEAG Securities Management GmbH">
-      <data key="weight">3.23</data>
-    </edge>
-    <edge source="Commerzbank" target="MEAG Munich ERGO Kapitalanlagegesellschaft mbH">
-      <data key="weight">5.58</data>
-    </edge>
-    <edge source="Commerzbank" target="M. M. Warburg &amp; CO KGaA">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="M &amp; G Investment Management Ltd.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Commerzbank" target="Lloyds TSB International Private Banking">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Leumi Private Bank Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Lazard Frères Gestion S.A.S.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Lazard Asset Management Limited">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="La Mondiale Gestion d'Actifs">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="La Caixa Gestión de Activos S.G.I.I.C., S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="La Banque Postale Asset Management">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="LBBW Asset Management Investmentgesellschaft mbH">
-      <data key="weight">0.12</data>
-    </edge>
-    <edge source="Commerzbank" target="LBB-Invest">
-      <data key="weight">0.05</data>
-    </edge>
-    <edge source="Commerzbank" target="Kredietrust Luxembourg S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Kleinwort Benson Investors Dublin Ltd">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Keppler Asset Management, Inc.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Kempen Capital Management N.V.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Kames Capital">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="KBC Asset Management N.V.">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Commerzbank" target="Jyske Invest Fund Management A/S">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="JPMorgan Asset Management U.K. Limited">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Commerzbank" target="JPMorgan Asset Management (Europe)">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Commerzbank" target="JCF Group">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="J. O. Hambro Investment Management Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="J&amp;T Bank Schweiz AG">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Inversis Gestión, S.A., SGIIC">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="InverCaixa Gestión S.G.I.I.C., S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Insight Investment Management (Global) Limited">
-      <data key="weight">0.07</data>
-    </edge>
-    <edge source="Commerzbank" target="Ignis Asset Management Limited">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Ibercaja Gestión S.G.I.I.C., S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Iberagentes Popular Banca Privada S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="INVESCO Asset Management Deutschland GmbH">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="ING Mutual Funds Management Company (Japan), Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="ING Investment Management (Belgium) (Inactive)">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Commerzbank" target="ING Bank N.V.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="IAM Independent Asset Management S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="I.M. Administración S.A., S.G.I.I.C.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Hof Hoorneman Bankiers N.V.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Hermes Gestion, S.G.I.I.C., S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Helaba Invest Kapitalanlagegesellschaft mbH">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Commerzbank" target="Hauck &amp; Aufhäuser Investment Gesellschaft S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Handelsbanken Asset Management">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="HSBC Trinkaus &amp; Burkhardt (International) S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="HSBC Global Asset Management Deutschland GmbH">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="Commerzbank" target="HSBC Global Asset Management (France)">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Commerzbank" target="HANSAINVEST Hanseatische Investment GmbH">
-      <data key="weight">0.14</data>
-    </edge>
-    <edge source="Commerzbank" target="Gutmann Kapitalanlage Aktiengesellschaft">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Groupe MACSF">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Commerzbank" target="Groupama Asset Management">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Commerzbank" target="Goldman Sachs Asset Management International">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Goldman Sachs Asset Management Co., Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Gestion Financière Privée S.A. (GEFIP)">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Gestifonsa S.G.I.I.C., S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Gespastor S.A.,S.G.I.I.C.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Gesnorte, S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Gesfibanc S.G.I.I.C., S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Gesellschaft für Wertpapieranlagen mbH (GWA)">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Gesduero S.G.I.I.C., S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Gescapital Gestión S.G.I.I.C., S.A.">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="Commerzbank" target="Generali Investments Italy SGR S.p.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Generali Investments France S.A.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Commerzbank" target="Generali Investments Deutschland Kapitalanlagegesellschaft m">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="Commerzbank" target="Gebser &amp; Partner AG">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Gaesco Gestión S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="GLG Partners UK Limited">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Commerzbank" target="G.I.I.C. FINECO S.G.I.I.C., S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Första AP-Fonden">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Commerzbank" target="Frankfurter Bankgesellschaft (Schweiz) AG">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Frankfurt-Trust Investment-Gesellschaft mbH">
-      <data key="weight">0.41</data>
-    </edge>
-    <edge source="Commerzbank" target="Fortis Gesbeta S.G.I.I.C., S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Fortis Assurances S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Folksam Asset Management">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="First Private Investment Management KAG mbH">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="Commerzbank" target="Finter Bank Zürich Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Federal Finance Gestion">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Commerzbank" target="FIM Asset Management Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="F&amp;C Portugal, Gestão de Patrimónios, S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="F&amp;C Asset Management plc">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Commerzbank" target="Evli Fund Management Company Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Euromobiliare Asset Management SGR S.p.A.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Commerzbank" target="Eurobank EFG Mutual Funds Management Company S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Eurizon Capital SGR S.p.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Euler Hermes SFAC">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Commerzbank" target="Espírito Santo Gestión, S.G.I.I.C., S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Ersel Asset Management SGR S.p.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Edmond de Rothschild Asset Management">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Ecureuil Gestion FCP">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Commerzbank" target="ERSTE-SPARINVEST Kapitalanlagegesellschaft mbH">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="E.Öhman J:or Fonder AB">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Duemme SGR">
-      <data key="weight">1.1</data>
-    </edge>
-    <edge source="Commerzbank" target="Dresdner Bank AG">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Dr. Kohlhase Vermögensverwaltungsgesellschaft mbH">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Dexia Asset Management S.A. (France)">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Dexia Asset Management Luxembourg S.A.">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Commerzbank" target="Dexia Asset Management Belgium S.A.">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="Commerzbank" target="Deutsche Postbank International S.A.">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Commerzbank" target="Deutsche Postbank Financial Services GmbH">
-      <data key="weight">1.96</data>
-    </edge>
-    <edge source="Commerzbank" target="Deutsche Asset Management Investmentgesellschaft mbH">
-      <data key="weight">1.24</data>
-    </edge>
-    <edge source="Commerzbank" target="Delen Capfi Private Bank">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Deka Investment GmbH">
-      <data key="weight">0.84</data>
-    </edge>
-    <edge source="Commerzbank" target="Daiwa Asset Management Co., Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="DZ Capital Management GmbH">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="DZ Bank AG - Deutsche Zentral-Genossenschaftbank">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Commerzbank" target="DWS Investments Italy SGR S.p.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="DWS Investments (Spain), S.G.I.I.C., S.A.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Commerzbank" target="DWS Investments (France) S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="DWS Investment GmbH">
-      <data key="weight">2.57</data>
-    </edge>
-    <edge source="Commerzbank" target="Crédit Suisse Gestión S.G.I.I.C., S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Crédit Mutuel Finance">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Crédit Lyonnais Asset Management S.A.">
-      <data key="weight">0.16</data>
-    </edge>
-    <edge source="Commerzbank" target="Crédit Agricole Luxembourg Private Bank">
-      <data key="weight">0.8</data>
-    </edge>
-    <edge source="Commerzbank" target="Credit Suisse Asset Management Limited">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Commerzbank" target="Credit Suisse Asset Management KAG mbH">
-      <data key="weight">0.04</data>
-    </edge>
-    <edge source="Commerzbank" target="Credit Suisse Asset Management">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Credit Lyonnais International Asset Mgmt (Japan) Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Crediges S.A.U. S.G.I.I.C.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Commerzbank AG Employees">
-      <data key="weight">2.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Cominvest Asset Management S.A., Luxembourg">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="Commerzbank" target="Cominvest Asset Management GmbH">
-      <data key="weight">1.14</data>
-    </edge>
-    <edge source="Commerzbank" target="Citibank (Switzerland)">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Commerzbank" target="Chase Manhattan Ahorro S.G.I.I.C., S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Catella Fondförvaltning AB">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="CatalunyaCaixa Inversio S.G.I.I.C. S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Capitalia Asset Management SGR S.p.A.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Commerzbank" target="Canada Life Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="CajaSur Gestión">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Caja España Fondos, S.A., S.G.I.I.C.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Caixagest - Técnicas de Gestão de Fundos, S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Caixa Girona Gestió, S.A.U., SGIIC">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Caixa Econômica Federal">
-      <data key="weight">0.11</data>
-    </edge>
-    <edge source="Commerzbank" target="CM-CIC Asset Management">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Commerzbank" target="CEROS Vermögensverwaltung AG">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="CCR Chevrillon-Philippe">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Commerzbank" target="CCR Actions">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="CAAM SGR S.p.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="C.I.M. Banque">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Brewin Dolphin Limited">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="BlackRock Asset Management Deutschland AG">
-      <data key="weight">0.07</data>
-    </edge>
-    <edge source="Commerzbank" target="Bestinver Gestión S.G.I.I.C. S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="BayernLB">
-      <data key="weight">0.04</data>
-    </edge>
-    <edge source="Commerzbank" target="BayernInvest Kapitalanlagegesellschaft mbH">
-      <data key="weight">0.15</data>
-    </edge>
-    <edge source="Commerzbank" target="Baring Asset Management Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Barclays Wealth Managers España, S.A., S.G.I.I.C.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Barclays Wealth Managers">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Barclays Wealth">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Banque et Caisse d'Epargne de l'Etat Luxembourg">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Banque SYZ &amp; CO SA">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Banque Privée Edmond de Rothschild Europe">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Banque Populaire Atlantique">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Banque Degroof Luxembourg S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Bankinter Gestión de Activos, SGIIC S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Bankia Fondos, S.G.I.I.C., S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="BankPyme S.G.I.I.C., S.A.">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Commerzbank" target="Bank Vontobel AG (Private Banking)">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Bank Leu AG">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Bank Julius Bär Europe AG">
-      <data key="weight">0.04</data>
-    </edge>
-    <edge source="Commerzbank" target="Bank Corluy Effectenbankiers N.V.">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Commerzbank" target="Banif Gestión S.G.I.I.C., S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Banco di Napoli Asset Management SGR.p.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Banco Santander SA">
+    <edge source="Zeon" target="Yokohama Rubber Co Ltd">
       <data key="weight">4.8</data>
     </edge>
-    <edge source="Commerzbank" target="Bancaja Fondos S.G.I.I.C., S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Banca del Gottardo">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Baden-Württembergische Asset Consult GmbH">
+    <edge source="Zeon" target="Yasuda PaineWebber Mutual Fund Company Ltd.">
       <data key="weight">0.01</data>
     </edge>
-    <edge source="Commerzbank" target="BZ Gestión S.A., S.G.I.I.C.">
+    <edge source="Zeon" target="Yasuda Asset Management Co., Ltd.">
+      <data key="weight">0.07</data>
+    </edge>
+    <edge source="Zeon" target="UFJ Trust Bank Ltd.">
+      <data key="weight">4.43</data>
+    </edge>
+    <edge source="Zeon" target="UFJ Partners Asset Management Co., Ltd.">
+      <data key="weight">0.14</data>
+    </edge>
+    <edge source="Zeon" target="Tokio Marine Asset Management Co., Ltd.">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Commerzbank" target="BWInvest">
+    <edge source="Zeon" target="Templeton Asset Management Ltd. (Emerging Markets)">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Zeon" target="Templeton Asset Management (Singapore) Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Zeon" target="Sumitomo Mitsui Asset Management Company, Limited">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Zeon" target="State Street Global Advisors (France) S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Zeon" target="Shinko Asset Management Co., Ltd.">
+      <data key="weight">0.06</data>
+    </edge>
+    <edge source="Zeon" target="Prigest S.A.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Zeon" target="Perpetual Investments Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Zeon" target="Okasan Asset Management Co., Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Zeon" target="Norinchukin Zenkyoren Asset Management Co., Ltd.">
+      <data key="weight">0.1</data>
+    </edge>
+    <edge source="Zeon" target="Norges Bank Investment Management (NBIM)">
+      <data key="weight">0.1</data>
+    </edge>
+    <edge source="Zeon" target="Nomura Trust &amp; Banking (Trust)">
+      <data key="weight">2.69</data>
+    </edge>
+    <edge source="Zeon" target="Nomura Asset Management Deutschland KAG mbH">
       <data key="weight">0.12</data>
     </edge>
-    <edge source="Commerzbank" target="BPVi Fondi SGR S.p.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="BNP Paribas Investment Partners SGR SpA">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="BNP Paribas Investment Partners Belgium S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="BNP Paribas Investment Partners (France)">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Commerzbank" target="BMO Asset Management Inc.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="BMN Gestión de Activos S.G.I.I.C., S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="BIM Intermobiliare SGR S.p.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="BHF-Bank Aktiengesellschaft">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Commerzbank" target="BGL BNP Paribas">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="BFT Gestion S.A.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Commerzbank" target="BCGE Asset Management">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="BBVA Patrimonios Gestora S.G.I.I.C., S.A.">
+    <edge source="Zeon" target="Nikko Asset Management Co., Ltd.">
       <data key="weight">0.03</data>
     </edge>
-    <edge source="Commerzbank" target="BAWAG P.S.K. Invest GmbH">
-      <data key="weight">0.01</data>
+    <edge source="Zeon" target="Morgan Stanley Investment Management Ltd. (UK)">
+      <data key="weight">0.51</data>
     </edge>
-    <edge source="Commerzbank" target="Azimut SGR S.p.A.">
-      <data key="weight">0.05</data>
+    <edge source="Zeon" target="Mizuho Corporate Bank, Ltd.">
+      <data key="weight">4.19</data>
     </edge>
-    <edge source="Commerzbank" target="Aviva Investors Global Services Limited">
-      <data key="weight">0.03</data>
+    <edge source="Zeon" target="Mizuho Bank, Ltd.">
+      <data key="weight">4.3</data>
     </edge>
-    <edge source="Commerzbank" target="Aviva Investors France S.A.">
+    <edge source="Zeon" target="Mizuho Asset Management Co., Ltd.">
+      <data key="weight">0.19</data>
+    </edge>
+    <edge source="Zeon" target="Mitsubishi UFJ Trust and Banking Corporation">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Zeon" target="Mitsubishi UFJ Asset Management Co., Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Zeon" target="Kokusai Asset Management Co., Ltd.">
       <data key="weight">0.06</data>
     </edge>
-    <edge source="Commerzbank" target="Austin Investment Management, Inc.">
+    <edge source="Zeon" target="JADIF">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Commerzbank" target="Assicurazioni Generali SpA">
-      <data key="weight">9.9</data>
+    <edge source="Zeon" target="HANSAINVEST Hanseatische Investment GmbH">
+      <data key="weight">0.0</data>
     </edge>
-    <edge source="Commerzbank" target="Ashburton (Jersey) Ltd.">
+    <edge source="Zeon" target="Furukawa Electric Co Ltd">
+      <data key="weight">6.2</data>
+    </edge>
+    <edge source="Zeon" target="Fuji Investment Management Co., Ltd.">
       <data key="weight">0.01</data>
     </edge>
-    <edge source="Commerzbank" target="Argenta Fund">
+    <edge source="Zeon" target="Fortis Asset Management Japan Co., Ltd.">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Commerzbank" target="Arcalia Patrimonios Agencia de Valores, S.A.">
-      <data key="weight">0.03</data>
+    <edge source="Zeon" target="Fidelity Worldwide Investment (UK) Ltd.">
+      <data key="weight">0.12</data>
     </edge>
-    <edge source="Commerzbank" target="Arca SGR S.p.A.">
+    <edge source="Zeon" target="FIL Investments (Japan) Limited">
+      <data key="weight">0.65</data>
+    </edge>
+    <edge source="Zeon" target="FIL Investment Management (Hong Kong) Limited">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Commerzbank" target="Arca BIM S.p.A.">
+    <edge source="Zeon" target="Deutsche Trust Bank Ltd.">
+      <data key="weight">2.3</data>
+    </edge>
+    <edge source="Zeon" target="Deutsche Bank Private Wealth Management Limited (Inactive)">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Commerzbank" target="Amundi Asset Management">
+    <edge source="Zeon" target="Daiwa Asset Management Co., Ltd.">
+      <data key="weight">0.29</data>
+    </edge>
+    <edge source="Zeon" target="DWS Investment GmbH">
+      <data key="weight">0.17</data>
+    </edge>
+    <edge source="Zeon" target="Credit Suisse Asset Management Limited">
+      <data key="weight">0.11</data>
+    </edge>
+    <edge source="Zeon" target="Chuo Mitsui Asset Management Co., Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Zeon" target="Chase Manhattan Ahorro S.G.I.I.C., S.A.">
       <data key="weight">0.01</data>
     </edge>
-    <edge source="Commerzbank" target="AmpegaGerling Investment GmbH">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="Commerzbank" target="Ampega Investment AG">
-      <data key="weight">0.06</data>
-    </edge>
-    <edge source="Commerzbank" target="American Express Asset Management Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Altrinsic Global Advisors, LLC">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Commerzbank" target="Alte Leipziger Trust Investment-Gesellschaft mbH">
+    <edge source="Zeon" target="CatalunyaCaixa Inversio S.G.I.I.C. S.A.">
       <data key="weight">0.04</data>
     </edge>
-    <edge source="Commerzbank" target="Alpha Asset Management A.E.D.A.K.">
-      <data key="weight">0.0</data>
+    <edge source="Zeon" target="Bee &amp; Associates">
+      <data key="weight">0.15</data>
     </edge>
-    <edge source="Commerzbank" target="Allianz Invest Kapitalanlagegesellschaft mbH">
-      <data key="weight">0.01</data>
+    <edge source="Zeon" target="BNP Paribas Investment Partners Japan Ltd.">
+      <data key="weight">0.07</data>
     </edge>
-    <edge source="Commerzbank" target="Allianz Global Investors France">
+    <edge source="Zeon" target="Ashburton (Jersey) Ltd.">
       <data key="weight">0.08</data>
     </edge>
-    <edge source="Commerzbank" target="Allianz Dresdner Asset Management (ex Pimco)">
+    <edge source="Zeon" target="Asahi Mutual Life Insurance Co.">
+      <data key="weight">6.34</data>
+    </edge>
+    <edge source="Zeon" target="Asahi Life Asset Management Co., Ltd.">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Commerzbank" target="Aletti Gestielle SGR S.p.A.">
+    <edge source="Zeon" target="Asahi Chemical">
+      <data key="weight">2.65</data>
+    </edge>
+    <edge source="Zeon" target="Arcus Investment Ltd.">
+      <data key="weight">0.16</data>
+    </edge>
+    <edge source="Zeon" target="Anima SGR S.p.A.">
+      <data key="weight">0.14</data>
+    </edge>
+    <edge source="Zeon" target="American Express Asset Management Ltd.">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Commerzbank" target="Alecta pensionsförsäkring, ömsesidigt">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Aktia Asset Management Oy Ab">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Ahorro Corporación Gestión S.G.I.I.C., S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Activgest S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="Acacia Inversión A.V., S.A.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Commerzbank" target="AXA Investment Managers UK Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="AXA Investment Managers Paris">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="AXA Investment Managers Deutschland GmbH">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="AXA Framlington Investment Management Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="AXA Asset Managers Deutschland GmbH">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="AIBC Anglo Irish Bank (Austria) Kapitalanlageges.m.b.H.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="AGF International Advisors Company Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="AEGON Investment Management B.V.">
-      <data key="weight">0.04</data>
-    </edge>
-    <edge source="Commerzbank" target="ABN AMRO Asset Management (Netherlands) B.V.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Commerzbank" target="ABN AMRO Asset Management (Deutschland) GmbH">
+    <edge source="Zeon" target="Aberdeen Investment Management K. K.">
       <data key="weight">0.0</data>
     </edge>
   </graph>

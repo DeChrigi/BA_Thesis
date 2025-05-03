@@ -3,2492 +3,260 @@
   <key id="weight" for="edge" attr.name="weight" attr.type="double" />
   <key id="type" for="node" attr.name="type" attr.type="string" />
   <graph edgedefault="undirected">
-    <node id="Micron">
+    <node id="Zeon">
       <data key="type">Company</data>
     </node>
-    <node id="Zweig-DiMenna Associates, Inc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="World Asset Management, Inc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Winterthur Investment Management Corporation">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Windham Capital Management">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Wilmington Trust Investment Management LLC">
-      <data key="type">Investor</data>
-    </node>
-    <node id="William Blair &amp; Company, L.L.C.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Westpeak Global Advisors, LLC.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Wells Fargo Bank, N.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Wells Fargo Bank Wisconsin, N.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Wells Fargo Bank Utah, N.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Wells Fargo Bank Montana, N.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Wells Fargo Bank Minnesota, N.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Wells Fargo Bank Iowa, N.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Wells Fargo Bank Indiana, N.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Wells Fargo Advisors">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Wells Capital Management Inc.">
+    <node id="Yokohama Rubber Co Ltd">
       <data key="type">Investor</data>
     </node>
     <node id="Wells Capital Management (Strong)">
       <data key="type">Investor</data>
     </node>
-    <node id="Wellington Management Company, LLP">
+    <node id="UFJ Partners Asset Management Co., Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Welch Capital Partners, LLC">
+    <node id="Trustus Capital Management B.V.">
       <data key="type">Investor</data>
     </node>
-    <node id="Weintraub Capital Management, L.P.">
+    <node id="Tokio Marine &amp; Nichido Fire Insurance Co., Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Warburg Invest Kapitalanlagegesellschaft mbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Wall Street Associates, LLC">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Waddell &amp; Reed Investment Management Company">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Wachovia Asset Management">
-      <data key="type">Investor</data>
-    </node>
-    <node id="WHRS Investment Management, Inc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Virtus Investment Advisers, Inc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Virginia Retirement System">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Vinik Asset Management, L.P.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Victory Capital Management Inc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Vaughan Nelson Investment Management, L.P.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Vanguard Group, Inc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Van Wagoner Capital Management, Inc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Van Kampen Asset Management">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Upland Management">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Universal-Investment-Gesellschaft mbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="United Assurance, Plc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Union Investment Institutional GmbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="US Trust Bk of Amer Private Wealth Mgmt LaSalle">
-      <data key="type">Investor</data>
-    </node>
-    <node id="US Bancorp - The Private Client Reserve">
-      <data key="type">Investor</data>
-    </node>
-    <node id="UBS Global Asset Management (NY)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="UBS Global Asset Management (Americas), Inc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="UBS Financial Services Inc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="U.S. Trust Company N.A., Minnesota">
-      <data key="type">Investor</data>
-    </node>
-    <node id="U.S. Bancorp Asset Management, Inc. (FAF)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Turner Investment Partners, Inc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Tupelo Capital Management, L.L.C.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Tudor Investment Corporation">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Transamerica Investment Management, LLC">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Tirolinvest Kapitalanlagegesellschaft mbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="TimesSquare Capital Management, LLC">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Thrivent Asset Management, LLC">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Threadneedle Asset Management Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="The Travelers Companies, Inc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="The Royal Bank of Scotland">
-      <data key="type">Investor</data>
-    </node>
-    <node id="The Roosevelt Investment Group, Inc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="The Northern Trust Company of Connecticut">
-      <data key="type">Investor</data>
-    </node>
-    <node id="The Connable Office, Inc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="The Commerce Trust Company">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Teleos Management, LLC">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Teacher Retirement System of Texas">
-      <data key="type">Investor</data>
-    </node>
-    <node id="TWIN Capital Management, Inc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="TRW Investment Management Company">
-      <data key="type">Investor</data>
-    </node>
-    <node id="TIAA-CREF">
-      <data key="type">Investor</data>
-    </node>
-    <node id="TD Asset Management Inc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="TCW Asset Management Company">
-      <data key="type">Investor</data>
-    </node>
-    <node id="T.H. Fitzgerald &amp; Co., L.L.C.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="T. Rowe Price Associates, Inc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Systematic Financial Management, L.P.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Sydbank">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Swiss Reinsurance Company Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="SunTrust Bank">
-      <data key="type">Investor</data>
-    </node>
-    <node id="SunAmerica Asset Management Corp.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Sumitomo Life Insurance Co.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Suffolk Capital Management, LLC">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Storebrand Kapitalforvaltning AS">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Stifel Nicolaus Investment Advisors">
-      <data key="type">Investor</data>
-    </node>
-    <node id="State of Wisconsin Investment Board">
-      <data key="type">Investor</data>
-    </node>
-    <node id="State Teachers Retirement System of Ohio">
-      <data key="type">Investor</data>
-    </node>
-    <node id="State Street Global Advisors (US)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="State Street Global Advisors (UK) Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="State Street Global Advisors (France) S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Stacey Braun Associates, Inc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="South Dakota Investment Council">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Soros Fund Management, L.L.C.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Shaker Investments, L.L.C.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Sentinel Asset Management, Inc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Sears Investment Management Co.">
+    <node id="Sumitomo Mitsui Trust Bank, Limited">
       <data key="type">Investor</data>
     </node>
     <node id="Scottish Widows Investment Partnership Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Schroder &amp; Co., Inc.">
+    <node id="Santander Asset Management UK Limited">
       <data key="type">Investor</data>
     </node>
-    <node id="Schneider Capital Management Corporation">
+    <node id="Resona Asset Management Co., Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Sarasin &amp; Partners LLP">
+    <node id="Prigest S.A.">
       <data key="type">Investor</data>
     </node>
-    <node id="SSI Investment Management Inc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="SG Pacific Asset Management">
-      <data key="type">Investor</data>
-    </node>
-    <node id="SEB Asset Management (Stockholm)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="S &amp; T Bank">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Robeco Investment Management Inc. (WPG)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Renaissance Technologies Corp.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Regions Financial Corporation">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Regents of the University of California">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Rampart Investment Management Co., Inc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Raiffeisen Kapitalanlage-Gesellschaft mbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="RTE Asset Management">
-      <data key="type">Investor</data>
-    </node>
-    <node id="RS Investment Management Inc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="RS Investment Management Co. L.P.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="RCM Capital Management LLC">
-      <data key="type">Investor</data>
-    </node>
-    <node id="RCM (UK) Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="RBC Global Asset Management Inc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="RBC Capital Markets Wealth Management">
-      <data key="type">Investor</data>
-    </node>
-    <node id="R. H. Bluestein &amp; Company">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Quantitative Management Associates LLC">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Putnam Investment Management, L.L.C.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Public Employees' Retirement Association of CO">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Prudential Investment Corporation">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Prudential Equity Group, LLC">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Principal Global Investors (Equity)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Pitcairn">
-      <data key="type">Investor</data>
-    </node>
-    <node id="PineBridge Investments LLC">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Pillar Point Capital Management, Inc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Perkins Capital Management, Inc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Pentegra Retirement Services">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Paul J. Schupf Associates">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Parnassus Investments">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Paribas Asset Management (France)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Parametric Portfolio Associates LLC">
-      <data key="type">Investor</data>
-    </node>
-    <node id="PanAgora Asset Management Inc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Palantir Capital, Inc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="PRIMECAP Management Company">
-      <data key="type">Investor</data>
-    </node>
-    <node id="PNC Wealth Management">
-      <data key="type">Investor</data>
-    </node>
-    <node id="PEA Capital, LLC">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Osborn Rohs Williams &amp; Donohoe, LLC">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Opus Investment Management, Inc">
-      <data key="type">Investor</data>
-    </node>
-    <node id="OppenheimerFunds, Inc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Oppenheimer Capital L.L.C.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Oppenheimer Asset Management Inc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Ontario Municipal Employees Retirement System">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Omega Advisors, Inc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Old National Wealth Management">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Old Mutual Asset Managers (UK) Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Ohio Public Employees Retirement System">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Nuveen HydePark Group, LLC">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Northwestern Mutual Life Insurance">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Northwestern Mutual Capital, LLC">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Northern Trust Investments, N.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Northern Trust Global Investments">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Northeast Investment Management, Inc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Nordea Invest Fund Management A/S">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Nomura Asset Management Co., Ltd.">
+    <node id="Oppenheim Kapitalanlagegesellschaft mbH">
       <data key="type">Investor</data>
     </node>
     <node id="Nikko Asset Management Co., Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Nicholas-Applegate Capital Management, LLC">
+    <node id="Morley Fund Management (Singapore) Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Newfleet Asset Management, LLC">
+    <node id="Morley Fund Management (Japan) Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="New York State Teachers' Retirement System">
-      <data key="type">Investor</data>
-    </node>
-    <node id="New York State Common Retirement System">
-      <data key="type">Investor</data>
-    </node>
-    <node id="New York Life Investment Management, LLC">
-      <data key="type">Investor</data>
-    </node>
-    <node id="New Jersey Division of Investment">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Neuberger Berman, LLC">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Netfolio">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Nelson Capital Management">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Navarra Bolsa S.G.I.I.C.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="National City Corporation">
-      <data key="type">Investor</data>
-    </node>
-    <node id="NISA Investment Advisors, L.L.C.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Mutual of America Capital Management Corp.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Munder Capital Management">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Morgan Stanley Investment Management Inc. (US)">
+    <node id="Morgan Stanley Investment Management (Singapore)">
       <data key="type">Investor</data>
     </node>
     <node id="Morgan Stanley Investment Management (Japan) Co., Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Morgan Stanley Advisors Inc.">
+    <node id="Mizuho Corporate Bank, Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Montgomery Asset Management, LLC">
+    <node id="Mizuho Bank, Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Michigan Department of Treasury">
+    <node id="Mizuho Asset Management Co., Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Metzler Asset Management GmbH">
+    <node id="Mitsubishi UFJ Trust and Banking Corporation">
       <data key="type">Investor</data>
     </node>
-    <node id="Metropolitan Life Insurance Co. (US)">
+    <node id="Kokusai Asset Management Co., Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Merrill Lynch &amp; Company, Inc.">
+    <node id="Kames Capital">
       <data key="type">Investor</data>
     </node>
-    <node id="Merchbanc S.G.I.I.C., S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Mellon Capital Management Corporation">
-      <data key="type">Investor</data>
-    </node>
-    <node id="McGahan Greene McHugh Capital Management, LLC">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Martindale Andres &amp; Company">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Martin &amp; Company Investment Counsel">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Manulife Asset Management Limited">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Manulife Asset Management (Europe) Limited">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Mainstream Investment Advisers LLC">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Mackenzie Financial Corporation">
-      <data key="type">Investor</data>
-    </node>
-    <node id="MacKay Shields LLC">
-      <data key="type">Investor</data>
-    </node>
-    <node id="MONY Capital Management, Inc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="MFS Investment Management">
-      <data key="type">Investor</data>
-    </node>
-    <node id="MFI Asset Management GmbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="MEMBERS Capital Advisors, Inc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="M&amp;I Investment Management Corp.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Los Angeles Capital Management And Equity Research, Inc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Lord, Abbett &amp; Co. LLC">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Loews Corporation (Investments)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Liberty Ridge Capital, Inc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Legg Mason Wood Walker, Inc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Legg Mason Capital Management, LLC">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Legal &amp; General Investment Management Ltd. (UK)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Lazard Asset Management, L.L.C.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Lazard Asset Management Limited">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Kornitzer Capital Management Inc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Knowlton Brothers, Inc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Kiewit Investment Management Corporation">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Kentucky Teachers' Retirement System">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Kentucky Retirement Systems">
-      <data key="type">Investor</data>
-    </node>
-    <node id="KBC Asset Management N.V.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="John P. O'Brien Investment Management Inc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="John Hancock Financial Services, Inc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Jennison Associates LLC (Sibling)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Janus Capital Management LLC">
-      <data key="type">Investor</data>
-    </node>
-    <node id="JPMorgan Private Bank (United States)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="JPMorgan Investment Advisors Inc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="J.P. Morgan Fleming Asset Management (U.S.)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="J.P. Morgan Fleming Asset Management (Texas)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Invesco Management Group, Inc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Intel Corporation">
+    <node id="Jupiter Asset Management Ltd.">
       <data key="type">Investor</data>
     </node>
     <node id="Insight Investment Management (Global) Limited">
       <data key="type">Investor</data>
     </node>
-    <node id="Independence Investments LLC">
+    <node id="ISIS Asset Management p.l.c.">
       <data key="type">Investor</data>
     </node>
-    <node id="INTECH Investment Management LLC">
+    <node id="INVESCO Asset Management Deutschland GmbH">
       <data key="type">Investor</data>
     </node>
-    <node id="ING Pilgrim Investments, LLC.">
+    <node id="Guardian Asset Management Limited">
       <data key="type">Investor</data>
     </node>
-    <node id="ING Investment Management Co. LLC">
-      <data key="type">Investor</data>
-    </node>
-    <node id="ING Investment Management (Belgium) (Inactive)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="ING Barings">
-      <data key="type">Investor</data>
-    </node>
-    <node id="ICON Advisers, Inc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="ICM Asset Management, Inc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="IBM Retirement Fund">
-      <data key="type">Investor</data>
-    </node>
-    <node id="IBJ Whitehall Bank &amp; Trust Company">
-      <data key="type">Investor</data>
-    </node>
-    <node id="I.G. Investment Management, Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Husic Capital Management">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Howard Hughes Medical Institute">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Hilliard Lyons Capital Management, LLC">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Highland Capital Management, LLC">
-      <data key="type">Investor</data>
-    </node>
-    <node id="HighMark Capital Management Inc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Hester Capital Management, L.L.C.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Hellman, Jordan Management Company, Inc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Harvard Management Company, Inc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Hartford Investment Management Company">
-      <data key="type">Investor</data>
-    </node>
-    <node id="HSBC Global Asset Management (UK) Limited">
-      <data key="type">Investor</data>
-    </node>
-    <node id="HSBC Global Asset Management (France)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Gruber &amp; McBaine Capital Management, LLC">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Groupama Asset Management">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Greenberg-Summit Partners, LLC">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Goldman Sachs Asset Management (US)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Glickenhaus &amp; Co.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Gartmore Investment Management Limited">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Gardner Lewis Asset Management, L.P.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Galleon Management, L.P.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="GTE Investment Management">
-      <data key="type">Investor</data>
-    </node>
-    <node id="GMO LLC">
-      <data key="type">Investor</data>
-    </node>
-    <node id="GLG Partners LP">
-      <data key="type">Investor</data>
-    </node>
-    <node id="GE Asset Management Inc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Frost Investment Advisors, LLC">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Frontier Capital Management Company, LLC">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Freeman Investment Management Co., LLC">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Franklin Portfolio Associates, L.L.C.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Founders Asset Management, LLC">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Forstmann-Leff International, Inc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Florida State Board of Administration">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Firstar Invt. Research &amp; Mgmt. Co. (MVA)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="FirstMerit Bank, N.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="First Union National Bank (Growth)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="First Tennessee Bank, N.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="First Quadrant L.P.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Financial Management Advisors, LLC">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Fifth Third Asset Management (Michigan)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Fideuram Investimenti SGR S.p.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Fidelity Worldwide Investment (UK) Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Fidelity Management &amp; Research Company">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Fidelity International LTD (BERMUDA)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Feirstein Capital Management, L.L.C.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Federated Investors, Inc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="FIL Investments (Japan) Limited">
-      <data key="type">Investor</data>
-    </node>
-    <node id="FIL Investment Management (Hong Kong) Limited">
-      <data key="type">Investor</data>
-    </node>
-    <node id="ExxonMobil Investment Management, Inc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Evergreen Institutional Asset Management">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Eurizon Capital SGR S.p.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Essex Investment Management Company, LLC">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Equitable Life Assurance Society">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Employees Retirement System of Texas">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Edgewood Management LLC">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Edge Asset Management, Inc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="EULAV Asset Management">
-      <data key="type">Investor</data>
-    </node>
-    <node id="ERSTE-SPARINVEST Kapitalanlagegesellschaft mbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="EPTAFUND S.G.R.p.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="E.Öhman J:or Fonder AB">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Duquesne Capital Management, L.L.C.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Duncan-Hurst Capital Management, L.P.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="DuPont Capital Management Corporation">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Donaldson, Lufkin &amp; Jenrette">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Disciplined Investment Advisors, Inc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Disciplined Growth Investors, Inc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Dimensional Fund Advisors, LP">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Dexia Asset Management Luxembourg S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Dexia Asset Management Belgium S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Dewey Square Investors, Corp.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Deutsche Investment Management Americas, Inc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Deutsche Bank Securities Inc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Deutsche Bank Securities">
+    <node id="Furukawa Electric Co Ltd">
       <data key="type">Investor</data>
     </node>
     <node id="Deutsche Bank Private Wealth Management Limited (Inactive)">
       <data key="type">Investor</data>
     </node>
-    <node id="Deutsche Asset Management Investmentgesellschaft mbH">
+    <node id="Daiwa Asset Management Co., Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Deutsche Asset Management Americas">
+    <node id="DWS Investments (France) S.A.">
       <data key="type">Investor</data>
     </node>
-    <node id="Denver Investments">
+    <node id="Crédit Lyonnais Asset Management S.A.">
       <data key="type">Investor</data>
     </node>
-    <node id="Delaware Investments">
+    <node id="Coutts">
       <data key="type">Investor</data>
     </node>
-    <node id="Deere &amp; Company">
+    <node id="Cazenove Capital Management Limited">
       <data key="type">Investor</data>
     </node>
-    <node id="Dawson Capital Management, Inc.">
+    <node id="CM-CIC Asset Management">
       <data key="type">Investor</data>
     </node>
-    <node id="Davis Selected Advisers, L.P.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Davidson Investment Advisors, Inc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="DWS Investment GmbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="DSI International Management, Inc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="DIAM Co., Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="D.C. Capital, L.L.C.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Cypress Funds, L.L.C. (Sibling)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Cursitor Management Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Credit Suisse Securities (USA) LLC">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Credit Suisse Asset Management, LLC (US)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Credit Suisse Asset Management KAG mbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Credit Suisse Asset Management">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Coutts &amp; Co.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="CooperNeff Alternative Managers">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Conning Asset Management Company">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Cominvest Asset Management GmbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Comerica, Inc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Columbus Circle Investors">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Columbia Partners, L.L.C. Investment Management">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Columbia Management Investment Advisers, LLC">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Columbia Management Advisors, LLC">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Columbia Management Advisors, Inc. (Stein Roe)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Columbia Management Advisors, Inc. (Crabbe Huson)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Columbia Management Advisors, Inc. (BofA-NC)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Columbia Management Advisors, Inc. (BofA)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="ClearBridge Advisors, LLC">
-      <data key="type">Investor</data>
-    </node>
-    <node id="ClearBridge Advisors (SBAM)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Clay Finlay LLC">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Citibank (Switzerland)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Citadel Investment Group, L.L.C.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Chris Blair Asset Management, L.P.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Chilton Investment Company, LLC">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Chicago Equity Partners, LLC">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Charles Schwab Investment Management, Inc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="CenturyLink Investment Management Company">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Caxton Associates LP">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Carmignac Gestion">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Capstone Asset Management Company">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Capital Research &amp; Management Company">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Capital International, Inc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Capital International S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Capital International Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Capital Guardian Trust Company">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Capital Growth Management L.P.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="California State Teachers' Retirement System">
-      <data key="type">Investor</data>
-    </node>
-    <node id="California Public Employees' Retirement System">
-      <data key="type">Investor</data>
-    </node>
-    <node id="CIBC World Markets Corp.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="CCR Chevrillon-Philippe">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Bull Dog Capital Management, L.L.C.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Bricoleur Capital Management, LLC">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Branch Banking &amp; Trust Company">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Bowman Capital Management L.L.C.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Boston Advisors, LLC">
-      <data key="type">Investor</data>
-    </node>
-    <node id="BlackRock Investment Management, LLC">
-      <data key="type">Investor</data>
-    </node>
-    <node id="BlackRock Investment Management (UK) Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="BlackRock Institutional Trust Company, N.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="BlackRock Financial Management (SSR&amp;M)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="BlackRock Advisors (UK) Limited">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Bjurman, Barry &amp; Associates">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Bessemer Trust Company, N.A. (US)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Berger Financial Group L.L.C.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Bell Atlantic Corpn">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Beck, Mack &amp; Oliver LLC">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Bear Stearns Asset Management, Inc.">
+    <node id="CAAM SGR S.p.A.">
       <data key="type">Investor</data>
     </node>
     <node id="Barclays Wealth">
       <data key="type">Investor</data>
     </node>
-    <node id="Bankers Trust International Plc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Bank of America Merrill Lynch (US)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Banco di Napoli Asset Management SGR.p.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Banc One Investment Advisors/Detroit">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Back Bay Advisors L.P.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="BSI Investment Advisors LLC">
-      <data key="type">Investor</data>
-    </node>
-    <node id="BP Investment Management Limited">
-      <data key="type">Investor</data>
-    </node>
-    <node id="BNY Mellon Wealth Management">
-      <data key="type">Investor</data>
-    </node>
-    <node id="BNY Mellon Asset Management">
-      <data key="type">Investor</data>
-    </node>
-    <node id="BNP Paribas Asset Management, Inc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="BMO Asset Management U.S.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="BGL BNP Paribas">
-      <data key="type">Investor</data>
-    </node>
-    <node id="BCGE Asset Management">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Axe-Houghton Associates, Inc._">
+    <node id="Banco Fonder AB">
       <data key="type">Investor</data>
     </node>
     <node id="Aviva Investors Global Services Limited">
       <data key="type">Investor</data>
     </node>
-    <node id="Asset Management Group of Bank of Hawaii">
+    <node id="Asahi Mutual Life Insurance Co.">
       <data key="type">Investor</data>
     </node>
-    <node id="Arvest Asset Management">
+    <node id="Asahi Chemical">
       <data key="type">Investor</data>
     </node>
-    <node id="Aronson Johnson &amp; Ortiz, L.P.">
+    <node id="AEGON Investment Management B.V.">
       <data key="type">Investor</data>
     </node>
-    <node id="Ark Asset Management Co., Inc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Arca SGR S.p.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Apex Capital, LLC">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Aon Advisors, Inc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="American National Bank &amp; Trust Co. Chicago">
-      <data key="type">Investor</data>
-    </node>
-    <node id="American Heritage Management Corp.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="American General Investment Mgmt., L.P.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="American Century Investment Management, Inc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Amalgamated Bank Institutional Asset Management &amp; Custody">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Allstate Investments LLC">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Allied Investment Advisors, Inc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Allianz Global Investors Kapitalanlagegesellschaft mbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Allianz Global Investors Italia SGR S.p.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Allianz Dresdner Asset Management (ex Pimco)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="AllianceBernstein Ltd. (Growth)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="AllianceBernstein L.P.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Allen &amp; Company LLC">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Alecta pensionsförsäkring, ömsesidigt">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Aid Association for Lutherans">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Ahorro Corporación Gestión S.G.I.I.C., S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Advest, Inc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Advantus Capital Management, Inc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Advanced Investment Management, L.P.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Aberdeen Investment Management K. K.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Aberdeen Asset Managers Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Aberdeen Asset Management (Edinburgh)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Aberdeen America Inc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="AXA Investment Managers UK Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="AXA Investment Managers Paris">
-      <data key="type">Investor</data>
-    </node>
-    <node id="ARCO Investment Management Company">
-      <data key="type">Investor</data>
-    </node>
-    <node id="AIC Asset Management, LLC">
-      <data key="type">Investor</data>
-    </node>
-    <node id="ABN AMRO Asset Management (USA) Inc.">
-      <data key="type">Investor</data>
-    </node>
-    <edge source="Micron" target="Zweig-DiMenna Associates, Inc.">
+    <edge source="Zeon" target="Yokohama Rubber Co Ltd">
+      <data key="weight">6.2</data>
+    </edge>
+    <edge source="Zeon" target="Wells Capital Management (Strong)">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Micron" target="World Asset Management, Inc.">
-      <data key="weight">0.1</data>
-    </edge>
-    <edge source="Micron" target="Winterthur Investment Management Corporation">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Windham Capital Management">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Micron" target="Wilmington Trust Investment Management LLC">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="William Blair &amp; Company, L.L.C.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Micron" target="Westpeak Global Advisors, LLC.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Wells Fargo Bank, N.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Wells Fargo Bank Wisconsin, N.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Wells Fargo Bank Utah, N.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Wells Fargo Bank Montana, N.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Wells Fargo Bank Minnesota, N.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Wells Fargo Bank Iowa, N.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Wells Fargo Bank Indiana, N.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Wells Fargo Advisors">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Wells Capital Management Inc.">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Micron" target="Wells Capital Management (Strong)">
-      <data key="weight">0.29</data>
-    </edge>
-    <edge source="Micron" target="Wellington Management Company, LLP">
-      <data key="weight">0.22</data>
-    </edge>
-    <edge source="Micron" target="Welch Capital Partners, LLC">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="Micron" target="Weintraub Capital Management, L.P.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Warburg Invest Kapitalanlagegesellschaft mbH">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Wall Street Associates, LLC">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Micron" target="Waddell &amp; Reed Investment Management Company">
-      <data key="weight">0.14</data>
-    </edge>
-    <edge source="Micron" target="Wachovia Asset Management">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="WHRS Investment Management, Inc.">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Micron" target="Virtus Investment Advisers, Inc.">
-      <data key="weight">0.47</data>
-    </edge>
-    <edge source="Micron" target="Virginia Retirement System">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="Micron" target="Vinik Asset Management, L.P.">
-      <data key="weight">0.18</data>
-    </edge>
-    <edge source="Micron" target="Victory Capital Management Inc.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Micron" target="Vaughan Nelson Investment Management, L.P.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Vanguard Group, Inc.">
-      <data key="weight">1.06</data>
-    </edge>
-    <edge source="Micron" target="Van Wagoner Capital Management, Inc.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Van Kampen Asset Management">
-      <data key="weight">0.28</data>
-    </edge>
-    <edge source="Micron" target="Upland Management">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Micron" target="Universal-Investment-Gesellschaft mbH">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="United Assurance, Plc.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Micron" target="Union Investment Institutional GmbH">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="US Trust Bk of Amer Private Wealth Mgmt LaSalle">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="US Bancorp - The Private Client Reserve">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Micron" target="UBS Global Asset Management (NY)">
-      <data key="weight">0.05</data>
-    </edge>
-    <edge source="Micron" target="UBS Global Asset Management (Americas), Inc.">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Micron" target="UBS Financial Services Inc.">
+    <edge source="Zeon" target="UFJ Partners Asset Management Co., Ltd.">
       <data key="weight">0.06</data>
     </edge>
-    <edge source="Micron" target="U.S. Trust Company N.A., Minnesota">
+    <edge source="Zeon" target="Trustus Capital Management B.V.">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Micron" target="U.S. Bancorp Asset Management, Inc. (FAF)">
+    <edge source="Zeon" target="Tokio Marine &amp; Nichido Fire Insurance Co., Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Zeon" target="Sumitomo Mitsui Trust Bank, Limited">
+      <data key="weight">2.5</data>
+    </edge>
+    <edge source="Zeon" target="Scottish Widows Investment Partnership Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Zeon" target="Santander Asset Management UK Limited">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Zeon" target="Resona Asset Management Co., Ltd.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Zeon" target="Prigest S.A.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Zeon" target="Oppenheim Kapitalanlagegesellschaft mbH">
       <data key="weight">0.04</data>
     </edge>
-    <edge source="Micron" target="Turner Investment Partners, Inc.">
-      <data key="weight">0.13</data>
-    </edge>
-    <edge source="Micron" target="Tupelo Capital Management, L.L.C.">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="Micron" target="Tudor Investment Corporation">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Transamerica Investment Management, LLC">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Tirolinvest Kapitalanlagegesellschaft mbH">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="TimesSquare Capital Management, LLC">
-      <data key="weight">0.04</data>
-    </edge>
-    <edge source="Micron" target="Thrivent Asset Management, LLC">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Micron" target="Threadneedle Asset Management Ltd.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Micron" target="The Travelers Companies, Inc.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="The Royal Bank of Scotland">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="The Roosevelt Investment Group, Inc.">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Micron" target="The Northern Trust Company of Connecticut">
-      <data key="weight">0.04</data>
-    </edge>
-    <edge source="Micron" target="The Connable Office, Inc.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Micron" target="The Commerce Trust Company">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Teleos Management, LLC">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Micron" target="Teacher Retirement System of Texas">
-      <data key="weight">0.39</data>
-    </edge>
-    <edge source="Micron" target="TWIN Capital Management, Inc.">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Micron" target="TRW Investment Management Company">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="TIAA-CREF">
-      <data key="weight">0.36</data>
-    </edge>
-    <edge source="Micron" target="TD Asset Management Inc.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="TCW Asset Management Company">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="T.H. Fitzgerald &amp; Co., L.L.C.">
-      <data key="weight">0.05</data>
-    </edge>
-    <edge source="Micron" target="T. Rowe Price Associates, Inc.">
-      <data key="weight">0.06</data>
-    </edge>
-    <edge source="Micron" target="Systematic Financial Management, L.P.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Sydbank">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Swiss Reinsurance Company Ltd.">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="Micron" target="SunTrust Bank">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="SunAmerica Asset Management Corp.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Sumitomo Life Insurance Co.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Micron" target="Suffolk Capital Management, LLC">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Micron" target="Storebrand Kapitalforvaltning AS">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Stifel Nicolaus Investment Advisors">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="State of Wisconsin Investment Board">
-      <data key="weight">0.2</data>
-    </edge>
-    <edge source="Micron" target="State Teachers Retirement System of Ohio">
-      <data key="weight">0.12</data>
-    </edge>
-    <edge source="Micron" target="State Street Global Advisors (US)">
-      <data key="weight">1.21</data>
-    </edge>
-    <edge source="Micron" target="State Street Global Advisors (UK) Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="State Street Global Advisors (France) S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Stacey Braun Associates, Inc.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="South Dakota Investment Council">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Soros Fund Management, L.L.C.">
-      <data key="weight">0.06</data>
-    </edge>
-    <edge source="Micron" target="Shaker Investments, L.L.C.">
-      <data key="weight">0.05</data>
-    </edge>
-    <edge source="Micron" target="Sentinel Asset Management, Inc.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Sears Investment Management Co.">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Micron" target="Scottish Widows Investment Partnership Ltd.">
-      <data key="weight">0.17</data>
-    </edge>
-    <edge source="Micron" target="Schroder &amp; Co., Inc.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Schneider Capital Management Corporation">
-      <data key="weight">0.13</data>
-    </edge>
-    <edge source="Micron" target="Sarasin &amp; Partners LLP">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Micron" target="SSI Investment Management Inc.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Micron" target="SG Pacific Asset Management">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="SEB Asset Management (Stockholm)">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Micron" target="S &amp; T Bank">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Robeco Investment Management Inc. (WPG)">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Renaissance Technologies Corp.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Regions Financial Corporation">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Regents of the University of California">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Micron" target="Rampart Investment Management Co., Inc.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Raiffeisen Kapitalanlage-Gesellschaft mbH">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Micron" target="RTE Asset Management">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="RS Investment Management Inc.">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="Micron" target="RS Investment Management Co. L.P.">
-      <data key="weight">0.44</data>
-    </edge>
-    <edge source="Micron" target="RCM Capital Management LLC">
-      <data key="weight">0.18</data>
-    </edge>
-    <edge source="Micron" target="RCM (UK) Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="RBC Global Asset Management Inc.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Micron" target="RBC Capital Markets Wealth Management">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="R. H. Bluestein &amp; Company">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Quantitative Management Associates LLC">
-      <data key="weight">0.09</data>
-    </edge>
-    <edge source="Micron" target="Putnam Investment Management, L.L.C.">
-      <data key="weight">1.93</data>
-    </edge>
-    <edge source="Micron" target="Public Employees' Retirement Association of CO">
-      <data key="weight">0.12</data>
-    </edge>
-    <edge source="Micron" target="Prudential Investment Corporation">
-      <data key="weight">0.31</data>
-    </edge>
-    <edge source="Micron" target="Prudential Equity Group, LLC">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Micron" target="Principal Global Investors (Equity)">
-      <data key="weight">0.04</data>
-    </edge>
-    <edge source="Micron" target="Pitcairn">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Micron" target="PineBridge Investments LLC">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Pillar Point Capital Management, Inc.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Perkins Capital Management, Inc.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Pentegra Retirement Services">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Paul J. Schupf Associates">
-      <data key="weight">0.71</data>
-    </edge>
-    <edge source="Micron" target="Parnassus Investments">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Paribas Asset Management (France)">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Parametric Portfolio Associates LLC">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Micron" target="PanAgora Asset Management Inc.">
-      <data key="weight">0.04</data>
-    </edge>
-    <edge source="Micron" target="Palantir Capital, Inc.">
-      <data key="weight">0.08</data>
-    </edge>
-    <edge source="Micron" target="PRIMECAP Management Company">
-      <data key="weight">4.78</data>
-    </edge>
-    <edge source="Micron" target="PNC Wealth Management">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="PEA Capital, LLC">
-      <data key="weight">0.24</data>
-    </edge>
-    <edge source="Micron" target="Osborn Rohs Williams &amp; Donohoe, LLC">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Opus Investment Management, Inc">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Micron" target="OppenheimerFunds, Inc.">
-      <data key="weight">0.19</data>
-    </edge>
-    <edge source="Micron" target="Oppenheimer Capital L.L.C.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Micron" target="Oppenheimer Asset Management Inc.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Ontario Municipal Employees Retirement System">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Micron" target="Omega Advisors, Inc.">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="Micron" target="Old National Wealth Management">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Old Mutual Asset Managers (UK) Ltd.">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Micron" target="Ohio Public Employees Retirement System">
-      <data key="weight">0.05</data>
-    </edge>
-    <edge source="Micron" target="Nuveen HydePark Group, LLC">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Northwestern Mutual Life Insurance">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="Micron" target="Northwestern Mutual Capital, LLC">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="Micron" target="Northern Trust Investments, N.A.">
-      <data key="weight">0.14</data>
-    </edge>
-    <edge source="Micron" target="Northern Trust Global Investments">
-      <data key="weight">0.23</data>
-    </edge>
-    <edge source="Micron" target="Northeast Investment Management, Inc.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Nordea Invest Fund Management A/S">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Nomura Asset Management Co., Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Nikko Asset Management Co., Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Nicholas-Applegate Capital Management, LLC">
-      <data key="weight">0.27</data>
-    </edge>
-    <edge source="Micron" target="Newfleet Asset Management, LLC">
-      <data key="weight">0.28</data>
-    </edge>
-    <edge source="Micron" target="New York State Teachers' Retirement System">
-      <data key="weight">0.32</data>
-    </edge>
-    <edge source="Micron" target="New York State Common Retirement System">
-      <data key="weight">0.31</data>
-    </edge>
-    <edge source="Micron" target="New York Life Investment Management, LLC">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="Micron" target="New Jersey Division of Investment">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Neuberger Berman, LLC">
-      <data key="weight">0.61</data>
-    </edge>
-    <edge source="Micron" target="Netfolio">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Nelson Capital Management">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Navarra Bolsa S.G.I.I.C.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="National City Corporation">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Micron" target="NISA Investment Advisors, L.L.C.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Mutual of America Capital Management Corp.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Munder Capital Management">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Morgan Stanley Investment Management Inc. (US)">
-      <data key="weight">0.15</data>
-    </edge>
-    <edge source="Micron" target="Morgan Stanley Investment Management (Japan) Co., Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Morgan Stanley Advisors Inc.">
-      <data key="weight">0.7</data>
-    </edge>
-    <edge source="Micron" target="Montgomery Asset Management, LLC">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Michigan Department of Treasury">
-      <data key="weight">0.05</data>
-    </edge>
-    <edge source="Micron" target="Metzler Asset Management GmbH">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Micron" target="Metropolitan Life Insurance Co. (US)">
-      <data key="weight">0.05</data>
-    </edge>
-    <edge source="Micron" target="Merrill Lynch &amp; Company, Inc.">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Micron" target="Merchbanc S.G.I.I.C., S.A.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Micron" target="Mellon Capital Management Corporation">
-      <data key="weight">0.04</data>
-    </edge>
-    <edge source="Micron" target="McGahan Greene McHugh Capital Management, LLC">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="Micron" target="Martindale Andres &amp; Company">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="Micron" target="Martin &amp; Company Investment Counsel">
-      <data key="weight">0.05</data>
-    </edge>
-    <edge source="Micron" target="Manulife Asset Management Limited">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Micron" target="Manulife Asset Management (Europe) Limited">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Mainstream Investment Advisers LLC">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Mackenzie Financial Corporation">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="MacKay Shields LLC">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Micron" target="MONY Capital Management, Inc.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="MFS Investment Management">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="MFI Asset Management GmbH">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="MEMBERS Capital Advisors, Inc.">
-      <data key="weight">0.04</data>
-    </edge>
-    <edge source="Micron" target="M&amp;I Investment Management Corp.">
-      <data key="weight">0.04</data>
-    </edge>
-    <edge source="Micron" target="Los Angeles Capital Management And Equity Research, Inc.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Lord, Abbett &amp; Co. LLC">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Loews Corporation (Investments)">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Liberty Ridge Capital, Inc.">
-      <data key="weight">0.17</data>
-    </edge>
-    <edge source="Micron" target="Legg Mason Wood Walker, Inc.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Legg Mason Capital Management, LLC">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Legal &amp; General Investment Management Ltd. (UK)">
-      <data key="weight">0.04</data>
-    </edge>
-    <edge source="Micron" target="Lazard Asset Management, L.L.C.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Lazard Asset Management Limited">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Kornitzer Capital Management Inc.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Knowlton Brothers, Inc.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Micron" target="Kiewit Investment Management Corporation">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Kentucky Teachers' Retirement System">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Micron" target="Kentucky Retirement Systems">
-      <data key="weight">0.04</data>
-    </edge>
-    <edge source="Micron" target="KBC Asset Management N.V.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="John P. O'Brien Investment Management Inc.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="John Hancock Financial Services, Inc.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Jennison Associates LLC (Sibling)">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="Micron" target="Janus Capital Management LLC">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Micron" target="JPMorgan Private Bank (United States)">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Micron" target="JPMorgan Investment Advisors Inc.">
-      <data key="weight">0.11</data>
-    </edge>
-    <edge source="Micron" target="J.P. Morgan Fleming Asset Management (U.S.)">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="J.P. Morgan Fleming Asset Management (Texas)">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Invesco Management Group, Inc.">
-      <data key="weight">0.81</data>
-    </edge>
-    <edge source="Micron" target="Intel Corporation">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Micron" target="Insight Investment Management (Global) Limited">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Independence Investments LLC">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="INTECH Investment Management LLC">
-      <data key="weight">0.08</data>
-    </edge>
-    <edge source="Micron" target="ING Pilgrim Investments, LLC.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="ING Investment Management Co. LLC">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="Micron" target="ING Investment Management (Belgium) (Inactive)">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="ING Barings">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Micron" target="ICON Advisers, Inc.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Micron" target="ICM Asset Management, Inc.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="IBM Retirement Fund">
-      <data key="weight">0.08</data>
-    </edge>
-    <edge source="Micron" target="IBJ Whitehall Bank &amp; Trust Company">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Micron" target="I.G. Investment Management, Ltd.">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Micron" target="Husic Capital Management">
-      <data key="weight">0.52</data>
-    </edge>
-    <edge source="Micron" target="Howard Hughes Medical Institute">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Hilliard Lyons Capital Management, LLC">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Highland Capital Management, LLC">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="HighMark Capital Management Inc.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Hester Capital Management, L.L.C.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Hellman, Jordan Management Company, Inc.">
-      <data key="weight">0.18</data>
-    </edge>
-    <edge source="Micron" target="Harvard Management Company, Inc.">
-      <data key="weight">0.1</data>
-    </edge>
-    <edge source="Micron" target="Hartford Investment Management Company">
-      <data key="weight">0.24</data>
-    </edge>
-    <edge source="Micron" target="HSBC Global Asset Management (UK) Limited">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="HSBC Global Asset Management (France)">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Micron" target="Gruber &amp; McBaine Capital Management, LLC">
-      <data key="weight">0.09</data>
-    </edge>
-    <edge source="Micron" target="Groupama Asset Management">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Micron" target="Greenberg-Summit Partners, LLC">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Micron" target="Goldman Sachs Asset Management (US)">
+    <edge source="Zeon" target="Nikko Asset Management Co., Ltd.">
       <data key="weight">0.25</data>
     </edge>
-    <edge source="Micron" target="Glickenhaus &amp; Co.">
-      <data key="weight">0.07</data>
+    <edge source="Zeon" target="Morley Fund Management (Singapore) Ltd.">
+      <data key="weight">0.0</data>
     </edge>
-    <edge source="Micron" target="Gartmore Investment Management Limited">
-      <data key="weight">0.03</data>
+    <edge source="Zeon" target="Morley Fund Management (Japan) Ltd.">
+      <data key="weight">0.04</data>
     </edge>
-    <edge source="Micron" target="Gardner Lewis Asset Management, L.P.">
-      <data key="weight">0.11</data>
-    </edge>
-    <edge source="Micron" target="Galleon Management, L.P.">
+    <edge source="Zeon" target="Morgan Stanley Investment Management (Singapore)">
       <data key="weight">0.13</data>
     </edge>
-    <edge source="Micron" target="GTE Investment Management">
-      <data key="weight">0.01</data>
+    <edge source="Zeon" target="Morgan Stanley Investment Management (Japan) Co., Ltd.">
+      <data key="weight">0.0</data>
     </edge>
-    <edge source="Micron" target="GMO LLC">
+    <edge source="Zeon" target="Mizuho Corporate Bank, Ltd.">
+      <data key="weight">4.1</data>
+    </edge>
+    <edge source="Zeon" target="Mizuho Bank, Ltd.">
+      <data key="weight">4.3</data>
+    </edge>
+    <edge source="Zeon" target="Mizuho Asset Management Co., Ltd.">
       <data key="weight">0.04</data>
     </edge>
-    <edge source="Micron" target="GLG Partners LP">
+    <edge source="Zeon" target="Mitsubishi UFJ Trust and Banking Corporation">
+      <data key="weight">2.2</data>
+    </edge>
+    <edge source="Zeon" target="Kokusai Asset Management Co., Ltd.">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Micron" target="GE Asset Management Inc.">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="Micron" target="Frost Investment Advisors, LLC">
+    <edge source="Zeon" target="Kames Capital">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Micron" target="Frontier Capital Management Company, LLC">
-      <data key="weight">0.08</data>
+    <edge source="Zeon" target="Jupiter Asset Management Ltd.">
+      <data key="weight">0.04</data>
     </edge>
-    <edge source="Micron" target="Freeman Investment Management Co., LLC">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Micron" target="Franklin Portfolio Associates, L.L.C.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Founders Asset Management, LLC">
-      <data key="weight">0.09</data>
-    </edge>
-    <edge source="Micron" target="Forstmann-Leff International, Inc.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Florida State Board of Administration">
+    <edge source="Zeon" target="Insight Investment Management (Global) Limited">
       <data key="weight">0.15</data>
     </edge>
-    <edge source="Micron" target="Firstar Invt. Research &amp; Mgmt. Co. (MVA)">
+    <edge source="Zeon" target="ISIS Asset Management p.l.c.">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Micron" target="FirstMerit Bank, N.A.">
+    <edge source="Zeon" target="INVESCO Asset Management Deutschland GmbH">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Micron" target="First Union National Bank (Growth)">
+    <edge source="Zeon" target="Guardian Asset Management Limited">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Micron" target="First Tennessee Bank, N.A.">
-      <data key="weight">0.01</data>
+    <edge source="Zeon" target="Furukawa Electric Co Ltd">
+      <data key="weight">6.2</data>
     </edge>
-    <edge source="Micron" target="First Quadrant L.P.">
+    <edge source="Zeon" target="Deutsche Bank Private Wealth Management Limited (Inactive)">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Zeon" target="Daiwa Asset Management Co., Ltd.">
       <data key="weight">0.03</data>
     </edge>
-    <edge source="Micron" target="Financial Management Advisors, LLC">
+    <edge source="Zeon" target="DWS Investments (France) S.A.">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Micron" target="Fifth Third Asset Management (Michigan)">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Micron" target="Fideuram Investimenti SGR S.p.A.">
+    <edge source="Zeon" target="Crédit Lyonnais Asset Management S.A.">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Micron" target="Fidelity Worldwide Investment (UK) Ltd.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Micron" target="Fidelity Management &amp; Research Company">
-      <data key="weight">12.01</data>
-    </edge>
-    <edge source="Micron" target="Fidelity International LTD (BERMUDA)">
-      <data key="weight">0.16</data>
-    </edge>
-    <edge source="Micron" target="Feirstein Capital Management, L.L.C.">
-      <data key="weight">0.04</data>
-    </edge>
-    <edge source="Micron" target="Federated Investors, Inc.">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Micron" target="FIL Investments (Japan) Limited">
+    <edge source="Zeon" target="Coutts">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Micron" target="FIL Investment Management (Hong Kong) Limited">
+    <edge source="Zeon" target="Cazenove Capital Management Limited">
+      <data key="weight">0.05</data>
+    </edge>
+    <edge source="Zeon" target="CM-CIC Asset Management">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Zeon" target="CAAM SGR S.p.A.">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Micron" target="ExxonMobil Investment Management, Inc.">
+    <edge source="Zeon" target="Barclays Wealth">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Zeon" target="Banco Fonder AB">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Zeon" target="Aviva Investors Global Services Limited">
       <data key="weight">0.01</data>
     </edge>
-    <edge source="Micron" target="Evergreen Institutional Asset Management">
-      <data key="weight">0.01</data>
+    <edge source="Zeon" target="Asahi Mutual Life Insurance Co.">
+      <data key="weight">7.3</data>
     </edge>
-    <edge source="Micron" target="Eurizon Capital SGR S.p.A.">
-      <data key="weight">0.09</data>
+    <edge source="Zeon" target="Asahi Chemical">
+      <data key="weight">2.6</data>
     </edge>
-    <edge source="Micron" target="Essex Investment Management Company, LLC">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Micron" target="Equitable Life Assurance Society">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Micron" target="Employees Retirement System of Texas">
-      <data key="weight">0.04</data>
-    </edge>
-    <edge source="Micron" target="Edgewood Management LLC">
-      <data key="weight">0.08</data>
-    </edge>
-    <edge source="Micron" target="Edge Asset Management, Inc.">
-      <data key="weight">0.07</data>
-    </edge>
-    <edge source="Micron" target="EULAV Asset Management">
+    <edge source="Zeon" target="AEGON Investment Management B.V.">
       <data key="weight">0.06</data>
-    </edge>
-    <edge source="Micron" target="ERSTE-SPARINVEST Kapitalanlagegesellschaft mbH">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="EPTAFUND S.G.R.p.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="E.Öhman J:or Fonder AB">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Duquesne Capital Management, L.L.C.">
-      <data key="weight">0.2</data>
-    </edge>
-    <edge source="Micron" target="Duncan-Hurst Capital Management, L.P.">
-      <data key="weight">0.05</data>
-    </edge>
-    <edge source="Micron" target="DuPont Capital Management Corporation">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Micron" target="Donaldson, Lufkin &amp; Jenrette">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Disciplined Investment Advisors, Inc.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Disciplined Growth Investors, Inc.">
-      <data key="weight">0.07</data>
-    </edge>
-    <edge source="Micron" target="Dimensional Fund Advisors, LP">
-      <data key="weight">0.14</data>
-    </edge>
-    <edge source="Micron" target="Dexia Asset Management Luxembourg S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Dexia Asset Management Belgium S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Dewey Square Investors, Corp.">
-      <data key="weight">0.11</data>
-    </edge>
-    <edge source="Micron" target="Deutsche Investment Management Americas, Inc.">
-      <data key="weight">0.36</data>
-    </edge>
-    <edge source="Micron" target="Deutsche Bank Securities Inc.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Deutsche Bank Securities">
-      <data key="weight">0.07</data>
-    </edge>
-    <edge source="Micron" target="Deutsche Bank Private Wealth Management Limited (Inactive)">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Deutsche Asset Management Investmentgesellschaft mbH">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Deutsche Asset Management Americas">
-      <data key="weight">1.36</data>
-    </edge>
-    <edge source="Micron" target="Denver Investments">
-      <data key="weight">0.74</data>
-    </edge>
-    <edge source="Micron" target="Delaware Investments">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Deere &amp; Company">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Micron" target="Dawson Capital Management, Inc.">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="Micron" target="Davis Selected Advisers, L.P.">
-      <data key="weight">0.4</data>
-    </edge>
-    <edge source="Micron" target="Davidson Investment Advisors, Inc.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="DWS Investment GmbH">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="Micron" target="DSI International Management, Inc.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="DIAM Co., Ltd.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Micron" target="D.C. Capital, L.L.C.">
-      <data key="weight">0.05</data>
-    </edge>
-    <edge source="Micron" target="Cypress Funds, L.L.C. (Sibling)">
-      <data key="weight">0.04</data>
-    </edge>
-    <edge source="Micron" target="Cursitor Management Ltd.">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Micron" target="Credit Suisse Securities (USA) LLC">
-      <data key="weight">0.43</data>
-    </edge>
-    <edge source="Micron" target="Credit Suisse Asset Management, LLC (US)">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="Micron" target="Credit Suisse Asset Management KAG mbH">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Credit Suisse Asset Management">
-      <data key="weight">0.21</data>
-    </edge>
-    <edge source="Micron" target="Coutts &amp; Co.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="CooperNeff Alternative Managers">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Conning Asset Management Company">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Micron" target="Cominvest Asset Management GmbH">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Comerica, Inc.">
-      <data key="weight">0.04</data>
-    </edge>
-    <edge source="Micron" target="Columbus Circle Investors">
-      <data key="weight">0.24</data>
-    </edge>
-    <edge source="Micron" target="Columbia Partners, L.L.C. Investment Management">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Micron" target="Columbia Management Investment Advisers, LLC">
-      <data key="weight">0.19</data>
-    </edge>
-    <edge source="Micron" target="Columbia Management Advisors, LLC">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Micron" target="Columbia Management Advisors, Inc. (Stein Roe)">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Columbia Management Advisors, Inc. (Crabbe Huson)">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Columbia Management Advisors, Inc. (BofA-NC)">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="Micron" target="Columbia Management Advisors, Inc. (BofA)">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="ClearBridge Advisors, LLC">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="Micron" target="ClearBridge Advisors (SBAM)">
-      <data key="weight">0.31</data>
-    </edge>
-    <edge source="Micron" target="Clay Finlay LLC">
-      <data key="weight">0.14</data>
-    </edge>
-    <edge source="Micron" target="Citibank (Switzerland)">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Citadel Investment Group, L.L.C.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Chris Blair Asset Management, L.P.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Chilton Investment Company, LLC">
-      <data key="weight">0.29</data>
-    </edge>
-    <edge source="Micron" target="Chicago Equity Partners, LLC">
-      <data key="weight">0.06</data>
-    </edge>
-    <edge source="Micron" target="Charles Schwab Investment Management, Inc.">
-      <data key="weight">0.08</data>
-    </edge>
-    <edge source="Micron" target="CenturyLink Investment Management Company">
-      <data key="weight">0.04</data>
-    </edge>
-    <edge source="Micron" target="Caxton Associates LP">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Micron" target="Carmignac Gestion">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Capstone Asset Management Company">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Micron" target="Capital Research &amp; Management Company">
-      <data key="weight">9.24</data>
-    </edge>
-    <edge source="Micron" target="Capital International, Inc.">
-      <data key="weight">0.04</data>
-    </edge>
-    <edge source="Micron" target="Capital International S.A.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Micron" target="Capital International Ltd.">
-      <data key="weight">0.04</data>
-    </edge>
-    <edge source="Micron" target="Capital Guardian Trust Company">
-      <data key="weight">0.34</data>
-    </edge>
-    <edge source="Micron" target="Capital Growth Management L.P.">
-      <data key="weight">2.84</data>
-    </edge>
-    <edge source="Micron" target="California State Teachers' Retirement System">
-      <data key="weight">0.35</data>
-    </edge>
-    <edge source="Micron" target="California Public Employees' Retirement System">
-      <data key="weight">0.48</data>
-    </edge>
-    <edge source="Micron" target="CIBC World Markets Corp.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="CCR Chevrillon-Philippe">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Micron" target="Bull Dog Capital Management, L.L.C.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Bricoleur Capital Management, LLC">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Micron" target="Branch Banking &amp; Trust Company">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Bowman Capital Management L.L.C.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Boston Advisors, LLC">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="BlackRock Investment Management, LLC">
-      <data key="weight">0.16</data>
-    </edge>
-    <edge source="Micron" target="BlackRock Investment Management (UK) Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="BlackRock Institutional Trust Company, N.A.">
-      <data key="weight">2.56</data>
-    </edge>
-    <edge source="Micron" target="BlackRock Financial Management (SSR&amp;M)">
-      <data key="weight">0.24</data>
-    </edge>
-    <edge source="Micron" target="BlackRock Advisors (UK) Limited">
-      <data key="weight">0.16</data>
-    </edge>
-    <edge source="Micron" target="Bjurman, Barry &amp; Associates">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Bessemer Trust Company, N.A. (US)">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Micron" target="Berger Financial Group L.L.C.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Micron" target="Bell Atlantic Corpn">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="Micron" target="Beck, Mack &amp; Oliver LLC">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Bear Stearns Asset Management, Inc.">
-      <data key="weight">0.11</data>
-    </edge>
-    <edge source="Micron" target="Barclays Wealth">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Micron" target="Bankers Trust International Plc.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Bank of America Merrill Lynch (US)">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Banco di Napoli Asset Management SGR.p.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Banc One Investment Advisors/Detroit">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Micron" target="Back Bay Advisors L.P.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="BSI Investment Advisors LLC">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="BP Investment Management Limited">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Micron" target="BNY Mellon Wealth Management">
-      <data key="weight">0.36</data>
-    </edge>
-    <edge source="Micron" target="BNY Mellon Asset Management">
-      <data key="weight">0.05</data>
-    </edge>
-    <edge source="Micron" target="BNP Paribas Asset Management, Inc.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Micron" target="BMO Asset Management U.S.">
-      <data key="weight">0.05</data>
-    </edge>
-    <edge source="Micron" target="BGL BNP Paribas">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Micron" target="BCGE Asset Management">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Axe-Houghton Associates, Inc._">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Micron" target="Aviva Investors Global Services Limited">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Asset Management Group of Bank of Hawaii">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Arvest Asset Management">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Aronson Johnson &amp; Ortiz, L.P.">
-      <data key="weight">0.06</data>
-    </edge>
-    <edge source="Micron" target="Ark Asset Management Co., Inc.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Arca SGR S.p.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Apex Capital, LLC">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Aon Advisors, Inc.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="American National Bank &amp; Trust Co. Chicago">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="American Heritage Management Corp.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="American General Investment Mgmt., L.P.">
-      <data key="weight">0.04</data>
-    </edge>
-    <edge source="Micron" target="American Century Investment Management, Inc.">
-      <data key="weight">0.42</data>
-    </edge>
-    <edge source="Micron" target="Amalgamated Bank Institutional Asset Management &amp; Custody">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="Micron" target="Allstate Investments LLC">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Allied Investment Advisors, Inc.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Micron" target="Allianz Global Investors Kapitalanlagegesellschaft mbH">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Allianz Global Investors Italia SGR S.p.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Allianz Dresdner Asset Management (ex Pimco)">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="AllianceBernstein Ltd. (Growth)">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="AllianceBernstein L.P.">
-      <data key="weight">1.13</data>
-    </edge>
-    <edge source="Micron" target="Allen &amp; Company LLC">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Micron" target="Alecta pensionsförsäkring, ömsesidigt">
-      <data key="weight">0.05</data>
-    </edge>
-    <edge source="Micron" target="Aid Association for Lutherans">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Micron" target="Ahorro Corporación Gestión S.G.I.I.C., S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Advest, Inc.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Advantus Capital Management, Inc.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Micron" target="Advanced Investment Management, L.P.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Aberdeen Investment Management K. K.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="Aberdeen Asset Managers Ltd.">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Micron" target="Aberdeen Asset Management (Edinburgh)">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Micron" target="Aberdeen America Inc.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="AXA Investment Managers UK Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="AXA Investment Managers Paris">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Micron" target="ARCO Investment Management Company">
-      <data key="weight">0.33</data>
-    </edge>
-    <edge source="Micron" target="AIC Asset Management, LLC">
-      <data key="weight">0.4</data>
-    </edge>
-    <edge source="Micron" target="ABN AMRO Asset Management (USA) Inc.">
-      <data key="weight">0.03</data>
     </edge>
   </graph>
 </graphml>
