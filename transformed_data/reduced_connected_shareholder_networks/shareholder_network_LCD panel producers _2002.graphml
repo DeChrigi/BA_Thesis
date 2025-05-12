@@ -1,0 +1,2695 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="weight" for="edge" attr.name="weight" attr.type="double" />
+  <key id="type" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="samsung">
+      <data key="type">Company</data>
+    </node>
+    <node id="Bissett Investment Management Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="BNP Paribas Fortis Private Banking (Belgium)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Ashmore Investment Management Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="AXA Rosenberg Investment Management Asia Pacific Ltd. (Hong">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Great Eastern Life Assurance Company Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Fin-Eco Investimenti SGR S.p.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Crédit du Nord S.A. (France)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Capital Research &amp; Management Company">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Fiera Capital Corporation">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Allianz Global Investors Singapore Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Pinnacle Associates Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Philippe Investment Management, Inc.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Capitalia Asset Management SGR S.p.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Coutts &amp; Co.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Allianz Dresdner Asset Management (ex Pimco)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="City Financial Asset Management Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Columbia Management Investment Advisers, LLC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Foodnam Advisory Co Ltd">
+      <data key="type">Investor</data>
+    </node>
+    <node id="PineBridge Investments Co., Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Banque Degroof S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="ABN AMRO Asset Management Ltd. (Fortis)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Deutsche Bank Private Wealth Management Limited (Inactive)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Columbia Management Advisors, Inc. (Newport)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Straits Lion Asset Management Co., Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="PMG Fonds Management AG">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Alecta pensionsförsäkring, ömsesidigt">
+      <data key="type">Investor</data>
+    </node>
+    <node id="China Rich Asset Management Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="DWS Investments">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Fuji Investment Management Co., Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Leonardo SGR S.p.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="London Capital Management Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Nomura Asset Management Hong Kong Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Seligson &amp; Co Rahastoyhtiö Oyj">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Cititrust and Banking Corporation">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Wellington International Management Company Pte. Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Aberdeen Investment Management K. K.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Fifth Third Asset Management (Michigan)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="BankPyme S.G.I.I.C., S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="State Street Global Advisors Asia Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Williams de Broë Private Investment Management Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="La Mondiale Gestion d'Actifs">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Malabar Capital Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Mastholm Asset Management, L.L.C.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="NTUC Income Insurance Cooperative Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="HSBC Bank France S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Schroder Invt. Mgmt. N.A. Ltd. (Canada)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Ashburton (Jersey) Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="DWS Investments (Spain), S.G.I.I.C., S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Henderson Global Investors (Singapore) Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Union Bancaire Privée">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Gerrard Ltd. (Birmingham)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Credit Suisse Asset Management (France) S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="F&amp;C Portugal, Gestão de Patrimónios, S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="SEI Investments Canada">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Singapore Unit Trusts Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="ING Private Banking (Luxembourg)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="CM-CIC Asset Management">
+      <data key="type">Investor</data>
+    </node>
+    <node id="RBC Asset Management UK Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Sarasin &amp; Partners LLP">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Dao Heng Fund Management Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="BlackRock Financial Management (SSR&amp;M)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Dexia Asset Management Asia Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="RBC Investment Solutions (CI) Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Nissay Asset Management Corp.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Prudential Financial Securities Invt.Trust Enterprise Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Sanderson Asset Management, Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Synergy Asset Management Inc.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Ward Ferry Management Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="DWS Investments (France) S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Antares Capital Partners Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Ersel Asset Management SGR S.p.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="ING Mutual Fund Management S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Oppenheimer Investment Advisers">
+      <data key="type">Investor</data>
+    </node>
+    <node id="AXA Investment Managers Deutschland GmbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Royal London Asset Management Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="ISIS Asset Management p.l.c.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Credit Suisse Investments Australia Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="DWS Investments Italy SGR S.p.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Colonial First State Global Asset Management (Core)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="CAAM SGR S.p.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Thornburg Investment Management, Inc.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Samsung Scholarship Foundation">
+      <data key="type">Investor</data>
+    </node>
+    <node id="ABN AMRO Asset Management (Netherlands) B.V.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Altamira Management Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Premier Asset Management Ltd">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Beutel, Goodman &amp; Company Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Jade Absolute Fund Managers Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Storebrand Kapitalforvaltning AS">
+      <data key="type">Investor</data>
+    </node>
+    <node id="GLG Partners UK Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Petercam S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="BFT Gestion S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="RBC Global Asset Management Inc.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="AllianceBernstein (Singapore) Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Morgan Stanley Investment Management (Japan) Co., Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Nordea Investment Funds S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="State Street Global Advisors (UK) Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Carnegie Asset Management Fondsmæglerselskab A/S">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Rothschild et Cie Gestion">
+      <data key="type">Investor</data>
+    </node>
+    <node id="AllianceBernstein Hong Kong Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="BlackRock International Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="First State Investments (U.K.) Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="MFS Investment Management K.K.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="AIB Govett Asia Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="King &amp; Shaxson Asset Management Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Citigroup Asset Management (Singapore)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Reabourne Technology Investment Management Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Bearbull Belgium S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="BGL BNP Paribas">
+      <data key="type">Investor</data>
+    </node>
+    <node id="HSBC Global Asset Management (Japan) K.K.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Kames Capital">
+      <data key="type">Investor</data>
+    </node>
+    <node id="BNP Paribas Investment Partners Netherlands N.V.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Thompson, Siegel &amp; Walmsley LLC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Gutmann Kapitalanlage Aktiengesellschaft">
+      <data key="type">Investor</data>
+    </node>
+    <node id="First State Investments (HK) Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Ecofi Investissements S.A">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Citibank (Switzerland)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Münchner Kapitalanlage AG">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Henderson Global Investors (Japan) Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Kokusai Asset Management Co., Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="La Caixa Gestión de Activos S.G.I.I.C., S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Mandatum Omaisuudenhoito Oy">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Nordea Investment Management AB (Finland)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Nykredit Bank AS">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Shinko Asset Management Co., Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="UFJ Partners Asset Management Co., Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Fortis Gesbeta S.G.I.I.C., S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Urquijo Gestión, S.A., S.G.I.I.C., Sociedad Unipersonal">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Citibank International Plc. Luxembourg Branch">
+      <data key="type">Investor</data>
+    </node>
+    <node id="HSBC Global Asset Management (France)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="ICBC (Asia) Investment Management Company Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Julius Meinl Investment Gesellschaft mbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="KBL France Gestion">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Banca del Gottardo">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Yasuda Asset Management Co., Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Fival S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Bipitalia Gestioni SGR S.p.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Morley Fund Management (Singapore) Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Singer &amp; Friedlander Investment Management Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Gérifonds S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Dexia Asset Management Luxembourg S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Santander Asset Management UK Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Clariden Leu Ltd. (Singapore)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Société Générale Asset Management (France)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Lloyds TSB International Private Banking">
+      <data key="type">Investor</data>
+    </node>
+    <node id="PIXel Investment Management S.G.R.p.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Perpetual Investments Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Capitalgest SGR S.p.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="BT Investment Management Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Commerzbank Asset Management Asia Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Schroder Investment Trust Management Company (Korea) Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Ontario Municipal Employees Retirement System">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Phillips, Hager &amp; North Investment Management">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Natexis Asset Management">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Fortis Investments France">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Banque de Luxembourg S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Pictet &amp; Cie">
+      <data key="type">Investor</data>
+    </node>
+    <node id="F. van Lanschot Bankiers N.V.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="AEGON Investment Management B.V.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Crédit Lyonnais Asset Management S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="INVESCO Asset Management (Singapore) Pte. Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="American Express Asset Management Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Fideuram Investimenti SGR S.p.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Templeton Asset Management Ltd. (Emerging Markets)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Government of Singapore Investment Corporation Pte Ltd">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Korea Exchange Bank">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Generali Investments Italy SGR S.p.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Legg Mason International Equities (Hong Kong) Ltd">
+      <data key="type">Investor</data>
+    </node>
+    <node id="The Scottish Investment Trust PLC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="JPMorgan Asset Management (Japan) Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Goldman Sachs Asset Management Co., Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="CIBC Global Asset Management Asia Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Citigroup Investments Inc.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="TT International">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Tupelo Capital Management, L.L.C.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Mediolanum Gestione Fondi SGR p.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Benkers Gestora S.G.I.I.C., S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Prudential Investment Management Japan Co., Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="ERSTE-SPARINVEST Kapitalanlagegesellschaft mbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="WestLB Mellon Asset Management Kapitalanlagegesellschaft mbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Nordea Invest Fund Management A/S">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Aberdeen Asset Management (Asia) Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Altrinsic Global Advisors, LLC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="GCIC Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="New Jersey Division of Investment (Int'l)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="AGF Asset Management Asia Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Mondrian Investment Partners Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Danske Capital">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Insight Investment Management (Global) Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Deutsche Asset Management (Asia) Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Eastspring Investments (Hong Kong) Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="DNB Asset Management AB">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Fortis Investments (Hong Kong)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Morgan Stanley Investment Management (Singapore)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Frankfurt-Trust Investment-Gesellschaft mbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="La Banque Postale Asset Management">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Goldman Sachs Asset Management International">
+      <data key="type">Investor</data>
+    </node>
+    <node id="KBC Asset Management N.V.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Natcan Investment Management Inc.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="DnB NOR Asset Management (UK) Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="SG Asset Management (Singapore) Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Euromobiliare Asset Management SGR S.p.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Loomis, Sayles &amp; Company, L.P.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Lloyd George Investment Management (Hong Kong) Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Carnegie Fonder AB">
+      <data key="type">Investor</data>
+    </node>
+    <node id="RBC Investment Management (Asia) Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Banif Gestión S.G.I.I.C., S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Banque Degroof Luxembourg S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Morgan Stanley Investment Management Ltd. (UK)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Haitong International Investment Managers Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Santander Asset Management">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Cavendish Asset Management Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="SINOPIA Asset Management">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Deutsche Asset Management Investmentgesellschaft mbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Hauck &amp; Aufhäuser Investment Gesellschaft S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Crédit Agricole Luxembourg Private Bank">
+      <data key="type">Investor</data>
+    </node>
+    <node id="DNB Asset Management (Asia) Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Sella Gestioni SGR SpA">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Lloyd George Management (Europe) Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Canada Life Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Natixis Asset Management">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Cominvest Asset Management GmbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Nikko Asset Management Asia Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Aletti Gestielle SGR S.p.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Barclays Wealth Managers">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Manulife Asset Management (Asia)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Mercator Asset Management, L.P.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Allianz Nederland Asset Management B.V.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="HSBC Global Asset Management Deutschland GmbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Jyske Invest Fund Management A/S">
+      <data key="type">Investor</data>
+    </node>
+    <node id="First State Investments (Singapore)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Jupiter Asset Management Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Daiwa SB Investments (HK) Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Aureo Gestioni S.G.R.p.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="AXA Investment Managers UK Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Nordea Investment Management AB (Sweden)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Ecclesiastical Investment Management Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="FIM Asset Management Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="HSBC Global Asset Management (Canada) Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Nikko Asset Management Singapore Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Hamon Investment Group Pte. Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="New Star Institutional Managers Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Platinum Investment Management Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="RCM (UK) Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Standard Life Investments Inc.(Canada)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Capital International Inc. (Singapore)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="EGNS-INVEST Capital Fondsmæglerselskab A/S">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Nikko Asset Management Co., Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Ecureuil Gestion FCP">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Smith &amp; Williamson Investment Management Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Anima SGR S.p.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Baring Asset Management (Asia) Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Baring Asset Management Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Union Investment Group">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Invesco Hong Kong Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="BNP Paribas Investment Partners Asia Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Ontario Teachers' Pension Plan Board">
+      <data key="type">Investor</data>
+    </node>
+    <node id="UBS Global Asset Management (Switzerland)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Pioneer Investment Management Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="State Street Global Advisors (France) S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="HSBC Global Asset Management (Hong Kong) Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Nordea Investment Management (Denmark)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="American Century Global Investment Management, Inc.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Robeco Institutional Asset Management B.V.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="FIL Investment Management (Hong Kong) Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Lee (Jae Yong)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Norges Bank Investment Management (NBIM)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Samsung Fire &amp; Marine Insurance Co Ltd">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Lee (Geon Hee)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Samsung C&amp;T Corp">
+      <data key="type">Investor</data>
+    </node>
+    <node id="National Pension Service">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Samsung Life Insurance Co., Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="DWS Investment GmbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Threadneedle Asset Management Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Caisse de Depot et Placement du Quebec">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Investec Asset Management Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="RCM Asia Pacific Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="JPMorgan Asset Management U.K. Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Fidelity Worldwide Investment (UK) Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="J.P. Morgan Asset Management (Hong Kong) Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Pictet Asset Management Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="T. Rowe Price International (UK) Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Goldman Sachs Asset Management (Singapore) Pte. Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Ignis Asset Management Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Dexia Asset Management Belgium S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="FIL Investments (Japan) Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Swisscanto Asset Management AG">
+      <data key="type">Investor</data>
+    </node>
+    <node id="SEB Asset Management (Stockholm)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="AGF Investments Inc.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="GAM (Hong Kong) Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Polar Capital LLP">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Nomura Asset Management Deutschland KAG mbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="AXA Framlington Investment Management Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Credit Suisse Asset Management">
+      <data key="type">Investor</data>
+    </node>
+    <node id="AllianceBernstein Ltd. (Growth)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Eurizon Capital S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Oppenheim Kapitalanlagegesellschaft mbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Swiss &amp; Global Asset Management Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="I.G. Investment Management (Hong Kong) Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Nicholas-Applegate Capital Management, LLC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Lion Global Investors Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Kleinwort Benson Investors Dublin Ltd">
+      <data key="type">Investor</data>
+    </node>
+    <node id="UOB Asset Management Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Lombard Odier Darier Hentsch Asia Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Prima sgr S.p.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Havenport Asset Management Pte. Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Amundi Hong Kong Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="UBS Global Asset Management (Singapore) Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Morgan Stanley Investment Management (India) Pvt. Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Henderson Global Investors Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Scottish Widows Investment Partnership Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Esemplia Emerging Markets">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Carmignac Gestion">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Swedbank Robur AB">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Russell Investments Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="M &amp; G Investment Management Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="BNP Paribas Investment Partners (France)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Polaris Capital Management, LLC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Matthews International Capital Management LLC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Franklin Templeton Investment Management Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Universal-Investment-Gesellschaft mbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Deka Investment GmbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Templeton Asset Management (Singapore) Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Handelsbanken Asset Management">
+      <data key="type">Investor</data>
+    </node>
+    <node id="F&amp;C Asset Management plc">
+      <data key="type">Investor</data>
+    </node>
+    <node id="I.G. International Management Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Arca SGR S.p.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Daiwa Asset Management Co., Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Amundi Asset Management">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Prudential Fixed Income">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Lombard Odier Darier Hentsch &amp; Cie">
+      <data key="type">Investor</data>
+    </node>
+    <node id="PineBridge Investments Asia Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Teacher Retirement System of Texas">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Credit Suisse Asset Management Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="GAM London Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="ING Investment Management (Belgium) (Inactive)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Eurizon Capital SGR S.p.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="AllianceBernstein Japan Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Veritas Investment Trust GmbH">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Banque SYZ &amp; CO SA">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Amundi Asset Management Singapore Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Allianz Global Investors Italia SGR S.p.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="AU Optronics">
+      <data key="type">Company</data>
+    </node>
+    <node id="Acer Inc">
+      <data key="type">Investor</data>
+    </node>
+    <node id="AllianceBernstein Investments Taiwan Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="ABN AMRO Asset Management Taiwan Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Allianz Global Investors Taiwan Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Deutsche Far Eastern Asset Management Co. Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="First Securities Investment Trust Co., Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Fubon Asset Management Company Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Fuh Hwa Securities Investment Trust Co., Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Citi and Au-Optronic Insurance">
+      <data key="type">Investor</data>
+    </node>
+    <node id="FIL Securities Investment Trust Co. (Taiwan) Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Chiao Tung Bank">
+      <data key="type">Investor</data>
+    </node>
+    <node id="BlackRock Investment Management (Taiwan) Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Cathay Securities Investment Trust Co., Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Chen (Hsuan Pin)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Capital Investment Trust Corporation">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Eastspring Securities Investment Trust Co. Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Hannstar Display">
+      <data key="type">Company</data>
+    </node>
+    <node id="INVESCO Taiwan Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Sheng Hua Securities Investment Trust Co., Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="JPMorgan Asset Management (Taiwan) Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Jih Sun Securities Investment Trust Co., Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Johnson Associate Company">
+      <data key="type">Investor</data>
+    </node>
+    <node id="IBT Asset Management Co., Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="HSBC Global Asset Management (Taiwan) Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Hsing Tsai Investment">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Hua Nan Investment Trust Corp.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Lite-On Technology Corp">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Polaris Int'l Sec. Inv. Trust Co.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Manulife Asset Management (Taiwan) Co., Ltd">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Mega International Investment Trust Co., Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Peng Pao Technology Co., Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Chiao (You Chun Arthur-a)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Chiao (Yu Chi)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Chiao (Yu Heng)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Shin Kong Investment Trust Co., Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Walsin Lihwa Corp">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Wen (Wan Shou)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Winbond Electronics Corp">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Union Securities Investment Trust Co., Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Truswell Securities Investment Trust Co., Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Paradigm Asset Management Co., Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="PineBridge Investments (Taiwan)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Ontario Securities Investment Trust Co., Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Kuang Hwa Investment Holding Company Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="ING Securities Investment &amp; Trust Co., Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Industrial Technology Investment Corporation">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Yuanta Securities Investment Trust Co., Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Zurich Securities Investment Trust Company Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="UBS Wealth Management AG (Switzerland)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Uni-President Assets Management Corp.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="United Microelectronics Corp">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Value Partners Concord Asset Management Co., Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Qisda Corp">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Rathbone Investment Management Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Reliance Securities Investment Trust Co., Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="SinoPac Securities Investment Trust Co., Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <edge source="samsung" target="Bissett Investment Management Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="BNP Paribas Fortis Private Banking (Belgium)">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Ashmore Investment Management Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="AXA Rosenberg Investment Management Asia Pacific Ltd. (Hong">
+      <data key="weight">0.06</data>
+    </edge>
+    <edge source="samsung" target="Great Eastern Life Assurance Company Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Fin-Eco Investimenti SGR S.p.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Crédit du Nord S.A. (France)">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Capital Research &amp; Management Company">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Fiera Capital Corporation">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Allianz Global Investors Singapore Ltd.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="samsung" target="Pinnacle Associates Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Philippe Investment Management, Inc.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Capitalia Asset Management SGR S.p.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Coutts &amp; Co.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="samsung" target="Allianz Dresdner Asset Management (ex Pimco)">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="City Financial Asset Management Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Columbia Management Investment Advisers, LLC">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Foodnam Advisory Co Ltd">
+      <data key="weight">2.67</data>
+    </edge>
+    <edge source="samsung" target="PineBridge Investments Co., Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Banque Degroof S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="ABN AMRO Asset Management Ltd. (Fortis)">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Deutsche Bank Private Wealth Management Limited (Inactive)">
+      <data key="weight">0.16</data>
+    </edge>
+    <edge source="samsung" target="Columbia Management Advisors, Inc. (Newport)">
+      <data key="weight">0.09</data>
+    </edge>
+    <edge source="samsung" target="Straits Lion Asset Management Co., Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="PMG Fonds Management AG">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Alecta pensionsförsäkring, ömsesidigt">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="China Rich Asset Management Limited">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="DWS Investments">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Fuji Investment Management Co., Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Leonardo SGR S.p.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="London Capital Management Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Nomura Asset Management Hong Kong Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Seligson &amp; Co Rahastoyhtiö Oyj">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Cititrust and Banking Corporation">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Wellington International Management Company Pte. Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Aberdeen Investment Management K. K.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Fifth Third Asset Management (Michigan)">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="BankPyme S.G.I.I.C., S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="State Street Global Advisors Asia Ltd.">
+      <data key="weight">0.06</data>
+    </edge>
+    <edge source="samsung" target="Williams de Broë Private Investment Management Limited">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="La Mondiale Gestion d'Actifs">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Malabar Capital Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Mastholm Asset Management, L.L.C.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="samsung" target="NTUC Income Insurance Cooperative Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="HSBC Bank France S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Schroder Invt. Mgmt. N.A. Ltd. (Canada)">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="samsung" target="Ashburton (Jersey) Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="DWS Investments (Spain), S.G.I.I.C., S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Henderson Global Investors (Singapore) Limited">
+      <data key="weight">0.05</data>
+    </edge>
+    <edge source="samsung" target="Union Bancaire Privée">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Gerrard Ltd. (Birmingham)">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Credit Suisse Asset Management (France) S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="F&amp;C Portugal, Gestão de Patrimónios, S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="SEI Investments Canada">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Singapore Unit Trusts Limited">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="ING Private Banking (Luxembourg)">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="CM-CIC Asset Management">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="RBC Asset Management UK Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Sarasin &amp; Partners LLP">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Dao Heng Fund Management Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="BlackRock Financial Management (SSR&amp;M)">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Dexia Asset Management Asia Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="RBC Investment Solutions (CI) Limited">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Nissay Asset Management Corp.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Prudential Financial Securities Invt.Trust Enterprise Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Sanderson Asset Management, Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Synergy Asset Management Inc.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Ward Ferry Management Limited">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="DWS Investments (France) S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Antares Capital Partners Limited">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Ersel Asset Management SGR S.p.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="ING Mutual Fund Management S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Oppenheimer Investment Advisers">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="samsung" target="AXA Investment Managers Deutschland GmbH">
+      <data key="weight">0.03</data>
+    </edge>
+    <edge source="samsung" target="Royal London Asset Management Ltd.">
+      <data key="weight">0.04</data>
+    </edge>
+    <edge source="samsung" target="ISIS Asset Management p.l.c.">
+      <data key="weight">0.07</data>
+    </edge>
+    <edge source="samsung" target="Credit Suisse Investments Australia Ltd.">
+      <data key="weight">0.05</data>
+    </edge>
+    <edge source="samsung" target="DWS Investments Italy SGR S.p.A.">
+      <data key="weight">0.03</data>
+    </edge>
+    <edge source="samsung" target="Colonial First State Global Asset Management (Core)">
+      <data key="weight">0.07</data>
+    </edge>
+    <edge source="samsung" target="CAAM SGR S.p.A.">
+      <data key="weight">0.08</data>
+    </edge>
+    <edge source="samsung" target="Thornburg Investment Management, Inc.">
+      <data key="weight">0.11</data>
+    </edge>
+    <edge source="samsung" target="Samsung Scholarship Foundation">
+      <data key="weight">0.25</data>
+    </edge>
+    <edge source="samsung" target="ABN AMRO Asset Management (Netherlands) B.V.">
+      <data key="weight">0.13</data>
+    </edge>
+    <edge source="samsung" target="Altamira Management Ltd.">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="samsung" target="Premier Asset Management Ltd">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Beutel, Goodman &amp; Company Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Jade Absolute Fund Managers Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Storebrand Kapitalforvaltning AS">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="GLG Partners UK Limited">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Petercam S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="BFT Gestion S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="RBC Global Asset Management Inc.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="AllianceBernstein (Singapore) Ltd.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="samsung" target="Morgan Stanley Investment Management (Japan) Co., Ltd.">
+      <data key="weight">0.05</data>
+    </edge>
+    <edge source="samsung" target="Nordea Investment Funds S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="State Street Global Advisors (UK) Ltd.">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="samsung" target="Carnegie Asset Management Fondsmæglerselskab A/S">
+      <data key="weight">0.03</data>
+    </edge>
+    <edge source="samsung" target="Rothschild et Cie Gestion">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="samsung" target="AllianceBernstein Hong Kong Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="BlackRock International Ltd.">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="samsung" target="First State Investments (U.K.) Ltd.">
+      <data key="weight">0.08</data>
+    </edge>
+    <edge source="samsung" target="MFS Investment Management K.K.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="AIB Govett Asia Ltd.">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="samsung" target="King &amp; Shaxson Asset Management Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Citigroup Asset Management (Singapore)">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Reabourne Technology Investment Management Ltd.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="samsung" target="Bearbull Belgium S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="BGL BNP Paribas">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="HSBC Global Asset Management (Japan) K.K.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Kames Capital">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="samsung" target="BNP Paribas Investment Partners Netherlands N.V.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="samsung" target="Thompson, Siegel &amp; Walmsley LLC">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Gutmann Kapitalanlage Aktiengesellschaft">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="First State Investments (HK) Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Ecofi Investissements S.A">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Citibank (Switzerland)">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Münchner Kapitalanlage AG">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Henderson Global Investors (Japan) Limited">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Kokusai Asset Management Co., Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="La Caixa Gestión de Activos S.G.I.I.C., S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Mandatum Omaisuudenhoito Oy">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Nordea Investment Management AB (Finland)">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Nykredit Bank AS">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Shinko Asset Management Co., Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="UFJ Partners Asset Management Co., Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Fortis Gesbeta S.G.I.I.C., S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Urquijo Gestión, S.A., S.G.I.I.C., Sociedad Unipersonal">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Citibank International Plc. Luxembourg Branch">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="HSBC Global Asset Management (France)">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="ICBC (Asia) Investment Management Company Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Julius Meinl Investment Gesellschaft mbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="KBL France Gestion">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Banca del Gottardo">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Yasuda Asset Management Co., Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Fival S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Bipitalia Gestioni SGR S.p.A.">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="samsung" target="Morley Fund Management (Singapore) Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Singer &amp; Friedlander Investment Management Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Gérifonds S.A.">
+      <data key="weight">0.03</data>
+    </edge>
+    <edge source="samsung" target="Dexia Asset Management Luxembourg S.A.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="samsung" target="Santander Asset Management UK Limited">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="samsung" target="Clariden Leu Ltd. (Singapore)">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="samsung" target="Société Générale Asset Management (France)">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="samsung" target="Lloyds TSB International Private Banking">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="samsung" target="PIXel Investment Management S.G.R.p.A.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="samsung" target="Perpetual Investments Ltd.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="samsung" target="Capitalgest SGR S.p.A.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="samsung" target="BT Investment Management Limited">
+      <data key="weight">0.04</data>
+    </edge>
+    <edge source="samsung" target="Commerzbank Asset Management Asia Ltd.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="samsung" target="Schroder Investment Trust Management Company (Korea) Ltd.">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="samsung" target="Ontario Municipal Employees Retirement System">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="samsung" target="Phillips, Hager &amp; North Investment Management">
+      <data key="weight">0.03</data>
+    </edge>
+    <edge source="samsung" target="Natexis Asset Management">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="samsung" target="Fortis Investments France">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="samsung" target="Banque de Luxembourg S.A.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="samsung" target="Pictet &amp; Cie">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="samsung" target="F. van Lanschot Bankiers N.V.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="AEGON Investment Management B.V.">
+      <data key="weight">0.05</data>
+    </edge>
+    <edge source="samsung" target="Crédit Lyonnais Asset Management S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="INVESCO Asset Management (Singapore) Pte. Ltd.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="samsung" target="American Express Asset Management Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Fideuram Investimenti SGR S.p.A.">
+      <data key="weight">0.11</data>
+    </edge>
+    <edge source="samsung" target="Templeton Asset Management Ltd. (Emerging Markets)">
+      <data key="weight">0.05</data>
+    </edge>
+    <edge source="samsung" target="Government of Singapore Investment Corporation Pte Ltd">
+      <data key="weight">1.27</data>
+    </edge>
+    <edge source="samsung" target="Korea Exchange Bank">
+      <data key="weight">1.28</data>
+    </edge>
+    <edge source="samsung" target="Generali Investments Italy SGR S.p.A.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="samsung" target="Legg Mason International Equities (Hong Kong) Ltd">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="The Scottish Investment Trust PLC">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="samsung" target="JPMorgan Asset Management (Japan) Limited">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="samsung" target="Goldman Sachs Asset Management Co., Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="CIBC Global Asset Management Asia Ltd.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="samsung" target="Citigroup Investments Inc.">
+      <data key="weight">0.04</data>
+    </edge>
+    <edge source="samsung" target="TT International">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Tupelo Capital Management, L.L.C.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="samsung" target="Mediolanum Gestione Fondi SGR p.A.">
+      <data key="weight">0.03</data>
+    </edge>
+    <edge source="samsung" target="Benkers Gestora S.G.I.I.C., S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Prudential Investment Management Japan Co., Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="ERSTE-SPARINVEST Kapitalanlagegesellschaft mbH">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="samsung" target="WestLB Mellon Asset Management Kapitalanlagegesellschaft mbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Nordea Invest Fund Management A/S">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="samsung" target="Aberdeen Asset Management (Asia) Ltd.">
+      <data key="weight">0.04</data>
+    </edge>
+    <edge source="samsung" target="Altrinsic Global Advisors, LLC">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="samsung" target="GCIC Ltd.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="samsung" target="New Jersey Division of Investment (Int'l)">
+      <data key="weight">0.05</data>
+    </edge>
+    <edge source="samsung" target="AGF Asset Management Asia Ltd.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="samsung" target="Mondrian Investment Partners Limited">
+      <data key="weight">0.03</data>
+    </edge>
+    <edge source="samsung" target="Danske Capital">
+      <data key="weight">0.03</data>
+    </edge>
+    <edge source="samsung" target="Insight Investment Management (Global) Limited">
+      <data key="weight">0.04</data>
+    </edge>
+    <edge source="samsung" target="Deutsche Asset Management (Asia) Ltd.">
+      <data key="weight">0.04</data>
+    </edge>
+    <edge source="samsung" target="Eastspring Investments (Hong Kong) Limited">
+      <data key="weight">0.08</data>
+    </edge>
+    <edge source="samsung" target="DNB Asset Management AB">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Fortis Investments (Hong Kong)">
+      <data key="weight">0.12</data>
+    </edge>
+    <edge source="samsung" target="Morgan Stanley Investment Management (Singapore)">
+      <data key="weight">0.4</data>
+    </edge>
+    <edge source="samsung" target="Frankfurt-Trust Investment-Gesellschaft mbH">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="samsung" target="La Banque Postale Asset Management">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="samsung" target="Goldman Sachs Asset Management International">
+      <data key="weight">0.03</data>
+    </edge>
+    <edge source="samsung" target="KBC Asset Management N.V.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="samsung" target="Natcan Investment Management Inc.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="DnB NOR Asset Management (UK) Ltd.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="samsung" target="SG Asset Management (Singapore) Ltd.">
+      <data key="weight">0.04</data>
+    </edge>
+    <edge source="samsung" target="Euromobiliare Asset Management SGR S.p.A.">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="samsung" target="Loomis, Sayles &amp; Company, L.P.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Lloyd George Investment Management (Hong Kong) Ltd.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="samsung" target="Carnegie Fonder AB">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="RBC Investment Management (Asia) Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Banif Gestión S.G.I.I.C., S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Banque Degroof Luxembourg S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Morgan Stanley Investment Management Ltd. (UK)">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Haitong International Investment Managers Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Santander Asset Management">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Cavendish Asset Management Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="SINOPIA Asset Management">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Deutsche Asset Management Investmentgesellschaft mbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Hauck &amp; Aufhäuser Investment Gesellschaft S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Crédit Agricole Luxembourg Private Bank">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="DNB Asset Management (Asia) Limited">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="samsung" target="Sella Gestioni SGR SpA">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="samsung" target="Lloyd George Management (Europe) Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Canada Life Ltd.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="samsung" target="Natixis Asset Management">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Cominvest Asset Management GmbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Nikko Asset Management Asia Limited">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="samsung" target="Aletti Gestielle SGR S.p.A.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="samsung" target="Barclays Wealth Managers">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="samsung" target="Manulife Asset Management (Asia)">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="samsung" target="Mercator Asset Management, L.P.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="samsung" target="Allianz Nederland Asset Management B.V.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="samsung" target="HSBC Global Asset Management Deutschland GmbH">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="samsung" target="Jyske Invest Fund Management A/S">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="samsung" target="First State Investments (Singapore)">
+      <data key="weight">0.06</data>
+    </edge>
+    <edge source="samsung" target="Jupiter Asset Management Ltd.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="samsung" target="Daiwa SB Investments (HK) Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Aureo Gestioni S.G.R.p.A.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="samsung" target="AXA Investment Managers UK Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Nordea Investment Management AB (Sweden)">
+      <data key="weight">0.03</data>
+    </edge>
+    <edge source="samsung" target="Ecclesiastical Investment Management Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="FIM Asset Management Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="HSBC Global Asset Management (Canada) Limited">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Nikko Asset Management Singapore Limited">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Hamon Investment Group Pte. Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="New Star Institutional Managers Limited">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Platinum Investment Management Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="RCM (UK) Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Standard Life Investments Inc.(Canada)">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Capital International Inc. (Singapore)">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="EGNS-INVEST Capital Fondsmæglerselskab A/S">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Nikko Asset Management Co., Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Ecureuil Gestion FCP">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Smith &amp; Williamson Investment Management Limited">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Anima SGR S.p.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Baring Asset Management (Asia) Limited">
+      <data key="weight">0.08</data>
+    </edge>
+    <edge source="samsung" target="Baring Asset Management Ltd.">
+      <data key="weight">0.09</data>
+    </edge>
+    <edge source="samsung" target="Union Investment Group">
+      <data key="weight">0.04</data>
+    </edge>
+    <edge source="samsung" target="Invesco Hong Kong Limited">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="samsung" target="BNP Paribas Investment Partners Asia Ltd.">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="samsung" target="Ontario Teachers' Pension Plan Board">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="UBS Global Asset Management (Switzerland)">
+      <data key="weight">0.14</data>
+    </edge>
+    <edge source="samsung" target="Pioneer Investment Management Ltd.">
+      <data key="weight">0.07</data>
+    </edge>
+    <edge source="samsung" target="State Street Global Advisors (France) S.A.">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="samsung" target="HSBC Global Asset Management (Hong Kong) Limited">
+      <data key="weight">0.1</data>
+    </edge>
+    <edge source="samsung" target="Nordea Investment Management (Denmark)">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="American Century Global Investment Management, Inc.">
+      <data key="weight">0.19</data>
+    </edge>
+    <edge source="samsung" target="Robeco Institutional Asset Management B.V.">
+      <data key="weight">0.06</data>
+    </edge>
+    <edge source="samsung" target="FIL Investment Management (Hong Kong) Limited">
+      <data key="weight">0.3</data>
+    </edge>
+    <edge source="samsung" target="Lee (Jae Yong)">
+      <data key="weight">0.63</data>
+    </edge>
+    <edge source="samsung" target="Norges Bank Investment Management (NBIM)">
+      <data key="weight">0.35</data>
+    </edge>
+    <edge source="samsung" target="Samsung Fire &amp; Marine Insurance Co Ltd">
+      <data key="weight">1.22</data>
+    </edge>
+    <edge source="samsung" target="Lee (Geon Hee)">
+      <data key="weight">1.85</data>
+    </edge>
+    <edge source="samsung" target="Samsung C&amp;T Corp">
+      <data key="weight">3.88</data>
+    </edge>
+    <edge source="samsung" target="National Pension Service">
+      <data key="weight">1.64</data>
+    </edge>
+    <edge source="samsung" target="Samsung Life Insurance Co., Ltd.">
+      <data key="weight">6.96</data>
+    </edge>
+    <edge source="samsung" target="DWS Investment GmbH">
+      <data key="weight">0.23</data>
+    </edge>
+    <edge source="samsung" target="Threadneedle Asset Management Ltd.">
+      <data key="weight">0.05</data>
+    </edge>
+    <edge source="samsung" target="Caisse de Depot et Placement du Quebec">
+      <data key="weight">0.07</data>
+    </edge>
+    <edge source="samsung" target="Investec Asset Management Ltd.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="samsung" target="RCM Asia Pacific Limited">
+      <data key="weight">0.05</data>
+    </edge>
+    <edge source="samsung" target="JPMorgan Asset Management U.K. Limited">
+      <data key="weight">0.14</data>
+    </edge>
+    <edge source="samsung" target="Fidelity Worldwide Investment (UK) Ltd.">
+      <data key="weight">0.03</data>
+    </edge>
+    <edge source="samsung" target="J.P. Morgan Asset Management (Hong Kong) Ltd.">
+      <data key="weight">0.39</data>
+    </edge>
+    <edge source="samsung" target="Pictet Asset Management Ltd.">
+      <data key="weight">0.06</data>
+    </edge>
+    <edge source="samsung" target="T. Rowe Price International (UK) Ltd.">
+      <data key="weight">0.24</data>
+    </edge>
+    <edge source="samsung" target="Goldman Sachs Asset Management (Singapore) Pte. Ltd.">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="samsung" target="Ignis Asset Management Limited">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="samsung" target="Dexia Asset Management Belgium S.A.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="samsung" target="FIL Investments (Japan) Limited">
+      <data key="weight">0.03</data>
+    </edge>
+    <edge source="samsung" target="Swisscanto Asset Management AG">
+      <data key="weight">0.04</data>
+    </edge>
+    <edge source="samsung" target="SEB Asset Management (Stockholm)">
+      <data key="weight">0.07</data>
+    </edge>
+    <edge source="samsung" target="AGF Investments Inc.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="samsung" target="GAM (Hong Kong) Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Polar Capital LLP">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="samsung" target="Nomura Asset Management Deutschland KAG mbH">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="samsung" target="AXA Framlington Investment Management Ltd.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="samsung" target="Credit Suisse Asset Management">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="samsung" target="AllianceBernstein Ltd. (Growth)">
+      <data key="weight">0.03</data>
+    </edge>
+    <edge source="samsung" target="Eurizon Capital S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Oppenheim Kapitalanlagegesellschaft mbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Swiss &amp; Global Asset Management Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="I.G. Investment Management (Hong Kong) Ltd.">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="samsung" target="Nicholas-Applegate Capital Management, LLC">
+      <data key="weight">0.04</data>
+    </edge>
+    <edge source="samsung" target="Lion Global Investors Limited">
+      <data key="weight">0.03</data>
+    </edge>
+    <edge source="samsung" target="Kleinwort Benson Investors Dublin Ltd">
+      <data key="weight">0.03</data>
+    </edge>
+    <edge source="samsung" target="UOB Asset Management Ltd.">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="samsung" target="Lombard Odier Darier Hentsch Asia Ltd.">
+      <data key="weight">0.03</data>
+    </edge>
+    <edge source="samsung" target="Prima sgr S.p.A.">
+      <data key="weight">0.03</data>
+    </edge>
+    <edge source="samsung" target="Havenport Asset Management Pte. Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Amundi Hong Kong Limited">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="UBS Global Asset Management (Singapore) Ltd.">
+      <data key="weight">0.09</data>
+    </edge>
+    <edge source="samsung" target="Morgan Stanley Investment Management (India) Pvt. Ltd.">
+      <data key="weight">0.3</data>
+    </edge>
+    <edge source="samsung" target="Henderson Global Investors Ltd.">
+      <data key="weight">0.1</data>
+    </edge>
+    <edge source="samsung" target="Scottish Widows Investment Partnership Ltd.">
+      <data key="weight">0.09</data>
+    </edge>
+    <edge source="samsung" target="Esemplia Emerging Markets">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Carmignac Gestion">
+      <data key="weight">0.05</data>
+    </edge>
+    <edge source="samsung" target="Swedbank Robur AB">
+      <data key="weight">0.06</data>
+    </edge>
+    <edge source="samsung" target="Russell Investments Limited">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="samsung" target="M &amp; G Investment Management Ltd.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="samsung" target="BNP Paribas Investment Partners (France)">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="samsung" target="Polaris Capital Management, LLC">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Matthews International Capital Management LLC">
+      <data key="weight">0.07</data>
+    </edge>
+    <edge source="samsung" target="Franklin Templeton Investment Management Ltd.">
+      <data key="weight">0.03</data>
+    </edge>
+    <edge source="samsung" target="Universal-Investment-Gesellschaft mbH">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="samsung" target="Deka Investment GmbH">
+      <data key="weight">0.1</data>
+    </edge>
+    <edge source="samsung" target="Templeton Asset Management (Singapore) Ltd.">
+      <data key="weight">0.08</data>
+    </edge>
+    <edge source="samsung" target="Handelsbanken Asset Management">
+      <data key="weight">0.04</data>
+    </edge>
+    <edge source="samsung" target="F&amp;C Asset Management plc">
+      <data key="weight">0.08</data>
+    </edge>
+    <edge source="samsung" target="I.G. International Management Ltd.">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="samsung" target="Arca SGR S.p.A.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="samsung" target="Daiwa Asset Management Co., Ltd.">
+      <data key="weight">0.03</data>
+    </edge>
+    <edge source="samsung" target="Amundi Asset Management">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="samsung" target="Prudential Fixed Income">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Lombard Odier Darier Hentsch &amp; Cie">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="samsung" target="PineBridge Investments Asia Limited">
+      <data key="weight">0.04</data>
+    </edge>
+    <edge source="samsung" target="Teacher Retirement System of Texas">
+      <data key="weight">0.12</data>
+    </edge>
+    <edge source="samsung" target="Credit Suisse Asset Management Limited">
+      <data key="weight">0.03</data>
+    </edge>
+    <edge source="samsung" target="GAM London Limited">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="ING Investment Management (Belgium) (Inactive)">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="samsung" target="Eurizon Capital SGR S.p.A.">
+      <data key="weight">0.04</data>
+    </edge>
+    <edge source="samsung" target="AllianceBernstein Japan Ltd.">
+      <data key="weight">0.03</data>
+    </edge>
+    <edge source="samsung" target="Veritas Investment Trust GmbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Banque SYZ &amp; CO SA">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="samsung" target="Amundi Asset Management Singapore Ltd.">
+      <data key="weight">0.03</data>
+    </edge>
+    <edge source="samsung" target="Allianz Global Investors Italia SGR S.p.A.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="AXA Rosenberg Investment Management Asia Pacific Ltd. (Hong" target="AU Optronics">
+      <data key="weight">0.06</data>
+    </edge>
+    <edge source="Straits Lion Asset Management Co., Ltd." target="AU Optronics">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Fuji Investment Management Co., Ltd." target="AU Optronics">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="State Street Global Advisors Asia Ltd." target="AU Optronics">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Prudential Financial Securities Invt.Trust Enterprise Ltd." target="Hannstar Display">
+      <data key="weight">0.05</data>
+    </edge>
+    <edge source="Prudential Financial Securities Invt.Trust Enterprise Ltd." target="AU Optronics">
+      <data key="weight">0.13</data>
+    </edge>
+    <edge source="Royal London Asset Management Ltd." target="AU Optronics">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="ISIS Asset Management p.l.c." target="AU Optronics">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Jade Absolute Fund Managers Ltd." target="AU Optronics">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="RBC Global Asset Management Inc." target="AU Optronics">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Morgan Stanley Investment Management (Japan) Co., Ltd." target="AU Optronics">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nordea Investment Funds S.A." target="Hannstar Display">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nordea Investment Funds S.A." target="AU Optronics">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="State Street Global Advisors (UK) Ltd." target="AU Optronics">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Rothschild et Cie Gestion" target="AU Optronics">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="BGL BNP Paribas" target="AU Optronics">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="BNP Paribas Investment Partners Netherlands N.V." target="AU Optronics">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="First State Investments (HK) Ltd." target="AU Optronics">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Shinko Asset Management Co., Ltd." target="AU Optronics">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Morley Fund Management (Singapore) Ltd." target="AU Optronics">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Dexia Asset Management Luxembourg S.A." target="AU Optronics">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Santander Asset Management UK Limited" target="AU Optronics">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Clariden Leu Ltd. (Singapore)" target="AU Optronics">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Commerzbank Asset Management Asia Ltd." target="AU Optronics">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Commerzbank Asset Management Asia Ltd." target="Hannstar Display">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="F. van Lanschot Bankiers N.V." target="AU Optronics">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="American Express Asset Management Ltd." target="AU Optronics">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Fideuram Investimenti SGR S.p.A." target="AU Optronics">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Generali Investments Italy SGR S.p.A." target="AU Optronics">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="JPMorgan Asset Management (Japan) Limited" target="AU Optronics">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Goldman Sachs Asset Management Co., Ltd." target="AU Optronics">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="CIBC Global Asset Management Asia Ltd." target="AU Optronics">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Mediolanum Gestione Fondi SGR p.A." target="AU Optronics">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="WestLB Mellon Asset Management Kapitalanlagegesellschaft mbH" target="AU Optronics">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="GCIC Ltd." target="AU Optronics">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Insight Investment Management (Global) Limited" target="AU Optronics">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Deutsche Asset Management (Asia) Ltd." target="AU Optronics">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Fortis Investments (Hong Kong)" target="AU Optronics">
+      <data key="weight">0.06</data>
+    </edge>
+    <edge source="Morgan Stanley Investment Management (Singapore)" target="AU Optronics">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Goldman Sachs Asset Management International" target="AU Optronics">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="DnB NOR Asset Management (UK) Ltd." target="AU Optronics">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Crédit Agricole Luxembourg Private Bank" target="AU Optronics">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nikko Asset Management Asia Limited" target="Hannstar Display">
+      <data key="weight">0.1</data>
+    </edge>
+    <edge source="Nikko Asset Management Asia Limited" target="AU Optronics">
+      <data key="weight">0.04</data>
+    </edge>
+    <edge source="Manulife Asset Management (Asia)" target="AU Optronics">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="First State Investments (Singapore)" target="AU Optronics">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Hamon Investment Group Pte. Ltd." target="AU Optronics">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="New Star Institutional Managers Limited" target="AU Optronics">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="RCM (UK) Ltd." target="AU Optronics">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="State Street Global Advisors (France) S.A." target="AU Optronics">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="American Century Global Investment Management, Inc." target="AU Optronics">
+      <data key="weight">0.2</data>
+    </edge>
+    <edge source="American Century Global Investment Management, Inc." target="Hannstar Display">
+      <data key="weight">0.46</data>
+    </edge>
+    <edge source="Robeco Institutional Asset Management B.V." target="AU Optronics">
+      <data key="weight">0.05</data>
+    </edge>
+    <edge source="Norges Bank Investment Management (NBIM)" target="Hannstar Display">
+      <data key="weight">0.06</data>
+    </edge>
+    <edge source="Norges Bank Investment Management (NBIM)" target="AU Optronics">
+      <data key="weight">0.09</data>
+    </edge>
+    <edge source="Investec Asset Management Ltd." target="AU Optronics">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="RCM Asia Pacific Limited" target="AU Optronics">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="JPMorgan Asset Management U.K. Limited" target="Hannstar Display">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="JPMorgan Asset Management U.K. Limited" target="AU Optronics">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="J.P. Morgan Asset Management (Hong Kong) Ltd." target="Hannstar Display">
+      <data key="weight">0.49</data>
+    </edge>
+    <edge source="J.P. Morgan Asset Management (Hong Kong) Ltd." target="AU Optronics">
+      <data key="weight">0.1</data>
+    </edge>
+    <edge source="Pictet Asset Management Ltd." target="AU Optronics">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="T. Rowe Price International (UK) Ltd." target="AU Optronics">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Ignis Asset Management Limited" target="AU Optronics">
+      <data key="weight">0.04</data>
+    </edge>
+    <edge source="Swisscanto Asset Management AG" target="AU Optronics">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Credit Suisse Asset Management" target="AU Optronics">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Eurizon Capital S.A." target="AU Optronics">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Nicholas-Applegate Capital Management, LLC" target="AU Optronics">
+      <data key="weight">0.08</data>
+    </edge>
+    <edge source="Lion Global Investors Limited" target="Hannstar Display">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Lion Global Investors Limited" target="AU Optronics">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Amundi Hong Kong Limited" target="AU Optronics">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Amundi Hong Kong Limited" target="Hannstar Display">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="UBS Global Asset Management (Singapore) Ltd." target="AU Optronics">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Russell Investments Limited" target="AU Optronics">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="BNP Paribas Investment Partners (France)" target="AU Optronics">
+      <data key="weight">0.03</data>
+    </edge>
+    <edge source="PineBridge Investments Asia Limited" target="AU Optronics">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="ING Investment Management (Belgium) (Inactive)" target="AU Optronics">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Eurizon Capital SGR S.p.A." target="AU Optronics">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Veritas Investment Trust GmbH" target="Hannstar Display">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Banque SYZ &amp; CO SA" target="Hannstar Display">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="AU Optronics" target="Acer Inc">
+      <data key="weight">20.77</data>
+    </edge>
+    <edge source="AU Optronics" target="AllianceBernstein Investments Taiwan Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="AU Optronics" target="ABN AMRO Asset Management Taiwan Ltd.">
+      <data key="weight">0.16</data>
+    </edge>
+    <edge source="AU Optronics" target="Allianz Global Investors Taiwan Ltd.">
+      <data key="weight">0.06</data>
+    </edge>
+    <edge source="AU Optronics" target="Deutsche Far Eastern Asset Management Co. Ltd.">
+      <data key="weight">0.06</data>
+    </edge>
+    <edge source="AU Optronics" target="First Securities Investment Trust Co., Ltd.">
+      <data key="weight">0.06</data>
+    </edge>
+    <edge source="AU Optronics" target="Fubon Asset Management Company Ltd.">
+      <data key="weight">0.21</data>
+    </edge>
+    <edge source="AU Optronics" target="Fuh Hwa Securities Investment Trust Co., Ltd.">
+      <data key="weight">0.05</data>
+    </edge>
+    <edge source="AU Optronics" target="Citi and Au-Optronic Insurance">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="AU Optronics" target="FIL Securities Investment Trust Co. (Taiwan) Limited">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="AU Optronics" target="Chiao Tung Bank">
+      <data key="weight">2.52</data>
+    </edge>
+    <edge source="AU Optronics" target="BlackRock Investment Management (Taiwan) Ltd.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="AU Optronics" target="Cathay Securities Investment Trust Co., Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="AU Optronics" target="Chen (Hsuan Pin)">
+      <data key="weight">0.25</data>
+    </edge>
+    <edge source="AU Optronics" target="Capital Investment Trust Corporation">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="AU Optronics" target="Eastspring Securities Investment Trust Co. Ltd.">
+      <data key="weight">0.1</data>
+    </edge>
+    <edge source="AU Optronics" target="Paradigm Asset Management Co., Ltd.">
+      <data key="weight">0.18</data>
+    </edge>
+    <edge source="AU Optronics" target="PineBridge Investments (Taiwan)">
+      <data key="weight">0.12</data>
+    </edge>
+    <edge source="AU Optronics" target="Polaris Int'l Sec. Inv. Trust Co.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="AU Optronics" target="Ontario Securities Investment Trust Co., Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="AU Optronics" target="Hua Nan Investment Trust Corp.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="AU Optronics" target="HSBC Global Asset Management (Taiwan) Limited">
+      <data key="weight">0.16</data>
+    </edge>
+    <edge source="AU Optronics" target="IBT Asset Management Co., Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="AU Optronics" target="JPMorgan Asset Management (Taiwan) Limited">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="AU Optronics" target="Jih Sun Securities Investment Trust Co., Ltd.">
+      <data key="weight">0.15</data>
+    </edge>
+    <edge source="AU Optronics" target="Kuang Hwa Investment Holding Company Ltd.">
+      <data key="weight">2.07</data>
+    </edge>
+    <edge source="AU Optronics" target="ING Securities Investment &amp; Trust Co., Ltd.">
+      <data key="weight">0.12</data>
+    </edge>
+    <edge source="AU Optronics" target="INVESCO Taiwan Ltd.">
+      <data key="weight">0.15</data>
+    </edge>
+    <edge source="AU Optronics" target="Industrial Technology Investment Corporation">
+      <data key="weight">1.71</data>
+    </edge>
+    <edge source="AU Optronics" target="Yuanta Securities Investment Trust Co., Ltd.">
+      <data key="weight">0.04</data>
+    </edge>
+    <edge source="AU Optronics" target="Zurich Securities Investment Trust Company Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="AU Optronics" target="UBS Wealth Management AG (Switzerland)">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="AU Optronics" target="Uni-President Assets Management Corp.">
+      <data key="weight">0.11</data>
+    </edge>
+    <edge source="AU Optronics" target="Union Securities Investment Trust Co., Ltd.">
+      <data key="weight">0.11</data>
+    </edge>
+    <edge source="AU Optronics" target="United Microelectronics Corp">
+      <data key="weight">11.45</data>
+    </edge>
+    <edge source="AU Optronics" target="Value Partners Concord Asset Management Co., Ltd.">
+      <data key="weight">0.05</data>
+    </edge>
+    <edge source="AU Optronics" target="Mega International Investment Trust Co., Ltd.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="AU Optronics" target="Qisda Corp">
+      <data key="weight">14.99</data>
+    </edge>
+    <edge source="AU Optronics" target="Rathbone Investment Management Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="AU Optronics" target="Reliance Securities Investment Trust Co., Ltd.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="AU Optronics" target="Shin Kong Investment Trust Co., Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="AU Optronics" target="SinoPac Securities Investment Trust Co., Ltd.">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="AU Optronics" target="Sheng Hua Securities Investment Trust Co., Ltd.">
+      <data key="weight">0.05</data>
+    </edge>
+    <edge source="AU Optronics" target="Truswell Securities Investment Trust Co., Ltd.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="AllianceBernstein Investments Taiwan Ltd." target="Hannstar Display">
+      <data key="weight">0.04</data>
+    </edge>
+    <edge source="ABN AMRO Asset Management Taiwan Ltd." target="Hannstar Display">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Allianz Global Investors Taiwan Ltd." target="Hannstar Display">
+      <data key="weight">0.06</data>
+    </edge>
+    <edge source="First Securities Investment Trust Co., Ltd." target="Hannstar Display">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Fubon Asset Management Company Ltd." target="Hannstar Display">
+      <data key="weight">0.08</data>
+    </edge>
+    <edge source="Fuh Hwa Securities Investment Trust Co., Ltd." target="Hannstar Display">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="BlackRock Investment Management (Taiwan) Ltd." target="Hannstar Display">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Capital Investment Trust Corporation" target="Hannstar Display">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Eastspring Securities Investment Trust Co. Ltd." target="Hannstar Display">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Hannstar Display" target="INVESCO Taiwan Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Hannstar Display" target="Sheng Hua Securities Investment Trust Co., Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Hannstar Display" target="JPMorgan Asset Management (Taiwan) Limited">
+      <data key="weight">1.28</data>
+    </edge>
+    <edge source="Hannstar Display" target="Jih Sun Securities Investment Trust Co., Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Hannstar Display" target="Johnson Associate Company">
+      <data key="weight">0.19</data>
+    </edge>
+    <edge source="Hannstar Display" target="IBT Asset Management Co., Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Hannstar Display" target="HSBC Global Asset Management (Taiwan) Limited">
+      <data key="weight">0.04</data>
+    </edge>
+    <edge source="Hannstar Display" target="Hsing Tsai Investment">
+      <data key="weight">0.15</data>
+    </edge>
+    <edge source="Hannstar Display" target="Hua Nan Investment Trust Corp.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Hannstar Display" target="Lite-On Technology Corp">
+      <data key="weight">0.42</data>
+    </edge>
+    <edge source="Hannstar Display" target="Polaris Int'l Sec. Inv. Trust Co.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Hannstar Display" target="Manulife Asset Management (Taiwan) Co., Ltd">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Hannstar Display" target="Mega International Investment Trust Co., Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Hannstar Display" target="Peng Pao Technology Co., Ltd.">
+      <data key="weight">1.17</data>
+    </edge>
+    <edge source="Hannstar Display" target="Chiao (You Chun Arthur-a)">
+      <data key="weight">0.72</data>
+    </edge>
+    <edge source="Hannstar Display" target="Chiao (Yu Chi)">
+      <data key="weight">0.82</data>
+    </edge>
+    <edge source="Hannstar Display" target="Chiao (Yu Heng)">
+      <data key="weight">0.64</data>
+    </edge>
+    <edge source="Hannstar Display" target="Shin Kong Investment Trust Co., Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Hannstar Display" target="Walsin Lihwa Corp">
+      <data key="weight">13.8</data>
+    </edge>
+    <edge source="Hannstar Display" target="Wen (Wan Shou)">
+      <data key="weight">0.16</data>
+    </edge>
+    <edge source="Hannstar Display" target="Winbond Electronics Corp">
+      <data key="weight">12.32</data>
+    </edge>
+    <edge source="Hannstar Display" target="Union Securities Investment Trust Co., Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Hannstar Display" target="Truswell Securities Investment Trust Co., Ltd.">
+      <data key="weight">0.02</data>
+    </edge>
+  </graph>
+</graphml>
