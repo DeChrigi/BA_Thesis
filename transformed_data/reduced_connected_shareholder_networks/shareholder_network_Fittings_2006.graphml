@@ -3,12 +3,6 @@
   <key id="weight" for="edge" attr.name="weight" attr.type="double" />
   <key id="type" for="node" attr.name="type" attr.type="string" />
   <graph edgedefault="undirected">
-    <node id="Mueller Industries">
-      <data key="type">Company</data>
-    </node>
-    <node id="Nyman (Lee R)">
-      <data key="type">Investor</data>
-    </node>
     <node id="Aalberts">
       <data key="type">Company</data>
     </node>
@@ -22,6 +16,12 @@
       <data key="type">Investor</data>
     </node>
     <node id="Crédit Suisse Gestión S.G.I.I.C., S.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Danske Capital">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Danske Capital (Sweden)">
       <data key="type">Investor</data>
     </node>
     <node id="Delta Lloyd Life N.V.">
@@ -39,28 +39,22 @@
     <node id="INVESCO Asset Management Deutschland GmbH">
       <data key="type">Investor</data>
     </node>
-    <node id="Danske Capital">
-      <data key="type">Investor</data>
-    </node>
     <node id="Franklin Templeton Investment Management Ltd.">
       <data key="type">Investor</data>
     </node>
     <node id="Fuchs &amp; Associés Finance S.A.">
       <data key="type">Investor</data>
     </node>
-    <node id="Argenta Fund">
-      <data key="type">Investor</data>
-    </node>
     <node id="Gaesco Gestión S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Danske Capital (Sweden)">
       <data key="type">Investor</data>
     </node>
     <node id="Credit Suisse Asset Management">
       <data key="type">Investor</data>
     </node>
     <node id="BG SGR S.p.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Argenta Fund">
       <data key="type">Investor</data>
     </node>
     <node id="BNP Paribas Investment Partners Netherlands N.V.">
@@ -70,6 +64,9 @@
       <data key="type">Investor</data>
     </node>
     <node id="American Century Global Investment Management, Inc.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Allianz Nederland Asset Management B.V.">
       <data key="type">Investor</data>
     </node>
     <node id="ABN AMRO Asset Management (Netherlands) B.V.">
@@ -87,7 +84,7 @@
     <node id="Alliance Trust Plc.">
       <data key="type">Investor</data>
     </node>
-    <node id="Capitalia Asset Management SGR S.p.A.">
+    <node id="Allianz Global Investors France">
       <data key="type">Investor</data>
     </node>
     <node id="CAAM SGR S.p.A.">
@@ -96,22 +93,19 @@
     <node id="CB Asset Management AB">
       <data key="type">Investor</data>
     </node>
+    <node id="Capitalia Asset Management SGR S.p.A.">
+      <data key="type">Investor</data>
+    </node>
     <node id="Buttonwood">
       <data key="type">Investor</data>
     </node>
     <node id="Columbia Wanger Asset Management, LLC">
       <data key="type">Investor</data>
     </node>
-    <node id="Dalton Strategic Partnership, L.L.P.">
-      <data key="type">Investor</data>
-    </node>
     <node id="Banque Privée Edmond de Rothschild Europe">
       <data key="type">Investor</data>
     </node>
     <node id="Banque SYZ &amp; CO SA">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Charles Schwab Investment Management, Inc.">
       <data key="type">Investor</data>
     </node>
     <node id="Banque de Luxembourg Investments">
@@ -123,10 +117,16 @@
     <node id="Baring Asset Management Ltd.">
       <data key="type">Investor</data>
     </node>
+    <node id="Mueller Industries">
+      <data key="type">Company</data>
+    </node>
     <node id="Defiance Asset Management, L.L.C.">
       <data key="type">Investor</data>
     </node>
     <node id="Daruma Asset Management, LLC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Dalton Strategic Partnership, L.L.P.">
       <data key="type">Investor</data>
     </node>
     <node id="DIAM Co., Ltd.">
@@ -136,6 +136,9 @@
       <data key="type">Investor</data>
     </node>
     <node id="D.A. Davidson &amp; Co.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Curian Capital, LLC">
       <data key="type">Investor</data>
     </node>
     <node id="Crédit Agricole Corporate and Investment Bank">
@@ -150,10 +153,7 @@
     <node id="D. E. Shaw &amp; Co., L.P.">
       <data key="type">Investor</data>
     </node>
-    <node id="Curian Capital, LLC">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Deutsche Asset Management Americas">
+    <node id="Credit Suisse Asset Management Limited">
       <data key="type">Investor</data>
     </node>
     <node id="Endex Capital Management, LLC">
@@ -162,7 +162,7 @@
     <node id="Employees Retirement System of Texas">
       <data key="type">Investor</data>
     </node>
-    <node id="Credit Suisse Asset Management Limited">
+    <node id="Deutsche Asset Management Americas">
       <data key="type">Investor</data>
     </node>
     <node id="Dimensional Fund Advisors, LP">
@@ -198,10 +198,13 @@
     <node id="Christopher (Gregory L)">
       <data key="type">Investor</data>
     </node>
-    <node id="Allianz Global Investors France">
+    <node id="Charles Schwab Investment Management, Inc.">
       <data key="type">Investor</data>
     </node>
-    <node id="Columbia Management Advisors, LLC">
+    <node id="Caxton Associates LP">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Cavanal Hill Investment Management, Inc.">
       <data key="type">Investor</data>
     </node>
     <node id="Cowen Capital, LLC">
@@ -213,10 +216,10 @@
     <node id="CooperNeff Alternative Managers">
       <data key="type">Investor</data>
     </node>
-    <node id="Cavanal Hill Investment Management, Inc.">
+    <node id="Columbia Management Investment Advisers, LLC">
       <data key="type">Investor</data>
     </node>
-    <node id="Columbia Management Investment Advisers, LLC">
+    <node id="Columbia Management Advisors, LLC">
       <data key="type">Investor</data>
     </node>
     <node id="Comerica, Inc.">
@@ -255,10 +258,7 @@
     <node id="Geode Capital Management, L.L.C.">
       <data key="type">Investor</data>
     </node>
-    <node id="Florida State Board of Administration">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Gamma Capital Advisors, Ltd.">
+    <node id="Goldman Sachs &amp; Company, Inc.">
       <data key="type">Investor</data>
     </node>
     <node id="HighMark Capital Management Inc.">
@@ -274,6 +274,12 @@
       <data key="type">Investor</data>
     </node>
     <node id="Hanson &amp; Doremus Investment Management, Inc.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Gartmore Investment Management Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Gamma Capital Advisors, Ltd.">
       <data key="type">Investor</data>
     </node>
     <node id="Fisher Investments">
@@ -300,13 +306,7 @@
     <node id="Fiduciary Asset Management, Inc.">
       <data key="type">Investor</data>
     </node>
-    <node id="Gartmore Investment Management Limited">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Goldman Sachs &amp; Company, Inc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Caxton Associates LP">
+    <node id="Florida State Board of Administration">
       <data key="type">Investor</data>
     </node>
     <node id="Gabelli Funds, LLC">
@@ -456,13 +456,7 @@
     <node id="Universal-Investment-Gesellschaft mbH">
       <data key="type">Investor</data>
     </node>
-    <node id="BlackRock Investment Management, LLC">
-      <data key="type">Investor</data>
-    </node>
     <node id="Unicorn Asset Management Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="UBI Pramerica SGR S.p.A.">
       <data key="type">Investor</data>
     </node>
     <node id="UBS Wealth Management Ltd.">
@@ -474,13 +468,22 @@
     <node id="UBS Global Asset Management (Switzerland)">
       <data key="type">Investor</data>
     </node>
+    <node id="UBI Pramerica SGR S.p.A.">
+      <data key="type">Investor</data>
+    </node>
     <node id="Allstate Investments LLC">
       <data key="type">Investor</data>
     </node>
     <node id="Bogle Investment Management, L.P.">
       <data key="type">Investor</data>
     </node>
+    <node id="BlackRock Investment Management, LLC">
+      <data key="type">Investor</data>
+    </node>
     <node id="BlackRock Institutional Trust Company, N.A.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="BlackRock Financial Management, Inc.">
       <data key="type">Investor</data>
     </node>
     <node id="BlackRock Advisors (UK) Limited">
@@ -504,10 +507,7 @@
     <node id="California Public Employees' Retirement System">
       <data key="type">Investor</data>
     </node>
-    <node id="BlackRock Financial Management, Inc.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="BMO Asset Management U.S.">
+    <node id="Burnham Asset Management Corporation">
       <data key="type">Investor</data>
     </node>
     <node id="Bridges Investment Management Inc">
@@ -516,7 +516,7 @@
     <node id="CIBC Global Asset Management Inc.">
       <data key="type">Investor</data>
     </node>
-    <node id="American Century Investment Management, Inc.">
+    <node id="Artisan Partners Limited Partnership">
       <data key="type">Investor</data>
     </node>
     <node id="Aronson Johnson &amp; Ortiz, L.P.">
@@ -531,7 +531,10 @@
     <node id="Ampega Investment AG">
       <data key="type">Investor</data>
     </node>
-    <node id="Artisan Partners Limited Partnership">
+    <node id="American Independence Financial Services, LLC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="American Century Investment Management, Inc.">
       <data key="type">Investor</data>
     </node>
     <node id="Amalgamated Bank Institutional Asset Management &amp; Custody">
@@ -558,19 +561,22 @@
     <node id="BNY Mellon Asset Management">
       <data key="type">Investor</data>
     </node>
-    <node id="Burnham Asset Management Corporation">
+    <node id="BMO Asset Management U.S.">
       <data key="type">Investor</data>
     </node>
-    <node id="American Independence Financial Services, LLC">
+    <node id="BB&amp;T Asset Management, Inc.">
       <data key="type">Investor</data>
     </node>
-    <node id="Royce &amp; Associates, LLC">
+    <node id="Swisscanto Asset Management AG">
       <data key="type">Investor</data>
     </node>
     <node id="Hite Capital Management, LLC">
       <data key="type">Investor</data>
     </node>
     <node id="Spark Investment Management LLC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Somerville Trading Enterprises, LLC">
       <data key="type">Investor</data>
     </node>
     <node id="Smith Asset Management Group, LP">
@@ -582,22 +588,13 @@
     <node id="Schroder Investment Management Ltd. (SIM)">
       <data key="type">Investor</data>
     </node>
-    <node id="Somerville Trading Enterprises, LLC">
+    <node id="Royce &amp; Associates, LLC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Security Global Investors, LLC">
       <data key="type">Investor</data>
     </node>
     <node id="Rourke (James H)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="State of Wisconsin Investment Board">
-      <data key="type">Investor</data>
-    </node>
-    <node id="StateTrust Capital, LLC">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Swiss Re Financial Services Corporation">
-      <data key="type">Investor</data>
-    </node>
-    <node id="SunTrust Bank">
       <data key="type">Investor</data>
     </node>
     <node id="State Teachers Retirement System of Ohio">
@@ -606,7 +603,10 @@
     <node id="Systematic Financial Management, L.P.">
       <data key="type">Investor</data>
     </node>
-    <node id="Swisscanto Asset Management AG">
+    <node id="Swiss Re Financial Services Corporation">
+      <data key="type">Investor</data>
+    </node>
+    <node id="SunTrust Bank">
       <data key="type">Investor</data>
     </node>
     <node id="State Street Global Advisors (US)">
@@ -618,13 +618,13 @@
     <node id="Stevens Capital Management LP">
       <data key="type">Investor</data>
     </node>
-    <node id="Security Global Investors, LLC">
+    <node id="StateTrust Capital, LLC">
       <data key="type">Investor</data>
     </node>
-    <node id="Rhumbline Advisers Ltd. Partnership">
+    <node id="State of Wisconsin Investment Board">
       <data key="type">Investor</data>
     </node>
-    <node id="Public Employees' Retirement Association of CO">
+    <node id="Rockefeller Financial">
       <data key="type">Investor</data>
     </node>
     <node id="RBC Global Asset Management Inc.">
@@ -645,6 +645,9 @@
     <node id="Putnam Investment Management, L.L.C.">
       <data key="type">Investor</data>
     </node>
+    <node id="Public Employees' Retirement Association of CO">
+      <data key="type">Investor</data>
+    </node>
     <node id="ProFund Advisors LLC">
       <data key="type">Investor</data>
     </node>
@@ -663,10 +666,10 @@
     <node id="Rochdale Investment Management LLC">
       <data key="type">Investor</data>
     </node>
-    <node id="Rockefeller Financial">
+    <node id="Ritchie Capital Management, L.L.C.">
       <data key="type">Investor</data>
     </node>
-    <node id="Ritchie Capital Management, L.L.C.">
+    <node id="Rhumbline Advisers Ltd. Partnership">
       <data key="type">Investor</data>
     </node>
     <node id="Renaissance Technologies Corp.">
@@ -687,7 +690,7 @@
     <node id="TD Options, LLC">
       <data key="type">Investor</data>
     </node>
-    <node id="BB&amp;T Asset Management, Inc.">
+    <node id="Warburg Invest Kapitalanlagegesellschaft mbH">
       <data key="type">Investor</data>
     </node>
     <node id="WEDGE Capital Management, L.L.P.">
@@ -804,7 +807,7 @@
     <node id="LSV Asset Management">
       <data key="type">Investor</data>
     </node>
-    <node id="Warburg Invest Kapitalanlagegesellschaft mbH">
+    <node id="Koch Industries, Inc.">
       <data key="type">Investor</data>
     </node>
     <node id="KeyBanc Capital Markets">
@@ -828,10 +831,10 @@
     <node id="Karp (Harvey L)">
       <data key="type">Investor</data>
     </node>
-    <node id="Mainstream Investment Advisers LLC">
+    <node id="Man Investments, Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Man Investments, Ltd.">
+    <node id="Mainstream Investment Advisers LLC">
       <data key="type">Investor</data>
     </node>
     <node id="Los Angeles Capital Management And Equity Research, Inc.">
@@ -858,9 +861,6 @@
     <node id="International Strategy &amp; Investment Inc.">
       <data key="type">Investor</data>
     </node>
-    <node id="Koch Industries, Inc.">
-      <data key="type">Investor</data>
-    </node>
     <node id="Jacobs Levy Equity Management, Inc.">
       <data key="type">Investor</data>
     </node>
@@ -885,10 +885,10 @@
     <node id="Invesco PowerShares Capital Management LLC">
       <data key="type">Investor</data>
     </node>
-    <node id="Allianz Nederland Asset Management B.V.">
+    <node id="Invesco Management Group, Inc.">
       <data key="type">Investor</data>
     </node>
-    <node id="Invesco Management Group, Inc.">
+    <node id="Manulife Asset Management Limited">
       <data key="type">Investor</data>
     </node>
     <node id="Hodes (Robert B)">
@@ -921,19 +921,16 @@
     <node id="Northern Trust Global Investments">
       <data key="type">Investor</data>
     </node>
-    <node id="Manulife Asset Management Limited">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Quoniam Asset Management GmbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Parametric Portfolio Associates LLC">
+    <node id="Nyman (Lee R)">
       <data key="type">Investor</data>
     </node>
     <node id="Pennsylvania Public School Employees Retirement System">
       <data key="type">Investor</data>
     </node>
     <node id="Peak 6 Capital Management, LLC">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Parametric Portfolio Associates LLC">
       <data key="type">Investor</data>
     </node>
     <node id="Paloma Partners Management Company">
@@ -945,10 +942,10 @@
     <node id="PNC Wealth Management">
       <data key="type">Investor</data>
     </node>
-    <node id="Nordea Investment Management (Denmark)">
+    <node id="PEA Capital, LLC">
       <data key="type">Investor</data>
     </node>
-    <node id="Morgan Stanley Investment Management Inc. (US)">
+    <node id="Nordea Investment Management (Denmark)">
       <data key="type">Investor</data>
     </node>
     <node id="Millennium Management LLC">
@@ -981,7 +978,10 @@
     <node id="Martingale Asset Management, L.P.">
       <data key="type">Investor</data>
     </node>
-    <node id="PEA Capital, LLC">
+    <node id="Morgan Stanley Investment Management Inc. (US)">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Newton Investment Management Ltd.">
       <data key="type">Investor</data>
     </node>
     <node id="New York State Teachers' Retirement System">
@@ -996,6 +996,9 @@
     <node id="Navellier &amp; Associates Inc.">
       <data key="type">Investor</data>
     </node>
+    <node id="NISA Investment Advisors, L.L.C.">
+      <data key="type">Investor</data>
+    </node>
     <node id="NFJ Investment Group LLC">
       <data key="type">Investor</data>
     </node>
@@ -1008,13 +1011,10 @@
     <node id="Summit Global Management, Inc.">
       <data key="type">Investor</data>
     </node>
-    <node id="NISA Investment Advisors, L.L.C.">
+    <node id="British Columbia Investment Management Corp.">
       <data key="type">Investor</data>
     </node>
     <node id="British Airways Pensions Investment Management Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Newton Investment Management Ltd.">
       <data key="type">Investor</data>
     </node>
     <node id="Brewin Dolphin Limited">
@@ -1033,6 +1033,9 @@
       <data key="type">Investor</data>
     </node>
     <node id="CCLA Investment Management Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Canada Life Ltd.">
       <data key="type">Investor</data>
     </node>
     <node id="Calvert Investment Management, Inc.">
@@ -1074,9 +1077,6 @@
     <node id="Barclays Global Investors Japan Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Canada Life Ltd.">
-      <data key="type">Investor</data>
-    </node>
     <node id="Banca Popolare di Milano (BPM)">
       <data key="type">Investor</data>
     </node>
@@ -1087,9 +1087,6 @@
       <data key="type">Investor</data>
     </node>
     <node id="Dorset County Pension Fund">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Epsilon SGR SpA">
       <data key="type">Investor</data>
     </node>
     <node id="Deutsche Bank Private Wealth Management Limited">
@@ -1113,13 +1110,13 @@
     <node id="Eurizon Capital SGR S.p.A.">
       <data key="type">Investor</data>
     </node>
-    <node id="Deka Investment GmbH">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Nextam Partners SGR S.p.A.">
+    <node id="Epsilon SGR SpA">
       <data key="type">Investor</data>
     </node>
     <node id="Edinburgh Partners Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Deka Investment GmbH">
       <data key="type">Investor</data>
     </node>
     <node id="Degroof Fund Management Company">
@@ -1129,9 +1126,6 @@
       <data key="type">Investor</data>
     </node>
     <node id="Co-operative Asset Management">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Cheviot Asset Management Ltd.">
       <data key="type">Investor</data>
     </node>
     <node id="Close Brothers Asset Management">
@@ -1149,7 +1143,10 @@
     <node id="Chuo Mitsui Asset Trust and Banking Company, Limited">
       <data key="type">Investor</data>
     </node>
-    <node id="BAE Systems Pension Funds Investment Management Ltd.">
+    <node id="Chuo Mitsui Asset Management Co., Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Cheviot Asset Management Ltd.">
       <data key="type">Investor</data>
     </node>
     <node id="Consistent Unit Trust Management Company Limited">
@@ -1164,19 +1161,13 @@
     <node id="Crescendo Advisors II, LLC">
       <data key="type">Investor</data>
     </node>
-    <node id="Chuo Mitsui Asset Management Co., Ltd.">
-      <data key="type">Investor</data>
-    </node>
     <node id="Coutts &amp; Co.">
       <data key="type">Investor</data>
     </node>
+    <node id="BAE Systems Pension Funds Investment Management Ltd.">
+      <data key="type">Investor</data>
+    </node>
     <node id="Aviva Investors Global Services Limited">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Pharus Management S.A.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Petercam S.A.">
       <data key="type">Investor</data>
     </node>
     <node id="PineBridge Investments Europe Limited">
@@ -1185,10 +1176,16 @@
     <node id="Pictet Asset Management Ltd.">
       <data key="type">Investor</data>
     </node>
+    <node id="Pharus Management S.A.">
+      <data key="type">Investor</data>
+    </node>
     <node id="Oppenheim Kapitalanlagegesellschaft mbH">
       <data key="type">Investor</data>
     </node>
     <node id="Oddo Asset Management">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Petercam S.A.">
       <data key="type">Investor</data>
     </node>
     <node id="Scottish Widows Investment Partnership Ltd.">
@@ -1203,13 +1200,10 @@
     <node id="Raiffeisen Kapitalanlage-Gesellschaft mbH">
       <data key="type">Investor</data>
     </node>
-    <node id="British Columbia Investment Management Corp.">
+    <node id="Nextam Partners SGR S.p.A.">
       <data key="type">Investor</data>
     </node>
-    <node id="Arrowstreet Capital, Limited Partnership">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Jupiter Asset Management Ltd.">
+    <node id="La Banque Postale Asset Management">
       <data key="type">Investor</data>
     </node>
     <node id="LGT Capital Management Ltd.">
@@ -1227,6 +1221,9 @@
     <node id="KBL France Gestion">
       <data key="type">Investor</data>
     </node>
+    <node id="Jupiter Asset Management Ltd.">
+      <data key="type">Investor</data>
+    </node>
     <node id="JPMorgan Asset Management (Europe)">
       <data key="type">Investor</data>
     </node>
@@ -1236,7 +1233,7 @@
     <node id="KBC Asset Management N.V.">
       <data key="type">Investor</data>
     </node>
-    <node id="Alliance Trust Savings Limited">
+    <node id="Lazard Asset Management Limited">
       <data key="type">Investor</data>
     </node>
     <node id="Metzler Asset Management GmbH">
@@ -1263,13 +1260,10 @@
     <node id="Sparinvest Fondsmæglerselskab A/S">
       <data key="type">Investor</data>
     </node>
-    <node id="Lazard Asset Management Limited">
+    <node id="Alliance Trust Savings Limited">
       <data key="type">Investor</data>
     </node>
-    <node id="La Banque Postale Asset Management">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Aberdeen Asset Managers Ltd.">
+    <node id="Alfred Berg Kapitalförvaltning AB">
       <data key="type">Investor</data>
     </node>
     <node id="Aletti Gestielle SGR S.p.A.">
@@ -1284,7 +1278,10 @@
     <node id="Abu Dhabi Investment Authority">
       <data key="type">Investor</data>
     </node>
-    <node id="Anima SGR S.p.A.">
+    <node id="Aberdeen Asset Managers Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Aberdeen Asset Management (Edinburgh)">
       <data key="type">Investor</data>
     </node>
     <node id="AllianceBernstein Ltd. (Value)">
@@ -1302,7 +1299,10 @@
     <node id="Artemis Investment Management LLP">
       <data key="type">Investor</data>
     </node>
-    <node id="Aberdeen Asset Management (Edinburgh)">
+    <node id="Arrowstreet Capital, Limited Partnership">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Anima SGR S.p.A.">
       <data key="type">Investor</data>
     </node>
     <node id="Alta Advisers Limited">
@@ -1314,10 +1314,7 @@
     <node id="AXA Investment Managers UK Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Alfred Berg Kapitalförvaltning AB">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Hurt (Douglas M)">
+    <node id="Swiss &amp; Global Asset Management Ltd.">
       <data key="type">Investor</data>
     </node>
     <node id="Swedbank Robur AB">
@@ -1344,13 +1341,16 @@
     <node id="PSigma Investment Management">
       <data key="type">Investor</data>
     </node>
-    <node id="Mediolanum Gestione Fondi SGR p.A.">
+    <node id="Ontario Pension Board">
       <data key="type">Investor</data>
     </node>
     <node id="Old Mutual Asset Managers (UK) Ltd.">
       <data key="type">Investor</data>
     </node>
     <node id="Putnam Investments Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Prudential Investment Management Japan Co., Ltd.">
       <data key="type">Investor</data>
     </node>
     <node id="Prima sgr S.p.A.">
@@ -1363,9 +1363,6 @@
       <data key="type">Investor</data>
     </node>
     <node id="Police Mutual Assurance Society Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Prudential Investment Management Japan Co., Ltd.">
       <data key="type">Investor</data>
     </node>
     <node id="Pioneer Investment Management Ltd.">
@@ -1398,13 +1395,7 @@
     <node id="Middlesbrough Borough Council">
       <data key="type">Investor</data>
     </node>
-    <node id="Ontario Pension Board">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Royal London Asset Management Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Nikko Asset Management Co., Ltd.">
+    <node id="Mediolanum Gestione Fondi SGR p.A.">
       <data key="type">Investor</data>
     </node>
     <node id="Nikko Asset Management Europe Ltd.">
@@ -1416,10 +1407,16 @@
     <node id="Nedgroup Investment Advisors (UK) Ltd.">
       <data key="type">Investor</data>
     </node>
+    <node id="Natixis Asset Management">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Nikko Asset Management Co., Ltd.">
+      <data key="type">Investor</data>
+    </node>
     <node id="Quilter">
       <data key="type">Investor</data>
     </node>
-    <node id="Swiss &amp; Global Asset Management Ltd.">
+    <node id="Quoniam Asset Management GmbH">
       <data key="type">Investor</data>
     </node>
     <node id="Sprucegrove Investment Management, Ltd.">
@@ -1449,10 +1446,10 @@
     <node id="Singer &amp; Friedlander Investment Management Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Natixis Asset Management">
+    <node id="Sumitomo Mitsui Trust Bank, Limited">
       <data key="type">Investor</data>
     </node>
-    <node id="State Street Global Advisors (UK) Ltd.">
+    <node id="Fidelity Worldwide Investment (UK) Ltd.">
       <data key="type">Investor</data>
     </node>
     <node id="Sumitomo Mitsui Asset Management Company, Limited">
@@ -1464,6 +1461,12 @@
     <node id="Storebrand Kapitalforvaltning AS">
       <data key="type">Investor</data>
     </node>
+    <node id="State Street Global Advisors (UK) Ltd.">
+      <data key="type">Investor</data>
+    </node>
+    <node id="State Street Global Advisors (Japan) Co., Ltd.">
+      <data key="type">Investor</data>
+    </node>
     <node id="Standard Life Investments Ltd.">
       <data key="type">Investor</data>
     </node>
@@ -1473,10 +1476,7 @@
     <node id="Sarasin &amp; Partners LLP">
       <data key="type">Investor</data>
     </node>
-    <node id="State Street Global Advisors (Japan) Co., Ltd.">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Fidelity Worldwide Investment (UK) Ltd.">
+    <node id="Royal London Asset Management Ltd.">
       <data key="type">Investor</data>
     </node>
     <node id="Rio Tinto Pension Investments Ltd.">
@@ -1506,9 +1506,6 @@
     <node id="Santander Asset Management">
       <data key="type">Investor</data>
     </node>
-    <node id="Sumitomo Mitsui Trust Bank, Limited">
-      <data key="type">Investor</data>
-    </node>
     <node id="Sanlam Multi-Manager International Limited">
       <data key="type">Investor</data>
     </node>
@@ -1524,22 +1521,16 @@
     <node id="SIM Funds Management Limited">
       <data key="type">Investor</data>
     </node>
-    <node id="HSBC Global Asset Management (UK) Limited (Inactive)">
-      <data key="type">Investor</data>
-    </node>
     <node id="Maunby Investment Management Ltd.">
       <data key="type">Investor</data>
     </node>
     <node id="Société Européenne de Banque S.A.">
       <data key="type">Investor</data>
     </node>
+    <node id="HSBC Global Asset Management (UK) Limited (Inactive)">
+      <data key="type">Investor</data>
+    </node>
     <node id="HSBC Global Asset Management (UK) Limited">
-      <data key="type">Investor</data>
-    </node>
-    <node id="ING Investment Management (Belgium) (Inactive)">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Helaba Invest Kapitalanlagegesellschaft mbH">
       <data key="type">Investor</data>
     </node>
     <node id="HSBC Global Asset Management (Hong Kong) Limited (Inactive)">
@@ -1566,10 +1557,19 @@
     <node id="ING Investment Management (Netherlands)">
       <data key="type">Investor</data>
     </node>
+    <node id="ING Investment Management (Belgium) (Inactive)">
+      <data key="type">Investor</data>
+    </node>
     <node id="IMI Plc Employee Benefit Trust">
       <data key="type">Investor</data>
     </node>
+    <node id="Helaba Invest Kapitalanlagegesellschaft mbH">
+      <data key="type">Investor</data>
+    </node>
     <node id="IBM Retirement Fund">
+      <data key="type">Investor</data>
+    </node>
+    <node id="Hurt (Douglas M)">
       <data key="type">Investor</data>
     </node>
     <node id="Hermes Fund Managers Limited">
@@ -1579,9 +1579,6 @@
       <data key="type">Investor</data>
     </node>
     <node id="First Eagle Investment Management LLC">
-      <data key="type">Investor</data>
-    </node>
-    <node id="GMO UK Limited">
       <data key="type">Investor</data>
     </node>
     <node id="Martin Currie Investment Management Ltd.">
@@ -1602,6 +1599,12 @@
     <node id="Gateley (Terry M)">
       <data key="type">Investor</data>
     </node>
+    <node id="GMO UK Limited">
+      <data key="type">Investor</data>
+    </node>
+    <node id="GLG Partners LP">
+      <data key="type">Investor</data>
+    </node>
     <node id="GE Asset Management Limited">
       <data key="type">Investor</data>
     </node>
@@ -1614,10 +1617,7 @@
     <node id="Ignis Asset Management Limited">
       <data key="type">Investor</data>
     </node>
-    <node id="Lafarge Investment Management Limited">
-      <data key="type">Investor</data>
-    </node>
-    <node id="Lamb (Martin James)">
+    <node id="Leukaemia Research Fund">
       <data key="type">Investor</data>
     </node>
     <node id="Leng (James William)">
@@ -1629,10 +1629,10 @@
     <node id="Legal &amp; General Investment Management Ltd. (UK)">
       <data key="type">Investor</data>
     </node>
-    <node id="Leukaemia Research Fund">
+    <node id="Lamb (Martin James)">
       <data key="type">Investor</data>
     </node>
-    <node id="M &amp; G Investment Management Ltd.">
+    <node id="Lafarge Investment Management Limited">
       <data key="type">Investor</data>
     </node>
     <node id="London Borough of Croydon">
@@ -1650,10 +1650,10 @@
     <node id="M. M. Warburg Bank (Schweiz) AG">
       <data key="type">Investor</data>
     </node>
-    <node id="GLG Partners LP">
+    <node id="M &amp; G Investment Management Ltd.">
       <data key="type">Investor</data>
     </node>
-    <node id="Insight Investment Management (Global) Limited">
+    <node id="J. O. Hambro Investment Management Ltd.">
       <data key="type">Investor</data>
     </node>
     <node id="J O Hambro Capital Management Limited">
@@ -1665,7 +1665,7 @@
     <node id="Invest AD">
       <data key="type">Investor</data>
     </node>
-    <node id="J. O. Hambro Investment Management Ltd.">
+    <node id="Insight Investment Management (Global) Limited">
       <data key="type">Investor</data>
     </node>
     <node id="Investec Wealth &amp; Investment Limited">
@@ -1686,29 +1686,284 @@
     <node id="Kelly (M)">
       <data key="type">Investor</data>
     </node>
-    <node id="Kames Capital">
+    <node id="Jennison Associates LLC">
       <data key="type">Investor</data>
     </node>
-    <node id="Jennison Associates LLC">
+    <node id="Kames Capital">
       <data key="type">Investor</data>
     </node>
     <node id="KAS BANK N.V.">
       <data key="type">Investor</data>
     </node>
-    <edge source="Mueller Industries" target="Nyman (Lee R)">
+    <edge source="Aalberts" target="Eurizon Capital S.A.">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Aalberts" target="Evli Fund Management Company Ltd.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Aalberts" target="Dexia Asset Management Belgium S.A.">
+      <data key="weight">0.07</data>
+    </edge>
+    <edge source="Aalberts" target="Crédit Suisse Gestión S.G.I.I.C., S.A.">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Mueller Industries" target="Dalton Strategic Partnership, L.L.P.">
+    <edge source="Aalberts" target="Danske Capital">
+      <data key="weight">0.63</data>
+    </edge>
+    <edge source="Aalberts" target="Danske Capital (Sweden)">
+      <data key="weight">0.06</data>
+    </edge>
+    <edge source="Aalberts" target="Delta Lloyd Life N.V.">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Aalberts" target="Goldman Sachs Asset Management International">
+      <data key="weight">0.21</data>
+    </edge>
+    <edge source="Aalberts" target="HSBC Global Asset Management (France)">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Mueller Industries" target="Charles Schwab Investment Management, Inc.">
-      <data key="weight">0.14</data>
+    <edge source="Aalberts" target="Halbis Capital Management (France)">
+      <data key="weight">0.05</data>
+    </edge>
+    <edge source="Aalberts" target="INVESCO Asset Management Deutschland GmbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Aalberts" target="Franklin Templeton Investment Management Ltd.">
+      <data key="weight">0.38</data>
+    </edge>
+    <edge source="Aalberts" target="Fuchs &amp; Associés Finance S.A.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Aalberts" target="Gaesco Gestión S.A.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Aalberts" target="Credit Suisse Asset Management">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Aalberts" target="BG SGR S.p.A.">
+      <data key="weight">0.07</data>
+    </edge>
+    <edge source="Aalberts" target="Argenta Fund">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Aalberts" target="BNP Paribas Investment Partners Netherlands N.V.">
+      <data key="weight">1.43</data>
+    </edge>
+    <edge source="Aalberts" target="BI Asset Management Fondsmæglerselskab A/S">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Aalberts" target="American Century Global Investment Management, Inc.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Aalberts" target="Allianz Nederland Asset Management B.V.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Aalberts" target="ABN AMRO Asset Management (Netherlands) B.V.">
+      <data key="weight">1.26</data>
+    </edge>
+    <edge source="Aalberts" target="AEGON Investment Management B.V.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Aalberts" target="Aalberts Family">
+      <data key="weight">9.08</data>
+    </edge>
+    <edge source="Aalberts" target="Acuity Investment Management Inc.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Aalberts" target="Alliance Trust Plc.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Aalberts" target="Allianz Global Investors France">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Aalberts" target="CAAM SGR S.p.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Aalberts" target="CB Asset Management AB">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Aalberts" target="Capitalia Asset Management SGR S.p.A.">
+      <data key="weight">0.08</data>
+    </edge>
+    <edge source="Aalberts" target="Buttonwood">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Aalberts" target="Columbia Wanger Asset Management, LLC">
+      <data key="weight">7.04</data>
+    </edge>
+    <edge source="Aalberts" target="Banque Privée Edmond de Rothschild Europe">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Aalberts" target="Banque SYZ &amp; CO SA">
+      <data key="weight">0.08</data>
+    </edge>
+    <edge source="Aalberts" target="Banque de Luxembourg Investments">
+      <data key="weight">0.25</data>
+    </edge>
+    <edge source="Aalberts" target="Banque de Luxembourg S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Aalberts" target="Baring Asset Management Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Aalberts" target="Pioneer Investments Kapitalanlagegesellschaft mbH">
+      <data key="weight">0.4</data>
+    </edge>
+    <edge source="Aalberts" target="PineBridge Investments Europe Limited">
+      <data key="weight">0.52</data>
+    </edge>
+    <edge source="Aalberts" target="Pictet Asset Management Ltd.">
+      <data key="weight">0.03</data>
+    </edge>
+    <edge source="Aalberts" target="Pharus Management S.A.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Aalberts" target="Oppenheim Kapitalanlagegesellschaft mbH">
+      <data key="weight">0.07</data>
+    </edge>
+    <edge source="Aalberts" target="Oddo Asset Management">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Aalberts" target="Petercam S.A.">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Aalberts" target="Scottish Widows Investment Partnership Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Aalberts" target="SINOPIA Asset Management">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Aalberts" target="SEB Asset Management (Denmark)">
+      <data key="weight">0.24</data>
+    </edge>
+    <edge source="Aalberts" target="Raiffeisen Kapitalanlage-Gesellschaft mbH">
+      <data key="weight">0.1</data>
+    </edge>
+    <edge source="Aalberts" target="Nextam Partners SGR S.p.A.">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Aalberts" target="La Banque Postale Asset Management">
+      <data key="weight">0.2</data>
+    </edge>
+    <edge source="Aalberts" target="LGT Capital Management Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Aalberts" target="LBB-Invest">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Aalberts" target="Kepler Capital Markets (Asset Management)">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Aalberts" target="Kempen Capital Management N.V.">
+      <data key="weight">0.32</data>
+    </edge>
+    <edge source="Aalberts" target="KBL France Gestion">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Aalberts" target="Jupiter Asset Management Ltd.">
+      <data key="weight">1.14</data>
+    </edge>
+    <edge source="Aalberts" target="JPMorgan Asset Management (Europe)">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Aalberts" target="KBC Asset Management N.V.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Aalberts" target="Lazard Asset Management Limited">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Aalberts" target="Metzler Asset Management GmbH">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Aalberts" target="Mawer Investment Management Ltd.">
+      <data key="weight">0.34</data>
+    </edge>
+    <edge source="Aalberts" target="MainFirst Asset Management">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Aalberts" target="M.M.Warburg &amp; CO Luxembourg S.A.">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="Aalberts" target="Lupus alpha Asset Management AG">
+      <data key="weight">0.47</data>
+    </edge>
+    <edge source="Aalberts" target="Lombard Odier Darier Hentsch &amp; Cie">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Aalberts" target="Société Générale Asset Management (France)">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Aalberts" target="Sparinvest Fondsmæglerselskab A/S">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Aalberts" target="UBS Global Asset Management (Switzerland)">
+      <data key="weight">0.44</data>
+    </edge>
+    <edge source="Aalberts" target="Tredje AP Fonden">
+      <data key="weight">0.07</data>
+    </edge>
+    <edge source="Aalberts" target="Swiss &amp; Global Asset Management Ltd.">
+      <data key="weight">0.07</data>
+    </edge>
+    <edge source="Aalberts" target="Swedbank Robur AB">
+      <data key="weight">0.49</data>
+    </edge>
+    <edge source="Aalberts" target="State Street Global Advisors (France) S.A.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Aalberts" target="Unigestion">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Aalberts" target="WestLB Mellon Asset Management Kapitalanlagegesellschaft mbH">
+      <data key="weight">0.05</data>
+    </edge>
+    <edge source="Aalberts" target="Universal-Investment-Gesellschaft mbH">
+      <data key="weight">0.57</data>
+    </edge>
+    <edge source="Aalberts" target="Société d'Administration et de Gestion Atlantas Saga">
+      <data key="weight">0.04</data>
+    </edge>
+    <edge source="Eurizon Capital S.A." target="IMI PLC">
+      <data key="weight">0.06</data>
+    </edge>
+    <edge source="Dexia Asset Management Belgium S.A." target="IMI PLC">
+      <data key="weight">0.07</data>
+    </edge>
+    <edge source="Crédit Suisse Gestión S.G.I.I.C., S.A." target="Mueller Industries">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Danske Capital" target="IMI PLC">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="Goldman Sachs Asset Management International" target="IMI PLC">
+      <data key="weight">6.26</data>
+    </edge>
+    <edge source="INVESCO Asset Management Deutschland GmbH" target="IMI PLC">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Credit Suisse Asset Management" target="IMI PLC">
+      <data key="weight">0.29</data>
+    </edge>
+    <edge source="CAAM SGR S.p.A." target="IMI PLC">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Capitalia Asset Management SGR S.p.A." target="IMI PLC">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Banque Privée Edmond de Rothschild Europe" target="IMI PLC">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Baring Asset Management Ltd." target="IMI PLC">
+      <data key="weight">0.01</data>
     </edge>
     <edge source="Mueller Industries" target="Defiance Asset Management, L.L.C.">
       <data key="weight">0.56</data>
     </edge>
     <edge source="Mueller Industries" target="Daruma Asset Management, LLC">
       <data key="weight">2.34</data>
+    </edge>
+    <edge source="Mueller Industries" target="Dalton Strategic Partnership, L.L.P.">
+      <data key="weight">0.0</data>
     </edge>
     <edge source="Mueller Industries" target="DIAM Co., Ltd.">
       <data key="weight">0.0</data>
@@ -1719,7 +1974,7 @@
     <edge source="Mueller Industries" target="D.A. Davidson &amp; Co.">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Mueller Industries" target="Crédit Suisse Gestión S.G.I.I.C., S.A.">
+    <edge source="Mueller Industries" target="Curian Capital, LLC">
       <data key="weight">0.0</data>
     </edge>
     <edge source="Mueller Industries" target="Crédit Agricole Corporate and Investment Bank">
@@ -1734,11 +1989,8 @@
     <edge source="Mueller Industries" target="D. E. Shaw &amp; Co., L.P.">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Mueller Industries" target="Curian Capital, LLC">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Mueller Industries" target="Deutsche Asset Management Americas">
-      <data key="weight">0.46</data>
+    <edge source="Mueller Industries" target="Credit Suisse Asset Management Limited">
+      <data key="weight">0.02</data>
     </edge>
     <edge source="Mueller Industries" target="Endex Capital Management, LLC">
       <data key="weight">0.02</data>
@@ -1746,8 +1998,8 @@
     <edge source="Mueller Industries" target="Employees Retirement System of Texas">
       <data key="weight">0.12</data>
     </edge>
-    <edge source="Mueller Industries" target="Credit Suisse Asset Management Limited">
-      <data key="weight">0.02</data>
+    <edge source="Mueller Industries" target="Deutsche Asset Management Americas">
+      <data key="weight">0.46</data>
     </edge>
     <edge source="Mueller Industries" target="Dimensional Fund Advisors, LP">
       <data key="weight">1.19</data>
@@ -1782,8 +2034,14 @@
     <edge source="Mueller Industries" target="Christopher (Gregory L)">
       <data key="weight">0.05</data>
     </edge>
-    <edge source="Mueller Industries" target="Columbia Management Advisors, LLC">
-      <data key="weight">0.58</data>
+    <edge source="Mueller Industries" target="Charles Schwab Investment Management, Inc.">
+      <data key="weight">0.14</data>
+    </edge>
+    <edge source="Mueller Industries" target="Caxton Associates LP">
+      <data key="weight">0.83</data>
+    </edge>
+    <edge source="Mueller Industries" target="Cavanal Hill Investment Management, Inc.">
+      <data key="weight">0.0</data>
     </edge>
     <edge source="Mueller Industries" target="Cowen Capital, LLC">
       <data key="weight">0.02</data>
@@ -1794,11 +2052,11 @@
     <edge source="Mueller Industries" target="CooperNeff Alternative Managers">
       <data key="weight">0.06</data>
     </edge>
-    <edge source="Mueller Industries" target="Cavanal Hill Investment Management, Inc.">
-      <data key="weight">0.0</data>
-    </edge>
     <edge source="Mueller Industries" target="Columbia Management Investment Advisers, LLC">
       <data key="weight">0.81</data>
+    </edge>
+    <edge source="Mueller Industries" target="Columbia Management Advisors, LLC">
+      <data key="weight">0.58</data>
     </edge>
     <edge source="Mueller Industries" target="Comerica, Inc.">
       <data key="weight">0.0</data>
@@ -1836,11 +2094,8 @@
     <edge source="Mueller Industries" target="Geode Capital Management, L.L.C.">
       <data key="weight">0.1</data>
     </edge>
-    <edge source="Mueller Industries" target="Florida State Board of Administration">
-      <data key="weight">0.18</data>
-    </edge>
-    <edge source="Mueller Industries" target="Gamma Capital Advisors, Ltd.">
-      <data key="weight">0.09</data>
+    <edge source="Mueller Industries" target="Goldman Sachs &amp; Company, Inc.">
+      <data key="weight">0.15</data>
     </edge>
     <edge source="Mueller Industries" target="HighMark Capital Management Inc.">
       <data key="weight">0.04</data>
@@ -1856,6 +2111,12 @@
     </edge>
     <edge source="Mueller Industries" target="Hanson &amp; Doremus Investment Management, Inc.">
       <data key="weight">0.02</data>
+    </edge>
+    <edge source="Mueller Industries" target="Gartmore Investment Management Limited">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Mueller Industries" target="Gamma Capital Advisors, Ltd.">
+      <data key="weight">0.09</data>
     </edge>
     <edge source="Mueller Industries" target="Fisher Investments">
       <data key="weight">2.23</data>
@@ -1881,14 +2142,8 @@
     <edge source="Mueller Industries" target="Fiduciary Asset Management, Inc.">
       <data key="weight">0.06</data>
     </edge>
-    <edge source="Mueller Industries" target="Gartmore Investment Management Limited">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Mueller Industries" target="Goldman Sachs &amp; Company, Inc.">
-      <data key="weight">0.15</data>
-    </edge>
-    <edge source="Mueller Industries" target="Caxton Associates LP">
-      <data key="weight">0.83</data>
+    <edge source="Mueller Industries" target="Florida State Board of Administration">
+      <data key="weight">0.18</data>
     </edge>
     <edge source="Mueller Industries" target="Gabelli Funds, LLC">
       <data key="weight">0.39</data>
@@ -1956,17 +2211,20 @@
     <edge source="Mueller Industries" target="AXA Rosenberg Investment Management LLC">
       <data key="weight">4.79</data>
     </edge>
-    <edge source="Mueller Industries" target="BlackRock Investment Management, LLC">
-      <data key="weight">0.36</data>
-    </edge>
     <edge source="Mueller Industries" target="Allstate Investments LLC">
       <data key="weight">0.04</data>
     </edge>
     <edge source="Mueller Industries" target="Bogle Investment Management, L.P.">
       <data key="weight">0.32</data>
     </edge>
+    <edge source="Mueller Industries" target="BlackRock Investment Management, LLC">
+      <data key="weight">0.36</data>
+    </edge>
     <edge source="Mueller Industries" target="BlackRock Institutional Trust Company, N.A.">
       <data key="weight">5.6</data>
+    </edge>
+    <edge source="Mueller Industries" target="BlackRock Financial Management, Inc.">
+      <data key="weight">0.0</data>
     </edge>
     <edge source="Mueller Industries" target="BlackRock Advisors (UK) Limited">
       <data key="weight">0.06</data>
@@ -1989,11 +2247,8 @@
     <edge source="Mueller Industries" target="California Public Employees' Retirement System">
       <data key="weight">0.6</data>
     </edge>
-    <edge source="Mueller Industries" target="BlackRock Financial Management, Inc.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Mueller Industries" target="BMO Asset Management U.S.">
-      <data key="weight">0.56</data>
+    <edge source="Mueller Industries" target="Burnham Asset Management Corporation">
+      <data key="weight">0.02</data>
     </edge>
     <edge source="Mueller Industries" target="Bridges Investment Management Inc">
       <data key="weight">0.0</data>
@@ -2001,8 +2256,8 @@
     <edge source="Mueller Industries" target="CIBC Global Asset Management Inc.">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Mueller Industries" target="American Century Investment Management, Inc.">
-      <data key="weight">0.87</data>
+    <edge source="Mueller Industries" target="Artisan Partners Limited Partnership">
+      <data key="weight">0.5</data>
     </edge>
     <edge source="Mueller Industries" target="Aronson Johnson &amp; Ortiz, L.P.">
       <data key="weight">1.12</data>
@@ -2016,8 +2271,11 @@
     <edge source="Mueller Industries" target="Ampega Investment AG">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Mueller Industries" target="Artisan Partners Limited Partnership">
-      <data key="weight">0.5</data>
+    <edge source="Mueller Industries" target="American Independence Financial Services, LLC">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Mueller Industries" target="American Century Investment Management, Inc.">
+      <data key="weight">0.87</data>
     </edge>
     <edge source="Mueller Industries" target="Amalgamated Bank Institutional Asset Management &amp; Custody">
       <data key="weight">0.04</data>
@@ -2043,23 +2301,20 @@
     <edge source="Mueller Industries" target="BNY Mellon Asset Management">
       <data key="weight">0.02</data>
     </edge>
-    <edge source="Mueller Industries" target="Burnham Asset Management Corporation">
-      <data key="weight">0.02</data>
+    <edge source="Mueller Industries" target="BMO Asset Management U.S.">
+      <data key="weight">0.56</data>
     </edge>
-    <edge source="Mueller Industries" target="American Independence Financial Services, LLC">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Mueller Industries" target="Royce &amp; Associates, LLC">
-      <data key="weight">0.4</data>
+    <edge source="Mueller Industries" target="BB&amp;T Asset Management, Inc.">
+      <data key="weight">0.03</data>
     </edge>
     <edge source="Mueller Industries" target="Hite Capital Management, LLC">
       <data key="weight">0.01</data>
     </edge>
-    <edge source="Mueller Industries" target="TD Asset Management Inc.">
-      <data key="weight">0.0</data>
-    </edge>
     <edge source="Mueller Industries" target="Spark Investment Management LLC">
       <data key="weight">0.0</data>
+    </edge>
+    <edge source="Mueller Industries" target="Somerville Trading Enterprises, LLC">
+      <data key="weight">0.09</data>
     </edge>
     <edge source="Mueller Industries" target="Smith Asset Management Group, LP">
       <data key="weight">0.01</data>
@@ -2070,22 +2325,13 @@
     <edge source="Mueller Industries" target="Schroder Investment Management Ltd. (SIM)">
       <data key="weight">0.09</data>
     </edge>
-    <edge source="Mueller Industries" target="Somerville Trading Enterprises, LLC">
-      <data key="weight">0.09</data>
+    <edge source="Mueller Industries" target="Royce &amp; Associates, LLC">
+      <data key="weight">0.4</data>
+    </edge>
+    <edge source="Mueller Industries" target="Security Global Investors, LLC">
+      <data key="weight">0.0</data>
     </edge>
     <edge source="Mueller Industries" target="Rourke (James H)">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Mueller Industries" target="State of Wisconsin Investment Board">
-      <data key="weight">0.18</data>
-    </edge>
-    <edge source="Mueller Industries" target="StateTrust Capital, LLC">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Mueller Industries" target="Swiss Re Financial Services Corporation">
-      <data key="weight">0.07</data>
-    </edge>
-    <edge source="Mueller Industries" target="SunTrust Bank">
       <data key="weight">0.0</data>
     </edge>
     <edge source="Mueller Industries" target="State Teachers Retirement System of Ohio">
@@ -2093,6 +2339,12 @@
     </edge>
     <edge source="Mueller Industries" target="Systematic Financial Management, L.P.">
       <data key="weight">0.87</data>
+    </edge>
+    <edge source="Mueller Industries" target="Swiss Re Financial Services Corporation">
+      <data key="weight">0.07</data>
+    </edge>
+    <edge source="Mueller Industries" target="SunTrust Bank">
+      <data key="weight">0.0</data>
     </edge>
     <edge source="Mueller Industries" target="State Street Global Advisors (US)">
       <data key="weight">1.64</data>
@@ -2103,14 +2355,17 @@
     <edge source="Mueller Industries" target="Stevens Capital Management LP">
       <data key="weight">0.4</data>
     </edge>
-    <edge source="Mueller Industries" target="Security Global Investors, LLC">
+    <edge source="Mueller Industries" target="StateTrust Capital, LLC">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Mueller Industries" target="Rhumbline Advisers Ltd. Partnership">
-      <data key="weight">0.08</data>
+    <edge source="Mueller Industries" target="State of Wisconsin Investment Board">
+      <data key="weight">0.18</data>
     </edge>
-    <edge source="Mueller Industries" target="Public Employees' Retirement Association of CO">
-      <data key="weight">0.06</data>
+    <edge source="Mueller Industries" target="TD Asset Management Inc.">
+      <data key="weight">0.0</data>
+    </edge>
+    <edge source="Mueller Industries" target="Rockefeller Financial">
+      <data key="weight">0.08</data>
     </edge>
     <edge source="Mueller Industries" target="RBC Global Asset Management Inc.">
       <data key="weight">0.0</data>
@@ -2130,6 +2385,9 @@
     <edge source="Mueller Industries" target="Putnam Investment Management, L.L.C.">
       <data key="weight">1.88</data>
     </edge>
+    <edge source="Mueller Industries" target="Public Employees' Retirement Association of CO">
+      <data key="weight">0.06</data>
+    </edge>
     <edge source="Mueller Industries" target="ProFund Advisors LLC">
       <data key="weight">0.08</data>
     </edge>
@@ -2148,14 +2406,11 @@
     <edge source="Mueller Industries" target="Rochdale Investment Management LLC">
       <data key="weight">0.06</data>
     </edge>
-    <edge source="Mueller Industries" target="TIAA-CREF">
-      <data key="weight">0.92</data>
-    </edge>
-    <edge source="Mueller Industries" target="Rockefeller Financial">
-      <data key="weight">0.08</data>
-    </edge>
     <edge source="Mueller Industries" target="Ritchie Capital Management, L.L.C.">
       <data key="weight">0.03</data>
+    </edge>
+    <edge source="Mueller Industries" target="Rhumbline Advisers Ltd. Partnership">
+      <data key="weight">0.08</data>
     </edge>
     <edge source="Mueller Industries" target="Renaissance Technologies Corp.">
       <data key="weight">0.0</data>
@@ -2175,8 +2430,11 @@
     <edge source="Mueller Industries" target="TD Options, LLC">
       <data key="weight">0.01</data>
     </edge>
-    <edge source="Mueller Industries" target="BB&amp;T Asset Management, Inc.">
-      <data key="weight">0.03</data>
+    <edge source="Mueller Industries" target="TIAA-CREF">
+      <data key="weight">0.92</data>
+    </edge>
+    <edge source="Mueller Industries" target="Warburg Invest Kapitalanlagegesellschaft mbH">
+      <data key="weight">0.0</data>
     </edge>
     <edge source="Mueller Industries" target="WEDGE Capital Management, L.L.P.">
       <data key="weight">0.42</data>
@@ -2307,7 +2565,7 @@
     <edge source="Mueller Industries" target="LSV Asset Management">
       <data key="weight">2.35</data>
     </edge>
-    <edge source="Mueller Industries" target="Warburg Invest Kapitalanlagegesellschaft mbH">
+    <edge source="Mueller Industries" target="Koch Industries, Inc.">
       <data key="weight">0.0</data>
     </edge>
     <edge source="Mueller Industries" target="KeyBanc Capital Markets">
@@ -2331,11 +2589,11 @@
     <edge source="Mueller Industries" target="Karp (Harvey L)">
       <data key="weight">2.82</data>
     </edge>
-    <edge source="Mueller Industries" target="Mainstream Investment Advisers LLC">
-      <data key="weight">0.0</data>
-    </edge>
     <edge source="Mueller Industries" target="Man Investments, Ltd.">
       <data key="weight">0.03</data>
+    </edge>
+    <edge source="Mueller Industries" target="Mainstream Investment Advisers LLC">
+      <data key="weight">0.0</data>
     </edge>
     <edge source="Mueller Industries" target="Los Angeles Capital Management And Equity Research, Inc.">
       <data key="weight">0.01</data>
@@ -2359,9 +2617,6 @@
       <data key="weight">0.12</data>
     </edge>
     <edge source="Mueller Industries" target="International Strategy &amp; Investment Inc.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Mueller Industries" target="Koch Industries, Inc.">
       <data key="weight">0.0</data>
     </edge>
     <edge source="Mueller Industries" target="Jacobs Levy Equity Management, Inc.">
@@ -2390,6 +2645,9 @@
     </edge>
     <edge source="Mueller Industries" target="Invesco Management Group, Inc.">
       <data key="weight">0.11</data>
+    </edge>
+    <edge source="Mueller Industries" target="Manulife Asset Management Limited">
+      <data key="weight">0.05</data>
     </edge>
     <edge source="Mueller Industries" target="Hodes (Robert B)">
       <data key="weight">0.06</data>
@@ -2421,17 +2679,17 @@
     <edge source="Mueller Industries" target="Northern Trust Global Investments">
       <data key="weight">0.24</data>
     </edge>
-    <edge source="Mueller Industries" target="Manulife Asset Management Limited">
-      <data key="weight">0.05</data>
-    </edge>
-    <edge source="Mueller Industries" target="Parametric Portfolio Associates LLC">
-      <data key="weight">0.05</data>
+    <edge source="Mueller Industries" target="Nyman (Lee R)">
+      <data key="weight">0.0</data>
     </edge>
     <edge source="Mueller Industries" target="Pennsylvania Public School Employees Retirement System">
       <data key="weight">0.15</data>
     </edge>
     <edge source="Mueller Industries" target="Peak 6 Capital Management, LLC">
       <data key="weight">0.02</data>
+    </edge>
+    <edge source="Mueller Industries" target="Parametric Portfolio Associates LLC">
+      <data key="weight">0.05</data>
     </edge>
     <edge source="Mueller Industries" target="Paloma Partners Management Company">
       <data key="weight">0.03</data>
@@ -2442,11 +2700,11 @@
     <edge source="Mueller Industries" target="PNC Wealth Management">
       <data key="weight">0.0</data>
     </edge>
+    <edge source="Mueller Industries" target="PEA Capital, LLC">
+      <data key="weight">0.51</data>
+    </edge>
     <edge source="Mueller Industries" target="Nordea Investment Management (Denmark)">
       <data key="weight">0.0</data>
-    </edge>
-    <edge source="Mueller Industries" target="Morgan Stanley Investment Management Inc. (US)">
-      <data key="weight">0.03</data>
     </edge>
     <edge source="Mueller Industries" target="Millennium Management LLC">
       <data key="weight">0.32</data>
@@ -2478,8 +2736,11 @@
     <edge source="Mueller Industries" target="Martingale Asset Management, L.P.">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="Mueller Industries" target="PEA Capital, LLC">
-      <data key="weight">0.51</data>
+    <edge source="Mueller Industries" target="Morgan Stanley Investment Management Inc. (US)">
+      <data key="weight">0.03</data>
+    </edge>
+    <edge source="Mueller Industries" target="Newton Investment Management Ltd.">
+      <data key="weight">0.0</data>
     </edge>
     <edge source="Mueller Industries" target="New York State Teachers' Retirement System">
       <data key="weight">1.53</data>
@@ -2493,6 +2754,9 @@
     <edge source="Mueller Industries" target="Navellier &amp; Associates Inc.">
       <data key="weight">0.41</data>
     </edge>
+    <edge source="Mueller Industries" target="NISA Investment Advisors, L.L.C.">
+      <data key="weight">0.04</data>
+    </edge>
     <edge source="Mueller Industries" target="NFJ Investment Group LLC">
       <data key="weight">4.42</data>
     </edge>
@@ -2505,270 +2769,6 @@
     <edge source="Mueller Industries" target="Summit Global Management, Inc.">
       <data key="weight">1.03</data>
     </edge>
-    <edge source="Mueller Industries" target="NISA Investment Advisors, L.L.C.">
-      <data key="weight">0.04</data>
-    </edge>
-    <edge source="Mueller Industries" target="Newton Investment Management Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Aalberts" target="Eurizon Capital S.A.">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Aalberts" target="Evli Fund Management Company Ltd.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Aalberts" target="Dexia Asset Management Belgium S.A.">
-      <data key="weight">0.07</data>
-    </edge>
-    <edge source="Aalberts" target="Crédit Suisse Gestión S.G.I.I.C., S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Aalberts" target="Delta Lloyd Life N.V.">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Aalberts" target="Goldman Sachs Asset Management International">
-      <data key="weight">0.21</data>
-    </edge>
-    <edge source="Aalberts" target="HSBC Global Asset Management (France)">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Aalberts" target="Halbis Capital Management (France)">
-      <data key="weight">0.05</data>
-    </edge>
-    <edge source="Aalberts" target="INVESCO Asset Management Deutschland GmbH">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Aalberts" target="Danske Capital">
-      <data key="weight">0.63</data>
-    </edge>
-    <edge source="Aalberts" target="Franklin Templeton Investment Management Ltd.">
-      <data key="weight">0.38</data>
-    </edge>
-    <edge source="Aalberts" target="Fuchs &amp; Associés Finance S.A.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Aalberts" target="Argenta Fund">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Aalberts" target="Gaesco Gestión S.A.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Aalberts" target="Danske Capital (Sweden)">
-      <data key="weight">0.06</data>
-    </edge>
-    <edge source="Aalberts" target="Credit Suisse Asset Management">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Aalberts" target="BG SGR S.p.A.">
-      <data key="weight">0.07</data>
-    </edge>
-    <edge source="Aalberts" target="BNP Paribas Investment Partners Netherlands N.V.">
-      <data key="weight">1.43</data>
-    </edge>
-    <edge source="Aalberts" target="BI Asset Management Fondsmæglerselskab A/S">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Aalberts" target="American Century Global Investment Management, Inc.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Aalberts" target="ABN AMRO Asset Management (Netherlands) B.V.">
-      <data key="weight">1.26</data>
-    </edge>
-    <edge source="Aalberts" target="AEGON Investment Management B.V.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Aalberts" target="Aalberts Family">
-      <data key="weight">9.08</data>
-    </edge>
-    <edge source="Aalberts" target="Acuity Investment Management Inc.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Aalberts" target="Alliance Trust Plc.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Aalberts" target="Capitalia Asset Management SGR S.p.A.">
-      <data key="weight">0.08</data>
-    </edge>
-    <edge source="Aalberts" target="CAAM SGR S.p.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Aalberts" target="CB Asset Management AB">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Aalberts" target="Buttonwood">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Aalberts" target="Columbia Wanger Asset Management, LLC">
-      <data key="weight">7.04</data>
-    </edge>
-    <edge source="Aalberts" target="Banque Privée Edmond de Rothschild Europe">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Aalberts" target="Banque SYZ &amp; CO SA">
-      <data key="weight">0.08</data>
-    </edge>
-    <edge source="Aalberts" target="Banque de Luxembourg Investments">
-      <data key="weight">0.25</data>
-    </edge>
-    <edge source="Aalberts" target="Banque de Luxembourg S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Aalberts" target="Baring Asset Management Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Aalberts" target="Allianz Global Investors France">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Aalberts" target="Allianz Nederland Asset Management B.V.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Aalberts" target="Nextam Partners SGR S.p.A.">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Aalberts" target="Pharus Management S.A.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Aalberts" target="Pioneer Investments Kapitalanlagegesellschaft mbH">
-      <data key="weight">0.4</data>
-    </edge>
-    <edge source="Aalberts" target="Petercam S.A.">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Aalberts" target="PineBridge Investments Europe Limited">
-      <data key="weight">0.52</data>
-    </edge>
-    <edge source="Aalberts" target="Pictet Asset Management Ltd.">
-      <data key="weight">0.03</data>
-    </edge>
-    <edge source="Aalberts" target="Oppenheim Kapitalanlagegesellschaft mbH">
-      <data key="weight">0.07</data>
-    </edge>
-    <edge source="Aalberts" target="Oddo Asset Management">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Aalberts" target="Scottish Widows Investment Partnership Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Aalberts" target="SINOPIA Asset Management">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Aalberts" target="SEB Asset Management (Denmark)">
-      <data key="weight">0.24</data>
-    </edge>
-    <edge source="Aalberts" target="Raiffeisen Kapitalanlage-Gesellschaft mbH">
-      <data key="weight">0.1</data>
-    </edge>
-    <edge source="Aalberts" target="Jupiter Asset Management Ltd.">
-      <data key="weight">1.14</data>
-    </edge>
-    <edge source="Aalberts" target="LGT Capital Management Ltd.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Aalberts" target="LBB-Invest">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Aalberts" target="Kepler Capital Markets (Asset Management)">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Aalberts" target="Kempen Capital Management N.V.">
-      <data key="weight">0.32</data>
-    </edge>
-    <edge source="Aalberts" target="KBL France Gestion">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Aalberts" target="JPMorgan Asset Management (Europe)">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Aalberts" target="KBC Asset Management N.V.">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Aalberts" target="Metzler Asset Management GmbH">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Aalberts" target="Mawer Investment Management Ltd.">
-      <data key="weight">0.34</data>
-    </edge>
-    <edge source="Aalberts" target="MainFirst Asset Management">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Aalberts" target="M.M.Warburg &amp; CO Luxembourg S.A.">
-      <data key="weight">0.02</data>
-    </edge>
-    <edge source="Aalberts" target="Lupus alpha Asset Management AG">
-      <data key="weight">0.47</data>
-    </edge>
-    <edge source="Aalberts" target="Lombard Odier Darier Hentsch &amp; Cie">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Aalberts" target="Société Générale Asset Management (France)">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Aalberts" target="Sparinvest Fondsmæglerselskab A/S">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Aalberts" target="Lazard Asset Management Limited">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Aalberts" target="La Banque Postale Asset Management">
-      <data key="weight">0.2</data>
-    </edge>
-    <edge source="Aalberts" target="UBS Global Asset Management (Switzerland)">
-      <data key="weight">0.44</data>
-    </edge>
-    <edge source="Aalberts" target="Tredje AP Fonden">
-      <data key="weight">0.07</data>
-    </edge>
-    <edge source="Aalberts" target="Swedbank Robur AB">
-      <data key="weight">0.49</data>
-    </edge>
-    <edge source="Aalberts" target="State Street Global Advisors (France) S.A.">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Aalberts" target="Unigestion">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Aalberts" target="WestLB Mellon Asset Management Kapitalanlagegesellschaft mbH">
-      <data key="weight">0.05</data>
-    </edge>
-    <edge source="Aalberts" target="Universal-Investment-Gesellschaft mbH">
-      <data key="weight">0.57</data>
-    </edge>
-    <edge source="Aalberts" target="Société d'Administration et de Gestion Atlantas Saga">
-      <data key="weight">0.04</data>
-    </edge>
-    <edge source="Aalberts" target="Swiss &amp; Global Asset Management Ltd.">
-      <data key="weight">0.07</data>
-    </edge>
-    <edge source="Eurizon Capital S.A." target="IMI PLC">
-      <data key="weight">0.06</data>
-    </edge>
-    <edge source="Dexia Asset Management Belgium S.A." target="IMI PLC">
-      <data key="weight">0.07</data>
-    </edge>
-    <edge source="Goldman Sachs Asset Management International" target="IMI PLC">
-      <data key="weight">6.26</data>
-    </edge>
-    <edge source="INVESCO Asset Management Deutschland GmbH" target="IMI PLC">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Danske Capital" target="IMI PLC">
-      <data key="weight">0.01</data>
-    </edge>
-    <edge source="Credit Suisse Asset Management" target="IMI PLC">
-      <data key="weight">0.29</data>
-    </edge>
-    <edge source="Capitalia Asset Management SGR S.p.A." target="IMI PLC">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="CAAM SGR S.p.A." target="IMI PLC">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Banque Privée Edmond de Rothschild Europe" target="IMI PLC">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="Baring Asset Management Ltd." target="IMI PLC">
-      <data key="weight">0.01</data>
-    </edge>
     <edge source="Credit Suisse Asset Management Limited" target="IMI PLC">
       <data key="weight">1.2</data>
     </edge>
@@ -2778,11 +2778,11 @@
     <edge source="Goldman Sachs Asset Management (US)" target="IMI PLC">
       <data key="weight">0.05</data>
     </edge>
-    <edge source="F&amp;C Asset Management plc" target="IMI PLC">
-      <data key="weight">0.63</data>
-    </edge>
     <edge source="Gartmore Investment Management Limited" target="IMI PLC">
       <data key="weight">0.04</data>
+    </edge>
+    <edge source="F&amp;C Asset Management plc" target="IMI PLC">
+      <data key="weight">0.63</data>
     </edge>
     <edge source="GMO LLC" target="IMI PLC">
       <data key="weight">0.76</data>
@@ -2877,9 +2877,6 @@
     <edge source="IMI PLC" target="Unicorn Asset Management Ltd.">
       <data key="weight">0.06</data>
     </edge>
-    <edge source="IMI PLC" target="UBI Pramerica SGR S.p.A.">
-      <data key="weight">0.05</data>
-    </edge>
     <edge source="IMI PLC" target="UBS Wealth Management Ltd.">
       <data key="weight">0.09</data>
     </edge>
@@ -2889,11 +2886,14 @@
     <edge source="IMI PLC" target="UBS Global Asset Management (Switzerland)">
       <data key="weight">0.06</data>
     </edge>
+    <edge source="IMI PLC" target="UBI Pramerica SGR S.p.A.">
+      <data key="weight">0.05</data>
+    </edge>
     <edge source="IMI PLC" target="Swisscanto Asset Management AG">
       <data key="weight">0.03</data>
     </edge>
-    <edge source="IMI PLC" target="Quoniam Asset Management GmbH">
-      <data key="weight">0.0</data>
+    <edge source="IMI PLC" target="British Columbia Investment Management Corp.">
+      <data key="weight">0.04</data>
     </edge>
     <edge source="IMI PLC" target="British Airways Pensions Investment Management Ltd.">
       <data key="weight">0.28</data>
@@ -2925,14 +2925,14 @@
     <edge source="IMI PLC" target="CCLA Investment Management Ltd.">
       <data key="weight">0.58</data>
     </edge>
+    <edge source="IMI PLC" target="Canada Life Ltd.">
+      <data key="weight">0.88</data>
+    </edge>
     <edge source="IMI PLC" target="Calvert Investment Management, Inc.">
       <data key="weight">0.03</data>
     </edge>
     <edge source="IMI PLC" target="CPP Investment Board">
       <data key="weight">0.03</data>
-    </edge>
-    <edge source="IMI PLC" target="BNY Mellon Wealth Management">
-      <data key="weight">0.07</data>
     </edge>
     <edge source="IMI PLC" target="Cazenove Capital Management Limited">
       <data key="weight">0.05</data>
@@ -2948,6 +2948,9 @@
     </edge>
     <edge source="IMI PLC" target="BPI Gestão de Activos - S.G.F.I.M., S.A.">
       <data key="weight">0.02</data>
+    </edge>
+    <edge source="IMI PLC" target="BNY Mellon Wealth Management">
+      <data key="weight">0.07</data>
     </edge>
     <edge source="IMI PLC" target="BNP Paribas Investment Partners SGR SpA">
       <data key="weight">0.0</data>
@@ -2970,9 +2973,6 @@
     <edge source="IMI PLC" target="Barclays Global Investors Japan Ltd.">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="IMI PLC" target="Canada Life Ltd.">
-      <data key="weight">0.88</data>
-    </edge>
     <edge source="IMI PLC" target="Banca Popolare di Milano (BPM)">
       <data key="weight">0.17</data>
     </edge>
@@ -2984,9 +2984,6 @@
     </edge>
     <edge source="IMI PLC" target="Dorset County Pension Fund">
       <data key="weight">0.02</data>
-    </edge>
-    <edge source="IMI PLC" target="Epsilon SGR SpA">
-      <data key="weight">0.14</data>
     </edge>
     <edge source="IMI PLC" target="Deutsche Bank Private Wealth Management Limited">
       <data key="weight">0.06</data>
@@ -3009,11 +3006,14 @@
     <edge source="IMI PLC" target="Eurizon Capital SGR S.p.A.">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="IMI PLC" target="Deka Investment GmbH">
-      <data key="weight">0.03</data>
+    <edge source="IMI PLC" target="Epsilon SGR SpA">
+      <data key="weight">0.14</data>
     </edge>
     <edge source="IMI PLC" target="Edinburgh Partners Limited">
       <data key="weight">0.0</data>
+    </edge>
+    <edge source="IMI PLC" target="Deka Investment GmbH">
+      <data key="weight">0.03</data>
     </edge>
     <edge source="IMI PLC" target="Degroof Fund Management Company">
       <data key="weight">0.01</data>
@@ -3023,9 +3023,6 @@
     </edge>
     <edge source="IMI PLC" target="Co-operative Asset Management">
       <data key="weight">1.0</data>
-    </edge>
-    <edge source="IMI PLC" target="Cheviot Asset Management Ltd.">
-      <data key="weight">0.02</data>
     </edge>
     <edge source="IMI PLC" target="Close Brothers Asset Management">
       <data key="weight">0.22</data>
@@ -3042,8 +3039,11 @@
     <edge source="IMI PLC" target="Chuo Mitsui Asset Trust and Banking Company, Limited">
       <data key="weight">0.03</data>
     </edge>
-    <edge source="IMI PLC" target="BAE Systems Pension Funds Investment Management Ltd.">
-      <data key="weight">1.27</data>
+    <edge source="IMI PLC" target="Chuo Mitsui Asset Management Co., Ltd.">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="IMI PLC" target="Cheviot Asset Management Ltd.">
+      <data key="weight">0.02</data>
     </edge>
     <edge source="IMI PLC" target="Consistent Unit Trust Management Company Limited">
       <data key="weight">0.03</data>
@@ -3057,23 +3057,14 @@
     <edge source="IMI PLC" target="Crescendo Advisors II, LLC">
       <data key="weight">0.21</data>
     </edge>
-    <edge source="IMI PLC" target="Chuo Mitsui Asset Management Co., Ltd.">
-      <data key="weight">0.01</data>
-    </edge>
     <edge source="IMI PLC" target="Coutts &amp; Co.">
       <data key="weight">0.37</data>
     </edge>
+    <edge source="IMI PLC" target="BAE Systems Pension Funds Investment Management Ltd.">
+      <data key="weight">1.27</data>
+    </edge>
     <edge source="IMI PLC" target="Aviva Investors Global Services Limited">
       <data key="weight">1.42</data>
-    </edge>
-    <edge source="IMI PLC" target="British Columbia Investment Management Corp.">
-      <data key="weight">0.04</data>
-    </edge>
-    <edge source="IMI PLC" target="Acadian Asset Management LLC">
-      <data key="weight">0.22</data>
-    </edge>
-    <edge source="IMI PLC" target="Arrowstreet Capital, Limited Partnership">
-      <data key="weight">0.04</data>
     </edge>
     <edge source="IMI PLC" target="Swiss Life Asset Management">
       <data key="weight">0.04</data>
@@ -3081,8 +3072,8 @@
     <edge source="IMI PLC" target="Alliance Trust Savings Limited">
       <data key="weight">0.06</data>
     </edge>
-    <edge source="IMI PLC" target="Aberdeen Asset Managers Ltd.">
-      <data key="weight">0.18</data>
+    <edge source="IMI PLC" target="Alfred Berg Kapitalförvaltning AB">
+      <data key="weight">0.0</data>
     </edge>
     <edge source="IMI PLC" target="Aletti Gestielle SGR S.p.A.">
       <data key="weight">0.04</data>
@@ -3093,11 +3084,17 @@
     <edge source="IMI PLC" target="Accountant General of the Senior Courts">
       <data key="weight">0.02</data>
     </edge>
+    <edge source="IMI PLC" target="Acadian Asset Management LLC">
+      <data key="weight">0.22</data>
+    </edge>
     <edge source="IMI PLC" target="Abu Dhabi Investment Authority">
       <data key="weight">0.05</data>
     </edge>
-    <edge source="IMI PLC" target="Anima SGR S.p.A.">
-      <data key="weight">0.05</data>
+    <edge source="IMI PLC" target="Aberdeen Asset Managers Ltd.">
+      <data key="weight">0.18</data>
+    </edge>
+    <edge source="IMI PLC" target="Aberdeen Asset Management (Edinburgh)">
+      <data key="weight">0.04</data>
     </edge>
     <edge source="IMI PLC" target="AXA Rosenberg Investment Management Ltd.">
       <data key="weight">0.05</data>
@@ -3120,8 +3117,11 @@
     <edge source="IMI PLC" target="Artemis Investment Management LLP">
       <data key="weight">0.04</data>
     </edge>
-    <edge source="IMI PLC" target="Aberdeen Asset Management (Edinburgh)">
+    <edge source="IMI PLC" target="Arrowstreet Capital, Limited Partnership">
       <data key="weight">0.04</data>
+    </edge>
+    <edge source="IMI PLC" target="Anima SGR S.p.A.">
+      <data key="weight">0.05</data>
     </edge>
     <edge source="IMI PLC" target="Alta Advisers Limited">
       <data key="weight">0.29</data>
@@ -3131,15 +3131,6 @@
     </edge>
     <edge source="IMI PLC" target="AXA Investment Managers UK Ltd.">
       <data key="weight">3.77</data>
-    </edge>
-    <edge source="IMI PLC" target="Alfred Berg Kapitalförvaltning AB">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="IMI PLC" target="Hurt (Douglas M)">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="IMI PLC" target="Oppenheim Kapitalanlagegesellschaft mbH">
-      <data key="weight">0.04</data>
     </edge>
     <edge source="IMI PLC" target="Fideuram Investimenti SGR S.p.A.">
       <data key="weight">0.03</data>
@@ -3162,11 +3153,11 @@
     <edge source="IMI PLC" target="PSigma Investment Management">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="IMI PLC" target="Mediolanum Gestione Fondi SGR p.A.">
-      <data key="weight">0.01</data>
+    <edge source="IMI PLC" target="Oppenheim Kapitalanlagegesellschaft mbH">
+      <data key="weight">0.04</data>
     </edge>
-    <edge source="IMI PLC" target="Putnam Investment Management, L.L.C.">
-      <data key="weight">1.65</data>
+    <edge source="IMI PLC" target="Ontario Pension Board">
+      <data key="weight">0.11</data>
     </edge>
     <edge source="IMI PLC" target="Old Mutual Asset Managers (UK) Ltd.">
       <data key="weight">0.02</data>
@@ -3174,8 +3165,11 @@
     <edge source="IMI PLC" target="Putnam Investments Limited">
       <data key="weight">0.28</data>
     </edge>
-    <edge source="IMI PLC" target="Pioneer Investments Kapitalanlagegesellschaft mbH">
-      <data key="weight">0.04</data>
+    <edge source="IMI PLC" target="Putnam Investment Management, L.L.C.">
+      <data key="weight">1.65</data>
+    </edge>
+    <edge source="IMI PLC" target="Prudential Investment Management Japan Co., Ltd.">
+      <data key="weight">0.0</data>
     </edge>
     <edge source="IMI PLC" target="Prima sgr S.p.A.">
       <data key="weight">0.07</data>
@@ -3189,8 +3183,8 @@
     <edge source="IMI PLC" target="Police Mutual Assurance Society Ltd.">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="IMI PLC" target="Prudential Investment Management Japan Co., Ltd.">
-      <data key="weight">0.0</data>
+    <edge source="IMI PLC" target="Pioneer Investments Kapitalanlagegesellschaft mbH">
+      <data key="weight">0.04</data>
     </edge>
     <edge source="IMI PLC" target="Pioneer Investment Management Ltd.">
       <data key="weight">0.14</data>
@@ -3228,14 +3222,8 @@
     <edge source="IMI PLC" target="Metzler Asset Management GmbH">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="IMI PLC" target="Ontario Pension Board">
-      <data key="weight">0.11</data>
-    </edge>
-    <edge source="IMI PLC" target="Royal London Asset Management Ltd.">
-      <data key="weight">0.36</data>
-    </edge>
-    <edge source="IMI PLC" target="Nikko Asset Management Co., Ltd.">
-      <data key="weight">0.0</data>
+    <edge source="IMI PLC" target="Mediolanum Gestione Fondi SGR p.A.">
+      <data key="weight">0.01</data>
     </edge>
     <edge source="IMI PLC" target="Northern Trust Global Investments Limited">
       <data key="weight">0.2</data>
@@ -3258,8 +3246,17 @@
     <edge source="IMI PLC" target="Nedgroup Investment Advisors (UK) Ltd.">
       <data key="weight">0.0</data>
     </edge>
+    <edge source="IMI PLC" target="Natixis Asset Management">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="IMI PLC" target="Nikko Asset Management Co., Ltd.">
+      <data key="weight">0.0</data>
+    </edge>
     <edge source="IMI PLC" target="Quilter">
       <data key="weight">0.32</data>
+    </edge>
+    <edge source="IMI PLC" target="Quoniam Asset Management GmbH">
+      <data key="weight">0.0</data>
     </edge>
     <edge source="IMI PLC" target="Sprucegrove Investment Management, Ltd.">
       <data key="weight">1.03</data>
@@ -3294,14 +3291,14 @@
     <edge source="IMI PLC" target="Singer &amp; Friedlander Investment Management Ltd.">
       <data key="weight">0.01</data>
     </edge>
-    <edge source="IMI PLC" target="Natixis Asset Management">
-      <data key="weight">0.02</data>
+    <edge source="IMI PLC" target="Sumitomo Mitsui Trust Bank, Limited">
+      <data key="weight">0.03</data>
     </edge>
     <edge source="IMI PLC" target="Swedbank Robur AB">
       <data key="weight">0.09</data>
     </edge>
-    <edge source="IMI PLC" target="State Street Global Advisors (UK) Ltd.">
-      <data key="weight">0.62</data>
+    <edge source="IMI PLC" target="Fidelity Worldwide Investment (UK) Ltd.">
+      <data key="weight">0.39</data>
     </edge>
     <edge source="IMI PLC" target="Sumitomo Mitsui Asset Management Company, Limited">
       <data key="weight">0.01</data>
@@ -3314,6 +3311,12 @@
     </edge>
     <edge source="IMI PLC" target="State Street Global Advisors (US)">
       <data key="weight">0.41</data>
+    </edge>
+    <edge source="IMI PLC" target="State Street Global Advisors (UK) Ltd.">
+      <data key="weight">0.62</data>
+    </edge>
+    <edge source="IMI PLC" target="State Street Global Advisors (Japan) Co., Ltd.">
+      <data key="weight">0.09</data>
     </edge>
     <edge source="IMI PLC" target="State Street Global Advisors (France) S.A.">
       <data key="weight">0.02</data>
@@ -3330,11 +3333,8 @@
     <edge source="IMI PLC" target="Sarasin &amp; Partners LLP">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="IMI PLC" target="State Street Global Advisors (Japan) Co., Ltd.">
-      <data key="weight">0.09</data>
-    </edge>
-    <edge source="IMI PLC" target="Fidelity Worldwide Investment (UK) Ltd.">
-      <data key="weight">0.39</data>
+    <edge source="IMI PLC" target="Royal London Asset Management Ltd.">
+      <data key="weight">0.36</data>
     </edge>
     <edge source="IMI PLC" target="Rio Tinto Pension Investments Ltd.">
       <data key="weight">0.06</data>
@@ -3363,9 +3363,6 @@
     <edge source="IMI PLC" target="Santander Asset Management">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="IMI PLC" target="Sumitomo Mitsui Trust Bank, Limited">
-      <data key="weight">0.03</data>
-    </edge>
     <edge source="IMI PLC" target="Sanlam Multi-Manager International Limited">
       <data key="weight">0.0</data>
     </edge>
@@ -3384,23 +3381,17 @@
     <edge source="IMI PLC" target="SIM Funds Management Limited">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="IMI PLC" target="HSBC Global Asset Management (UK) Limited (Inactive)">
-      <data key="weight">0.01</data>
-    </edge>
     <edge source="IMI PLC" target="Maunby Investment Management Ltd.">
       <data key="weight">0.03</data>
     </edge>
     <edge source="IMI PLC" target="Société Européenne de Banque S.A.">
       <data key="weight">0.07</data>
     </edge>
+    <edge source="IMI PLC" target="HSBC Global Asset Management (UK) Limited (Inactive)">
+      <data key="weight">0.01</data>
+    </edge>
     <edge source="IMI PLC" target="HSBC Global Asset Management (UK) Limited">
       <data key="weight">0.13</data>
-    </edge>
-    <edge source="IMI PLC" target="ING Investment Management (Belgium) (Inactive)">
-      <data key="weight">0.0</data>
-    </edge>
-    <edge source="IMI PLC" target="Helaba Invest Kapitalanlagegesellschaft mbH">
-      <data key="weight">0.01</data>
     </edge>
     <edge source="IMI PLC" target="HSBC Global Asset Management (Hong Kong) Limited (Inactive)">
       <data key="weight">0.0</data>
@@ -3426,11 +3417,23 @@
     <edge source="IMI PLC" target="ING Investment Management (Netherlands)">
       <data key="weight">0.0</data>
     </edge>
+    <edge source="IMI PLC" target="ING Investment Management (Belgium) (Inactive)">
+      <data key="weight">0.0</data>
+    </edge>
     <edge source="IMI PLC" target="IMI Plc Employee Benefit Trust">
       <data key="weight">0.37</data>
     </edge>
+    <edge source="IMI PLC" target="Helaba Invest Kapitalanlagegesellschaft mbH">
+      <data key="weight">0.01</data>
+    </edge>
+    <edge source="IMI PLC" target="IMI PLC">
+      <data key="weight">6.87</data>
+    </edge>
     <edge source="IMI PLC" target="IBM Retirement Fund">
       <data key="weight">0.03</data>
+    </edge>
+    <edge source="IMI PLC" target="Hurt (Douglas M)">
+      <data key="weight">0.0</data>
     </edge>
     <edge source="IMI PLC" target="Hermes Fund Managers Limited">
       <data key="weight">0.72</data>
@@ -3440,9 +3443,6 @@
     </edge>
     <edge source="IMI PLC" target="First Eagle Investment Management LLC">
       <data key="weight">1.01</data>
-    </edge>
-    <edge source="IMI PLC" target="GMO UK Limited">
-      <data key="weight">0.02</data>
     </edge>
     <edge source="IMI PLC" target="Martin Currie Investment Management Ltd.">
       <data key="weight">0.24</data>
@@ -3462,8 +3462,11 @@
     <edge source="IMI PLC" target="Gateley (Terry M)">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="IMI PLC" target="IMI PLC">
-      <data key="weight">6.87</data>
+    <edge source="IMI PLC" target="GMO UK Limited">
+      <data key="weight">0.02</data>
+    </edge>
+    <edge source="IMI PLC" target="GLG Partners LP">
+      <data key="weight">0.04</data>
     </edge>
     <edge source="IMI PLC" target="GE Asset Management Limited">
       <data key="weight">0.12</data>
@@ -3477,11 +3480,8 @@
     <edge source="IMI PLC" target="Ignis Asset Management Limited">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="IMI PLC" target="Lafarge Investment Management Limited">
-      <data key="weight">0.07</data>
-    </edge>
-    <edge source="IMI PLC" target="Lamb (Martin James)">
-      <data key="weight">0.03</data>
+    <edge source="IMI PLC" target="Leukaemia Research Fund">
+      <data key="weight">0.04</data>
     </edge>
     <edge source="IMI PLC" target="Leng (James William)">
       <data key="weight">0.0</data>
@@ -3495,14 +3495,14 @@
     <edge source="IMI PLC" target="Lazard Asset Management Limited">
       <data key="weight">0.04</data>
     </edge>
-    <edge source="IMI PLC" target="Leukaemia Research Fund">
-      <data key="weight">0.04</data>
+    <edge source="IMI PLC" target="Lamb (Martin James)">
+      <data key="weight">0.03</data>
+    </edge>
+    <edge source="IMI PLC" target="Lafarge Investment Management Limited">
+      <data key="weight">0.07</data>
     </edge>
     <edge source="IMI PLC" target="LSV Asset Management">
       <data key="weight">0.17</data>
-    </edge>
-    <edge source="IMI PLC" target="M &amp; G Investment Management Ltd.">
-      <data key="weight">2.1</data>
     </edge>
     <edge source="IMI PLC" target="Lombard Odier Darier Hentsch &amp; Cie">
       <data key="weight">0.01</data>
@@ -3522,14 +3522,14 @@
     <edge source="IMI PLC" target="M. M. Warburg Bank (Schweiz) AG">
       <data key="weight">0.01</data>
     </edge>
-    <edge source="IMI PLC" target="GLG Partners LP">
-      <data key="weight">0.04</data>
-    </edge>
-    <edge source="IMI PLC" target="Insight Investment Management (Global) Limited">
-      <data key="weight">0.05</data>
+    <edge source="IMI PLC" target="M &amp; G Investment Management Ltd.">
+      <data key="weight">2.1</data>
     </edge>
     <edge source="IMI PLC" target="JP Morgan Asset Management">
       <data key="weight">0.04</data>
+    </edge>
+    <edge source="IMI PLC" target="J. O. Hambro Investment Management Ltd.">
+      <data key="weight">0.0</data>
     </edge>
     <edge source="IMI PLC" target="J O Hambro Capital Management Limited">
       <data key="weight">0.0</data>
@@ -3540,8 +3540,8 @@
     <edge source="IMI PLC" target="Invest AD">
       <data key="weight">0.05</data>
     </edge>
-    <edge source="IMI PLC" target="J. O. Hambro Investment Management Ltd.">
-      <data key="weight">0.0</data>
+    <edge source="IMI PLC" target="Insight Investment Management (Global) Limited">
+      <data key="weight">0.05</data>
     </edge>
     <edge source="IMI PLC" target="Investec Wealth &amp; Investment Limited">
       <data key="weight">0.2</data>
@@ -3561,20 +3561,20 @@
     <edge source="IMI PLC" target="Kelly (M)">
       <data key="weight">0.0</data>
     </edge>
-    <edge source="IMI PLC" target="Kames Capital">
-      <data key="weight">0.11</data>
-    </edge>
     <edge source="IMI PLC" target="Jennison Associates LLC">
       <data key="weight">0.07</data>
+    </edge>
+    <edge source="IMI PLC" target="Kames Capital">
+      <data key="weight">0.11</data>
     </edge>
     <edge source="IMI PLC" target="KAS BANK N.V.">
       <data key="weight">0.04</data>
     </edge>
-    <edge source="IMI PLC" target="KBC Asset Management N.V.">
-      <data key="weight">0.0</data>
-    </edge>
     <edge source="IMI PLC" target="Jupiter Asset Management Ltd.">
       <data key="weight">1.59</data>
+    </edge>
+    <edge source="IMI PLC" target="KBC Asset Management N.V.">
+      <data key="weight">0.0</data>
     </edge>
   </graph>
 </graphml>
