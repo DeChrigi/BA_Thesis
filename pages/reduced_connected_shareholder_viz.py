@@ -13,19 +13,8 @@ def load_graph(filename, min_weight_filter):
 
     G = nx.read_graphml(os.path.join(graphml_folder, filename))
     
-    # Identify the central 'Company' node (assumed to be of type 'Company')
-    central_node = None
-    for node, attr in G.nodes(data=True):
-        if attr.get('type') == 'Company':
-            central_node = node
-            break
-    
-    # Position nodes using spring layout; fix 'Company' node at center if found
-    if central_node:
-        pos = nx.spring_layout(G, center=(0, 0), seed=42)
-        pos[central_node] = (0, 0)
-    else:
-        pos = nx.spring_layout(G, seed=42)
+    # Position nodes using spring layout
+    pos = nx.spring_layout(G, seed=42)
 
     edge_traces = []
     edge_texts = []
@@ -103,7 +92,7 @@ def load_graph(filename, min_weight_filter):
     company_text = []
 
     for node, data in G.nodes(data=True):
-        if node == central_node:  # If this is the 'Company' node
+        if data.get('type') == 'Company':  # If this is the 'Company' node
             x, y = pos[node]
             company_x.append(x)
             company_y.append(y)
@@ -135,24 +124,24 @@ def load_graph(filename, min_weight_filter):
     return fig
 
 # Register this page as the home page
-dash.register_page(__name__, path="/")
+dash.register_page(__name__, path="/page3")
 
 # Set the folder where GraphML files are stored
-graphml_folder = "./transformed_data/shareholder_networks"
+graphml_folder = "./transformed_data/reduced_connected_shareholder_networks"
 
 # Get all available GraphML files and clean their names for display
 graphml_files = [f for f in os.listdir(graphml_folder) if f.endswith(".graphml")]
-graphml_files = [f.split("shareholder_network_")[1].split("_31-Dec")[0] for f in graphml_files]
+graphml_files = [f.split("shareholder_network_")[1].split("_")[0] for f in graphml_files]
 graphml_files = list(set(graphml_files))
 
 # Define the layout for the Dash web app
 layout = html.Div([
-    html.H1("Shareholder Network", style={'textAlign': 'center', 'marginBottom': '20px'}),
+    html.H1("Reduced Connected Shareholder Network", style={'textAlign': 'center', 'marginBottom': '20px'}),
     
     html.Div([
         html.Label("Select Graph:"),
         dcc.Dropdown(
-            id='graph-dropdown',
+            id='graph-dropdown-reduced',
             options=[{'label': f, 'value': f} for f in graphml_files],
             value=graphml_files[0] if graphml_files else None,
             style={'width': '50%', 'margin': '0 auto', 'marginTop': '10px'}
@@ -162,7 +151,7 @@ layout = html.Div([
     html.Div([
         html.Label("Select Year:", style={'marginBottom': '10px'}),
         dcc.Slider(
-            id='year-slider',
+            id='year-slider-reduced',
             min=1997,
             max=2011,
             value=1997,
@@ -175,7 +164,7 @@ layout = html.Div([
         html.Label("Filter edges by minimum weight:", style={'display': 'block', 'textAlign': 'center'}),
         html.Div([
             dcc.Input(
-                id='weight-filter-input',
+                id='weight-filter-input-reduced',
                 type='number',
                 value=0.00,
                 step=0.01,
@@ -187,17 +176,17 @@ layout = html.Div([
     ], style={'width': '50%', 'margin': '0 auto', 'marginBottom': '30px'}),
     
     html.Div([
-        dcc.Graph(id='graph-display', style={'height': '600px'})
+        dcc.Graph(id='graph-display-reduced', style={'height': '600px'})
     ], style={'width': '90%', 'margin': '0 auto'})
 ])
 
 # Callback to update the graph when user changes dropdown, slider, or filter input
 @callback(
-    Output('graph-display', 'figure'),
-    [Input('graph-dropdown', 'value'), Input('year-slider', 'value'), Input('weight-filter-input', 'value')]
+    Output('graph-display-reduced', 'figure'),
+    [Input('graph-dropdown-reduced', 'value'), Input('year-slider-reduced', 'value'), Input('weight-filter-input-reduced', 'value')]
 )
 def update_graph(selected_graph, selected_year, min_weight_filter):
     if selected_graph:
         min_weight_filter = float(min_weight_filter) if min_weight_filter is not None else 0.0
-        return load_graph('shareholder_network_' + selected_graph + "_31-Dec-" + str(selected_year) + ".graphml", min_weight_filter)
+        return load_graph('shareholder_network_' + selected_graph + "_" + str(selected_year) + ".graphml", min_weight_filter)
     return go.Figure()
